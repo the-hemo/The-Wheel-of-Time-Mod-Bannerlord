@@ -1,0 +1,315 @@
+
+Log Entry : 17:32:25 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 1
+-------------------------------
+
+Log Entry : 17:32:25 Sunday, 26 May 2024
+  :
+  :num: 1 teamWeaponEquipmentList length: 1
+-------------------------------
+
+Log Entry : 17:37:03 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:37:03 Sunday, 26 May 2024
+  :
+  :num: 1 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:37:03 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:37:03 Sunday, 26 May 2024
+  :
+  :num: 1 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:37:03 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:37:03 Sunday, 26 May 2024
+  :
+  :num: 1 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:37:03 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:37:03 Sunday, 26 May 2024
+  :
+  :num: 1 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:37:04 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:37:04 Sunday, 26 May 2024
+  :
+  :num: 1 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:37:04 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:37:04 Sunday, 26 May 2024
+  :
+  :num: 1 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:37:04 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:37:04 Sunday, 26 May 2024
+  :
+  :num: 1 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:37:04 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:37:04 Sunday, 26 May 2024
+  :
+  :num: 1 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:37:52 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 1
+-------------------------------
+
+Log Entry : 17:37:52 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 1
+-------------------------------
+
+Log Entry : 17:37:52 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 1
+-------------------------------
+
+Log Entry : 17:37:52 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 1
+-------------------------------
+
+Log Entry : 17:37:53 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 1
+-------------------------------
+
+Log Entry : 17:37:53 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 1
+-------------------------------
+
+Log Entry : 17:37:53 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 1
+-------------------------------
+
+Log Entry : 17:37:53 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 1
+-------------------------------
+
+Log Entry : 17:38:40 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:38:40 Sunday, 26 May 2024
+  :
+  :num: 1 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:38:40 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:38:40 Sunday, 26 May 2024
+  :
+  :num: 1 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:39:25 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 1
+-------------------------------
+
+Log Entry : 17:39:25 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 1
+-------------------------------
+
+Log Entry : 11:38:18 Monday, 27 May 2024
+  :
+  :battle_terrain_021
+-------------------------------
+
+Log Entry : 15:01:22 Monday, 27 May 2024
+  :
+  :scn_Wotbattlescene4tropicalswamp
+-------------------------------
+
+Log Entry : 15:30:36 Monday, 27 May 2024
+  :
+  :scn_Wotbattlescene4tropicalswamp
+-------------------------------
+
+Log Entry : 15:31:57 Monday, 27 May 2024
+  :
+  :scn_Wotbattlescene4tropicalswamp
+-------------------------------
+
+Log Entry : 15:41:25 Monday, 27 May 2024
+  :
+  :battle_terrain_030
+-------------------------------
+
+Log Entry : 15:43:37 Monday, 27 May 2024
+  :
+  :battle_terrain_026
+-------------------------------
+
+Log Entry : 17:10:55 Tuesday, 28 May 2024
+  :
+  :scn_Wotbattlescene4tropicalswamp
+-------------------------------
+
+Log Entry : 17:19:33 Tuesday, 28 May 2024
+  :
+  :battle_terrain_004
+-------------------------------
+
+Log Entry : 17:23:07 Tuesday, 28 May 2024
+  :
+  :battle_terrain_025
+-------------------------------
+
+Log Entry : 17:28:01 Tuesday, 28 May 2024
+  :
+  :scn_Wotbattlescene4tropicalswamp
+-------------------------------
+
+Log Entry : 17:31:33 Tuesday, 28 May 2024
+  :
+  :scn_Wotbattlescene4tropicalswamp
+-------------------------------
+
+Log Entry : 17:38:56 Tuesday, 28 May 2024
+  :
+  :scn_Wotbattlescene4tropicalswamp
+-------------------------------
+
+Log Entry : 17:50:51 Tuesday, 28 May 2024
+  :
+  :scn_Wotbattlescene4tropicalswamp
+-------------------------------
+
+Log Entry : 17:53:10 Tuesday, 28 May 2024
+  :
+  :scn_Wotbattlescene4tropicalswamp
+-------------------------------
+
+Log Entry : 17:57:49 Tuesday, 28 May 2024
+  :
+  :battle_terrain_003
+-------------------------------
+
+Log Entry : 18:00:05 Tuesday, 28 May 2024
+  :
+  :scn_Wotbattlescene4tropicalswamp
+-------------------------------
+
+Log Entry : 18:03:17 Tuesday, 28 May 2024
+  :
+  :battle_terrain_018
+-------------------------------
+
+Log Entry : 18:05:38 Tuesday, 28 May 2024
+  :
+  :battle_terrain_022
+-------------------------------
+
+Log Entry : 18:09:04 Tuesday, 28 May 2024
+  :
+  :battle_terrain_008
+-------------------------------
+
+Log Entry : 18:53:31 Tuesday, 28 May 2024
+  :
+  :battle_terrain_022
+-------------------------------
+
+Log Entry : 18:55:54 Tuesday, 28 May 2024
+  :
+  :battle_terrain_010
+-------------------------------
+
+Log Entry : 19:08:12 Tuesday, 28 May 2024
+  :
+  :battle_terrain_022
+-------------------------------
+
+Log Entry : 19:09:04 Tuesday, 28 May 2024
+  :
+  :battle_terrain_008
+-------------------------------
+
+Log Entry : 19:09:44 Tuesday, 28 May 2024
+  :
+  :battle_terrain_009
+-------------------------------
+
+Log Entry : 19:10:27 Tuesday, 28 May 2024
+  :
+  :battle_terrain_022
+-------------------------------
+
+Log Entry : 19:18:52 Tuesday, 28 May 2024
+  :
+  :battle_terrain_009
+-------------------------------
+
+Log Entry : 19:21:49 Tuesday, 28 May 2024
+  :
+  :wot_barren_blight_variant_c
+-------------------------------
+
+Log Entry : 11:55:20 Wednesday, 29 May 2024
+  :
+  :battle_terrain_009
+-------------------------------
+
+Log Entry : 12:04:42 Wednesday, 29 May 2024
+  :
+  :battle_terrain_009
+-------------------------------
+
+Log Entry : 12:10:56 Wednesday, 29 May 2024
+  :
+  :battle_terrain_019
+-------------------------------
+
+Log Entry : 12:15:04 Wednesday, 29 May 2024
+  :
+  :battle_terrain_017
+-------------------------------

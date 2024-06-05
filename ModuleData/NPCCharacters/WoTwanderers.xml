@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+    <NPCCharacter id="wanderer_shadow1"
+        name="{=yr5pa0hs}{FIRSTNAME} the Trolloc"
+        voice="softspoken"
+        age="28"
+        is_template="true"
+        default_group="Infantry"
+        is_hero="false"
+        culture="Culture.sturgia"
+        occupation="Wanderer"
+        skill_template="SkillSet.spc_wanderer_sturgia_1_skills">
+        <face>
+            <face_key_template value="BodyProperty.fighter_sturgia" />
+        </face>
+        <Traits>
+            <!-- <Trait id="PeltastFightingSkills" value="2" />
+      <Trait id="Surgeon" value="6" /> -->
+            <Trait id="Calculating"
+                value="1" />
+            <Trait id="Mercy"
+                value="1" />
+        </Traits>
+        <Equipments>
+            <EquipmentRoster>
+                <equipment slot="Item0"
+                    id="Item.Trollocweapon1"/>
+                <equipment slot="Body"
+                    id="Item.TrollocLight1"/>
+                <equipment slot="Gloves"
+                    id="Item.Trollochands1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0"
+                    id="Item.Trollocweapon1"/>
+                <equipment slot="Body"
+                    id="Item.TrollocLight2"/>
+                <equipment slot="Gloves"
+                    id="Item.Trollochands1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0"
+                    id="Item.Trollocweapon1"/>
+                <equipment slot="Body"
+                    id="Item.TrollocLight3"/>
+                <equipment slot="Gloves"
+                    id="Item.Trollochands1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0"
+                    id="Item.Trollocweapon2"/>
+                <equipment slot="Body"
+                    id="Item.TrollocLight4"/>
+                <equipment slot="Gloves"
+                    id="Item.Trollochands1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0"
+                    id="Item.Trollocweapon2"/>
+                <equipment slot="Body"
+                    id="Item.TrollocLight5"/>
+                <equipment slot="Gloves"
+                    id="Item.Trollochands1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0"
+                    id="Item.Trollocweapon3"/>
+                <equipment slot="Body"
+                    id="Item.TrollocLight6"/>
+                <equipment slot="Gloves"
+                    id="Item.Trollochands1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0"
+                    id="Item.Trollocweapon4"/>
+                <equipment slot="Body"
+                    id="Item.TrollocLight7"/>
+                <equipment slot="Gloves"
+                    id="Item.Trollochands1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0"
+                    id="Item.Trollocweapon4"/>
+                <equipment slot="Body"
+                    id="Item.TrollocLight8"/>
+                <equipment slot="Gloves"
+                    id="Item.Trollochands1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0"
+                    id="Item.Trollocweapon4"/>
+                <equipment slot="Body"
+                    id="Item.TrollocLight9"/>
+                <equipment slot="Gloves"
+                    id="Item.Trollochands1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0"
+                    id="Item.Trollocweapon2"/>
+                <equipment slot="Body"
+                    id="Item.TrollocLight10"/>
+                <equipment slot="Gloves"
+                    id="Item.Trollochands1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0"
+                    id="Item.Trollocweapon3"/>
+                <equipment slot="Body"
+                    id="Item.TrollocLight12"/>
+                <equipment slot="Gloves"
+                    id="Item.Trollochands1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0"
+                    id="Item.Trollocweapon3"/>
+                <equipment slot="Body"
+                    id="Item.TrollocLight13"/>
+                <equipment slot="Gloves"
+                    id="Item.Trollochands1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0"
+                    id="Item.Trollocweapon4"/>
+                <equipment slot="Body"
+                    id="Item.TrollocLight14"/>
+                <equipment slot="Gloves"
+                    id="Item.Trollochands1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0"
+                    id="Item.Trollocweapon4"/>
+                <equipment slot="Body"
+                    id="Item.TrollocLight16"/>
+                <equipment slot="Gloves"
+                    id="Item.Trollochands1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0"
+                    id="Item.Trollocweapon4"/>
+                <equipment slot="Body"
+                    id="Item.TrollocLight18"/>
+                <equipment slot="Gloves"
+                    id="Item.Trollochands1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0"
+                    id="Item.Trollocweapon3"/>
+                <equipment slot="Body"
+                    id="Item.TrollocLight20"/>
+                <equipment slot="Gloves"
+                    id="Item.Trollochands1"/>
+            </EquipmentRoster>
+            <EquipmentRoster>
+                <equipment slot="Item0"
+                    id="Item.Trollocweapon3"/>
+                <equipment slot="Body"
+                    id="Item.TrollocLight22"/>
+                <equipment slot="Gloves"
+                    id="Item.Trollochands1"/>
+            </EquipmentRoster>
+        </Equipments>
+    </NPCCharacter>
+
+</NPCCharacters>

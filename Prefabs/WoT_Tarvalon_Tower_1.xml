@@ -1,0 +1,9 @@
+<prefabs>
+	<game_entity name="tarvalon_tower1" old_prefab_name="">
+		<transform position="535.283, 427.148, 5.791" rotation_euler="0.000, 0.000, 0.000"/>
+		<components>
+			<meta_mesh_component name="tarvalontowertype1" position="4.400, 0.250, -0.400" rotation="0.000, 0.000, 0.000" scale="1.000, 1.000, 1.000"/>
+		</components>
+	</game_entity>
+</prefabs>
+

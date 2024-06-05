@@ -1,0 +1,9 @@
+<prefabs>
+	<game_entity name="tarvalon_wall_gatew" old_prefab_name="">
+		<transform position="533.945, 428.828, 5.460" rotation_euler="0.000, 0.000, 0.000" scale="2.901, 2.901, 2.901"/>
+		<components>
+			<meta_mesh_component name="tarvalonwallgate"/>
+		</components>
+	</game_entity>
+</prefabs>
+

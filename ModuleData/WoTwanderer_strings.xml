@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+
+    <string id="prebackstory.wanderer_shadow1"
+        text="{=xSbEUPK4}Waaaaargh!" />
+    <string id="backstory_a.wanderer_shadow1"
+        text="{=ifBURmmv}Raaargh!" />
+    <string id="backstory_b.wanderer_shadow1"
+        text="{=WBE6MeCl}Uaaargh!" />
+    <string id="backstory_c.wanderer_shadow1"
+        text="{=hOsJjMZ8}Maaargh!" />
+    <string id="response_1.wanderer_shadow1"
+        text="{=31XTldnZ}Yes..." />
+    <string id="response_2.wanderer_shadow1"
+        text="{=l4A16aGs}Grhh!" />
+    <string id="backstory_d.wanderer_shadow1"
+        text="{=iYbBHXNA}Waaaargh!" />
+    <string id="generic_backstory.wanderer_shadow1"
+        text="{=N0yE1Ptz}Grrrrrrrr!" />
+
+</strings>

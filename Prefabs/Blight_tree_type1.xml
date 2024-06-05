@@ -1,0 +1,274 @@
+<prefabs>
+
+
+
+	
+	
+<game_entity name="wotblightvineprop02turn2" old_prefab_name="">
+		<tags>
+			
+		</tags>
+		<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 90.000" scale="10, 10, 10"/>
+		<physics shape="bo_bd_broom_a" mass="10"/>
+		<components>
+			<meta_mesh_component name="wotblightvineprop02"/>
+		</components>
+		
+	</game_entity>
+	
+	
+<game_entity name="wotblightvineprop02turn3" old_prefab_name="">
+		<tags>
+			
+		</tags>
+		<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 123.000" scale="10, 10, 10"/>
+		<physics shape="bo_bd_broom_a" mass="10"/>
+		<components>
+			<meta_mesh_component name="wotblightvineprop02"/>
+		</components>
+		
+	</game_entity>
+	
+	
+	
+<game_entity name="wotblightvineprop02turn4" old_prefab_name="">
+		<tags>
+			
+		</tags>
+		<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 159.000" scale="10, 10, 10"/>
+		<physics shape="bo_bd_broom_a" mass="10"/>
+		<components>
+			<meta_mesh_component name="wotblightvineprop02"/>
+		</components>
+		
+	</game_entity>
+	
+	
+	
+<game_entity name="wotblightvineprop02" old_prefab_name="">
+		<tags>
+			
+		</tags>
+		<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000" scale="10, 10, 10"/>
+		<physics shape="bo_bd_broom_a" mass="10"/>
+		<components>
+			<meta_mesh_component name="wotblightvineprop02"/>
+		</components>
+		
+	</game_entity>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+<game_entity name="wotblightvineprop02turn2green" old_prefab_name="">
+		<tags>
+			
+		</tags>
+		<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 90.000" scale="10, 10, 10"/>
+		<physics shape="bo_bd_broom_a" mass="10"/>
+		<components>
+			<meta_mesh_component name="wotblightvineprop01green"/>
+		</components>
+		
+	</game_entity>
+	
+	
+<game_entity name="wotblightvineprop02turn3green" old_prefab_name="">
+		<tags>
+			
+		</tags>
+		<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 123.000" scale="10, 10, 10"/>
+		<physics shape="bo_bd_broom_a" mass="10"/>
+		<components>
+			<meta_mesh_component name="wotblightvineprop01green"/>
+		</components>
+		
+	</game_entity>
+	
+	
+	
+<game_entity name="wotblightvineprop02turn4green" old_prefab_name="">
+		<tags>
+			
+		</tags>
+		<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 159.000" scale="10, 10, 10"/>
+		<physics shape="bo_bd_broom_a" mass="10"/>
+		<components>
+			<meta_mesh_component name="wotblightvineprop01green"/>
+		</components>
+		
+	</game_entity>
+	
+	
+	
+<game_entity name="wotblightvineprop02green" old_prefab_name="">
+		<tags>
+			
+		</tags>
+		<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000" scale="10, 10, 10"/>
+		<physics shape="bo_bd_broom_a" mass="10"/>
+		<components>
+			<meta_mesh_component name="wotblightvineprop01green"/>
+		</components>
+		
+	</game_entity>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+<game_entity name="wotblightvineprop01turn2green" old_prefab_name="">
+		<tags>
+			
+		</tags>
+		<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 90.000" scale="10, 10, 10"/>
+		<physics shape="bo_bd_broom_a" mass="10"/>
+		<components>
+			<meta_mesh_component name="wotblightvineprop02green"/>
+		</components>
+		
+	</game_entity>
+	
+	
+<game_entity name="wotblightvineprop01turn3green" old_prefab_name="">
+		<tags>
+			
+		</tags>
+		<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 123.000" scale="10, 10, 10"/>
+		<physics shape="bo_bd_broom_a" mass="10"/>
+		<components>
+			<meta_mesh_component name="wotblightvineprop02green"/>
+		</components>
+		
+	</game_entity>
+	
+	
+	
+<game_entity name="wotblightvineprop01turn4green" old_prefab_name="">
+		<tags>
+			
+		</tags>
+		<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 159.000" scale="10, 10, 10"/>
+		<physics shape="bo_bd_broom_a" mass="10"/>
+		<components>
+			<meta_mesh_component name="wotblightvineprop02green"/>
+		</components>
+		
+	</game_entity>
+	
+	
+	
+<game_entity name="wotblightvineprop01green" old_prefab_name="">
+		<tags>
+			
+		</tags>
+		<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000" scale="10, 10, 10"/>
+		<physics shape="bo_bd_broom_a" mass="10"/>
+		<components>
+			<meta_mesh_component name="wotblightvineprop02green"/>
+		</components>
+		
+	</game_entity>
+	
+	
+	
+	
+	
+	
+	
+	
+<game_entity name="Pysicsplacementonly" old_prefab_name="">
+		<tags>
+			
+		</tags>
+		<transform position="0.000, 0.000, -1.000" rotation_euler="0.000, 0.000, 0.000" scale="10, 10, 10"/>
+		<physics shape="bo_bd_broom_a" mass="10"/>
+		<components>
+			<meta_mesh_component name="ui_intentory_coin_a"/>
+		</components>
+		
+	</game_entity>
+	
+	
+	
+	
+	
+	
+	
+	
+<game_entity name="wotblightvineprop02turn2greenlow" old_prefab_name="">
+		<tags>
+			
+		</tags>
+		<transform position="-27.000, -27.000, -27.000" rotation_euler="0.000, 0.000, 90.000" scale="10, 10, 10"/>
+	
+		<components>
+			<meta_mesh_component name="wotblightvineprop02"/>
+		</components>
+		
+	</game_entity>
+	
+	
+<game_entity name="wotblightvineprop02turn3greenlow" old_prefab_name="">
+		<tags>
+			
+		</tags>
+		<transform position="-27.000, -27.000, -27.000" rotation_euler="0.000, 0.000, 123.000" scale="10, 10, 10"/>
+	
+		<components>
+			<meta_mesh_component name="wotblightvineprop02"/>
+		</components>
+		
+	</game_entity>
+	
+	
+	
+<game_entity name="wotblightvineprop02turn4greenlow" old_prefab_name="">
+		<tags>
+			
+		</tags>
+		<transform position="-27.000, -27.000, -27.000" rotation_euler="0.000, 0.000, 159.000" scale="10, 10, 10"/>
+		
+		<components>
+			<meta_mesh_component name="wotblightvineprop02"/>
+		</components>
+		
+	</game_entity>
+	
+	
+	
+<game_entity name="wotblightvineprop02greenlow" old_prefab_name="">
+		<tags>
+			
+		</tags>
+		<transform position="-27.000, -27.000, -27.000" rotation_euler="0.000, 0.000, 0.000" scale="10, 10, 10"/>
+		
+		<components>
+			<meta_mesh_component name="wotblightvineprop02"/>
+		</components>
+		
+	</game_entity>
+	
+	
+	
+	
+	
+	
+</prefabs>
+

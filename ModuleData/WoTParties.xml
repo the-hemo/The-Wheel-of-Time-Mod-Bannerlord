@@ -1,0 +1,1943 @@
+<?xml version="1.0" encoding="utf-8"?>
+<partyTemplates>
+    
+	  <MBPartyTemplate id="kingdom_hero_party_empire_template2" >
+    <stacks>
+      <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.Andor_recruit" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Andor_common_footman" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Andor_queensguard_infantry" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Andor_queensguard_Champ" />
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Andor_queensguard_horse1" />
+	  <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Andor_queensguard_horse2" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Andor_common_spearman" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Andor_common_spearmanheavy" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Andor_common_pikeman" />
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Andor_noble_infantry" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Andor_noble_sergeant" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Andor_heavyhorse" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Andor_heavyhorseplate" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Andor_queensguard_crossbowman" />
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Andor_queensguard_crossbowman2" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Andor_crossbowman" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Andor_crossbowman2" />
+    </stacks>
+  </MBPartyTemplate>
+	
+	
+	
+	
+	
+	 <MBPartyTemplate id="caravan_template_empire2" >
+    <stacks>
+      <PartyTemplateStack  min_value="8" max_value="8" troop="NPCCharacter.Andor_recruit" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Andor_crossbowman" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Andor_heavyhorse" />
+    </stacks>
+  </MBPartyTemplate>
+	
+	
+	
+	
+	
+	 <MBPartyTemplate id="elite_caravan_template_empire2" >
+    <stacks>
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Andor_noble_infantry" />
+      <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.Andor_crossbowmannoble" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Andor_heavyhorse" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Andor_heavyhorseplate" />
+    </stacks>
+  </MBPartyTemplate>
+	
+	
+	
+	 <MBPartyTemplate id="militia_empire_template2" >
+      <stacks>
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Andor_common_footman" />
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Andor_crossbowman" />
+      </stacks>
+    </MBPartyTemplate>
+	
+	
+	
+	<MBPartyTemplate id="rebels_empire_template2" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Andor_common_footman" />
+    </stacks>
+  </MBPartyTemplate>
+	
+	 <MBPartyTemplate id="vassal_reward_troops_empire2" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Andor_queensguard_infantry" />
+      <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.Andor_queensguard_horse1" />
+    </stacks>
+  </MBPartyTemplate>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+  <MBPartyTemplate id="kingdom_hero_party_aserai_template2" >
+    <stacks>
+      <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.Illian_recruit" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Illian_footman" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Illian_pikeman" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Illian_sheavyhorse" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Illianheavyhorseplate" />
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Illianheavyhorseplate2" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Illiancompanion_sheavyhorse" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Illiancompanion_sheavyhorse2" />
+	   <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Illiancompanion_3" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Illiancompanion_4" />
+      <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.Illian_crossbowman" />
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Illian_crossbowman2" />
+    </stacks>
+  </MBPartyTemplate>
+	
+	
+	 <MBPartyTemplate id="elite_caravan_template_aserai2" >
+    <stacks>
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Illian_sergeant2" />
+      <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.Illian_crossbowman2" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Illiancompanion_sheavyhorse" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Illianheavyhorseplate2" />
+    </stacks>
+  </MBPartyTemplate>
+	
+	<MBPartyTemplate id="caravan_template_aserai2" >
+    <stacks>
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Illian_footman" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Illian_crossbowman" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Illianheavyhorseplate2" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  
+  <MBPartyTemplate id="militia_aserai_template2" >
+      <stacks>
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Illian_footman" />
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Illian_crossbowman" />
+      </stacks>
+    </MBPartyTemplate>
+  
+  
+    <MBPartyTemplate id="rebels_aserai_template2" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Illian_footman" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  <MBPartyTemplate id="vassal_reward_troops_aserai2" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Illiancompanion_sheavyhorse2" />
+      <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.Illiancompanion_sheavyhorse" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   <MBPartyTemplate id="villager_sturgia_template2" >
+      <stacks>
+        <PartyTemplateStack min_value="15" max_value="30" troop="NPCCharacter.Trollocla" />
+      </stacks>
+    </MBPartyTemplate>
+  
+  
+  
+  <MBPartyTemplate id="kingdom_hero_party_sturgia_template2" >
+    <stacks>
+      <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.Trollocla" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Trolloclb" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Trolloclc" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Trollocld" />
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Trolloc3a" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Trollocld3b" />
+      <PartyTemplateStack min_value="3" max_value="3" troop="NPCCharacter.Trollocldtwochief" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.WotMyrddraal" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Trolloc2a" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.WotMyrddraalMounted" />
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Dreadlorddarkfriend" />
+	  <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.DreadlordBall" />
+	  <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.DreadlordLight" />
+	  <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.DreadlordLight2" />
+	  <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.DreadlordBlossom" />
+	  <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.DreadlordAiel" />
+	  <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.DreadlordAiel2" />
+	  <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.DreadlordAiel3" />
+	   </stacks>
+  </MBPartyTemplate>
+	  
+	  
+	  
+	  
+	  
+	  
+	   <MBPartyTemplate id="elite_caravan_template_sturgia2" >
+    <stacks>
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Trolloclc" />
+      <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.Trolloc3a" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.WotMyrddraal" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.DreadlordBall" />
+   </stacks>
+  </MBPartyTemplate>
+	  
+	  
+	  
+	  
+	  
+  <MBPartyTemplate id="caravan_template_sturgia2" >
+    <stacks>
+      <PartyTemplateStack  min_value="8" max_value="8" troop="NPCCharacter.Trollocla" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Trolloclb" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.WotMyrddraal" />
+    </stacks>
+  </MBPartyTemplate>
+	  
+	  
+	  
+	   <MBPartyTemplate id="militia_sturgia_template2" >
+      <stacks>
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Trollocla" />
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Trolloc2a" />
+      </stacks>
+    </MBPartyTemplate>
+	  
+	  
+	   <MBPartyTemplate id="rebels_sturgia_template2" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Trollocla" />
+    </stacks>
+  </MBPartyTemplate>
+	  
+	  
+	  <MBPartyTemplate id="vassal_reward_troops_sturgia2" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Dreadlorddarkfriend" />
+      <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.WotMyrddraal" />
+    </stacks>
+  </MBPartyTemplate>
+	  
+	  
+	  
+	  
+  
+  
+  
+  
+  
+  
+  <MBPartyTemplate id="kingdom_hero_party_vlandia_template2" >
+    <stacks>
+      <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.Araddoman_recruit" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Araddoman_horse1" />
+      <PartyTemplateStack min_value="4" max_value="5" troop="NPCCharacter.Araddoman_horse2" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Araddoman_dualist" />
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Araddoman_dualist2" />
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Araddoman_dualist3" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Araddoman_archer" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Araddoman_archer2" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  <MBPartyTemplate id="elite_caravan_template_vlandia2" >
+    <stacks>
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Araddoman_dualist" />
+      <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.Araddoman_archer2" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Araddoman_horse2" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Araddoman_dualist3" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  
+   <MBPartyTemplate id="caravan_template_vlandia2" >
+    <stacks>
+      <PartyTemplateStack  min_value="8" max_value="8" troop="NPCCharacter.Araddoman_recruit" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Araddoman_archer" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Araddoman_horse1" />
+    </stacks>
+  </MBPartyTemplate>
+  
+   <MBPartyTemplate id="militia_vlandia_template2" >
+      <stacks>
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Araddoman_recruit" />
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Araddoman_archer" />
+      </stacks>
+    </MBPartyTemplate>
+  
+  
+  
+  <MBPartyTemplate id="rebels_vlandia_template2" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Araddoman_recruit" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+    <MBPartyTemplate id="vassal_reward_troops_vlandia2" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Araddoman_dualist3" />
+      <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.Araddoman_dualist" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    <MBPartyTemplate id="kingdom_hero_party_battania_template2" >
+    <stacks>
+      <PartyTemplateStack min_value="12" max_value="12" troop="NPCCharacter.Saldea_archer" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Saldea_archer2" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Saldea_footman" /> 
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Saldea_horse_archer" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Saldea_heavy_horse_archer" />
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Saldea_khans_guard" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Saldea_kheshig" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Saldea_lancer" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Saldea_heavy_lancer" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  <MBPartyTemplate id="elite_caravan_template_battania2" >
+    <stacks>
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Saldea_heavy_horse_archer" />
+      <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.Saldea_horse_archer" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Saldea_lancer" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Saldea_heavy_lancer" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+    <MBPartyTemplate id="caravan_template_battania2" >
+    <stacks>
+      <PartyTemplateStack  min_value="8" max_value="8" troop="NPCCharacter.Saldea_archer" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Saldea_archer2" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Saldea_horse_archer" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  <MBPartyTemplate id="militia_battania_template2" >
+      <stacks>
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Saldea_archer" />
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Saldea_archer2" />
+      </stacks>
+    </MBPartyTemplate>
+	
+	
+	
+	
+	
+	
+	
+	<MBPartyTemplate id="rebels_battania_template2" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Saldea_archer" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+   <MBPartyTemplate id="vassal_reward_troops_battania2" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Saldea_khans_guard" />
+      <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.Saldea_horse_archer" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   <MBPartyTemplate id="kingdom_hero_party_khuzait_template2" >
+    <stacks>
+      <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.Aiel" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.AielWarrior22" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.AielWarrior3" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.AielWarrior4" />
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.AielWarrior5" />
+      <PartyTemplateStack min_value="2" max_value="3" troop="NPCCharacter.AielWarriorArcher1" />
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.AielWarriorArcher2" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.AielWarriorArcher3" />
+      <PartyTemplateStack min_value="4" max_value="5" troop="NPCCharacter.AielWarrior22Maiden" />
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.AielWarrior5Maiden" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.AielWarriorArcher3Maiden" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.AielWiseonelevel1" />
+      <PartyTemplateStack min_value="1" max_value="2" troop="NPCCharacter.AielWiseonelevel2" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+    <MBPartyTemplate id="elite_caravan_template_khuzait2" >
+    <stacks>
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.AielWarrior5" />
+      <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.AielWarrior5Maiden" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.AielWarriorArcher3" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.AielWiseonelevel2" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+   <MBPartyTemplate id="caravan_template_khuzait2" >
+    <stacks>
+      <PartyTemplateStack  min_value="8" max_value="8" troop="NPCCharacter.Aiel" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.AielWarriorArcher1" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.AielWiseonelevel1" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  
+   <MBPartyTemplate id="militia_khuzait_template2" >
+      <stacks>
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Aiel" />
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.AielWarriorArcher1" />
+      </stacks>
+    </MBPartyTemplate>
+  
+  
+    <MBPartyTemplate id="rebels_khuzait_template2" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Aiel" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+    <MBPartyTemplate id="vassal_reward_troops_khuzait2" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.AielWarrior5" />
+      <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.AielWiseonelevel2" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    <MBPartyTemplate id="kingdom_hero_party_Cairhien_template" >
+    <stacks>
+      <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.Cairhien_recruit" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Cairhien_common_manatarms" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Cairhien_crossbowman" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Cairhien_crossbowman2" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Cairhien_common_maceman" />
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Cairhien_common_cleaver" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Cairhien_noble_infantry" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Cairhien_crossbowmannoble" />
+	   <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Cairhien_noble_sergeant" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Cairhien_noble_sergeant2" />
+      <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.Cairhien_heavyhorse" />
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Cairhien_heavyhorseplate" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+   <MBPartyTemplate id="caravan_template_Cairhien" >
+    <stacks>
+      <PartyTemplateStack  min_value="8" max_value="8" troop="NPCCharacter.Cairhien_recruit" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Cairhien_crossbowman" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Cairhien_heavyhorse" />
+    </stacks>
+  </MBPartyTemplate>
+	
+  
+  
+   <MBPartyTemplate id="elite_caravan_template_Cairhien" >
+    <stacks>
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Cairhien_noble_sergeant" />
+      <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.Cairhien_noble_sergeant2" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Cairhien_heavyhorse" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Cairhien_heavyhorseplate" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  
+   <MBPartyTemplate id="militia_empire_Cairhien" >
+      <stacks>
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Cairhien_recruit" />
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Cairhien_crossbowman" />
+      </stacks>
+    </MBPartyTemplate>
+  
+  
+  <MBPartyTemplate id="rebels_empire_Cairhien" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Cairhien_recruit" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  	 <MBPartyTemplate id="vassal_reward_troops_Cairhien" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Cairhien_noble_sergeant2" />
+      <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.Cairhien_noble_sergeant" />
+    </stacks>
+  </MBPartyTemplate>
+	
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    <MBPartyTemplate id="kingdom_hero_party_BlackTower_template" >
+    <stacks>
+      <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.AshamanS" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.AshamanDfire" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.AshamanDLight" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.AshamanDLightfull" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.AshamanDfireRoll" />
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.AshamanDfirebloss" />
+    
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+   <MBPartyTemplate id="caravan_template_BlackTower" >
+    <stacks>
+      <PartyTemplateStack  min_value="8" max_value="8" troop="NPCCharacter.AshamanS" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.AshamanDfire" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.AshamanDLight" />
+    </stacks>
+  </MBPartyTemplate>
+	
+  
+  
+   <MBPartyTemplate id="elite_caravan_template_BlackTower" >
+    <stacks>
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.AshamanS" />
+      <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.AshamanDfire" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.AshamanDLight" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.AshamanDfirebloss" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  
+   <MBPartyTemplate id="militia_empire_BlackTower" >
+      <stacks>
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.AshamanS" />
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.AshamanDfire" />
+      </stacks>
+    </MBPartyTemplate>
+  
+  
+  <MBPartyTemplate id="rebels_empire_BlackTower" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.AshamanS" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  	 <MBPartyTemplate id="vassal_reward_troops_BlackTower" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.AshamanDfirebloss" />
+      <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.AshamanS" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    <MBPartyTemplate id="kingdom_hero_party_Murandy_template" >
+    <stacks>
+      <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.Murandyrecruit" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.MurandyRegular" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Murandyerarcher" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Murandyrchermark" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.MurandyFile" />
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.MurandySquad" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.MurandyFilemanmounted" />
+	   <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Murandysquadmanmounted" />
+ 
+    
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+   <MBPartyTemplate id="caravan_template_Murandy" >
+    <stacks>
+      <PartyTemplateStack  min_value="8" max_value="8" troop="NPCCharacter.Murandyrecruit" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Murandyerarcher" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.MurandyFilemanmounted" />
+    </stacks>
+  </MBPartyTemplate>
+	
+  
+  
+   <MBPartyTemplate id="elite_caravan_template_Murandy" >
+    <stacks>
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.MurandyRegular" />
+      <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.MurandySquad" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Murandyerarcher" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Murandysquadmanmounted" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  
+   <MBPartyTemplate id="militia_empire_Murandy" >
+      <stacks>
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Murandyrecruit" />
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Murandyerarcher" />
+      </stacks>
+    </MBPartyTemplate>
+  
+  
+  <MBPartyTemplate id="rebels_empire_Murandy" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Murandyrecruit" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  	 <MBPartyTemplate id="vassal_reward_troops_Murandy" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Murandysquadmanmounted" />
+      <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.MurandySquad" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    <MBPartyTemplate id="kingdom_hero_party_Dragonsworn_template" >
+    <stacks>
+      <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.Legionofthedragon_recruit" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Legionofthedragon_footman" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Legionofthedragon__crossbowman" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Legionofthedragon__crossbowman2" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Legionofthedragon_hardened_crossbowman3" />
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Legionofthedragon__infantry" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Legionofthedragon__swordsman" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Legionofthedragon__sergeant" />
+	   <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Legionofthedragon__pikeman" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.dragonlegiontworiversarcher0" />
+      <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.Legionofthedragonmountedcrossbow_archer" />
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Legionofthedragonmountedcrossbow_archer3" />
+ 
+    
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+   <MBPartyTemplate id="caravan_template_Dragonsworn" >
+    <stacks>
+      <PartyTemplateStack  min_value="8" max_value="8" troop="NPCCharacter.Legionofthedragon_recruit" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Legionofthedragon__crossbowman" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Legionofthedragonmountedcrossbow_archer" />
+    </stacks>
+  </MBPartyTemplate>
+	
+  
+  
+   <MBPartyTemplate id="elite_caravan_template_Dragonsworn" >
+    <stacks>
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Legionofthedragon__pikeman" />
+      <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.Legionofthedragonmountedcrossbow_archer3" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Legionofthedragon__crossbowman2" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.dragonlegiontworiversarcher0" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  
+   <MBPartyTemplate id="militia_empire_Dragonsworn" >
+      <stacks>
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Legionofthedragon_recruit" />
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Legionofthedragon__crossbowman" />
+      </stacks>
+    </MBPartyTemplate>
+  
+  
+  <MBPartyTemplate id="rebels_empire_Dragonsworn" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Legionofthedragon_recruit" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  	 <MBPartyTemplate id="vassal_reward_troops_Dragonsworn" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.dragonlegiontworiversarcher2" />
+      <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.dragonlegiontworiversarcher0" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    <MBPartyTemplate id="kingdom_hero_party_Amamdicia_template" >
+    <stacks>
+      <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.Amamdiciacommonerrecruit" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.AmamdiciacommonerFile" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Amamdiciacommonerarcher" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Amamdiciacommonerarchermark" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.AmamdiciacommonerCrossbowman" />
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.AmamdiciacommonerHundredman" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.AmamdiciacommonerSquad" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Amamdiciacommonersquadmanmounted" />
+	   <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.AmamdiciacommonerFilemanmounted" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.AmamdiciacommonerHundredmanmount" />
+     
+ 
+    
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+   <MBPartyTemplate id="caravan_template_Amamdicia" >
+    <stacks>
+      <PartyTemplateStack  min_value="8" max_value="8" troop="NPCCharacter.Amamdiciacommonerrecruit" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Amamdiciacommonerarcher" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.AmamdiciacommonerFilemanmounted" />
+    </stacks>
+  </MBPartyTemplate>
+	
+  
+  
+   <MBPartyTemplate id="elite_caravan_template_Amamdicia" >
+    <stacks>
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Amamdiciacommonerrecruit" />
+      <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.Amamdiciacommonerarchermark" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Amamdiciacommonersquadmanmounted" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.AmamdiciacommonerFilemanmounted" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  
+   <MBPartyTemplate id="militia_empire_Amamdicia" >
+      <stacks>
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Amamdiciacommonerrecruit" />
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Amamdiciacommonerarcher" />
+      </stacks>
+    </MBPartyTemplate>
+  
+  
+  <MBPartyTemplate id="rebels_empire_Amamdicia" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Amamdiciacommonerrecruit" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  	 <MBPartyTemplate id="vassal_reward_troops_Amamdicia" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.AmamdiciacommonerHundredmanmount" />
+      <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.AmamdiciacommonerSquad" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    <MBPartyTemplate id="kingdom_hero_party_Arafel_template" >
+    <stacks>
+      <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.Arafel_recruit" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Arafel_archer" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Arafel_archer2" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Arafel_dualist" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Arafel_dualist2" />
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Arafel_dualist3" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Arafel_horse2" />
+	   <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Arafel_horse1" />
+     
+ 
+    
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+   <MBPartyTemplate id="caravan_template_Arafel" >
+    <stacks>
+      <PartyTemplateStack  min_value="8" max_value="8" troop="NPCCharacter.Arafel_dualist" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Arafel_archer" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Arafel_dualist2" />
+    </stacks>
+  </MBPartyTemplate>
+	
+  
+  
+   <MBPartyTemplate id="elite_caravan_template_Arafel" >
+    <stacks>
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Arafel_dualist" />
+      <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.Arafel_archer2" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Arafel_horse2" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Arafel_dualist3" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  
+   <MBPartyTemplate id="militia_empire_Arafel" >
+      <stacks>
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Arafel_dualist" />
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Arafel_archer2" />
+      </stacks>
+    </MBPartyTemplate>
+  
+  
+  <MBPartyTemplate id="rebels_empire_Arafel" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Arafel_recruit" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  	 <MBPartyTemplate id="vassal_reward_troops_Arafel" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Arafel_dualist3" />
+      <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.Arafel_dualist2" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    <MBPartyTemplate id="kingdom_hero_party_Farmadding_template" >
+    <stacks>
+      <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.FarMadding_noble_infantry" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.FarMadding_crossbowmannoble" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.FarMadding_crossbowman2noble" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.FarMadding_noble_infantryEnlisted" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.FarMaddingcommonerarcher" />
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.FarMaddingcommonerarchermark" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.FarMadding_noble_sergeant" />
+	   <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.FarMadding_noble_sergeant2" />
+     <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.FarMadding_noble_sergeantheavy" />
+ 
+    
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+   <MBPartyTemplate id="caravan_template_Farmadding" >
+    <stacks>
+      <PartyTemplateStack  min_value="8" max_value="8" troop="NPCCharacter.FarMadding_noble_infantry" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.FarMadding_crossbowmannoble" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.FarMadding_noble_sergeant" />
+    </stacks>
+  </MBPartyTemplate>
+	
+  
+  
+   <MBPartyTemplate id="elite_caravan_template_Farmadding" >
+    <stacks>
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.FarMadding_noble_sergeant" />
+      <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.FarMaddingcommonerarchermark" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.FarMadding_crossbowman2noble" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.FarMadding_noble_sergeantheavy" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  
+   <MBPartyTemplate id="militia_empire_Farmadding" >
+      <stacks>
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.FarMadding_noble_infantry" />
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.FarMaddingcommonerarcher" />
+      </stacks>
+    </MBPartyTemplate>
+  
+  
+  <MBPartyTemplate id="rebels_empire_Farmadding" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.FarMadding_noble_infantry" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  	 <MBPartyTemplate id="vassal_reward_troops_Farmadding" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.FarMadding_noble_sergeantheavy" />
+      <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.FarMadding_noble_sergeant" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    <MBPartyTemplate id="kingdom_hero_party_Ghealdan_template" >
+    <stacks>
+      <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.Ghealdanlevy_infantry" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Ghealdanlevy_Enlisted" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Ghealdanlevy_crossbow" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Ghealdanlevy_archer" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Ghealdanlevy_axeman" />
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Ghealdanlevy_twoaxe" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Ghealdanlevy_horse1" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.GhealdanLegion_legionnaire" />
+	   <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.GhealdanLegion_infantry" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.GhealdanLegion_pikeman" />
+      <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.GhealdanLegion_Champ" />
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.GhealdanLegion_centurion" />
+ 
+    
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+   <MBPartyTemplate id="caravan_template_Ghealdan" >
+    <stacks>
+      <PartyTemplateStack  min_value="8" max_value="8" troop="NPCCharacter.Ghealdanlevy_infantry" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Ghealdanlevy_archer" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Ghealdanlevy_horse1" />
+    </stacks>
+  </MBPartyTemplate>
+	
+  
+  
+   <MBPartyTemplate id="elite_caravan_template_Ghealdan" >
+    <stacks>
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Ghealdanlevy_infantry" />
+      <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.Ghealdanlevy_archer" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Ghealdanlevy_horse1" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Ghealdanlevy_axeman" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  
+   <MBPartyTemplate id="militia_empire_Ghealdan" >
+      <stacks>
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Ghealdanlevy_infantry" />
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Ghealdanlevy_archer" />
+      </stacks>
+    </MBPartyTemplate>
+  
+  
+  <MBPartyTemplate id="rebels_empire_Ghealdan" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Ghealdanlevy_infantry" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  	 <MBPartyTemplate id="vassal_reward_troops_Ghealdan" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.AshamanS" />
+      <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.GhealdanLegion_centurion" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    <MBPartyTemplate id="kingdom_hero_party_Kandor_template" >
+    <stacks>
+      <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.Kandor_recruit" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Kandor_footman" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Kandor_archer" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Kandor_archer2" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Kandor_spearman" />
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Kandorheavyhorseplate" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Kandor_spearmanheavy" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Kandor_twosword" />
+	   <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Kandor_sergeant" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Kandor_sergeant2" />
+      <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.Kandor_sheavyhorse" />
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Kandor_sergeant3" />
+ 
+    
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+   <MBPartyTemplate id="caravan_template_Kandor" >
+    <stacks>
+      <PartyTemplateStack  min_value="8" max_value="8" troop="NPCCharacter.Kandor_footman" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Kandor_archer" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Kandor_sheavyhorse" />
+    </stacks>
+  </MBPartyTemplate>
+	
+  
+  
+   <MBPartyTemplate id="elite_caravan_template_Kandor" >
+    <stacks>
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Kandor_sergeant" />
+      <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.Kandor_archer2" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Kandor_sheavyhorse" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Kandorheavyhorseplate" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  
+   <MBPartyTemplate id="militia_empire_Kandor" >
+      <stacks>
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Kandor_footman" />
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Kandor_archer" />
+      </stacks>
+    </MBPartyTemplate>
+  
+  
+  <MBPartyTemplate id="rebels_empire_Kandor" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Kandor_recruit" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  	 <MBPartyTemplate id="vassal_reward_troops_Kandor" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Kandor_sergeant3" />
+      <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.Kandorheavyhorseplate" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    <MBPartyTemplate id="kingdom_hero_party_Shienar_template" >
+    <stacks>
+      <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.Shienar_recruit" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Shienar_archer2" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Shienar_footman" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Shienar_horse_archer" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Shienar_footman2" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Shienar_footman3" />
+	   <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Shienar_lancer" />
+      <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.Shienar_heavy_lancer" />
+	  <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Shienar_heavy_lancer2" />
+	  <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Shienar_heavy_lancer3" />
+
+ 
+    
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+   <MBPartyTemplate id="caravan_template_Shienar" >
+    <stacks>
+      <PartyTemplateStack  min_value="8" max_value="8" troop="NPCCharacter.Shienar_recruit" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Shienar_archer2" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Shienar_lancer" />
+    </stacks>
+  </MBPartyTemplate>
+	
+  
+  
+   <MBPartyTemplate id="elite_caravan_template_Shienar" >
+    <stacks>
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Shienar_recruit" />
+      <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.Shienar_archer2" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Shienar_lancer" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Shienar_heavy_lancer" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  
+   <MBPartyTemplate id="militia_empire_Shienar" >
+      <stacks>
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Shienar_recruit" />
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Shienar_archer2" />
+      </stacks>
+    </MBPartyTemplate>
+  
+  
+  <MBPartyTemplate id="rebels_empire_Shienar" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Shienar_recruit" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  	 <MBPartyTemplate id="vassal_reward_troops_Shienar" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Shienar_heavy_lancer3" />
+      <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.Shienar_lancer" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  
+  
+  
+    <MBPartyTemplate id="kingdom_hero_party_Tarabon_template" >
+    <stacks>
+      <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.Tarabonrecruit" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Tarabonfootman" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Taraboncrossbowman" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Taraboncrossbowman2" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Tarabonbillman" />
+	  <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Tarabonvoulgier" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Tarabonspearman" />
+	   <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Taraboninfantry" />
+      <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.Tarabonswordsman" />
+	  <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Tarabonswordsman2" />
+	  <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Tarabonight_cavalry" />
+	  <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Tarabonvanguard" />
+
+ 
+    
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+   <MBPartyTemplate id="caravan_template_Tarabon" >
+    <stacks>
+      <PartyTemplateStack  min_value="8" max_value="8" troop="NPCCharacter.Tarabonrecruit" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Tarabonarcher" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Tarabonight_cavalry" />
+    </stacks>
+  </MBPartyTemplate>
+	
+  
+  
+   <MBPartyTemplate id="elite_caravan_template_Tarabon" >
+    <stacks>
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Tarabonfootman" />
+      <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.Tarabontrained_archer" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Tarabonight_cavalry" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Tarabonvanguard" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  
+   <MBPartyTemplate id="militia_empire_Tarabon" >
+      <stacks>
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Tarabonrecruit" />
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Tarabonarcher" />
+      </stacks>
+    </MBPartyTemplate>
+  
+  
+  <MBPartyTemplate id="rebels_empire_Tarabon" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Tarabonrecruit" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  	 <MBPartyTemplate id="vassal_reward_troops_Tarabon" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Tarabonswordsman2" />
+      <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.Tarabonvoulgier" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    <MBPartyTemplate id="kingdom_hero_party_Tear_template" >
+    <stacks>
+      <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.Tear_recruit" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Tear_common_footman" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Tear_crossbowman" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Tear_crossbowman2" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Tear_Noble_soldier" />
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Tear_Noble_speamen" />
+      <PartyTemplateStack min_value="6" max_value="6" troop="NPCCharacter.Tearheavyhorse" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.teamountedcross_archer" />
+	   <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Tear_heavyhorseplate" />
+      <PartyTemplateStack min_value="6" max_value="6" troop="NPCCharacter.TearDefender_horse1" />
+      <PartyTemplateStack min_value="3" max_value="3" troop="NPCCharacter.TearDefender__infantry" />
+      <PartyTemplateStack min_value="6" max_value="6" troop="NPCCharacter.TearDefender_horse4" />
+	   <PartyTemplateStack min_value="6" max_value="6" troop="NPCCharacter.TearDefender_horse3" />
+      <PartyTemplateStack min_value="6" max_value="6" troop="NPCCharacter.TearDefender_horse2" />
+	  
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+   <MBPartyTemplate id="caravan_template_Tear" >
+    <stacks>
+      <PartyTemplateStack  min_value="8" max_value="8" troop="NPCCharacter.Tear_recruit" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Tear_common_footman" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Tear_crossbowman" />
+    </stacks>
+  </MBPartyTemplate>
+	
+  
+  
+   <MBPartyTemplate id="elite_caravan_template_Tear" >
+    <stacks>
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Tear_Noble_soldier" />
+      <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.Tear_Noble_speamen" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Tearheavyhorse" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Tear_crossbowman2" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  
+   <MBPartyTemplate id="militia_empire_Tear" >
+      <stacks>
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Tear_recruit" />
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Tear_crossbowman" />
+      </stacks>
+    </MBPartyTemplate>
+  
+  
+  <MBPartyTemplate id="rebels_empire_Tear" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Tear_recruit" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  	 <MBPartyTemplate id="vassal_reward_troops_Tear" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.TearDefender_heavyinfantry" />
+      <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.TearDefender__infantry" />
+    </stacks>
+  </MBPartyTemplate>
+	
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    <MBPartyTemplate id="kingdom_hero_party_Mayene_template" >
+    <stacks>
+      <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.Mayene_recruit" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Mayene_archer" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Mayene_archer2" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Mayene_archer3" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Mayenecommon_footman" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Mayene_common_spearman" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Mayenecommon_footman" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Mayene_common_spearmanheavy" />
+	   <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Mayene_common_halberd" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Mayene_common_halberd2" />
+      <PartyTemplateStack min_value="3" max_value="3" troop="NPCCharacter.Mayene_heavyhorse" />
+      <PartyTemplateStack min_value="3" max_value="3" troop="NPCCharacter.Mayene_heavyhorseplate" />
+	   <PartyTemplateStack min_value="3" max_value="3" troop="NPCCharacter.Mayene_heavyhorseplate3" />
+      <PartyTemplateStack min_value="3" max_value="3" troop="NPCCharacter.Mayenewingedguard__halberd" />
+	  <PartyTemplateStack min_value="3" max_value="3" troop="NPCCharacter.Mayenewingedguard__heavyinfantry" />
+	  <PartyTemplateStack min_value="3" max_value="3" troop="NPCCharacter.Mayenewingedguard__Champ" />
+	  
+	  
+	  
+	  
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+   <MBPartyTemplate id="caravan_template_Mayene" >
+    <stacks>
+      <PartyTemplateStack  min_value="8" max_value="8" troop="NPCCharacter.Mayene_recruit" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Mayene_archer" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Mayene_heavyhorse" />
+    </stacks>
+  </MBPartyTemplate>
+	
+  
+  
+   <MBPartyTemplate id="elite_caravan_template_Mayene" >
+    <stacks>
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Mayene_common_halberd" />
+      <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.Mayene_archer3" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Mayene_heavyhorse" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Mayenewingedguard__halberd" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  
+   <MBPartyTemplate id="militia_empire_Mayene" >
+      <stacks>
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Mayene_recruit" />
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Mayene_archer" />
+      </stacks>
+    </MBPartyTemplate>
+  
+  
+  <MBPartyTemplate id="rebels_empire_Mayene" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Mayene_recruit" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  	 <MBPartyTemplate id="vassal_reward_troops_Mayene" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Mayenewingedguard__heavyinfantry" />
+      <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.Mayenewingedguard__halberd" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    <MBPartyTemplate id="kingdom_hero_party_WhiteTower_template" >
+    <stacks>
+      <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.WhiteTower_recruit" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.WhiteTower_guard" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.WhiteTower_Sentinel" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.WhiteTower_Lookout" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Whitetower_warder1" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Whitetower_warder2" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Whitetower_warder3" />
+	   <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.AesSedai4" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.AesSedai4b" />
+      <PartyTemplateStack min_value="3" max_value="3" troop="NPCCharacter.AesSedai3" />
+      <PartyTemplateStack min_value="3" max_value="3" troop="NPCCharacter.AesSedai5" />
+	   <PartyTemplateStack min_value="3" max_value="3" troop="NPCCharacter.AesSedai52" />
+      <PartyTemplateStack min_value="3" max_value="3" troop="NPCCharacter.Aessedai6" />
+	  
+	  
+	  
+	  
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+   <MBPartyTemplate id="caravan_template_WhiteTower" >
+    <stacks>
+      <PartyTemplateStack  min_value="8" max_value="8" troop="NPCCharacter.WhiteTower_recruit" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.WhiteTower_Lookout" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.AesSedai3" />
+    </stacks>
+  </MBPartyTemplate>
+	
+  
+  
+   <MBPartyTemplate id="elite_caravan_template_WhiteTower" >
+    <stacks>
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.WhiteTower_Sentinel" />
+      <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.AesSedai3" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Whitetower_warder2" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.AesSedai5" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  
+   <MBPartyTemplate id="militia_empire_WhiteTower" >
+      <stacks>
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.WhiteTower_recruit" />
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.WhiteTower_Lookout" />
+      </stacks>
+    </MBPartyTemplate>
+  
+  
+  <MBPartyTemplate id="rebels_empire_WhiteTower" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.AesSedai3" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  	 <MBPartyTemplate id="vassal_reward_troops_WhiteTower" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.AesSedai3" />
+      <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.AesSedai2" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    <MBPartyTemplate id="kingdom_hero_party_Altara_template" >
+    <stacks>
+      <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.Altararecruit" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Altaraerarcher" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Altararchermark" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.AltaraRegular" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.AltaraFile" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.AltaraSquad" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.AltaraFilemanmounted" />
+	   <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Altarasquadmanmounted" />
+     
+	  
+	  
+	  
+	  
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+   <MBPartyTemplate id="caravan_template_Altara" >
+    <stacks>
+      <PartyTemplateStack  min_value="8" max_value="8" troop="NPCCharacter.Altararecruit" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Altaraerarcher" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.AltaraFilemanmounted" />
+    </stacks>
+  </MBPartyTemplate>
+	
+  
+  
+   <MBPartyTemplate id="elite_caravan_template_Altara" >
+    <stacks>
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.AltaraRegular" />
+      <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.Altararchermark" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.AltaraFilemanmounted" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Altarasquadmanmounted" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  
+   <MBPartyTemplate id="militia_empire_Altara" >
+      <stacks>
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Altararecruit" />
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Altaraerarcher" />
+      </stacks>
+    </MBPartyTemplate>
+  
+  
+  <MBPartyTemplate id="rebels_empire_Altara" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Altararecruit" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  	 <MBPartyTemplate id="vassal_reward_troops_Altara" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Altarasquadmanmounted" />
+      <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.AltaraSquad" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+   
+   <MBPartyTemplate id="kingdom_hero_party_karakhuzaits_template2" >
+    <stacks>
+      <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.Aiel" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.AielWarrior22" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.AielWarrior3" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.AielWarrior4" />
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.AielWarrior5" />
+      <PartyTemplateStack min_value="2" max_value="3" troop="NPCCharacter.AielWarriorArcher1" />
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.AielWarriorArcher2" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.AielWarriorArcher3" />
+      <PartyTemplateStack min_value="4" max_value="5" troop="NPCCharacter.AielWarrior22Maiden" />
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.AielWarrior5Maiden" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.AielWarriorArcher3Maiden" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.AielWiseonelevel1" />
+      <PartyTemplateStack min_value="1" max_value="2" troop="NPCCharacter.AielWiseonelevel2" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    <MBPartyTemplate id="kingdom_hero_party_Seanchan_template" >
+    <stacks>
+      <PartyTemplateStack min_value="36" max_value="36" troop="NPCCharacter.Seanchan_recruit" />
+      <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.Damane1" />
+	  <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.Damane2" />
+	  <PartyTemplateStack min_value="3" max_value="3" troop="NPCCharacter.Damane5" />
+	   <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Damane6" />
+	
+	  
+	  
+      <PartyTemplateStack min_value="28" max_value="28" troop="NPCCharacter.Seanchan_common_footman" />
+      <PartyTemplateStack min_value="28" max_value="28" troop="NPCCharacter.Seanchan_crossbowman" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Seanchan_Noble_soldier" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Seanchan_Noble_speamen" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Seanchanheavyhorse" />
+	   <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Seanchan_Noble_speamen" />
+     
+	        <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Seanchan_heavyhorseplate" />
+	   <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Seanchan_heavyhorseplate2" />
+	  
+	  
+	  
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+   <MBPartyTemplate id="caravan_template_Seanchan" >
+    <stacks>
+      <PartyTemplateStack min_value="15" max_value="15" troop="NPCCharacter.Seanchan_recruit" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Damane1" />
+      <PartyTemplateStack min_value="10" max_value="10" troop="NPCCharacter.Seanchan_crossbowman" />
+	   <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Seanchanheavyhorse" />
+    </stacks>
+  </MBPartyTemplate>
+	
+  
+  
+   <MBPartyTemplate id="elite_caravan_template_Seanchan" >
+    <stacks>
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Seanchan_common_footman" />
+      <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.Damane3" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Seanchan_crossbowman2" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.Seanchan_Noble_speamen" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  
+   <MBPartyTemplate id="militia_empire_Seanchan" >
+      <stacks>
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Seanchan_common_footman" />
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Seanchan_crossbowman2" />
+      </stacks>
+    </MBPartyTemplate>
+  
+  
+  <MBPartyTemplate id="rebels_empire_Seanchan" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Seanchan_recruit" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  	 <MBPartyTemplate id="vassal_reward_troops_Seanchan" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.Seanchan_heavyhorseplate2" />
+      <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.Seanchan_Noble_speamen" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  <MBPartyTemplate id="kingdom_hero_party_outlaw_empire_w_template2" >
+    <stacks>
+      <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.Promob1" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Promob2" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Promob3" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  <MBPartyTemplate id="kingdom_hero_party_outlaw_vlandia_template2" >
+    <stacks>
+      <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.AesSedaiELAD" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.AesSedaiELAD2" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.AesSedaiELAD4" />
+	   <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.AesSedaiELAD3" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.AesSedaiELAD52" />
+	  
+	  
+    </stacks>
+  </MBPartyTemplate>
+  
+   <MBPartyTemplate id="kingdom_hero_party_mercenary_empire_template2" >
+    <stacks>
+      <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.Seafolk1" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Seafolk2" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Seafolk3" />
+	  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.seafolkwind4" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.seafolkwind2" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.seafolkwind3" />
+	  
+	  
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+   <MBPartyTemplate id="kingdom_hero_party_mercenary_sturgia_template2" >
+    <stacks>
+      <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.sharamerc1" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.sharamerc2" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.sharamerheavyinfantry" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.sharamercarcher1" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.sharamercarcher2" />
+	  <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.sharamercarchermount1" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.sharamercarchermount2" />
+	  
+    </stacks>
+  </MBPartyTemplate>
+  
+   <MBPartyTemplate id="kingdom_hero_party_mercenary_vlandia_template2" >
+    <stacks>
+      <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.MalkierRemenant1" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.MalkierRemenant2" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.MalkierRemenant3" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.MalkierRemenant3cav1" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.MalkierRemenant3cav2" />
+	  <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.MalkierRemenant3cav3" />
+	  
+    </stacks>
+  </MBPartyTemplate>
+  
+  <MBPartyTemplate id="kingdom_hero_party_outlaw_sturgia_template2" >
+    <stacks>
+      <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.Maidenofthesword1" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Maidenofthesword2" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Maidenofthesword3" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Maidenofthesword5" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Maidenofthesword6" />
+	  
+    </stacks>
+  </MBPartyTemplate>
+  <MBPartyTemplate id="kingdom_hero_party_jawwal_template2" >
+    <stacks>
+      <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.KIN1" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.KIN2" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.KIN3" />
+     
+	  
+    </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  
+  
+  
+  <MBPartyTemplate id="kingdom_hero_party_outlaw_empire_e_template2" >
+    <stacks>
+      <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.Illumtroop1" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.Illumtroop2" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.Illumtroop3" />
+     
+      
+	   </stacks>
+  </MBPartyTemplate>
+  
+  
+  
+  <MBPartyTemplate id="kingdom_hero_party_forest_people_template2" >
+    <stacks>
+      <PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.PADTrollocla" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.PADTrolloclb" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.PADTrolloclc" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.PADTrollocld" />
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.PADTrolloc3a" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.PADTrollocld3b" />
+      <PartyTemplateStack min_value="3" max_value="3" troop="NPCCharacter.PADTrollocldtwochief" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.PADWotMyrddraal" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.PADTrolloc2a" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.PADWotMyrddraalMounted" />
+      
+	   </stacks>
+  </MBPartyTemplate>
+  
+  
+  <MBPartyTemplate id="kingdom_hero_party_eleftheroi_template2" >
+    <stacks>
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.HotH1" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.HotH2" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.HotH3" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.HotH5" />
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.HotH6" />
+      
+      
+	   </stacks>
+  </MBPartyTemplate>
+  
+</partyTemplates>

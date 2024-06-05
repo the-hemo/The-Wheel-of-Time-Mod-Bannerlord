@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SPCultures>
+    <Culture id="nord"
+        name="{=sYFaoW7G}Nord"
+        is_main_culture="false"
+        elite_basic_troop="NPCCharacter.sturgian_warrior_son"
+        basic_troop="NPCCharacter.sturgian_recruit"
+        can_have_settlement="true"
+        town_edge_number="16"
+        villager_party_template="PartyTemplate.villager_sturgia_template"
+        encounter_background_mesh="encounter_sturgia"
+        caravan_party_template="PartyTemplate.caravan_template_sturgia"
+        militia_party_template="PartyTemplate.militia_sturgia_template"
+        default_battle_equipment_roster="EquipmentRoster.default_battle_equipment_roster_neutral"
+        default_civilian_equipment_roster="EquipmentRoster.default_civilian_equipment_roster_neutral"
+        default_face_key="000fa92e90004202aced5d976886573d5d679585a376fdd605877a7764b8987c00000000000007520000037f0000000f00000037049140010000000000000000">
+        <banner_bearer_replacement_weapons>
+            <item id="Item.sturgia_sword_1_t2" />
+            <item id="Item.sturgia_sword_2_t3" />
+            <item id="Item.sturgia_sword_4_t4" />
+            <item id="Item.sturgia_sword_5_t5" />
+        </banner_bearer_replacement_weapons>
+        <male_names>
+            <name name="{=ig8zAo8f}Ori" />
+        </male_names>
+        <female_names>
+            <name name="{=L0fuYckc}Friga" />
+        </female_names>
+    </Culture>
+    <Culture id="vakken"
+        name="{=bHh03ob0}Vakken"
+        is_main_culture="false"
+        elite_basic_troop="NPCCharacter.sturgian_warrior_son"
+        basic_troop="NPCCharacter.sturgian_recruit"
+        can_have_settlement="true"
+        town_edge_number="16"
+        villager_party_template="PartyTemplate.villager_sturgia_template"
+        encounter_background_mesh="encounter_sturgia"
+        caravan_party_template="PartyTemplate.caravan_template_sturgia"
+        militia_party_template="PartyTemplate.militia_sturgia_template"
+        default_battle_equipment_roster="EquipmentRoster.default_battle_equipment_roster_neutral"
+        default_civilian_equipment_roster="EquipmentRoster.default_civilian_equipment_roster_neutral"
+        default_face_key="000fa92e90004202aced5d976886573d5d679585a376fdd605877a7764b8987c00000000000007520000037f0000000f00000037049140010000000000000000">
+        <banner_bearer_replacement_weapons>
+            <item id="Item.sturgia_sword_1_t2" />
+            <item id="Item.sturgia_sword_2_t3" />
+            <item id="Item.sturgia_sword_4_t4" />
+            <item id="Item.sturgia_sword_5_t5" />
+        </banner_bearer_replacement_weapons>
+        <male_names>
+            <name name="{=jhT7CfhM}Aivar" />
+            <name name="{=GaMUU2Pf}Kaupi" />
+            <name name="{=3ipKaDWU}Natti" />
+            <name name="{=kL0ldFLG}Pekko" />
+            <name name="{=W1ZpjgQO}Rauko" />
+            <name name="{=WpTXwQw1}Vuoni" />
+        </male_names>
+        <female_names>
+            <name name="{=FlexUfSP}Alivar" />
+            <name name="{=4bQbv3oN}Arha" />
+            <name name="{=rDPExYMQ}Eitar" />
+            <name name="{=jFdZ7mlB}Ilikki" />
+            <name name="{=ELpRLYQt}Jalin" />
+            <name name="{=hBuBpxjb}Kaidi" />
+            <name name="{=j8IOY5Cy}Luona" />
+            <name name="{=iiGXfCWd}Menar" />
+            <name name="{=gG1O5V1n}Olianar" />
+            <name name="{=XAF12HV0}Vikka" />
+        </female_names>
+    </Culture>
+    <Culture id="darshi"
+        name="{=IHhWB1aa}Darshi"
+        is_main_culture="false"
+        elite_basic_troop="NPCCharacter.aserai_youth"
+        basic_troop="NPCCharacter.aserai_recruit"
+        can_have_settlement="true"
+        town_edge_number="16"
+        villager_party_template="PartyTemplate.villager_aserai_template"
+        encounter_background_mesh="encounter_aserai"
+        caravan_party_template="PartyTemplate.caravan_template_aserai"
+        militia_party_template="PartyTemplate.militia_aserai_template"
+        default_battle_equipment_roster="EquipmentRoster.default_battle_equipment_roster_neutral"
+        default_civilian_equipment_roster="EquipmentRoster.default_civilian_equipment_roster_neutral"
+        default_face_key="000fa92e90004202aced5d976886573d5d679585a376fdd605877a7764b8987c00000000000007520000037f0000000f00000037049140010000000000000000">
+        <banner_bearer_replacement_weapons>
+            <item id="Item.aserai_sword_1_t2" />
+            <item id="Item.aserai_sword_3_t3" />
+            <item id="Item.aserai_sword_4_t4" />
+            <item id="Item.aserai_sword_5_t4" />
+        </banner_bearer_replacement_weapons>
+        <male_names>
+            <name name="{=JJtww9pt}Aryush" />
+            <name name="{=Zm0Ee6sp}Azadun" />
+            <name name="{=nisA6W98}Baheshtur" />
+            <name name="{=pEvpjIa9}Bunduk" />
+            <name name="{=Z261F0mj}Hamezan" />
+            <name name="{=KmzQabkH}Hivan" />
+            <name name="{=QR3aNalC}Imirza" />
+            <name name="{=mDZqpa9Z}Sanjar" />
+        </male_names>
+        <female_names>
+            <name name="{=lGRde77R}Anahita" />
+            <name name="{=sa0YrXiv}Azareh" />
+            <name name="{=epxmhQav}Daria" />
+            <name name="{=zSL3MgNQ}Ilzar" />
+            <name name="{=R7avnODK}Nasmeen" />
+            <name name="{=ZPHdPglH}Raksana" />
+            <name name="{=SHXt3kC5}Roshaneh" />
+            <name name="{=wERVdmjj}Sulnaz" />
+            <name name="{=Btb7NzFM}Shima" />
+            <name name="{=GqEEIYay}Tilzad" />
+        </female_names>
+    </Culture>
+    <Culture id="looters"
+        name="{=1sbJQR4H}Rogue Trollocs"
+        elite_basic_troop="NPCCharacter.rogue_trolloc"
+        basic_troop="NPCCharacter.rogue_trolloc"
+        is_bandit="true"
+        can_have_settlement="false"
+        encounter_background_mesh="encounter_looter">
+        <banner_bearer_replacement_weapons>
+            <item id="Item.iron_spatha_sword_t2" />
+            <item id="Item.empire_sword_1_t2" />
+            <item id="Item.empire_sword_2_t3" />
+            <item id="Item.empire_sword_6_t5" />
+        </banner_bearer_replacement_weapons>
+    </Culture>
+    <!---Culture id="deserters" name="Deserters" elite_basic_troop="NPCCharacter.deserter" basic_troop="NPCCharacter.deserter" is_bandit="true"/-->
+    <Culture id="sea_raiders"
+        name="{=pBUc2pL8}Sea Raiders"
+        bandit_chief="NPCCharacter.sea_raiders_chief"
+        bandit_raider="NPCCharacter.sea_raiders_raider"
+        bandit_bandit="NPCCharacter.sea_raiders_bandit"
+        bandit_boss="NPCCharacter.sea_raiders_boss"
+        elite_basic_troop="NPCCharacter.sea_raiders_raider"
+        basic_troop="NPCCharacter.sea_raiders_bandit"
+        is_bandit="true"
+        can_have_settlement="true"
+        encounter_background_mesh="encounter_shore_bandit"
+        bandit_boss_party_template="PartyTemplate.sea_raiders_boss_party_template">
+        <banner_bearer_replacement_weapons>
+            <item id="Item.sturgia_sword_1_t2" />
+            <item id="Item.sturgia_sword_2_t3" />
+            <item id="Item.sturgia_sword_4_t4" />
+            <item id="Item.sturgia_sword_5_t5" />
+        </banner_bearer_replacement_weapons>
+    </Culture>
+    <Culture id="mountain_bandits"
+        name="{=mOa9CX13}Mountain Bandits"
+        bandit_chief="NPCCharacter.mountain_bandits_chief"
+        bandit_raider="NPCCharacter.mountain_bandits_raider"
+        bandit_bandit="NPCCharacter.mountain_bandits_bandit"
+        bandit_boss="NPCCharacter.mountain_bandits_boss"
+        elite_basic_troop="NPCCharacter.mountain_bandits_raider"
+        basic_troop="NPCCharacter.mountain_bandits_bandit"
+        is_bandit="true"
+        can_have_settlement="true"
+        encounter_background_mesh="encounter_mountain_bandit"
+        bandit_boss_party_template="PartyTemplate.mountain_bandits_boss_party_template">
+        <banner_bearer_replacement_weapons>
+            <item id="Item.vlandia_sword_1_t2" />
+            <item id="Item.vlandia_sword_2_t3" />
+            <item id="Item.vlandia_sword_3_t4" />
+            <item id="Item.vlandia_sword_5_t5" />
+        </banner_bearer_replacement_weapons>
+    </Culture>
+    <Culture id="forest_bandits"
+        name="{=sAbjtZbB}Forest Bandits"
+        bandit_chief="NPCCharacter.forest_bandits_chief"
+        bandit_raider="NPCCharacter.forest_bandits_raider"
+        bandit_bandit="NPCCharacter.forest_bandits_bandit"
+        bandit_boss="NPCCharacter.forest_bandits_boss"
+        elite_basic_troop="NPCCharacter.forest_bandits_raider"
+        basic_troop="NPCCharacter.forest_bandits_bandit"
+        is_bandit="true"
+        can_have_settlement="true"
+        encounter_background_mesh="encounter_forest_bandit"
+        bandit_boss_party_template="PartyTemplate.forest_bandits_boss_party_template">
+        <banner_bearer_replacement_weapons>
+            <item id="Item.battania_sword_1_t2" />
+            <item id="Item.battania_sword_2_t3" />
+            <item id="Item.battania_sword_4_t4" />
+            <item id="Item.battania_sword_5_t5" />
+        </banner_bearer_replacement_weapons>
+    </Culture>
+    <Culture id="desert_bandits"
+        name="{=kkUQObZn}Desert Bandits"
+        bandit_chief="NPCCharacter.desert_bandits_chief"
+        bandit_raider="NPCCharacter.desert_bandits_raider"
+        bandit_bandit="NPCCharacter.desert_bandits_bandit"
+        bandit_boss="NPCCharacter.desert_bandits_boss"
+        elite_basic_troop="NPCCharacter.desert_bandits_raider"
+        basic_troop="NPCCharacter.desert_bandits_bandit"
+        is_bandit="true"
+        can_have_settlement="true"
+        encounter_background_mesh="encounter_desert_bandits"
+        bandit_boss_party_template="PartyTemplate.desert_bandits_boss_party_template">
+        <banner_bearer_replacement_weapons>
+            <item id="Item.aserai_sword_1_t2" />
+            <item id="Item.aserai_sword_3_t3" />
+            <item id="Item.aserai_sword_4_t4" />
+            <item id="Item.aserai_sword_5_t4" />
+        </banner_bearer_replacement_weapons>
+    </Culture>
+    <Culture id="steppe_bandits"
+        name="{=e6csp4ha}Steppe Bandits"
+        bandit_chief="NPCCharacter.steppe_bandits_chief"
+        bandit_raider="NPCCharacter.steppe_bandits_raider"
+        bandit_bandit="NPCCharacter.steppe_bandits_bandit"
+        bandit_boss="NPCCharacter.steppe_bandits_boss"
+        elite_basic_troop="NPCCharacter.steppe_bandits_raider"
+        basic_troop="NPCCharacter.steppe_bandits_bandit"
+        is_bandit="true"
+        can_have_settlement="true"
+        encounter_background_mesh="encounter_desert_bandits"
+        bandit_boss_party_template="PartyTemplate.steppe_bandits_boss_party_template">
+        <banner_bearer_replacement_weapons>
+            <item id="Item.khuzait_sword_1_t2" />
+            <item id="Item.khuzait_sword_2_t3" />
+            <item id="Item.khuzait_sword_3_t3" />
+            <item id="Item.khuzait_sword_4_t4" />
+        </banner_bearer_replacement_weapons>
+    </Culture>
+    <Culture id="neutral_culture"
+        name="{=jKviMpbP}Calradian"
+        elite_basic_troop="NPCCharacter.guard"
+        basic_troop="NPCCharacter.guard"
+        encounter_background_mesh="encounter_empire"
+        default_battle_equipment_roster="EquipmentRoster.default_battle_equipment_roster_neutral"
+        default_civilian_equipment_roster="EquipmentRoster.default_civilian_equipment_roster_neutral">
+        <banner_bearer_replacement_weapons>
+            <item id="Item.iron_spatha_sword_t2" />
+            <item id="Item.empire_sword_1_t2" />
+            <item id="Item.empire_sword_2_t3" />
+            <item id="Item.empire_sword_6_t5" />
+        </banner_bearer_replacement_weapons>
+    </Culture>
+</SPCultures>
