@@ -19197,8 +19197,8 @@
 
 
 
-    <NPCCharacter id="LordElaida"
-        name="{=LordElaida}Elaida"
+    <NPCCharacter id="LordEladia"
+        name="{=LordEladia}Elaida"
         age="41"
         voice="curt"
         is_female="true"
