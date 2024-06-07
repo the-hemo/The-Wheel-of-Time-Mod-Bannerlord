@@ -3,7 +3,6 @@ using System;
 using TaleWorlds.MountAndBlade;
 using TaleWorlds.Core;
 
-using TaleWorlds.Localization;
 using TaleWorlds.CampaignSystem;
 
 using TaleWorlds.Library;
@@ -14,17 +13,9 @@ using System.IO;
 using TaleWorlds.Engine.Screens;
 
 using SandBox;
-
-
 using Newtonsoft.Json.Linq;
 using WoT_Main.Support;
-using TaleWorlds.CampaignSystem.CampaignBehaviors.AiBehaviors;
-using TaleWorlds.CampaignSystem.CampaignBehaviors.BarterBehaviors;
-using TaleWorlds.CampaignSystem.CampaignBehaviors.CommentBehaviors;
-using TaleWorlds.CampaignSystem.CampaignBehaviors;
-using TaleWorlds.CampaignSystem.GameComponents;
-using TaleWorlds.CampaignSystem.Issues;
-using TaleWorlds.CampaignSystem.TournamentGames;
+
 using WoT_Main.Behaviours;
 using static WoT_Main.campaignMapPatch;
 using TaleWorlds.ModuleManager;
@@ -33,6 +24,7 @@ using System.Linq;
 using System.Xml;
 
 using WoT.Shotgun;
+using TaleWorlds.Localization;
 
 namespace WoT_Main
 {

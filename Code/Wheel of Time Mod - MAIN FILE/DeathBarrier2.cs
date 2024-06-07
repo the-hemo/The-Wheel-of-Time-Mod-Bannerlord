@@ -18,7 +18,7 @@ namespace WoT_Main.Behaviours
         {
             base.OnMissionTick(dt);
 
-            MissionObject[] missionObjects = Mission.ActiveMissionObjects.ToArray();
+            /*MissionObject[] missionObjects = Mission.ActiveMissionObjects.ToArray();
             foreach (MissionObject missionObject in missionObjects)
             {
                 //campaignSupport.displayMessageInChat(missionObject.ToString() + " " + missionObject.GetType().Name);
@@ -41,7 +41,7 @@ namespace WoT_Main.Behaviours
 
 
 
-                            agent.Die(CreateMissileBlow(Agent.Main));
+                            //agent.Die(CreateMissileBlow(Agent.Main));
 
 
 
@@ -51,7 +51,7 @@ namespace WoT_Main.Behaviours
 
                     }
                 }
-            }
+            }*/
 
         }
 

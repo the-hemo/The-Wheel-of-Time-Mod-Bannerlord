@@ -42,3 +42,11 @@ C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Module
 C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\Wheel of Time Mod Creation\Code\Wheel of Time Mod - MAIN FILE\obj\Debug\WoT_Main.dll
 C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\Wheel of Time Mod Creation\Code\Wheel of Time Mod - MAIN FILE\obj\Debug\WoT_Main.pdb
 C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\Wheel of Time Mod Creation\Code\Wheel of Time Mod - MAIN FILE\obj\Debug\WoT_Main.csproj.AssemblyReference.cache
+C:\Program Files\Steam\steamapps\common\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\Wheel of Time Mod - MAIN FILE\bin\Win64_Shipping_Client\WoT_Main.dll.config
+C:\Program Files\Steam\steamapps\common\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\Wheel of Time Mod - MAIN FILE\bin\Win64_Shipping_Client\WoT_Main.dll
+C:\Program Files\Steam\steamapps\common\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\Wheel of Time Mod - MAIN FILE\bin\Win64_Shipping_Client\WoT_Main.pdb
+C:\Program Files\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\Wheel of Time Mod Creation\The-Wheel-of-Time-Mod-Bannerlord\Code\Wheel of Time Mod - MAIN FILE\obj\Debug\WoT_Main.csproj.AssemblyReference.cache
+C:\Program Files\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\Wheel of Time Mod Creation\The-Wheel-of-Time-Mod-Bannerlord\Code\Wheel of Time Mod - MAIN FILE\obj\Debug\WoT_Main.csproj.CoreCompileInputs.cache
+C:\Program Files\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\Wheel of Time Mod Creation\The-Wheel-of-Time-Mod-Bannerlord\Code\Wheel of Time Mod - MAIN FILE\obj\Debug\WoT_Main.csproj.CopyComplete
+C:\Program Files\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\Wheel of Time Mod Creation\The-Wheel-of-Time-Mod-Bannerlord\Code\Wheel of Time Mod - MAIN FILE\obj\Debug\WoT_Main.dll
+C:\Program Files\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\Wheel of Time Mod Creation\The-Wheel-of-Time-Mod-Bannerlord\Code\Wheel of Time Mod - MAIN FILE\obj\Debug\WoT_Main.pdb

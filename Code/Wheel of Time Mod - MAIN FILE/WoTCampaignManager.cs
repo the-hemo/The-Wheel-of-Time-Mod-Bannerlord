@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Threading.Tasks;
 using TaleWorlds.CampaignSystem;
 using TaleWorlds.CampaignSystem.CharacterCreationContent;
 using TaleWorlds.CampaignSystem.Encounters;
@@ -101,6 +102,8 @@ namespace SandBox
         // Token: 0x060000FE RID: 254 RVA: 0x00007008 File Offset: 0x00005208
         public override void OnAfterCampaignStart(Game game)
         {
+
+            InformationManager.ShowInquiry(new InquiryData("Information", "The first few battles and 30mins of play may result in stuttering as the new game assets are loaded in, once this has completed the game should continue to run smoothly until the game is closed so please do not let this put you off even if you have a powerful PC, as some game assets surpass the vanilla game minimum requirements and might cause strain on some computers. We also recommend using task manager to set Bannerlord to “high priority” by going to “details” tab and changing the priority on bannerlord”", true, false, "Ok", "", null, null));
         }
 
         // Token: 0x060000FF RID: 255 RVA: 0x0000700C File Offset: 0x0000520C
