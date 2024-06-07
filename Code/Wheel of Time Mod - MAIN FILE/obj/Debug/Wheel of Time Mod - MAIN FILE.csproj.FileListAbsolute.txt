@@ -1,0 +1,10 @@
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\Wheel of Time Mod -Beta Release\Wheel of Time Mod - MAIN FILE\bin\Win64_Shipping_Client\Wheel of Time Mod - MAIN FILE.dll
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\Wheel of Time Mod -Beta Release\Wheel of Time Mod - MAIN FILE\bin\Win64_Shipping_Client\Wheel of Time Mod - MAIN FILE.pdb
+C:\Users\Alex\source\repos\Wheel of Time Mod - MAIN FILE\Wheel of Time Mod - MAIN FILE\obj\Debug\Wheel of Time Mod - MAIN FILE.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\Wheel of Time Mod - MAIN FILE\Wheel of Time Mod - MAIN FILE\obj\Debug\Wheel of Time Mod - MAIN FILE.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Wheel of Time Mod - MAIN FILE\Wheel of Time Mod - MAIN FILE\obj\Debug\Wheel of Time Mod - MAIN FILE.csproj.CopyComplete
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\Wheel of Time Mod - MAIN FILE\bin\Win64_Shipping_Client\WoT_Main.dll.config
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\Wheel of Time Mod - MAIN FILE\bin\Win64_Shipping_Client\WoT_Main.dll
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\Wheel of Time Mod - MAIN FILE\bin\Win64_Shipping_Client\WoT_Main.pdb
+C:\Users\Alex\source\repos\Wheel of Time Mod - MAIN FILE\Wheel of Time Mod - MAIN FILE\obj\Debug\WoT_Main.dll
+C:\Users\Alex\source\repos\Wheel of Time Mod - MAIN FILE\Wheel of Time Mod - MAIN FILE\obj\Debug\WoT_Main.pdb
