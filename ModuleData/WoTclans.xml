@@ -272,8 +272,8 @@
            is_minor_faction="true"
            is_outlaw="true"
            is_mafia="true"
-           name="{=as2TiAIJ}Eladia's White Tower"
-           short_name="{=khnadIv1}Eladia's White Tower"
+           name="{=as2TiAIJ}Elaida's White Tower"
+           short_name="{=khnadIv1}Elaida's White Tower"
            tier="4"
            text="{=xahrUc5n}The Brotherhood of the Woods started as a Vlandian peasant movement, hiding out in the forests, robbing from the rich and giving to the poor. However, it encountered the problems that any long-running rebel movement might - it needed to ensure a steady supply of food, and also ensure that none of the poor would dare earn a bag of coins by informing on them. Slowly but surely, it began to make use of extortion, terror, and corrupt deals with the local authorities to survive, becoming little different from any other organized bandit group in Calradia.">
     <minor_faction_character_templates>
