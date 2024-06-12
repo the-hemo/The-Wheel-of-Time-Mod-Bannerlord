@@ -409,7 +409,7 @@
            is_minor_faction="true"
            is_outlaw="true"
            is_nomad="true"
-           name="{=6BvGhzao}Shadio Aiel"
+           name="{=6BvGhzao}Shaido Aiel"
            tier="4"
            text="{=XJbDRBfd}The Karakhergit are one of the last nomadic clans in the western steppe. The Urkhunid khans have tried to coax them into settling down, offering them farmlands and serfs in exchange for a commitment to pay taxes and supply military levies, but they have resisted. They are treated by the other clans with a combination of envy and contempt. They trade and sometimes even intermarry with their settled brethren, but they also do a limited amount of kidnapping for ransom and raiding of flocks, and scoff at those who would blame them for carrying on with the heroic old ways.">
     <minor_faction_character_templates>

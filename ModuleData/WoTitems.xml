@@ -2568,7 +2568,7 @@
 
 
   <Item id="AndorShoulders"
-    name="{=AndorShoulders}Andor Shoudler Plates"
+    name="{=AndorShoulders}Andor Shoulder Plates"
     mesh="AndorShoulders"
     culture="Culture.empire"
     weight="6.5"
@@ -10557,7 +10557,7 @@
 
 
   <Item id="ShienerHeavyShoulders"
-    name="{=ShienerHeavyShoulders}Shiener Shoudler Plates"
+    name="{=ShienerHeavyShoulders}Shiener Shoulder Plates"
     mesh="ShienerHeavyShoulders"
     culture="Culture.Shienar"
     weight="4.7"
