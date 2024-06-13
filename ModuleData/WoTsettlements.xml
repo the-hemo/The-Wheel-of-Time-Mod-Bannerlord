@@ -2186,7 +2186,7 @@
     </Locations>
   </Settlement>
   <Settlement id="castle_village_EW8_1"
-    name="{=Settlements.Settlement.name.castle_village_EW8_1}Therin's watch"
+    name="{=Settlements.Settlement.name.castle_village_EW8_1}Therin's Watch"
     posX="448.9"
     posY="183.1"
     culture="Culture.aserai"
@@ -2835,7 +2835,7 @@
   <!-- Imperial subfaction 2 begins -->
   <!-- Amytatis and Bostrum, clan 4 patriarch and faction 2 leader, soldier's soldier -->
   <Settlement id="town_EW5"
-    name="{=Settlements.Settlement.name.town_EW5}Emonds Field"
+    name="{=Settlements.Settlement.name.town_EW5}'Emond's Field"
     owner="Faction.clan_empire_south_3"
     posX="303.427"
     posY="268.537"
@@ -7140,7 +7140,7 @@
     </CommonAreas>
   </Settlement>
   <Settlement id="village_A1_4"
-    name="{=Settlements.Settlement.name.village_A1_4} Breeza"
+    name="{=Settlements.Settlement.name.village_A1_4}Breeza"
     posX="331.31"
     posY="198.11"
     culture="Culture.Amamdicia"
@@ -9562,7 +9562,7 @@
   </Settlement>
   <!-- Alderstand-->
   <Settlement id="village_V6_3"
-    name="{=Settlements.Settlement.name.village_V6_3}West Coast inn"
+    name="{=Settlements.Settlement.name.village_V6_3}West Coast Inn"
     posX="203.97"
     posY="298.7"
     culture="Culture.vlandia"
