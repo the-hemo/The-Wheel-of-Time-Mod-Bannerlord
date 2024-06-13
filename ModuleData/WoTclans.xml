@@ -301,8 +301,8 @@
            is_minor_faction="true"
            is_outlaw="true"
            is_mafia="true"
-           name="{=MVHawAEp}The Prophets Mobs"
-           short_name="{=j3KtHQzn}The Prophets Mobs"
+           name="{=MVHawAEp}The Prophet's Mobs"
+           short_name="{=j3KtHQzn}The Prophet's Mobs"
            tier="3"
            text="{=nQOf27Rx}The Hidden Hand are a mafia who dominate the rural areas, and sometimes the towns, of the southern parts of the Empire. They thrive by making themselves useful to authorities: repressing unrest, silencing troublesome preachers, and robbing from merchants who compete with their patrons. Many of them go back and forth between a respectable life in the towns and a criminal life in countryside. A member of the Hand might spend two or three months a year in the hills as a brigand, then return to town to work as an enforcer and a ”trader” in stolen goods, knowing full well that no one will ask him too many questions.">
     <minor_faction_character_templates>
@@ -327,8 +327,8 @@
            is_minor_faction="true"
            is_outlaw="true"
            is_mafia="true"
-           name="{=7WL1LWdf}Maiden's of the Sword"
-           short_name="{=7WL1LWdf}Maiden's of the Sword"
+           name="{=7WL1LWdf}Maidens of the Sword"
+           short_name="{=7WL1LWdf}Maidens of the Sword"
            tier="4"
            text="{=9ZEdEWmi}The Lake Rats live in the marshes on the shores of the great northern lake, in shacks made out of the timbers of ruined ships. They live by “wrecking“ - ie, luring ships onto shoals with false lighthouses and beacons. Because they're scorned by the rest of Calradia - ”all criminals, smell like marsh gas and mud and rotten fish” - they scorn everyone else back. Although mostly Sturgian, their ranks have been swelled by fugitives, debtors, and anyone else who'd rather live by a thieves' code than by the laws of nobles.">
     <minor_faction_character_templates>

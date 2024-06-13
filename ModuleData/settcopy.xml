@@ -2767,7 +2767,7 @@
   <!-- Imperial subfaction 2 begins -->
   <!-- Amytatis and Bostrum, clan 4 patriarch and faction 2 leader, soldier's soldier -->
   <Settlement id="town_EW5"
-    name="{=Settlements.Settlement.name.town_EW5}Emonds Field"
+    name="{=Settlements.Settlement.name.town_EW5}Emond's Field"
     owner="Faction.clan_empire_south_3"
     posX="303.427"
     posY="268.537"
