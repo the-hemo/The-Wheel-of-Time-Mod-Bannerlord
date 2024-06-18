@@ -1,0 +1,1389 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+  <!--Andor are empire culture so not implemented-->
+  <!--The Seanchan-->
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_0_Seanchan" name="{=!}stage_2_page_0_branch_0_Seanchan" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Seanchan" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.ironlame_feathered_spangenhelm" />
+        <equipment slot="Cape" id="Item.imperial_studded_strip_shoulders" />
+        <equipment slot="Body" id="Item.legionary_mail" />
+        <equipment slot="Gloves" id="Item.woven_leather_bracers" />
+        <equipment slot="Leg" id="Item.decorated_imperial_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_1_Seanchan" name="{=!}stage_2_page_0_branch_1_Seanchan" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Seanchan" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.imperial_robes" />
+        <equipment slot="Leg" id="Item.fine_town_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_2_Seanchan" name="{=!}stage_2_page_0_branch_2_Seanchan" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Seanchan" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.tunic_with_shoulder_pads" />
+        <equipment slot="Leg" id="Item.fine_town_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_3_Seanchan" name="{=!}stage_2_page_0_branch_3_Seanchan" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Seanchan" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.leather_cap" />
+        <equipment slot="Body" id="Item.tied_cloth_tunic" />
+        <equipment slot="Leg" id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_4_Seanchan" name="{=!}stage_2_page_0_branch_4_Seanchan" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Seanchan" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.basic_imperial_leather_armor" />
+        <equipment slot="Gloves" id="Item.padded_mitten" />
+        <equipment slot="Leg" id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_5_Seanchan" name="{=!}stage_2_page_0_branch_5_Seanchan" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Seanchan" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.imperial_robes" />
+        <equipment slot="Leg" id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!--Culture.Cairhien-->
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_0_Cairhien" name="{=!}stage_2_page_0_branch_0_Cairhien" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Cairhien" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.ironlame_feathered_spangenhelm" />
+        <equipment slot="Cape" id="Item.imperial_studded_strip_shoulders" />
+        <equipment slot="Body" id="Item.legionary_mail" />
+        <equipment slot="Gloves" id="Item.woven_leather_bracers" />
+        <equipment slot="Leg" id="Item.decorated_imperial_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_1_Cairhien" name="{=!}stage_2_page_0_branch_1_Cairhien" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Cairhien" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.imperial_robes" />
+        <equipment slot="Leg" id="Item.fine_town_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_2_Cairhien" name="{=!}stage_2_page_0_branch_2_Cairhien" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Cairhien" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.tunic_with_shoulder_pads" />
+        <equipment slot="Leg" id="Item.fine_town_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_3_Cairhien" name="{=!}stage_2_page_0_branch_3_Cairhien" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Cairhien" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.leather_cap" />
+        <equipment slot="Body" id="Item.tied_cloth_tunic" />
+        <equipment slot="Leg" id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_4_Cairhien" name="{=!}stage_2_page_0_branch_4_Cairhien" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Cairhien" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.basic_imperial_leather_armor" />
+        <equipment slot="Gloves" id="Item.padded_mitten" />
+        <equipment slot="Leg" id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_5_Cairhien" name="{=!}stage_2_page_0_branch_5_Cairhien" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Cairhien" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.imperial_robes" />
+        <equipment slot="Leg" id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!--Culture.Murandy-->
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_0_Murandy" name="{=!}stage_2_page_0_branch_0_Murandy" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Murandy" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.ironlame_feathered_spangenhelm" />
+        <equipment slot="Cape" id="Item.imperial_studded_strip_shoulders" />
+        <equipment slot="Body" id="Item.legionary_mail" />
+        <equipment slot="Gloves" id="Item.woven_leather_bracers" />
+        <equipment slot="Leg" id="Item.decorated_imperial_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_1_Murandy" name="{=!}stage_2_page_0_branch_1_Murandy" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Murandy" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.imperial_robes" />
+        <equipment slot="Leg" id="Item.fine_town_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_2_Murandy" name="{=!}stage_2_page_0_branch_2_Murandy" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Murandy" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.tunic_with_shoulder_pads" />
+        <equipment slot="Leg" id="Item.fine_town_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_3_Murandy" name="{=!}stage_2_page_0_branch_3_Murandy" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Murandy" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.leather_cap" />
+        <equipment slot="Body" id="Item.tied_cloth_tunic" />
+        <equipment slot="Leg" id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_4_Murandy" name="{=!}stage_2_page_0_branch_4_Murandy" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Murandy" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.basic_imperial_leather_armor" />
+        <equipment slot="Gloves" id="Item.padded_mitten" />
+        <equipment slot="Leg" id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_5_Murandy" name="{=!}stage_2_page_0_branch_5_Murandy" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Murandy" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.imperial_robes" />
+        <equipment slot="Leg" id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!--Culture.WhiteTower-->
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_0_WhiteTower" name="{=!}stage_2_page_0_branch_0_WhiteTower" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.WhiteTower" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.ironlame_feathered_spangenhelm" />
+        <equipment slot="Cape" id="Item.imperial_studded_strip_shoulders" />
+        <equipment slot="Body" id="Item.legionary_mail" />
+        <equipment slot="Gloves" id="Item.woven_leather_bracers" />
+        <equipment slot="Leg" id="Item.decorated_imperial_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_1_WhiteTower" name="{=!}stage_2_page_0_branch_1_WhiteTower" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.WhiteTower" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.imperial_robes" />
+        <equipment slot="Leg" id="Item.fine_town_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_2_WhiteTower" name="{=!}stage_2_page_0_branch_2_WhiteTower" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.WhiteTower" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.tunic_with_shoulder_pads" />
+        <equipment slot="Leg" id="Item.fine_town_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_3_WhiteTower" name="{=!}stage_2_page_0_branch_3_WhiteTower" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.WhiteTower" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.leather_cap" />
+        <equipment slot="Body" id="Item.tied_cloth_tunic" />
+        <equipment slot="Leg" id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_4_WhiteTower" name="{=!}stage_2_page_0_branch_4_WhiteTower" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.WhiteTower" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.basic_imperial_leather_armor" />
+        <equipment slot="Gloves" id="Item.padded_mitten" />
+        <equipment slot="Leg" id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_5_WhiteTower" name="{=!}stage_2_page_0_branch_5_WhiteTower" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.WhiteTower" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.imperial_robes" />
+        <equipment slot="Leg" id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!--Culture.Dragonsworn-->
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_0_Dragonsworn" name="{=!}stage_2_page_0_branch_0_Dragonsworn" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Dragonsworn" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.ironlame_feathered_spangenhelm" />
+        <equipment slot="Cape" id="Item.imperial_studded_strip_shoulders" />
+        <equipment slot="Body" id="Item.legionary_mail" />
+        <equipment slot="Gloves" id="Item.woven_leather_bracers" />
+        <equipment slot="Leg" id="Item.decorated_imperial_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_1_Dragonsworn" name="{=!}stage_2_page_0_branch_1_Dragonsworn" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Dragonsworn" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.imperial_robes" />
+        <equipment slot="Leg" id="Item.fine_town_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_2_Dragonsworn" name="{=!}stage_2_page_0_branch_2_Dragonsworn" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Dragonsworn" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.tunic_with_shoulder_pads" />
+        <equipment slot="Leg" id="Item.fine_town_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_3_Dragonsworn" name="{=!}stage_2_page_0_branch_3_Dragonsworn" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Dragonsworn" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.leather_cap" />
+        <equipment slot="Body" id="Item.tied_cloth_tunic" />
+        <equipment slot="Leg" id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_4_Dragonsworn" name="{=!}stage_2_page_0_branch_4_Dragonsworn" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Dragonsworn" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.basic_imperial_leather_armor" />
+        <equipment slot="Gloves" id="Item.padded_mitten" />
+        <equipment slot="Leg" id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_5_Dragonsworn" name="{=!}stage_2_page_0_branch_5_Dragonsworn" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Dragonsworn" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.imperial_robes" />
+        <equipment slot="Leg" id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!--Illian are aserai culture so not implemented-->
+  <!--Culture.Altara-->
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_0_Altara" name="{=!}stage_2_page_0_branch_0_Altara" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Altara" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_aserai" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.emirs_helmet" />
+        <equipment slot="Cape" id="Item.wrapped_scarf" />
+        <equipment slot="Body" id="Item.stitched_leather_over_mail" />
+        <equipment slot="Gloves" id="Item.guarded_padded_vambrace" />
+        <equipment slot="Leg" id="Item.wrapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_1_Altara" name="{=!}stage_2_page_0_branch_1_Altara" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Altara" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_aserai" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.aserai_civil_d_hscarf" />
+        <equipment slot="Body" id="Item.tassled_southern_robes" />
+        <equipment slot="Leg" id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_2_Altara" name="{=!}stage_2_page_0_branch_2_Altara" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Altara" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_aserai" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.aserai_civil_c_head" />
+        <equipment slot="Body" id="Item.aserai_civil_e" />
+        <equipment slot="Leg" id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_3_Altara" name="{=!}stage_2_page_0_branch_3_Altara" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Altara" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_aserai" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.aserai_civil_hscarf_b" />
+        <equipment slot="Body" id="Item.thick_sleeved_robe" />
+        <equipment slot="Leg" id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_4_Altara" name="{=!}stage_2_page_0_branch_4_Altara" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Altara" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_aserai" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.desert_cap" />
+        <equipment slot="Cape" id="Item.aserai_horseman_shoulder" />
+        <equipment slot="Body" id="Item.studded_leather_coat" />
+        <equipment slot="Gloves" id="Item.guarded_padded_vambrace" />
+        <equipment slot="Leg" id="Item.wrapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_5_Altara" name="{=!}stage_2_page_0_branch_5_Altara" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Altara" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_aserai" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.tuareg" />
+        <equipment slot="Body" id="Item.eastern_silk_clothing" />
+        <equipment slot="Leg" id="Item.wrapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!--Culture.Mayene-->
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_0_Mayene" name="{=!}stage_2_page_0_branch_0_Mayene" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Mayene" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_aserai" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.emirs_helmet" />
+        <equipment slot="Cape" id="Item.wrapped_scarf" />
+        <equipment slot="Body" id="Item.stitched_leather_over_mail" />
+        <equipment slot="Gloves" id="Item.guarded_padded_vambrace" />
+        <equipment slot="Leg" id="Item.wrapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_1_Mayene" name="{=!}stage_2_page_0_branch_1_Mayene" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Mayene" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_aserai" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.aserai_civil_d_hscarf" />
+        <equipment slot="Body" id="Item.tassled_southern_robes" />
+        <equipment slot="Leg" id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_2_Mayene" name="{=!}stage_2_page_0_branch_2_Mayene" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Mayene" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_aserai" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.aserai_civil_c_head" />
+        <equipment slot="Body" id="Item.aserai_civil_e" />
+        <equipment slot="Leg" id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_3_Mayene" name="{=!}stage_2_page_0_branch_3_Mayene" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Mayene" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_aserai" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.aserai_civil_hscarf_b" />
+        <equipment slot="Body" id="Item.thick_sleeved_robe" />
+        <equipment slot="Leg" id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_4_Mayene" name="{=!}stage_2_page_0_branch_4_Mayene" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Mayene" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_aserai" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.desert_cap" />
+        <equipment slot="Cape" id="Item.aserai_horseman_shoulder" />
+        <equipment slot="Body" id="Item.studded_leather_coat" />
+        <equipment slot="Gloves" id="Item.guarded_padded_vambrace" />
+        <equipment slot="Leg" id="Item.wrapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_5_Mayene" name="{=!}stage_2_page_0_branch_5_Mayene" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Mayene" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_aserai" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.tuareg" />
+        <equipment slot="Body" id="Item.eastern_silk_clothing" />
+        <equipment slot="Leg" id="Item.wrapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!--Saldea are battania culture so not implemented-->
+  <!--Culture.BlackTower-->
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_0_BlackTower" name="{=!}stage_2_page_0_branch_0_BlackTower" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.BlackTower" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_battania" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.ridged_northernhelm" />
+        <equipment slot="Cape" id="Item.battania_shoulder_strap_cloak" />
+        <equipment slot="Body" id="Item.ranger_mail" />
+        <equipment slot="Gloves" id="Item.ragged_armwraps" />
+        <equipment slot="Leg" id="Item.battania_fur_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_1_BlackTower" name="{=!}stage_2_page_0_branch_1_BlackTower" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.BlackTower" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_battania" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Cape" id="Item.rough_bearskin" />
+        <equipment slot="Body" id="Item.fur_armor" />
+        <equipment slot="Gloves" id="Item.highland_gloves" />
+        <equipment slot="Leg" id="Item.battania_fur_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_2_BlackTower" name="{=!}stage_2_page_0_branch_2_BlackTower" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.BlackTower" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_battania" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.battania_civil_c" />
+        <equipment slot="Gloves" id="Item.buttoned_leather_bracers" />
+        <equipment slot="Leg" id="Item.ragged_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_3_BlackTower" name="{=!}stage_2_page_0_branch_3_BlackTower" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.BlackTower" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_battania" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Cape" id="Item.battania_civil_cape" />
+        <equipment slot="Body" id="Item.battania_civil_b" />
+        <equipment slot="Gloves" id="Item.strapped_leather_bracers" />
+        <equipment slot="Leg" id="Item.highland_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_4_BlackTower" name="{=!}stage_2_page_0_branch_4_BlackTower" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.BlackTower" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_battania" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Cape" id="Item.battania_woodland_cloak" />
+        <equipment slot="Body" id="Item.battania_woodland_outfit" />
+        <equipment slot="Gloves" id="Item.armwraps" />
+        <equipment slot="Leg" id="Item.rough_tied_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_5_BlackTower" name="{=!}stage_2_page_0_branch_5_BlackTower" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.BlackTower" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_battania" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Cape" id="Item.battania_shoulder_strap_cloak" />
+        <equipment slot="Body" id="Item.bandit_fur_a" />
+        <equipment slot="Leg" id="Item.battania_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!--Culture.Amamdicia-->
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_0_Amamdicia" name="{=!}stage_2_page_0_branch_0_Amamdicia" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Amamdicia" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_battania" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.ridged_northernhelm" />
+        <equipment slot="Cape" id="Item.battania_shoulder_strap_cloak" />
+        <equipment slot="Body" id="Item.ranger_mail" />
+        <equipment slot="Gloves" id="Item.ragged_armwraps" />
+        <equipment slot="Leg" id="Item.battania_fur_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_1_Amamdicia" name="{=!}stage_2_page_0_branch_1_Amamdicia" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Amamdicia" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_battania" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Cape" id="Item.rough_bearskin" />
+        <equipment slot="Body" id="Item.fur_armor" />
+        <equipment slot="Gloves" id="Item.highland_gloves" />
+        <equipment slot="Leg" id="Item.battania_fur_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_2_Amamdicia" name="{=!}stage_2_page_0_branch_2_Amamdicia" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Amamdicia" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_battania" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.battania_civil_c" />
+        <equipment slot="Gloves" id="Item.buttoned_leather_bracers" />
+        <equipment slot="Leg" id="Item.ragged_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_3_Amamdicia" name="{=!}stage_2_page_0_branch_3_Amamdicia" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Amamdicia" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_battania" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Cape" id="Item.battania_civil_cape" />
+        <equipment slot="Body" id="Item.battania_civil_b" />
+        <equipment slot="Gloves" id="Item.strapped_leather_bracers" />
+        <equipment slot="Leg" id="Item.highland_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_4_Amamdicia" name="{=!}stage_2_page_0_branch_4_Amamdicia" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Amamdicia" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_battania" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Cape" id="Item.battania_woodland_cloak" />
+        <equipment slot="Body" id="Item.battania_woodland_outfit" />
+        <equipment slot="Gloves" id="Item.armwraps" />
+        <equipment slot="Leg" id="Item.rough_tied_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_5_Amamdicia" name="{=!}stage_2_page_0_branch_5_Amamdicia" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Amamdicia" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_battania" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Cape" id="Item.battania_shoulder_strap_cloak" />
+        <equipment slot="Body" id="Item.bandit_fur_a" />
+        <equipment slot="Leg" id="Item.battania_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!--Aiel are khuzait culture so not implemented-->
+  <!--Culture.Arafel-->
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_0_Arafel" name="{=!}stage_2_page_0_branch_0_Arafel" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Arafel" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_khuzait" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.plumed_nomad_helmet" />
+        <equipment slot="Cape" id="Item.leather_lamellar_shoulders" />
+        <equipment slot="Body" id="Item.leather_lamellar_armor" />
+        <equipment slot="Gloves" id="Item.studded_vambraces" />
+        <equipment slot="Leg" id="Item.reinforced_suede_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_1_Arafel" name="{=!}stage_2_page_0_branch_1_Arafel" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Arafel" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_khuzait" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.eastern_cap" />
+        <equipment slot="Body" id="Item.khuzait_belt_leather" />
+        <equipment slot="Leg" id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_2_Arafel" name="{=!}stage_2_page_0_branch_2_Arafel" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Arafel" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_khuzait" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.nomad_cap" />
+        <equipment slot="Body" id="Item.khuzait_civil_coat" />
+        <equipment slot="Leg" id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_3_Arafel" name="{=!}stage_2_page_0_branch_3_Arafel" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Arafel" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_khuzait" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.decorated_nomad_cap" />
+        <equipment slot="Body" id="Item.steppe_robe" />
+        <equipment slot="Leg" id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_4_Arafel" name="{=!}stage_2_page_0_branch_4_Arafel" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Arafel" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_khuzait" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.nomad_padded_hood" />
+        <equipment slot="Body" id="Item.rough_fur_armor" />
+        <equipment slot="Leg" id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_5_Arafel" name="{=!}stage_2_page_0_branch_5_Arafel" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Arafel" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_khuzait" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.upturned_fur_cap" />
+        <equipment slot="Body" id="Item.belted_leather_cuirass" />
+        <equipment slot="Gloves" id="Item.eastern_wrapped_armguards" />
+        <equipment slot="Leg" id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!--Culture.Kandor-->
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_0_Kandor" name="{=!}stage_2_page_0_branch_0_Kandor" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Kandor" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_khuzait" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.plumed_nomad_helmet" />
+        <equipment slot="Cape" id="Item.leather_lamellar_shoulders" />
+        <equipment slot="Body" id="Item.leather_lamellar_armor" />
+        <equipment slot="Gloves" id="Item.studded_vambraces" />
+        <equipment slot="Leg" id="Item.reinforced_suede_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_1_Kandor" name="{=!}stage_2_page_0_branch_1_Kandor" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Kandor" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_khuzait" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.eastern_cap" />
+        <equipment slot="Body" id="Item.khuzait_belt_leather" />
+        <equipment slot="Leg" id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_2_Kandor" name="{=!}stage_2_page_0_branch_2_Kandor" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Kandor" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_khuzait" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.nomad_cap" />
+        <equipment slot="Body" id="Item.khuzait_civil_coat" />
+        <equipment slot="Leg" id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_3_Kandor" name="{=!}stage_2_page_0_branch_3_Kandor" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Kandor" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_khuzait" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.decorated_nomad_cap" />
+        <equipment slot="Body" id="Item.steppe_robe" />
+        <equipment slot="Leg" id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_4_Kandor" name="{=!}stage_2_page_0_branch_4_Kandor" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Kandor" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_khuzait" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.nomad_padded_hood" />
+        <equipment slot="Body" id="Item.rough_fur_armor" />
+        <equipment slot="Leg" id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_5_Kandor" name="{=!}stage_2_page_0_branch_5_Kandor" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Kandor" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_khuzait" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.upturned_fur_cap" />
+        <equipment slot="Body" id="Item.belted_leather_cuirass" />
+        <equipment slot="Gloves" id="Item.eastern_wrapped_armguards" />
+        <equipment slot="Leg" id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!--Culture.Shienar-->
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_0_Shienar" name="{=!}stage_2_page_0_branch_0_Shienar" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Shienar" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_khuzait" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.plumed_nomad_helmet" />
+        <equipment slot="Cape" id="Item.leather_lamellar_shoulders" />
+        <equipment slot="Body" id="Item.leather_lamellar_armor" />
+        <equipment slot="Gloves" id="Item.studded_vambraces" />
+        <equipment slot="Leg" id="Item.reinforced_suede_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_1_Shienar" name="{=!}stage_2_page_0_branch_1_Shienar" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Shienar" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_khuzait" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.eastern_cap" />
+        <equipment slot="Body" id="Item.khuzait_belt_leather" />
+        <equipment slot="Leg" id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_2_Shienar" name="{=!}stage_2_page_0_branch_2_Shienar" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Shienar" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_khuzait" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.nomad_cap" />
+        <equipment slot="Body" id="Item.khuzait_civil_coat" />
+        <equipment slot="Leg" id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_3_Shienar" name="{=!}stage_2_page_0_branch_3_Shienar" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Shienar" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_khuzait" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.decorated_nomad_cap" />
+        <equipment slot="Body" id="Item.steppe_robe" />
+        <equipment slot="Leg" id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_4_Shienar" name="{=!}stage_2_page_0_branch_4_Shienar" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Shienar" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_khuzait" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.nomad_padded_hood" />
+        <equipment slot="Body" id="Item.rough_fur_armor" />
+        <equipment slot="Leg" id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_5_Shienar" name="{=!}stage_2_page_0_branch_5_Shienar" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Shienar" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_khuzait" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.upturned_fur_cap" />
+        <equipment slot="Body" id="Item.belted_leather_cuirass" />
+        <equipment slot="Gloves" id="Item.eastern_wrapped_armguards" />
+        <equipment slot="Leg" id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!--Shadow are sturgia culture so not implemented-->
+  <!--Culture.FarMadding-->
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_0_FarMadding" name="{=!}stage_2_page_0_branch_0_FarMadding" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.FarMadding" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.nordic_hauberk" />
+        <equipment slot="Leg" id="Item.mail_cavalier_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_1_FarMadding" name="{=!}stage_2_page_0_branch_1_FarMadding" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.FarMadding" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.nordic_leather_cap" />
+        <equipment slot="Body" id="Item.merchants_fur_coat" />
+        <equipment slot="Leg" id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_2_FarMadding" name="{=!}stage_2_page_0_branch_2_FarMadding" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.FarMadding" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.northern_fur_cap" />
+        <equipment slot="Body" id="Item.heavy_nordic_tunic" />
+        <equipment slot="Leg" id="Item.leather_cavalier_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_3_FarMadding" name="{=!}stage_2_page_0_branch_3_FarMadding" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.FarMadding" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.roughhide_cap" />
+        <equipment slot="Body" id="Item.heavy_nordic_coat" />
+        <equipment slot="Leg" id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_4_FarMadding" name="{=!}stage_2_page_0_branch_4_FarMadding" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.FarMadding" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.northern_leather_tabard" />
+        <equipment slot="Leg" id="Item.leather_cavalier_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_5_FarMadding" name="{=!}stage_2_page_0_branch_5_FarMadding" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.FarMadding" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.nordic_fur_cap" />
+        <equipment slot="Cape" id="Item.scarf" />
+        <equipment slot="Body" id="Item.northern_leather_vest" />
+        <equipment slot="Leg" id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!--Culture.Tarabon-->
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_0_Tarabon" name="{=!}stage_2_page_0_branch_0_Tarabon" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Tarabon" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.nordic_hauberk" />
+        <equipment slot="Leg" id="Item.mail_cavalier_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_1_Tarabon" name="{=!}stage_2_page_0_branch_1_Tarabon" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Tarabon" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.nordic_leather_cap" />
+        <equipment slot="Body" id="Item.merchants_fur_coat" />
+        <equipment slot="Leg" id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_2_Tarabon" name="{=!}stage_2_page_0_branch_2_Tarabon" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Tarabon" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.northern_fur_cap" />
+        <equipment slot="Body" id="Item.heavy_nordic_tunic" />
+        <equipment slot="Leg" id="Item.leather_cavalier_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_3_Tarabon" name="{=!}stage_2_page_0_branch_3_Tarabon" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Tarabon" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.roughhide_cap" />
+        <equipment slot="Body" id="Item.heavy_nordic_coat" />
+        <equipment slot="Leg" id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_4_Tarabon" name="{=!}stage_2_page_0_branch_4_Tarabon" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Tarabon" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.northern_leather_tabard" />
+        <equipment slot="Leg" id="Item.leather_cavalier_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_5_Tarabon" name="{=!}stage_2_page_0_branch_5_Tarabon" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Tarabon" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.nordic_fur_cap" />
+        <equipment slot="Cape" id="Item.scarf" />
+        <equipment slot="Body" id="Item.northern_leather_vest" />
+        <equipment slot="Leg" id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!--Arad Doman are vlandia culture so not implemented-->
+  <!--Culture.Ghealdan-->
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_0_Ghealdan" name="{=!}stage_2_page_0_branch_0_Ghealdan" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Ghealdan" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.nasal_helmet_over_padded_cloth" />
+        <equipment slot="Body" id="Item.white_coat_over_mail" />
+        <equipment slot="Gloves" id="Item.reinforced_leather_vambraces" />
+        <equipment slot="Leg" id="Item.mail_cavalier_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_1_Ghealdan" name="{=!}stage_2_page_0_branch_1_Ghealdan" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Ghealdan" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.merchants_hat" />
+        <equipment slot="Body" id="Item.long_hemp_tunic" />
+        <equipment slot="Leg" id="Item.leather_cavalier_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_2_Ghealdan" name="{=!}stage_2_page_0_branch_2_Ghealdan" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Ghealdan" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.leather_apron" />
+        <equipment slot="Leg" id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_3_Ghealdan" name="{=!}stage_2_page_0_branch_3_Ghealdan" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Ghealdan" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Cape" id="Item.green_hood" />
+        <equipment slot="Body" id="Item.monk_robe" />
+        <equipment slot="Leg" id="Item.leather_cavalier_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_4_Ghealdan" name="{=!}stage_2_page_0_branch_4_vlandia" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Ghealdan" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.woven_leather_vest" />
+        <equipment slot="Gloves" id="Item.padded_vambrace" />
+        <equipment slot="Leg" id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_5_Ghealdan" name="{=!}stage_2_page_0_branch_5_vlandia" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Ghealdan" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.leather_coat_over_cloth" />
+        <equipment slot="Gloves" id="Item.leather_gloves" />
+        <equipment slot="Leg" id="Item.leather_cavalier_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!--Culture.Tear-->
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_0_Tear" name="{=!}stage_2_page_0_branch_0_Tear" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Tear" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.nasal_helmet_over_padded_cloth" />
+        <equipment slot="Body" id="Item.white_coat_over_mail" />
+        <equipment slot="Gloves" id="Item.reinforced_leather_vambraces" />
+        <equipment slot="Leg" id="Item.mail_cavalier_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_1_Tear" name="{=!}stage_2_page_0_branch_1_Tear" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Tear" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Head" id="Item.merchants_hat" />
+        <equipment slot="Body" id="Item.long_hemp_tunic" />
+        <equipment slot="Leg" id="Item.leather_cavalier_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_2_Tear" name="{=!}stage_2_page_0_branch_2_Tear" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Tear" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.leather_apron" />
+        <equipment slot="Leg" id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_3_Tear" name="{=!}stage_2_page_0_branch_3_Tear" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Tear" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Cape" id="Item.green_hood" />
+        <equipment slot="Body" id="Item.monk_robe" />
+        <equipment slot="Leg" id="Item.leather_cavalier_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_4_Tear" name="{=!}stage_2_page_0_branch_4_vlandia" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Tear" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.woven_leather_vest" />
+        <equipment slot="Gloves" id="Item.padded_vambrace" />
+        <equipment slot="Leg" id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_education_templates_stage_2_page_0_branch_5_Tear" name="{=!}stage_2_page_0_branch_5_vlandia" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.Tear" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills />
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body" id="Item.leather_coat_over_cloth" />
+        <equipment slot="Gloves" id="Item.leather_gloves" />
+        <equipment slot="Leg" id="Item.leather_cavalier_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+</NPCCharacters>
