@@ -31,7 +31,7 @@
     settlement_banner_mesh="encounter_flag_a"
     flag_mesh="info_screen_flags_b"
     name="{=NF627oiX}Cairhien"
-    short_name="{=nsDj8Qxl}Cairhien"
+    short_name="{=nsDj8Qxl}Nation of Cairhien"
     title="{=NF627oiX}Cairhien"
     ruler_title="{=8pjMAqOg}Monarch"
     text="{=aEfsyVH4}Cairhien is a large country in the east-central part of the Westlands. Cairhien's capital is the city of Cairhien, which is a major port on the Alguenya, which flows south to Aringill where it joins the longer Erinin and then to Tear and the Aryth Ocean. Its strategic position as the gateway to the Aiel Waste via the Jangai Pass and as a major factor in river trade with Tear has allowed it to flourish and Cairhien to be a moderately rich nation. That position has also worked against Cairhien, as the Aiel have invaded it twice, doing great damage to the capital city and surrounding areas. Despite its size and is somewhat wealthly, it only has an average standing army ">
@@ -57,9 +57,10 @@
     settlement_banner_mesh="encounter_flag_a"
     flag_mesh="info_screen_flags_a"
     name="{=yG3YUySN}Andor"
-    short_name="{=ZEmH0MwL}Andor"
+    short_name="{=ZEmH0MwL}Nation of Andor"
     title="{=yG3YUySN}Andor"
-    text="{=mOZsbV8j} Andor is a country in the heart of the Westlands. It is the largest and most populous country in the West. After the Borderlands, it also has the largest and most well-trained army. Due to a combination of wealth, lack of major wars or losses and location, Andor boasts an impressive army where even common soldiers will be equip with quality weapons and armor leaving them a powerful opponent to their enemies.">
+    ruler_title="Monarch"
+    text="{=mOZsbV8j}Andor is a country in the heart of the Westlands. It is the largest and most populous country in the West. After the Borderlands, it also has the largest and most well-trained army. Due to a combination of wealth, lack of major wars or losses and location, Andor boasts an impressive army where even common soldiers will be equip with quality weapons and armor leaving them a powerful opponent to their enemies.">
     <relationships>
 
     </relationships>
@@ -82,9 +83,10 @@
     settlement_banner_mesh="encounter_flag_a"
     flag_mesh="info_screen_flags_b"
     name="{=frBQ9mbP}Murandy"
-    short_name="{=GbnlN6na}Murandy"
-    title="{=frBQ9mbPMurandy"
-    text="{=Xtyb9Dyr} Murandy is a small nation in the central part of the Westlands. It has a history of border disputes with its larger neighbor to the north, Andor. It does not have an official standing army, meaning most of its soldiers are hastily formed militia and levies or mercenaries. This has resulted in a fairly weak army when it needs to go to war as fear is usually the motivator for the local nobles working together, resulting in disputes and disagreements which impede its military further">
+    short_name="{=GbnlN6na}Nation of Murandy"
+    title="{=frBQ9mbP}Murandy"
+    ruler_title="Monarch"
+    text="{=Xtyb9Dyr}Murandy is a small nation in the central part of the Westlands. It has a history of border disputes with its larger neighbor to the north, Andor. It does not have an official standing army, meaning most of its soldiers are hastily formed militia and levies or mercenaries. This has resulted in a fairly weak army when it needs to go to war as fear is usually the motivator for the local nobles working together, resulting in disputes and disagreements which impede its military further">
     <relationships>
 
     </relationships>
@@ -110,7 +112,7 @@
     short_name="{=C4qjBqLO}Shadowspawn"
     title="{=iYCR3xuQ}Shadowspawn"
     ruler_title="{=FmbgPGBL}Forsaken"
-    text="{=bVihnRUu} The Dark One is a cosmic entity that has existed since before the creation of the Wheel, imprisoned by the Creator outside the Pattern at the moment of creation. His goal is not to destroy, but to utterly dominate the Wheel and all life within it, turning them to his will. Long ago in the Age of Legends, humans looking for more power drilled into his prison, but the power they sensed was the Dark One himself. The Dark One's forces are made up from Shadowspawn: By far the most abundant variety of Shadowspawn, Trollocs are the most common and have the body of a man and the head and feet of an animal such as a bear, bird, wolf, or goat. Trollocs are quite large, generally around eight feet tall. Myrddraal, are man-sized and pasty white with no eyes, yet they see like eagles by night and day. The Dark One's Forces also consist of a number of powerful chanellers, some unwillingly turned to the shadow. The most powerful chanellers in the shadow's armies are known as The Forsaken">
+    text="{=bVihnRUu}The Dark One is a cosmic entity that has existed since before the creation of the Wheel, imprisoned by the Creator outside the Pattern at the moment of creation. His goal is not to destroy, but to utterly dominate the Wheel and all life within it, turning them to his will. Long ago in the Age of Legends, humans looking for more power drilled into his prison, but the power they sensed was the Dark One himself. The Dark One's forces are made up from Shadowspawn: By far the most abundant variety of Shadowspawn, Trollocs are the most common and have the body of a man and the head and feet of an animal such as a bear, bird, wolf, or goat. Trollocs are quite large, generally around eight feet tall. Myrddraal, are man-sized and pasty white with no eyes, yet they see like eagles by night and day. The Dark One's Forces also consist of a number of powerful chanellers, some unwillingly turned to the shadow. The most powerful chanellers in the shadow's armies are known as The Forsaken">
     <relationships>
 
       <relationship kingdom="Kingdom.battania"
@@ -136,10 +138,10 @@
     settlement_banner_mesh="encounter_flag_c"
     flag_mesh="info_screen_flags_a"
     name="{=aseraifaction}Illian"
-    short_name="{=aseraimembers}Illian"
+    short_name="{=aseraimembers}Nation of Illian"
     title="{=UsbwPmYb}Illian"
-    ruler_title="{=5djtBrHj}King"
-    text="{=qggtvf8Y} Illian is a country that lies in the far south of the Westlands, to the west of Tear whose capital city bears the same name. It is famous for hosting the Great Hunt for the Horn. It is feared by its neighbors Altara and Murandy for swallowing pieces of their countries from time to time. Illian's elite troops are known as the Illianer Companions. This organization is rare in that it permits foreigners to become First Captain, the highest rank in the Companions. They are placed wherever fighting is heaviest, and follow the king into danger. Illian strength in its army comes from it's skilled fighters as well as the wealth to equip them sufficiently ">
+    ruler_title="{=5djtBrHj}Monarch"
+    text="{=qggtvf8Y}Illian is a country that lies in the far south of the Westlands, to the west of Tear whose capital city bears the same name. It is famous for hosting the Great Hunt for the Horn. It is feared by its neighbors Altara and Murandy for swallowing pieces of their countries from time to time. Illian's elite troops are known as the Illianer Companions. This organization is rare in that it permits foreigners to become First Captain, the highest rank in the Companions. They are placed wherever fighting is heaviest, and follow the king into danger. Illian strength in its army comes from it's skilled fighters as well as the wealth to equip them sufficiently ">
     <relationships>
 
 
@@ -160,10 +162,10 @@
     settlement_banner_mesh="encounter_flag_d"
     flag_mesh="info_screen_flags_c"
     name="{=FjwRsf1C}Arad Doman"
-    short_name="{=8HMyTKF6}Arad Doman"
+    short_name="{=8HMyTKF6}Nation of Arad Doman"
     title="{=lAWwcO6b}Arad Doman"
     ruler_title="{=hwnp9abW}Monarch"
-    text="{=IudGLWQZ} Arad Doman is a country that lies to the far west of the Westlands, along the coast of the Aryth Ocean. The army of Arad Doman historically consists of the personal levies of nobles and the levies raised by the guilds, never being a permanent formation. The guilds do often keep some permanent troops in guise of guards, which often number as many as a given House can call upon. However because of the lack of permanent soliders the military of this country is not very strong as many of the soldiers called up consist of untrained men from local towns. ">
+    text="{=IudGLWQZ}Arad Doman is a country that lies to the far west of the Westlands, along the coast of the Aryth Ocean. The army of Arad Doman historically consists of the personal levies of nobles and the levies raised by the guilds, never being a permanent formation. The guilds do often keep some permanent troops in guise of guards, which often number as many as a given House can call upon. However because of the lack of permanent soliders the military of this country is not very strong as many of the soldiers called up consist of untrained men from local towns. ">
 
     <relationships>
 
@@ -184,10 +186,10 @@
     settlement_banner_mesh="encounter_flag_e"
     flag_mesh="info_screen_flags_b"
     name="{=0B27RrYJ}Saldea"
-    short_name="{=bgjiFSHZ}Saldean"
+    short_name="{=bgjiFSHZ}Nation of Saldea"
     title="{=qaDIU0XC}Saldea "
     ruler_title="{=afvM7XpQ}Monarch"
-    text="{=ZjaaAoxd} Saldaea is one of the four Borderland nations which lie on the threshold of the Great Blight. Saldaea has a martial culture, with the need for constant vigilance against Trolloc raids from the north. Relationships with the other Borderlands are excellent, with this strengthened by intermarriages between the leading houses. Because of this they are known to be a trustworthy ally in times of need. Their cavalry is said to be the best in the known world ">
+    text="{=ZjaaAoxd}Saldaea is one of the four Borderland nations which lie on the threshold of the Great Blight. Saldaea has a martial culture, with the need for constant vigilance against Trolloc raids from the north. Relationships with the other Borderlands are excellent, with this strengthened by intermarriages between the leading houses. Because of this they are known to be a trustworthy ally in times of need. Their cavalry is said to be the best in the known world ">
     <relationships>
       <relationship kingdom="Kingdom.sturgia"
         value="-1"
@@ -213,9 +215,9 @@
     flag_mesh="info_screen_flags_b"
     name="{=sZLd6VHi}Aiel"
     short_name="{=vJOWy1QF}Aiel"
-    title="{=bF7HmNGQ} Aiel"
+    title="{=bF7HmNGQ}Aiel"
     ruler_title="{=hwnp9abW}Chief"
-    text="{=fGNdo1BK} The Aiel are a people who inhabit the land to the east of the Spine of the World, known as the Aiel Waste. They are unwelcoming to visitors, and little is known of them, much of what is believed being wrong. The Aiel are divided into large groups, known as clans, each clan is a closely-knit group of people, bound by ties of blood, marriage and friendship. Aiel live in a harsh enviroment, constantly forged by war which produces extremely fit long distance runners who are more than capable of fighting at the end of a long march to war. Although they do not wear armor, they are extrenely skilled in melee and the use of bows and spears. Most enemies are known to underestimate them due to speed and efficiency in combat they have been known to appear as if from nowhere and attack in lightning fast, hard hitting ambushes before the enemy can react. They are highly intelligent in war and usually only fight battles on their terms which as led many a honorable and brave commander to their death who rushes right into their hands. ">
+    text="{=fGNdo1BK}The Aiel are a people who inhabit the land to the east of the Spine of the World, known as the Aiel Waste. They are unwelcoming to visitors, and little is known of them, much of what is believed being wrong. The Aiel are divided into large groups, known as clans, each clan is a closely-knit group of people, bound by ties of blood, marriage and friendship. Aiel live in a harsh enviroment, constantly forged by war which produces extremely fit long distance runners who are more than capable of fighting at the end of a long march to war. Although they do not wear armor, they are extrenely skilled in melee and the use of bows and spears. Most enemies are known to underestimate them due to speed and efficiency in combat they have been known to appear as if from nowhere and attack in lightning fast, hard hitting ambushes before the enemy can react. They are highly intelligent in war and usually only fight battles on their terms which as led many a honorable and brave commander to their death who rushes right into their hands. ">
     <relationships>
       <relationship kingdom="Kingdom.sturgia"
         value="-1"
@@ -242,7 +244,7 @@
     settlement_banner_mesh="encounter_flag_a"
     flag_mesh="info_screen_flags_b"
     name="{=NF627oiX}Altara"
-    short_name="{=nsDj8Qxl}Altara"
+    short_name="{=nsDj8Qxl}Nation of Altara"
     title="{=NF627oiX}Altara"
     ruler_title="{=8pjMAqOg}Monarch"
     text="{=aEfsyVH4} Altara is a country located in the south-central part of the Westlands. Given the political situation in Altara, one cannot say that there is any sort of national army. When the army is raised, it consists of the levies of various nobles, who usually squabble over command and are known to take their soldiers away from the army due to such quarrels, even in dire circumstances. Altara never had a standing force as any ruler who attempted to form such a group would have been pulled down immediately by the nobles jealous of their new power. A combination of all these factors has left this country low down in terms of military strength">
@@ -275,7 +277,7 @@
     settlement_banner_mesh="encounter_flag_a"
     flag_mesh="info_screen_flags_b"
     name="{=NF627oiX}The White Tower"
-    short_name="{=nsDj8Qxl} The White Tower"
+    short_name="{=nsDj8Qxl}White Tower"
     title="{=NF627oiX}The White Tower"
     ruler_title="{=8pjMAqOg}Amyrlin Seat"
     text="{=aEfsyVH4}The White Tower is both the central structure that houses Aes Sedai in Tar Valon as well as a term that describes the organization of Aes Sedai itself. The White Tower is both home and a training facility for Aes Sedai, those seeking to become Aes Sedai, and warders who serve and protect Aes Sedai sisters. The White Tower is split into several colored Ajahs each representing a different purpose or path that each sister wishes to follow. It is the primary location for females who can channel to attend in the known world.">
@@ -308,10 +310,10 @@
     settlement_banner_mesh="encounter_flag_a"
     flag_mesh="info_screen_flags_b"
     name="{=NF627oiX}Mayene"
-    short_name="{=nsDj8Qxl} Mayene"
-    title="{=NF627oiX} Mayene"
+    short_name="{=nsDj8Qxl}City-state of Mayene"
+    title="{=NF627oiX}Mayene"
     ruler_title="{=8pjMAqOg}First of Mayene"
-    text="{=aEfsyVH4} Mayene is a small but wealthy city-state on the Sea of Storms, in the far southeast of the Westlands. Mayene is an independent city with its own government and military forces. Although a small nation, Mayene is home to the Winged Guards who have an impressive reputation for martial prowess, although their numbers are small">
+    text="{=aEfsyVH4}Mayene is a small but wealthy city-state on the Sea of Storms, in the far southeast of the Westlands. Mayene is an independent city with its own government and military forces. Although a small nation, Mayene is home to the Winged Guards who have an impressive reputation for martial prowess, although their numbers are small">
     <relationships>
 
     </relationships>
@@ -351,9 +353,9 @@
     settlement_banner_mesh="encounter_flag_a"
     flag_mesh="info_screen_flags_b"
     name="{=NF627oiX}The Black Tower"
-    short_name="{=nsDj8Qxl}The Black Tower"
+    short_name="{=nsDj8Qxl}Black Tower"
     title="{=NF627oiX}The Black Tower"
-    ruler_title="{=8pjMAqOg}Leader"
+    ruler_title="{=8pjMAqOg}M'Hael"
     text="{=aEfsyVH4}The Black Tower is the headquarters of the Asha'man, the organization of male channelers started by Rand al'Thor and trained by Mazrim Taim. It originated as a converted farmhouse located less than two leagues south of Caemlyn. It is unknown where most of the male channelers allegiance actually lies due to rumours that Mazrim Taim has his own inner circle of channelers who may not follow Rand.">
     <relationships>
 
@@ -380,9 +382,9 @@
     culture="Culture.Dragonsworn"
     settlement_banner_mesh="encounter_flag_a"
     flag_mesh="info_screen_flags_b"
-    name="{=NF627oiX}The Dragon Reborn Forces"
-    short_name="{=nsDj8Qxl} The Dragon Reborn Forces"
-    title="{=NF627oiX} The Dragon Reborn Forces"
+    name="{=NF627oiX}The Dragon Reborn's Forces"
+    short_name="{=nsDj8Qxl}Dragon Reborn's Forces"
+    title="{=NF627oiX}The Dragon Reborn's Forces"
     ruler_title="{=8pjMAqOg}The Dragon Reborn"
     text="{=aEfsyVH4}Rand al'Thor is the Dragon Reborn, the champion of the Light in the battle against the Dark One. He leads his friends and loyal followers known as Dragonsworn into battle to ultimatly defeat the shadowspawn. ">
     <relationships>
@@ -416,10 +418,10 @@
     settlement_banner_mesh="encounter_flag_a"
     flag_mesh="info_screen_flags_b"
     name="{=NF627oiX}Amadicia"
-    short_name="{=nsDj8Qxl}Amadicia"
+    short_name="{=nsDj8Qxl}Nation of Amadicia"
     title="{=NF627oiX}Amadicia"
-    ruler_title="{=8pjMAqOg}King"
-    text="{=aEfsyVH4} Amadicia is a country that lies west of Altara, with the River Eldar forming the border between the two. It is at the southern end of the Mountains of Mist, and is southeast of Tarabon. Its southern border is the River Sharia, beyond which lies the Shadow Coast. Due to the belief among the Children of the Light that Aes Sedai are servants of the Dark One, both Aes Sedai and channeling are outlawed in Amadicia, and the merest suspicion of such activity can result in harsh punishment and execution. Similarly, the denouncement, trial, and execution of suspected Darkfriends is common, though the accused are often little more than social outcasts or the unlucky participants in disagreements. It is the only nation where channeling or even training in the White Tower is considered a crime; this is more enforced by the Whitecloaks than the crown, but the crown does not abstain entirely.">
+    ruler_title="{=8pjMAqOg}Monarch"
+    text="{=aEfsyVH4}Amadicia is a country that lies west of Altara, with the River Eldar forming the border between the two. It is at the southern end of the Mountains of Mist, and is southeast of Tarabon. Its southern border is the River Sharia, beyond which lies the Shadow Coast. Due to the belief among the Children of the Light that Aes Sedai are servants of the Dark One, both Aes Sedai and channeling are outlawed in Amadicia, and the merest suspicion of such activity can result in harsh punishment and execution. Similarly, the denouncement, trial, and execution of suspected Darkfriends is common, though the accused are often little more than social outcasts or the unlucky participants in disagreements. It is the only nation where channeling or even training in the White Tower is considered a crime; this is more enforced by the Whitecloaks than the crown, but the crown does not abstain entirely.">
     <relationships>
       <relationship kingdom="Kingdom.sturgia"
         value="-1"
@@ -451,10 +453,10 @@
     settlement_banner_mesh="encounter_flag_a"
     flag_mesh="info_screen_flags_b"
     name="{=NF627oiX}Arafel"
-    short_name="{=nsDj8Qxl} Arafel"
-    title="{=NF627oiX} Arafel"
-    ruler_title="{=8pjMAqOg}King"
-    text="{=aEfsyVH4} Arafel is one of the four Borderland nations which lie on the threshold of the Great Blight, sitting between Kandor to the west and Shienar to the east. Being one of the Borderlands, Arafel, of course, has a strong army as well as a strong military tradition. The warriors of Arafel are skilled in the way of the sword; they wear two swords, one hilt over each shoulder and both strapped to their backs. They often use both swords at once.">
+    short_name="{=nsDj8Qxl}Nation of Arafel"
+    title="{=NF627oiX}Arafel"
+    ruler_title="{=8pjMAqOg}Monarch"
+    text="{=aEfsyVH4}Arafel is one of the four Borderland nations which lie on the threshold of the Great Blight, sitting between Kandor to the west and Shienar to the east. Being one of the Borderlands, Arafel, of course, has a strong army as well as a strong military tradition. The warriors of Arafel are skilled in the way of the sword; they wear two swords, one hilt over each shoulder and both strapped to their backs. They often use both swords at once.">
     <relationships>
       <relationship kingdom="Kingdom.sturgia"
         value="-1"
@@ -485,10 +487,10 @@
     settlement_banner_mesh="encounter_flag_a"
     flag_mesh="info_screen_flags_b"
     name="{=NF627oiX}Far Madding"
-    short_name="{=nsDj8Qxl} Far Madding"
-    title="{=NF627oiX} Far Madding"
-    ruler_title="{=8pjMAqOg}First Councillor"
-    text="{=aEfsyVH4} Far Madding is an independent city-state in the southeastern part of the Westlands on the Plains of Maredo. It is situated on an island in the midst of a lake, and is connected to the mainland by three bridges. At a junction of major overland trade routes, Far Madding is an important commercial center. They have a well trained infantry force used for defence of the city when required.">
+    short_name="{=nsDj8Qxl}City-state of Far Madding"
+    title="{=NF627oiX}Far Madding"
+    ruler_title="{=8pjMAqOg}First Counsel"
+    text="{=aEfsyVH4}Far Madding is an independent city-state in the southeastern part of the Westlands on the Plains of Maredo. It is situated on an island in the midst of a lake, and is connected to the mainland by three bridges. At a junction of major overland trade routes, Far Madding is an important commercial center. They have a well trained infantry force used for defence of the city when required.">
     <relationships>
 
     </relationships>
@@ -520,10 +522,10 @@
     settlement_banner_mesh="encounter_flag_a"
     flag_mesh="info_screen_flags_b"
     name="{=NF627oiX}Ghealdan"
-    short_name="{=nsDj8Qxl}Ghealdan"
+    short_name="{=nsDj8Qxl}Nation of Ghealdan"
     title="{=NF627oiX}Ghealdan"
     ruler_title="{=8pjMAqOg}Monarch"
-    text="{=aEfsyVH4} Ghealdan is a relatively small country that lies along the feet of the Mountains of Mist to the north of Amadicia and northwest of Altara. Although the majority of their army is made from civilian levies, they do house a small force of elite and well trained soldiers known of The Legion of the Wall">
+    text="{=aEfsyVH4}Ghealdan is a relatively small country that lies along the feet of the Mountains of Mist to the north of Amadicia and northwest of Altara. Although the majority of their army is made from civilian levies, they do house a small force of elite and well trained soldiers known of The Legion of the Wall">
     <relationships>
 
     </relationships>
@@ -551,10 +553,10 @@
     settlement_banner_mesh="encounter_flag_a"
     flag_mesh="info_screen_flags_b"
     name="{=NF627oiX}Kandor"
-    short_name="{=nsDj8Qxl} Kandor"
-    title="{=NF627oiX} Kandor"
+    short_name="{=nsDj8Qxl}Nation of Kandor"
+    title="{=NF627oiX}Kandor"
     ruler_title="{=8pjMAqOg}Monarch"
-    text="{=aEfsyVH4} Kandor Kandor is one of the four Borderland nations which lie on the threshold of the Great Blight, sitting between Saldaea to the west and Arafel to the east. As a region contantly at war with shadowspawn they house a standing army that is well trained.">
+    text="{=aEfsyVH4}Kandor is one of the four Borderland nations which lie on the threshold of the Great Blight, sitting between Saldaea to the west and Arafel to the east. As a region contantly at war with shadowspawn they house a standing army that is well trained.">
     <relationships>
       <relationship kingdom="Kingdom.sturgia"
         value="-1"
@@ -583,9 +585,9 @@
     settlement_banner_mesh="encounter_flag_a"
     flag_mesh="info_screen_flags_b"
     name="{=NF627oiX}Shienar"
-    short_name="{=nsDj8Qxl}Shienar"
+    short_name="{=nsDj8Qxl}Nation of Shienar"
     title="{=NF627oiX}Shienar"
-    ruler_title="{=8pjMAqOg}King"
+    ruler_title="{=8pjMAqOg}Monarch"
     text="{=aEfsyVH4}Shienar is one of the four Borderland nations which lie on the threshold of the Great Blight. It is the easternmost of the Borderlands, lying between the Spine of the World and Arafel. This Nation is known for its Mounted Shienaran warriors known as lancers, because of the weapons they carry. They have a well trained standing army. ">
     <relationships>
       <relationship kingdom="Kingdom.sturgia"
@@ -618,10 +620,10 @@
     settlement_banner_mesh="encounter_flag_a"
     flag_mesh="info_screen_flags_b"
     name="{=NF627oiX}Tarabon"
-    short_name="{=nsDj8Qxl} Tarabon"
-    title="{=NF627oiX} Tarabon"
-    ruler_title="{=8pjMAqOg}King"
-    text="{=aEfsyVH4} Tarabon is a country situated in the southwest coast of the Westlands. Its capital, Tanchico, is a port situated on the western coast on the Aryth Ocean. Tarabon has a decent military, The Panarch has a personal guard known as the Panarch’s Legion; the king has a personal guard known as the King’s Life Guard. Both are considered to be the main military groups of the last centuries from this kingdom">
+    short_name="{=nsDj8Qxl}Nation of Tarabon"
+    title="{=NF627oiX}Tarabon"
+    ruler_title="{=8pjMAqOg}Monarch"
+    text="{=aEfsyVH4}Tarabon is a country situated in the southwest coast of the Westlands. Its capital, Tanchico, is a port situated on the western coast on the Aryth Ocean. Tarabon has a decent military, The Panarch has a personal guard known as the Panarch’s Legion; the king has a personal guard known as the King’s Life Guard. Both are considered to be the main military groups of the last centuries from this kingdom">
     <relationships>
       <relationship kingdom="Kingdom.vlandia"
         value="-1"
@@ -658,10 +660,10 @@
     settlement_banner_mesh="encounter_flag_a"
     flag_mesh="info_screen_flags_b"
     name="{=NF627oiX}Tear"
-    short_name="{=nsDj8Qxl} Tear"
-    title="{=NF627oiX} Tear"
-    ruler_title="{=8pjMAqOg}High Lord"
-    text="{=aEfsyVH4} Tear is one of the richest nations in the land. This comes in part from controlling the third largest port on the Sea of Storms behind Illian and Ebou Dar, at the mouth of the River Erinin. The City of Tear is protected by an elite military unit housed in the Stone, called the Defenders of the Stone. Tear soldiers are usually well trained and outfitted with quality equipment due to the wealth of the kingdom">
+    short_name="{=nsDj8Qxl}Nation of Tear"
+    title="{=NF627oiX}Tear"
+    ruler_title="{=8pjMAqOg}Monarch"
+    text="{=aEfsyVH4}Tear is one of the richest nations in the land. This comes in part from controlling the third largest port on the Sea of Storms behind Illian and Ebou Dar, at the mouth of the River Erinin. The City of Tear is protected by an elite military unit housed in the Stone, called the Defenders of the Stone. Tear soldiers are usually well trained and outfitted with quality equipment due to the wealth of the kingdom">
     <relationships>
 
     </relationships>

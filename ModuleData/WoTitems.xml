@@ -2568,7 +2568,7 @@
 
 
   <Item id="AndorShoulders"
-    name="{=AndorShoulders}Andor Shoudler Plates"
+    name="{=AndorShoulders}Andor Shoulder Plates"
     mesh="AndorShoulders"
     culture="Culture.empire"
     weight="6.5"
@@ -10405,7 +10405,7 @@
 
 
   <Item id="ShienerLightBoots"
-    name="{=ShienerLightBoots}Shiener Boots"
+    name="{=ShienerLightBoots}Shienar Boots"
     mesh="ShienerLightBoots"
     culture="Culture.Shienar"
     is_merchandise="true"
@@ -10425,7 +10425,7 @@
 
 
   <Item id="ShienerLightArmor1"
-    name="{=ShienerLightArmor1}Shiener Light Armor"
+    name="{=ShienerLightArmor1}Shienar Light Armor"
     mesh="ShienerLightArmor1"
     culture="Culture.Shienar"
     weight="9.4"
@@ -10490,7 +10490,7 @@
 
 
   <Item id="ShienerHeavyArmor2"
-    name="{=ShienerHeavyArmor2}Shiener Heavy Armor"
+    name="{=ShienerHeavyArmor2}Shienar Heavy Armor"
     mesh="ShienerHeavyArmor2"
     culture="Culture.Shienar"
     weight="12.5"
@@ -10514,7 +10514,7 @@
 
 
   <Item id="ShienerHeavyArmor3"
-    name="{=ShienerHeavyArmor3}Shiener Heavy Armor"
+    name="{=ShienerHeavyArmor3}Shienar Heavy Armor"
     mesh="ShienerHeavyArmor3b"
     culture="Culture.Shienar"
     weight="13.7"
@@ -10557,7 +10557,7 @@
 
 
   <Item id="ShienerHeavyShoulders"
-    name="{=ShienerHeavyShoulders}Shiener Shoudler Plates"
+    name="{=ShienerHeavyShoulders}Shienar Shoulder Plates"
     mesh="ShienerHeavyShoulders"
     culture="Culture.Shienar"
     weight="4.7"

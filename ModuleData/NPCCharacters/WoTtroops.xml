@@ -5166,7 +5166,7 @@
    <NPCCharacter id="Amamdiciacommonerrecruit"
                 default_group="Infantry"
                 level="6"
-                name="{=Amamdiciacommonerrecruit}Amamdicia Recruit"
+                name="{=Amamdiciacommonerrecruit}Amadicia Recruit"
                 occupation="Soldier"
                 is_basic_troop="true"
                 culture="Culture.Amamdicia">
