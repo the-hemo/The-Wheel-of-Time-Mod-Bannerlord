@@ -8838,7 +8838,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="Seanchanherodeathwatch" />
-      <EquipmentSet id="Sea_bat_template_lady" civilian="true" />
+      <EquipmentSet id="Sea_civ_template_lady_normal" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Barrin" name="{=Barrin }Barrin " age="29" voice="curt" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.Seanchan" occupation="Lord" face_mesh_cache="true">

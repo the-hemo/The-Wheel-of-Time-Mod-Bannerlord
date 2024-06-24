@@ -160,7 +160,7 @@
       <Equipment slot="Body" id="Item.WotDreadlordMedarmor" />
       <Equipment slot="Leg" id="Item.empire_horseman_boots" />
     </EquipmentSet>
-    <Flags IsNobleTemplate="true" IsFlamboyantTemplate="true" IsCombatantTemplate="true" />
+    <Flags IsNobleTemplate="true" IsCombatantTemplate="true" IsMediumTemplate="true" />
   </EquipmentRoster>
   <EquipmentRoster id="WOTForsakenFemaleweak" culture="Culture.sturgia">
     <EquipmentSet>
@@ -184,7 +184,7 @@
       <Equipment slot="Body" id="Item.AessedaiBlack" />
       <Equipment slot="Leg" id="Item.Aessedaishoes" />
     </EquipmentSet>
-    <Flags IsNobleTemplate="true" IsFlamboyantTemplate="true" IsCombatantTemplate="true" />
+    <Flags IsNobleTemplate="true" IsCombatantTemplate="true" IsMediumTemplate="true" IsFemaleTemplate="true" />
   </EquipmentRoster>
   <EquipmentRoster id="WOTAIELmale" culture="Culture.khuzait">
     <EquipmentSet>
@@ -211,7 +211,7 @@
       <Equipment slot="Leg" id="Item.AielBoots1" />
       <Equipment slot="Head" id="Item.AielHeadwrap1" />
     </EquipmentSet>
-    <Flags IsNobleTemplate="true" IsFlamboyantTemplate="true" IsCombatantTemplate="true" />
+    <Flags IsNobleTemplate="true" IsCombatantTemplate="true" IsMediumTemplate="true" />
   </EquipmentRoster>
   <EquipmentRoster id="WOTAIELFemaleMAIDEN" culture="Culture.khuzait">
     <EquipmentSet>
@@ -238,7 +238,7 @@
       <Equipment slot="Leg" id="Item.AielBoots1" />
       <Equipment slot="Head" id="Item.AielHeadwrap1" />
     </EquipmentSet>
-    <Flags IsNobleTemplate="true" IsCombatantTemplate="true" IsFemaleTemplate="true" />
+    <Flags IsNobleTemplate="true" IsCombatantTemplate="true" IsFemaleTemplate="true" IsMediumTemplate="true" />
   </EquipmentRoster>
   <EquipmentRoster id="WOTAIELFemaleMAIDENAVEN" culture="Culture.khuzait">
     <EquipmentSet>
@@ -280,7 +280,7 @@
       <Equipment slot="Body" id="Item.AielWiseOneRobe1" />
       <Equipment slot="Leg" id="Item.Aessedaishoes" />
     </EquipmentSet>
-    <Flags IsNobleTemplate="true" IsFlamboyantTemplate="true" IsCombatantTemplate="true" IsFemaleTemplate="true" />
+    <Flags IsNobleTemplate="true" IsFlamboyantTemplate="true" IsCombatantTemplate="true" IsFemaleTemplate="true" IsMediumTemplate="true" />
   </EquipmentRoster>
   <EquipmentRoster id="WOTashamancharacter" culture="Culture.BlackTower">
     <EquipmentSet>
@@ -361,7 +361,7 @@
       <Equipment slot="Leg" id="Item.Asharmorboots" />
       <Equipment slot="Gloves" id="Item.Asharmorgloves" />
     </EquipmentSet>
-    <Flags IsNobleTemplate="true" IsFemaleTemplate="true" IsCombatantTemplate="true" IsHeavyTemplate="true" />
+    <Flags IsNobleTemplate="true" IsCombatantTemplate="true" IsHeavyTemplate="true" />
   </EquipmentRoster>
   <EquipmentRoster id="WOTashamancharacter3" culture="Culture.BlackTower">
     <EquipmentSet>
@@ -388,7 +388,7 @@
       <Equipment slot="Leg" id="Item.Asharmorboots" />
       <Equipment slot="Gloves" id="Item.Asharmorgloves" />
     </EquipmentSet>
-    <Flags IsNobleTemplate="true" IsFlamboyantTemplate="true" IsFemaleTemplate="true" IsCombatantTemplate="true" />
+    <Flags IsNobleTemplate="true" IsFlamboyantTemplate="true" IsMediumTemplate="true" IsFemaleTemplate="true" IsCombatantTemplate="true" />
   </EquipmentRoster>
   <EquipmentRoster id="WOTashamancharacterCivil" culture="Culture.BlackTower">
     <EquipmentSet>
@@ -415,7 +415,7 @@
       <Equipment slot="Leg" id="Item.Asharmorboots" />
       <Equipment slot="Gloves" id="Item.Asharmorgloves" />
     </EquipmentSet>
-    <Flags IsFemaleTemplate="true" IsNoncombatantTemplate="true" />
+    <Flags IsNobleTemplate="true" IsCombatantTemplate="true" IsCivilianTemplate="true" />
   </EquipmentRoster>
   <EquipmentRoster id="WOTashamancharacterCivil1" culture="Culture.BlackTower">
     <EquipmentSet>
@@ -442,7 +442,7 @@
       <Equipment slot="Leg" id="Item.Asharmorboots" />
       <Equipment slot="Gloves" id="Item.Asharmorgloves" />
     </EquipmentSet>
-    <Flags IsFemaleTemplate="true" IsNoncombatantTemplate="true" IsNobleTemplate="true" />
+    <Flags IsNobleTemplate="true" IsNoncombatantTemplate="true" />
   </EquipmentRoster>
   <EquipmentRoster id="WOTashamancharacterCivil2" culture="Culture.BlackTower">
     <EquipmentSet>
@@ -469,7 +469,7 @@
       <Equipment slot="Leg" id="Item.Asharmorboots" />
       <Equipment slot="Gloves" id="Item.Asharmorgloves" />
     </EquipmentSet>
-    <Flags IsFemaleTemplate="true" IsNoncombatantTemplate="true" IsNobleTemplate="true" />
+    <Flags IsNobleTemplate="true" IsCombatantTemplate="true" IsCivilianTemplate="true" IsFemaleTemplate="true" />
   </EquipmentRoster>
   <EquipmentRoster id="WOTashamancharacterCivil3" culture="Culture.BlackTower">
     <EquipmentSet>
@@ -892,7 +892,7 @@
       <Equipment slot="Horse" id="Item.noble_horse_northern" />
       <Equipment slot="HorseHarness" id="Item.light_harness" />
     </EquipmentSet>
-    <Flags IsNobleTemplate="true" IsFlamboyantTemplate="true" IsFemaleTemplate="true" IsCombatantTemplate="true" />
+    <Flags IsNobleTemplate="true" IsFlamboyantTemplate="true" IsMediumTemplate="true" IsFemaleTemplate="true" IsCombatantTemplate="true" />
   </EquipmentRoster>
   <EquipmentRoster id="WOTtworivers" culture="Culture.Dragonsworn">
     <EquipmentSet>
@@ -946,7 +946,7 @@
       <Equipment slot="Body" id="Item.TwoRivers_Farmer2" />
       <Equipment slot="Leg" id="Item.TwoRiversBoots2" />
     </EquipmentSet>
-    <Flags IsNobleTemplate="true" IsCombatantTemplate="true" IsFemaleTemplate="true" />
+    <Flags IsNobleTemplate="true" IsCombatantTemplate="true" IsFemaleTemplate="true" IsMediumTemplate="true" />
   </EquipmentRoster>
   <EquipmentRoster id="WOTlegionofthedragoncommander" culture="Culture.Dragonsworn">
     <EquipmentSet>
@@ -1246,7 +1246,7 @@
       <Equipment slot="Gloves" id="Item.ArafelGloves1" />
       <Equipment slot="Cape" id="Item.Arafelmail_shoulders" />
     </EquipmentSet>
-    <Flags IsNobleTemplate="true" IsFlamboyantTemplate="true" IsFemaleTemplate="true" IsCombatantTemplate="true" />
+    <Flags IsNobleTemplate="true" IsFlamboyantTemplate="true" IsFemaleTemplate="true" IsCombatantTemplate="true" IsMediumTemplate="true" />
   </EquipmentRoster>
   <EquipmentRoster id="WOTCairhiencommander0" culture="Culture.Cairhien">
     <EquipmentSet>
@@ -1390,7 +1390,7 @@
       <Equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <Equipment slot="HorseHarness" id="Item.chain_barding" />
     </EquipmentSet>
-    <Flags IsNobleTemplate="true" IsFlamboyantTemplate="true" IsFemaleTemplate="true" IsCombatantTemplate="true" />
+    <Flags IsNobleTemplate="true" IsFlamboyantTemplate="true" IsFemaleTemplate="true" IsCombatantTemplate="true" IsMediumTemplate="true" />
   </EquipmentRoster>
   <EquipmentRoster id="WOTFarMaddingcommander0" culture="Culture.FarMadding">
     <EquipmentSet>
@@ -1510,7 +1510,7 @@
       <Equipment slot="Gloves" id="Item.reinforced_padded_mitten" />
       <Equipment slot="Cape" id="Item.a_pauldron_cape_b" />
     </EquipmentSet>
-    <Flags IsNobleTemplate="true" IsFlamboyantTemplate="true" IsFemaleTemplate="true" IsCombatantTemplate="true" />
+    <Flags IsNobleTemplate="true" IsFlamboyantTemplate="true" IsFemaleTemplate="true" IsCombatantTemplate="true" IsMediumTemplate="true" />
   </EquipmentRoster>
   <EquipmentRoster id="WOTGhealdencommander0" culture="Culture.Ghealdan">
     <EquipmentSet>
@@ -1654,7 +1654,7 @@
       <Equipment slot="Gloves" id="Item.CairhienGloves1" />
       <Equipment slot="Cape" id="Item.pauldron_cape_a" />
     </EquipmentSet>
-    <Flags IsNobleTemplate="true" IsFlamboyantTemplate="true" IsFemaleTemplate="true" IsCombatantTemplate="true" />
+    <Flags IsNobleTemplate="true" IsFlamboyantTemplate="true" IsFemaleTemplate="true" IsCombatantTemplate="true" IsMediumTemplate="true" />
   </EquipmentRoster>
   <EquipmentRoster id="WOTIlliancommander1" culture="Culture.aserai">
     <EquipmentSet>
@@ -1834,7 +1834,7 @@
       <Equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <Equipment slot="HorseHarness" id="Item.chain_barding" />
     </EquipmentSet>
-    <Flags IsNobleTemplate="true" IsFlamboyantTemplate="true" IsFemaleTemplate="true" IsCombatantTemplate="true" />
+    <Flags IsNobleTemplate="true" IsFlamboyantTemplate="true" IsFemaleTemplate="true" IsCombatantTemplate="true" IsMediumTemplate="true" />
   </EquipmentRoster>
   <EquipmentRoster id="WOTSaldeacommander1" culture="Culture.battania">
     <EquipmentSet>
@@ -2016,7 +2016,7 @@
       <Equipment slot="Horse" id="Item.t2_khuzait_horse" />
       <Equipment slot="HorseHarness" id="Item.steppe_half_barding" />
     </EquipmentSet>
-    <Flags IsNobleTemplate="true" IsFlamboyantTemplate="true" IsFemaleTemplate="true" IsCombatantTemplate="true" />
+    <Flags IsNobleTemplate="true" IsFlamboyantTemplate="true" IsFemaleTemplate="true" IsCombatantTemplate="true" IsMediumTemplate="true" />
   </EquipmentRoster>
   <EquipmentRoster id="WOTTarabonKingslifeguardcommander1" culture="Culture.Tarabon">
     <EquipmentSet>
@@ -3471,7 +3471,7 @@
       <Equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <Equipment slot="HorseHarness" id="Item.imperial_scale_barding" />
     </EquipmentSet>
-    <Flags IsNobleTemplate="true" IsFlamboyantTemplate="true" IsFemaleTemplate="true" IsCombatantTemplate="true" />
+    <Flags IsNobleTemplate="true" IsFlamboyantTemplate="true" IsFemaleTemplate="true" IsCombatantTemplate="true" IsMediumTemplate="true" />
   </EquipmentRoster>
   <EquipmentRoster id="Seanchanhero1" culture="Culture.Seanchan">
     <EquipmentSet>
@@ -3561,7 +3561,7 @@
       <Equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <Equipment slot="HorseHarness" id="Item.imperial_scale_barding" />
     </EquipmentSet>
-    <Flags IsNobleTemplate="true" IsFemaleTemplate="true" IsCombatantTemplate="true" />
+    <Flags IsNobleTemplate="true" IsFemaleTemplate="true" IsCombatantTemplate="true" IsMediumTemplate="true" />
   </EquipmentRoster>
   <EquipmentRoster id="Seanchanherodeathwatch" culture="Culture.Seanchan">
     <EquipmentSet>
@@ -3594,7 +3594,7 @@
       <Equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <Equipment slot="HorseHarness" id="Item.imperial_scale_barding" />
     </EquipmentSet>
-    <Flags IsNobleTemplate="true" IsFlamboyantTemplate="true" IsCombatantTemplate="true" />
+    <Flags IsNobleTemplate="true" IsMediumTemplate="true" IsCombatantTemplate="true" />
   </EquipmentRoster>
   <EquipmentRoster id="Seanchanherodeathwatch1" culture="Culture.Seanchan">
     <EquipmentSet>
@@ -3660,7 +3660,7 @@
       <Equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <Equipment slot="HorseHarness" id="Item.imperial_scale_barding" />
     </EquipmentSet>
-    <Flags IsNobleTemplate="true" IsFlamboyantTemplate="true" IsFemaleTemplate="true" IsCombatantTemplate="true" />
+    <Flags IsNobleTemplate="true" IsFlamboyantTemplate="true" IsFemaleTemplate="true" IsCombatantTemplate="true" IsMediumTemplate="true" />
   </EquipmentRoster>
   <EquipmentRoster id="Seafolkleaderfemale" culture="Culture.empire">
     <EquipmentSet>
@@ -6442,7 +6442,7 @@
       <Equipment slot="Horse" id="Item.noble_horse_eastern" />
       <Equipment slot="HorseHarness" id="Item.light_harness" />
     </EquipmentSet>
-    <Flags IsFemaleTemplate="true" IsCivilianTemplate="true" IsCombatantTemplate="true" IsNobleTemplate="true" />
+    <Flags IsFemaleTemplate="true" IsCivilianTemplate="true" IsNobleTemplate="true" IsNoncombatantTemplate="true" />
   </EquipmentRoster>
   <EquipmentRoster id="Sea_civ_template_flamboyant" culture="Culture.Seanchan">
     <EquipmentSet civilian="true">
@@ -6489,7 +6489,7 @@
       <Equipment slot="Horse" id="Item.noble_horse_eastern" />
       <Equipment slot="HorseHarness" id="Item.light_harness" />
     </EquipmentSet>
-    <Flags IsNobleTemplate="true" IsCivilianTemplate="true" IsCombatantTemplate="true" IsFlamboyantTemplate="true" />
+    <Flags IsNobleTemplate="true" IsCivilianTemplate="true" IsFlamboyantTemplate="true" IsNoncombatantTemplate="true" />
   </EquipmentRoster>
   <EquipmentRoster id="Sea_noncom_template_default" culture="Culture.Seanchan">
     <EquipmentSet civilian="true">
@@ -6516,6 +6516,6 @@
       <Equipment slot="Horse" id="Item.noble_horse_eastern" />
       <Equipment slot="HorseHarness" id="Item.light_harness" />
     </EquipmentSet>
-    <Flags IsFemaleTemplate="true" IsNoncombatantTemplate="true" />
+    <Flags IsFemaleTemplate="true" IsNoncombatantTemplate="true" IsNobleTemplate="true" />
   </EquipmentRoster>
 </EquipmentRosters>
