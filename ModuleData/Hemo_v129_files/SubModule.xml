@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module>
+	<Name value = "Wheel of Time Mod"/>
+	<Id value = "WoT_Mod"/>
+	<Version value = "v1.2.9"/>
+	<DefaultModule value="true"/>
+	<ModuleCategory value="Singleplayer"/>
+
+	<DependedModules>
+		<DependedModule Id="Native"
+			DependentVersion="v1.2.9"
+			Optional="false"/>
+		<DependedModule Id="SandBoxCore"
+			DependentVersion="v1.2.9"
+			Optional="false"/>
+		<DependedModule Id="Sandbox"
+			DependentVersion="v1.2.9"
+			Optional="false"/>
+	</DependedModules>
+	<SubModules>
+		<SubModule>
+			<Name value="Wheel of Time Mod - MAIN FILE"/>
+			<DLLName value="WoT_Main.dll"/>
+			<SubModuleClassType value="WoT_Main.Main"/>
+			<Tags>
+				<Tag key="DedicatedServerType"
+					value="none" />
+				<Tag key="IsNoRenderModeElement"
+					value="false" />
+			</Tags>
+		</SubModule>
+	</SubModules>
+	<Xmls>
+		<XmlNode>
+			<XmlName id="partyTemplates" path="WoTpartyTemplates"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+			</IncludedGameTypes>
+		</XmlNode>	
+		<XmlNode>
+			<XmlName id="Settlements"
+				path="settlements"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName id="Items"
+				path="WoTitems"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+			</IncludedGameTypes>
+		</XmlNode>
+
+		<XmlNode>
+			<XmlName id="partyTemplates"
+				path="WoTParties"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName id="GameText"
+				path="WoTStrings"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<!-- Weapons Crafting -->
+		<XmlNode>
+			<XmlName id="WeaponDescriptions"
+				path="WoTweapon_descriptions"/>
+		</XmlNode>
+		<XmlNode>
+			<XmlName id="CraftingPieces"
+				path="WoTcrafting_pieces"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+
+		<XmlNode>
+			<XmlName id="CraftingTemplates"
+				path="WoTcrafting_templates"/>
+		</XmlNode>
+
+		<XmlNode>                
+			<XmlName id="GameText" path="WoTwanderer_strings"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<!-- Custom Clans and Kingdoms -->
+		<XmlNode>
+			<XmlName id="Factions"
+				path="WoTclans"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+				<GameType value = "CustomGame"/>
+			</IncludedGameTypes>
+
+		</XmlNode>
+
+		<XmlNode>
+			<XmlName id="Kingdoms"
+				path="WoTkingdoms"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+				<GameType value = "CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+
+		<!-- Equipment Sets (Lords Clothing and Charater Creation) -->
+
+		<XmlNode>
+			<XmlName id="EquipmentRosters"
+				path="EquipmentSets\CharacterCreation"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+
+		<XmlNode>
+			<XmlName id="EquipmentRosters"
+				path="EquipmentSets\Lords"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+
+		<!-- Custom NPC Character (Troops, Bandits and lords) -->
+
+		<XmlNode>
+			<XmlName id="NPCCharacters"
+				path="NPCCharacters\WoTtroops"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName id="NPCCharacters"
+				path="NPCCharacters\Bandits"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName id="NPCCharacters"
+				path="NPCCharacters\Lords"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName id="NPCCharacters"
+				path="NPCCharacters\WoTNotables"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName id="NPCCharacters"
+				path="NPCCharacters\WoTvillagers"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName id="NPCCharacters"
+				path="NPCCharacters\WoTwanderers"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName id="Heroes" 
+				path="NPCCharacters\heroes"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+			</IncludedGameTypes>
+		</XmlNode>
+
+		<!-- Custom Cultures -->
+		<XmlNode>
+			<XmlName path="Cultures\Cultures"
+				id="SPCultures"/>
+			<IncludedGameTypes>
+				<GameType value="Campaign"/>
+				<GameType value="CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName path="Cultures\Aiel"
+				id="SPCultures"/>
+			<IncludedGameTypes>
+				<GameType value="Campaign"/>
+				<GameType value="CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName path="Cultures\Altara"
+				id="SPCultures"/>
+			<IncludedGameTypes>
+				<GameType value="Campaign"/>
+				<GameType value="CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName path="Cultures\Amamdicia"
+				id="SPCultures"/>
+			<IncludedGameTypes>
+				<GameType value="Campaign"/>
+				<GameType value="CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName path="Cultures\Andor"
+				id="SPCultures"/>
+			<IncludedGameTypes>
+				<GameType value="Campaign"/>
+				<GameType value="CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName path="Cultures\AradDoman"
+				id="SPCultures"/>
+			<IncludedGameTypes>
+				<GameType value="Campaign"/>
+				<GameType value="CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName path="Cultures\Arafel"
+				id="SPCultures"/>
+			<IncludedGameTypes>
+				<GameType value="Campaign"/>
+				<GameType value="CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName path="Cultures\BlackTower"
+				id="SPCultures"/>
+			<IncludedGameTypes>
+				<GameType value="Campaign"/>
+				<GameType value="CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName path="Cultures\Cairhien"
+				id="SPCultures"/>
+			<IncludedGameTypes>
+				<GameType value="Campaign"/>
+				<GameType value="CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName path="Cultures\Dragonsworn"
+				id="SPCultures"/>
+			<IncludedGameTypes>
+				<GameType value="Campaign"/>
+				<GameType value="CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName path="Cultures\FarMadding"
+				id="SPCultures"/>
+			<IncludedGameTypes>
+				<GameType value="Campaign"/>
+				<GameType value="CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName path="Cultures\Ghealdan"
+				id="SPCultures"/>
+			<IncludedGameTypes>
+				<GameType value="Campaign"/>
+				<GameType value="CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName path="Cultures\Illian"
+				id="SPCultures"/>
+			<IncludedGameTypes>
+				<GameType value="Campaign"/>
+				<GameType value="CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName path="Cultures\Kandor"
+				id="SPCultures"/>
+			<IncludedGameTypes>
+				<GameType value="Campaign"/>
+				<GameType value="CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName path="Cultures\Mayene"
+				id="SPCultures"/>
+			<IncludedGameTypes>
+				<GameType value="Campaign"/>
+				<GameType value="CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName path="Cultures\Murandy"
+				id="SPCultures"/>
+			<IncludedGameTypes>
+				<GameType value="Campaign"/>
+				<GameType value="CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName path="Cultures\Saldea"
+				id="SPCultures"/>
+			<IncludedGameTypes>
+				<GameType value="Campaign"/>
+				<GameType value="CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName path="Cultures\Seanchan"
+				id="SPCultures"/>
+			<IncludedGameTypes>
+				<GameType value="Campaign"/>
+				<GameType value="CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName path="Cultures\Shadowspawn"
+				id="SPCultures"/>
+			<IncludedGameTypes>
+				<GameType value="Campaign"/>
+				<GameType value="CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName path="Cultures\Shienar"
+				id="SPCultures"/>
+			<IncludedGameTypes>
+				<GameType value="Campaign"/>
+				<GameType value="CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName path="Cultures\Tarabon"
+				id="SPCultures"/>
+			<IncludedGameTypes>
+				<GameType value="Campaign"/>
+				<GameType value="CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName path="Cultures\Tear"
+				id="SPCultures"/>
+			<IncludedGameTypes>
+				<GameType value="Campaign"/>
+				<GameType value="CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName path="Cultures\WhiteTower"
+				id="SPCultures"/>
+			<IncludedGameTypes>
+				<GameType value="Campaign"/>
+				<GameType value="CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<!-- Custom Culture End -->
+	</Xmls>
+</Module>
