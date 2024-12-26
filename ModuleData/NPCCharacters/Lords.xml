@@ -437,15 +437,15 @@
   </NPCCharacter>
   <!--White Tower Lords-->
   <!--Clan empire north 2 - WhiteTower-->
-  <NPCCharacter id="lord_1_3" name="{=6GC0PsSh}Egwene al'Vere" age="23" voice="curt" default_group="HorseArcher" is_hero="true" is_female="true" culture="Culture.WhiteTower" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_3" name="{=6GC0PsSh}Egwene al'Vere" age="23" voice="curt" default_group="Ranged" is_hero="true" is_female="true" culture="Culture.WhiteTower" occupation="Lord" face_mesh_cache="true">
     <face>
       <!--face_key value="000c63f1807c334db83cd2ed113114608a3c9abb76a6ba5456630141aaa69958000714bfae1d2189000000000000000000000000000000000000000000002183" /-->
       <BodyProperties version="4" age="22.2" weight="0.3496" build="0.6149" key="003CF80FC0CC10053E4CA6D871948A75E69F85BC8165370874CDF15A818FAFA80079560307995E5600000000000000000000000000000000000000001AF42043" />
     </face>
     <Traits>
-      <Trait id="KnightFightingSkills" value="7" />
+      <Trait id="BalancedFightingSkills" value="10" />
       <Trait id="Commander" value="7" />
-      <Trait id="Politician" value="4" />
+      <Trait id="Politician" value="10" />
       <Trait id="Manager" value="6" />
       <Trait id="Generosity" value="1" />
       <Trait id="Calculating" value="1" />
@@ -478,17 +478,17 @@
       <EquipmentSet id="WT_civ_template_default" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_22" name="{=uTFjknE2}Nynaeve al'Meara" age="28" voice="earnest" is_hero="true" is_female="true" culture="Culture.WhiteTower" occupation="Lord" default_group="Cavalry" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_22" name="{=uTFjknE2}Nynaeve al'Meara" age="28" voice="earnest" is_hero="true" is_female="true" culture="Culture.WhiteTower" occupation="Lord" default_group="Infantry" face_mesh_cache="true">
     <face>
       <!--face_key value="0000ed2fd47c0001f6dc47ab897187b66caa59a1e2e0a735dc984294be4e6657000b1b8408ac733400001105000030a30000001f000000000000000000005100" /-->
       <BodyProperties version="4" age="32.24" weight="0.4074" build="0.3551" key="0036F80FC0CC1005394CA6D871948A75E69F85BC8165370874CDF15A818FAFA80275662407995E5600000000000000000000000000000000000000001AF42043" />
     </face>
     <skills></skills>
     <Traits>
-      <Trait id="KnightFightingSkills" value="7" />
-      <Trait id="Commander" value="4" />
+      <Trait id="PeltastFightingSkills" value="10" />
+      <Trait id="Commander" value="6" />
       <Trait id="Politician" value="3" />
-      <Trait id="Manager" value="4" />
+      <Trait id="Manager" value="6" />
       <Trait id="Honor" value="1" />
       <Trait id="Mercy" value="1" />
       <Trait id="Calculating" value="-1" />
@@ -499,17 +499,17 @@
       <EquipmentSet id="WT_civ_template_lady_normal" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_42" name="{=10urvYUQ}Captain General Myrelle Berengari" default_group="HorseArcher" age="37" voice="softspoken" is_hero="true" is_female="true" culture="Culture.WhiteTower" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_42" name="{=10urvYUQ}Captain General Myrelle Berengari" default_group="Ranged" age="37" voice="softspoken" is_hero="true" is_female="true" culture="Culture.WhiteTower" occupation="Lord" face_mesh_cache="true">
     <face>
       <!--face_key value="0006ad2b19bc0346c8647b87d6874a728a687b9aa7686e39e2e25ba8b8e8c7b5000a7b5406a87e7800001105000030a30000001f000000000000000000000000" /-->
       <BodyProperties version="4" age="32.35" weight="0.4275" build="0.1991" key="0029FC0FC0440003387B7BC6698555BB4395DAC83664968D296AD674277769EA0233662403C4A48600000000000000000000000000000000000000005C5C3003" />
     </face>
     <skills></skills>
     <Traits>
-      <Trait id="HorseArcherFightingSkills" value="8" />
-      <Trait id="Commander" value="6" />
+      <Trait id="BalancedFightingSkills" value="8" />
+      <Trait id="Commander" value="8" />
       <Trait id="Politician" value="3" />
-      <Trait id="Manager" value="6" />
+      <Trait id="Manager" value="8" />
       <Trait id="Valor" value="1" />
       <Trait id="Calculating" value="-1" />
     </Traits>
@@ -519,7 +519,7 @@
       <EquipmentSet id="WT_civ_template_lady_normal" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_32" name="{=V1QLbhRl}Adine Canford" voice="softspoken" age="26" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.WhiteTower" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_32" name="{=V1QLbhRl}Adine Canford" voice="softspoken" age="26" default_group="Infantry" is_hero="true" is_female="true" culture="Culture.WhiteTower" occupation="Lord" face_mesh_cache="true">
     <face>
       <!--face_key value="000cb99b00001003963657a49e526d58a75688678546525569688969855687d60007d006049779870000000000000ffe00000000000000000000000000000000" /-->
       <BodyProperties version="4" weight="0.4" build="0.3" key="000BB80B40001003963657A49E536D58A75688678546525569688969855687D600043005049779870000000000000FFE00000000000000000000000000500000" />
@@ -527,7 +527,7 @@
     <skills></skills>
     <Traits>
       <!--NONCOMBATANT FEMALE-->
-      <Trait id="KnightFightingSkills" value="5" />
+      <Trait id="PeltastFightingSkills" value="5" />
       <Trait id="Commander" value="4" />
       <Trait id="Politician" value="3" />
       <Trait id="Manager" value="5" />
@@ -540,7 +540,7 @@
       <EquipmentSet id="WT_civ_template_lady_normal" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_422" name="{=LQYkBOsU}Aeldene Stonebridge" default_group="HorseArcher" age="37" voice="softspoken" is_hero="true" culture="Culture.WhiteTower" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_422" name="{=LQYkBOsU}Aeldene Stonebridge" default_group="Infantry" age="37" voice="softspoken" is_hero="true" is_female="true" culture="Culture.WhiteTower" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="32.79" weight="0.8185" build="0.7639" key="0031FC0F00E4001599AB68D2D977DDB855A2E69D8D72547968A4539CE00F81E902ABC6240A875B95000000000000000000000000000000000000000043441003" />
     </face>
@@ -549,7 +549,7 @@
       <Trait id="BalancedFightingSkills" value="5" />
       <Trait id="Commander" value="5" />
       <Trait id="Politician" value="5" />
-      <Trait id="Manager" value="2" />
+      <Trait id="Manager" value="5" />
       <Trait id="Valor" value="1" />
       <Trait id="Calculating" value="1" />
     </Traits>
@@ -559,13 +559,13 @@
       <EquipmentSet id="WT_civ_template_lady_normal" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_1_3" name="{=EdQ0Lp2a}Merana Ambrey" default_group="Cavalry" age="28" voice="ironic" is_hero="true" is_female="true" culture="Culture.WhiteTower" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_1_3" name="{=EdQ0Lp2a}Merana Ambrey" default_group="Infantry" age="28" voice="ironic" is_hero="true" is_female="true" culture="Culture.WhiteTower" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="25.84" weight="0.5" build="0.5" key="001CB80CD300300D7C7664876753888A7577866254C69643C4B647398C95A0370177761307A7497300000000000000000000000000000000000000003AF44003" />
     </face>
     <skills></skills>
     <Traits>
-      <Trait id="KnightFightingSkills" value="5" />
+      <Trait id="PeltastFightingSkills" value="5" />
       <Trait id="Commander" value="5" />
       <Trait id="Politician" value="3" />
       <Trait id="Manager" value="7" />
@@ -579,13 +579,13 @@
       <EquipmentSet id="WT_civ_template_lady_normal" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_1_4" name="{=JJcFwAUb}Faiselle Darone" is_female="true" age="32" voice="softspoken" default_group="Cavalry" is_hero="true" culture="Culture.WhiteTower" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_1_4" name="{=JJcFwAUb}Faiselle Darone" is_female="true" age="32" voice="softspoken" default_group="Ranged" is_hero="true" culture="Culture.WhiteTower" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="22.2" weight="0.4573" build="0.765" key="0039F00F00E400047456864AA8594B86A9B798552CA98D85B51AB9583A696E8E007B760307623B87000000000000000000000000000000000000000072E400C3" />
     </face>
     <skills></skills>
     <Traits>
-      <Trait id="KnightFightingSkills" value="5" />
+      <Trait id="BalancedFightingSkills" value="5" />
       <Trait id="Commander" value="5" />
       <Trait id="Politician" value="3" />
       <Trait id="Manager" value="7" />
@@ -599,13 +599,13 @@
       <EquipmentSet id="WT_civ_template_lady_normal" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_1_5" name="{=VPH7syd9}Kiruna Nachiman" age="24" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.WhiteTower" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_1_5" name="{=VPH7syd9}Kiruna Nachiman" age="24" voice="softspoken" default_group="Infantry" is_hero="true" is_female="true" culture="Culture.WhiteTower" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="22.2" weight="0.4573" build="0.765" key="0015F80FC0002846B8708BD6CDC85229D3698B3ABDFE344CD22D3DD538898868007B76030796723B00000000000000000000000000000000000000003EF41002" />
     </face>
     <skills></skills>
     <Traits>
-      <Trait id="KnightFightingSkills" value="5" />
+      <Trait id="PeltastFightingSkills" value="5" />
       <Trait id="Commander" value="5" />
       <Trait id="Politician" value="3" />
       <Trait id="Manager" value="4" />
@@ -619,13 +619,13 @@
       <EquipmentSet id="WT_civ_template_lady_normal" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_1_6" name="{=O6NKphJk}Seonid Traighan" default_group="Cavalry" age="39" voice="softspoken" is_hero="true" is_female="true" culture="Culture.WhiteTower" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_1_6" name="{=O6NKphJk}Seonid Traighan" default_group="Infantry" age="39" voice="softspoken" is_hero="true" is_female="true" culture="Culture.WhiteTower" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="22.2" weight="0.4573" build="0.765" key="00008C0FC0FC190DC87558C56575CE8AB65BC398878767762D7BBD95E5888716000B760300AA8C7600000000000000000000000000000000000000002A0480C2" />
     </face>
     <skills></skills>
     <Traits>
-      <Trait id="KnightFightingSkills" value="5" />
+      <Trait id="PeltastFightingSkills" value="5" />
       <Trait id="Commander" value="5" />
       <Trait id="Politician" value="3" />
       <Trait id="Manager" value="5" />
@@ -847,7 +847,7 @@
       <EquipmentSet id="Cai_noncom_template_default" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_20" name="{=rUvnbDi2}Lady Cara Damodred" age="40" voice="softspoken" default_group="HorseArcher" is_hero="true" is_female="true" culture="Culture.Cairhien" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_20" name="{=rUvnbDi2}Lady Caraline Damodred" age="40" voice="softspoken" default_group="HorseArcher" is_hero="true" is_female="true" culture="Culture.Cairhien" occupation="Lord" face_mesh_cache="true">
     <face>
       <!--face_key value="0000f52640000005a65878789bb045948b55d5787db57345a7eb59688555658400000004088779a60000000000000ffe00000000000000000000000000000000" /-->
       <BodyProperties version="4" age="45.97" weight="0.0077" build="0" key="0013140F00B41006C8C337A4957BC7BAF3AA844E85A9B5A746617D64578858DA04C006450CA764350000000000000000000000000000000000000000518C10C3" />
@@ -1297,7 +1297,7 @@
     </Equipments>
   </NPCCharacter>
   <!--clan_empire_west_1 - Andor-->
-  <NPCCharacter id="lord_1_7" name="{=I72U5ttG}Elayne Trakand" age="23" voice="ironic" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord" default_group="HorseArcher" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_7" name="{=I72U5ttG}Elayne Trakand" age="23" voice="ironic" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord" default_group="Ranged" face_mesh_cache="true">
     <face>
       <!--face_key value="0011714fc0fc028f96938148227287b6674886898a943687452b87978a787594000f26550f889888000000000000000000000000000000000000000001fc8040" /-->
       <BodyProperties version="4" age="22.74" weight="0" build="0.7096" key="00080803402C300AA2D42594E9988C69718678986A418CD867A7C8673786554300BB06030B579AB70000000000000000000000000000000000000000416C4003" />
@@ -1309,7 +1309,7 @@
     <skills></skills>
     <Traits>
       <!-- USED TO DERIVE SKILLS-->
-      <Trait id="KnightFightingSkills" value="6" />
+      <Trait id="BalancedFightingSkills" value="8" />
       <Trait id="Commander" value="10" />
       <Trait id="Politician" value="8" />
       <Trait id="Manager" value="7" />
@@ -1430,17 +1430,17 @@
     </Equipments>
   </NPCCharacter>
   <!--clan_empire_west_2 - BlackTower-->
-  <NPCCharacter id="lord_1_9" name="{=QjJAbaoT}Mazrim Taim" age="47" voice="ironic" default_group="Cavalry" is_hero="true" culture="Culture.BlackTower" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_9" name="{=QjJAbaoT}Mazrim Taim" age="47" voice="ironic" default_group="Infantry" is_hero="true" culture="Culture.BlackTower" occupation="Lord" face_mesh_cache="true">
     <face>
       <!--face_key value="000b7da440bc300e669e57882765477b8bb7397b87a7a78b85a54998ac6579dc000c586609868975000000000000000000000000000000000000000000005040" /-->
       <BodyProperties version="4" age="32.99" weight="0.2207" build="0.5818" key="000AFC0FC0B41001286CC286A78698885A29A489998A985C78446AA6A28A668A02C936240CC633490000000000000000000000000000000000000000239C20C2" />
     </face>
     <skills></skills>
     <Traits>
-      <Trait id="BalancedFightingSkills" value="6" />
-      <Trait id="Commander" value="4" />
+      <Trait id="BalancedFightingSkills" value="8" />
+      <Trait id="Commander" value="6" />
       <Trait id="Politician" value="7" />
-      <Trait id="Manager" value="4" />
+      <Trait id="Manager" value="8" />
       <Trait id="Mercy" value="-1" />
       <Trait id="Honor" value="-1" />
       <Trait id="Valor" value="-1" />
@@ -1453,7 +1453,7 @@
       <EquipmentSet id="WOTashamancharacterCivil" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_10" name="{=WnhPFlON}Abors" age="45" voice="ironic" is_female="false" is_hero="true" culture="Culture.BlackTower" occupation="Lord" default_group="Cavalry" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_10" name="{=WnhPFlON}Abors" age="45" voice="ironic" is_female="false" is_hero="true" culture="Culture.BlackTower" occupation="Lord" default_group="Infantry" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="32.99" weight="0.3236" build="0.3735" key="003F980F000012D499A7C5A3695D689887B7A9B54567D862769B65A9A636A64502865624088A886700000000000000000000000000000000000000007D042002" />
     </face>
@@ -1474,13 +1474,13 @@
       <EquipmentSet id="WOTashamancharacterCivil" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_35" name="{=kwNl4bsS}Coteran" voice="softspoken" age="38" is_female="false" is_hero="true" culture="Culture.BlackTower" occupation="Lord" default_group="Cavalry">
+  <NPCCharacter id="lord_1_35" name="{=kwNl4bsS}Coteran" voice="softspoken" age="38" is_female="false" is_hero="true" culture="Culture.BlackTower" occupation="Lord" default_group="Infantry">
     <face>
       <!-- Face key needs redoing, repurposed from female-->
       <BodyProperties version="4" weight="0.6154" build="0.6899" key="00057C04400020029673264B47856554EA72881968858A46D9A28774766555770374963507334537000000000000000000000000000000000000000020FC2003" />
     </face>
     <Traits>
-      <Trait id="KnightFightingSkills" value="6" />
+      <Trait id="PeltastFightingSkills" value="6" />
       <Trait id="Commander" value="5" />
       <Trait id="Politician" value="2" />
       <Trait id="Manager" value="3" />
@@ -1494,7 +1494,7 @@
       <EquipmentSet id="WOTashamancharacterCivil" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_25" name="{=DH7SnD7L}Atal Mishraile" age="22" voice="earnest" is_hero="true" culture="Culture.BlackTower" occupation="Lord" default_group="Cavalry" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_25" name="{=DH7SnD7L}Atal Mishraile" age="22" voice="earnest" is_hero="true" culture="Culture.BlackTower" occupation="Lord" default_group="Infantry" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="32.99" weight="0.238" build="0.7197" key="0008240080700003CBBA757B515DDD658995A56BC799C95C4B54693BA2B21EC502AB46240A54A56A00000000000000000000000000000000000000005D5C1102" />
     </face>
@@ -1516,7 +1516,7 @@
       <EquipmentSet id="WOTashamancharacterCivil" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_23" name="{=XkNnlSwA}Dobser" age="26" voice="earnest" is_hero="true" culture="Culture.BlackTower" occupation="Lord" default_group="Cavalry" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_23" name="{=XkNnlSwA}Dobser" age="26" voice="earnest" is_hero="true" culture="Culture.BlackTower" occupation="Lord" default_group="Infantry" face_mesh_cache="true">
     <face>
       <!--face_key value="0000b122c000300deb67d938447c61a7658b5985a9a6594e143d5345aae756a7000bc2540898d94800001105000030a30000001f000000000000000000007000" /-->
       <BodyProperties version="4" weight="0.5" build="0.7" key="0000B002C000300DEB67D938447261A7658B5985A9A6594E143D5345AAE756A7000522540598D94800001105000030A30000001F000000000000000000787000" />
@@ -1718,8 +1718,8 @@
       <EquipmentSet id="emp_civ_template_default" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <!--clan_empire_west_5 - Andor-->
-  <NPCCharacter id="lord_1_45" name="{=7nVZgjmn}Captain Kindlin" age="38" voice="softspoken" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord" face_mesh_cache="true">
+  <!--clan_empire_west_5 - Andor - Shadowspawn-->
+  <NPCCharacter id="lord_1_45" name="{=7nVZgjmn}Captain Kindlin" age="38" voice="softspoken" default_group="Cavalry" is_hero="true" culture="Culture.sturgia" occupation="Lord" face_mesh_cache="true">
     <face>
       <!--face_key value="000583c000fc000f66a89964658d25876585d896796876769a8899a987a7ab750003d65e03c578eb000000000000000000000000000000000000000000946140" /-->
       <BodyProperties version="4" weight="0.5" build="0.5" key="0005800000FC000F66A89964658D25876585D896796876769A8899A987A7AB750000065703C578EB000000000000000000000000000000000000000000F46140" />
@@ -1743,7 +1743,7 @@
       <EquipmentSet id="emp_civ_template_default" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_45_1" name="{=27fMB4Ri}Under Lieutenant Rosoria Domanche" age="38" voice="earnest" is_female="True" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_45_1" name="{=27fMB4Ri}Under Lieutenant Rosoria Domanche" age="38" voice="earnest" is_female="True" default_group="Cavalry" is_hero="true" culture="Culture.sturgia" occupation="Lord" face_mesh_cache="true">
     <face>
       <!--face_key value="000583c000fc000f66a89964658d25876585d896796876769a8899a987a7ab750003d65e03c578eb000000000000000000000000000000000000000000946140" /-->
       <BodyProperties version="4" age="30.97" weight="0.2932" build="1" key="0000140080583006866B699A19C5678A479E5D5A759AB927B9BBC4485496744501BF46140B1B9A5800000000000000000000000000000000000000005D6C30C3" />
@@ -1767,7 +1767,7 @@
       <EquipmentSet id="emp_noncom_template_default" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_45_2" name="{=nfvgHpn5}Lieutenant Charlz Guybon" age="24" voice="earnest" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_45_2" name="{=nfvgHpn5}Lieutenant Charlz Guybon" age="24" voice="earnest" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.sturgia" occupation="Lord" face_mesh_cache="true">
     <face>
       <!--face_key value="000583c000fc000f66a89964658d25876585d896796876769a8899a987a7ab750003d65e03c578eb000000000000000000000000000000000000000000946140" /-->
       <BodyProperties version="4" age="22.29" weight="0.3153" build="0.3819" key="0020B00200CC1005CCB278C48739DAB99F18C85B66E4B879779577538577860A0066560306418A6300000000000000000000000000000000000000004EC45042" />
@@ -1787,7 +1787,7 @@
       <EquipmentSet id="emp_civ_template_default" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_45_3" name="{=Upt1X9HN}Lieutenant Marytn Tallanvor" age="24" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_45_3" name="{=Upt1X9HN}Lieutenant Marytn Tallanvor" age="24" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.sturgia" occupation="Lord" face_mesh_cache="true">
     <face>
       <!--face_key value="000583c000fc000f66a89964658d25876585d896796876769a8899a987a7ab750003d65e03c578eb000000000000000000000000000000000000000000946140" /-->
       <BodyProperties version="4" age="22.29" weight="0.1127" build="0.6466" key="0020F00200CC1002CCB278C48739DAB99F18C85B66E4B879779577538577860A00CA26030C418A6300000000000000000000000000000000000000004F9C5042" />
@@ -1807,7 +1807,7 @@
       <EquipmentSet id="emp_noncom_template_default" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_57" name="{=EJFY3KdF}Guardsman Felas" voice="earnest" is_female="false" default_group="Cavalry" age="21" is_hero="true" culture="Culture.empire" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_57" name="{=EJFY3KdF}Guardsman Felas" voice="earnest" is_female="false" default_group="Cavalry" age="21" is_hero="true" culture="Culture.sturgia" occupation="Lord" face_mesh_cache="true">
     <face>
       <!--face_key value="0016d52e407c334e269c3c75a7974761a6ae8c7b19959cab9cb685d9565bb66a00047bb4067385ab00001105000030a30000001f000000000000000000009000" /-->
       <BodyProperties version="4" age="22.29" weight="0.1127" build="0.6466" key="0020F00B80CC1384CCB278C48739DAB99F18C85B66E4B879779577538577860A00CA26030C418A6300000000000000000000000000000000000000004F9C5042" />
@@ -1828,7 +1828,7 @@
       <EquipmentSet id="emp_civ_template_default" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_57_1" name="{=CwK8l7IX}Sergeant Mallisa" voice="curt" is_female="true" age="22" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_57_1" name="{=CwK8l7IX}Sergeant Mallisa" voice="curt" is_female="true" age="22" default_group="Cavalry" is_hero="true" culture="Culture.sturgia" occupation="Lord" face_mesh_cache="true">
     <face>
       <!--face_key value="0016d52e407c334e269c3c75a7974761a6ae8c7b19959cab9cb685d9565bb66a00047bb4067385ab00001105000030a30000001f000000000000000000009000" /-->
       <BodyProperties version="4" age="22.29" weight="0.1127" build="0.6466" key="0020F000A1CC1007CCB278C48739DAB99F18C85B66E4B879779577538577860A00CA26030C418A6300000000000000000000000000000000000000004F9C4043" />
@@ -1849,7 +1849,7 @@
       <EquipmentSet id="emp_noncom_template_default" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_57_2" name="{=p4vC5oBc}Guardsman Helna" age="25" voice="curt" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_57_2" name="{=p4vC5oBc}Guardsman Helna" age="25" voice="curt" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sturgia" occupation="Lord" face_mesh_cache="true">
     <face>
       <!--face_key value="0016d52e407c334e269c3c75a7974761a6ae8c7b19959cab9cb685d9565bb66a00047bb4067385ab00001105000030a30000001f000000000000000000009000" /-->
       <BodyProperties version="4" age="22.29" weight="0.0725" build="0.8904" key="00265C06C0582006C255735B428596B8999BC5866578789391985A8A29475987008D1603088A8478000000000000000000000000000000000000000032FC40C3" />
@@ -2528,16 +2528,16 @@
     </Equipments>
   </NPCCharacter>
   <!--clan_empire_south_3 - Dragonsworn-->
-  <NPCCharacter id="lord_1_177" name="{=I2gnhOc2}Min Farshaw" age="19" voice="curt" is_hero="true" is_female="true" culture="Culture.Dragonsworn" occupation="Lord" default_group="Cavalry" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_177" name="{=I2gnhOc2}Min Farshaw" age="19" voice="curt" is_hero="true" is_female="true" culture="Culture.Dragonsworn" occupation="Lord" default_group="Infantry" face_mesh_cache="true">
     <face>
       <!--face_key value="0011ad2700000008975d98b886669678796aa5a76a87677859779a888658234a000000040797967900001105000030a30000001f000000000000000000040000" /-->
       <BodyProperties version="4" age="19.02" weight="0.5348" build="0.4306" key="0008F80D00CC10078589D7B4AC868DA7AB898AB848898A26638C6766AC73C65409368692064DBBD700000000000000000000000000000000000000000C5C10C3" />
     </face>
     <Traits>
-      <Trait id="KnightFightingSkills" value="4" />
-      <Trait id="Commander" value="3" />
+      <Trait id="BalancedFightingSkills" value="6" />
+      <Trait id="Commander" value="4" />
       <Trait id="Politician" value="2" />
-      <Trait id="Manager" value="1" />
+      <Trait id="Manager" value="4" />
       <Trait id="Calculating" value="-1" />
       <!---Opportunist -->
     </Traits>
@@ -2547,15 +2547,15 @@
       <EquipmentSet id="Drg_civ_template_lady_normal" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_29" name="{=5eTb2xr7}Damer Flinn" age="58" voice="earnest" is_hero="true" culture="Culture.Dragonsworn" occupation="Lord" default_group="Cavalry" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_29" name="{=5eTb2xr7}Damer Flinn" age="58" voice="earnest" is_hero="true" culture="Culture.Dragonsworn" occupation="Lord" default_group="Infantry" face_mesh_cache="true">
     <face>
       <!--face_key value="000ba12b40001008a43a8ab8557488874a6a94868b767788988844778a69247900000004079777a800001105000030a30000001f000000000000000000040000" /-->
       <BodyProperties version="4" age="64.03" weight="0.5727" build="0.2295" key="0018640F00A00340B66668A4527857A3496AA5479B56596E94468947B961EC760663966806955A6200000000000000000000000000000000000000003ACC6002" />
     </face>
     <skills></skills>
     <Traits>
-      <Trait id="KnightFightingSkills" value="8" />
-      <Trait id="Commander" value="4" />
+      <Trait id="BalancedFightingSkills" value="8" />
+      <Trait id="Commander" value="6" />
       <Trait id="Politician" value="3" />
       <Trait id="Manager" value="5" />
       <Trait id="Valor" value="1" />
@@ -2573,10 +2573,10 @@
       <BodyProperties version="4" age="22.23" weight="0.6938" build="0.4182" key="000854078000000E307384321730312147EE8B5B6274901459029B7D7D00630600F6A6030F69F13F000000000000000000000000000000000000000047F43006" />
     </face>
     <Traits>
-      <Trait id="KnightFightingSkills" value="8" />
-      <Trait id="Commander" value="4" />
-      <Trait id="Politician" value="4" />
-      <Trait id="Manager" value="5" />
+      <Trait id="CavalryFightingSkills" value="10" />
+      <Trait id="Commander" value="10" />
+      <Trait id="Politician" value="10" />
+      <Trait id="Manager" value="10" />
       <Trait id="Valor" value="-1" />
       <Trait id="Honor" value="1" />
       <Trait id="Mercy" value="1" />
@@ -2588,32 +2588,31 @@
       <EquipmentSet id="Drg_civ_template_flamboyant" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_18" name="{=OMkSgsV2}Cadsuanne Melaidrin" age="55" voice="curt" is_hero="true" is_female="true" culture="Culture.WhiteTower" occupation="Lord" default_group="Cavalry" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_18" name="{=OMkSgsV2}Cadsuanne Melaidrin" age="55" voice="curt" is_hero="true" is_female="true" culture="Culture.WhiteTower" occupation="Lord" default_group="Ranged" face_mesh_cache="true">
     <face>
       <!--face_key value="0004892fc00005ce98aa77b76970a46a77e739675a3862468b759958865696bd00000004058788780000000000000ffe00000000000000000000000000000000" /-->
       <BodyProperties version="4" age="60.47" weight="0.4074" build="0.3551" key="00188400008820158576C8882824B7B7B7978A417148895848CA55A646BA7DAB067566670776518700000000000000000000000000000000000000001ADC40C3" />
     </face>
     <skills></skills>
     <Traits>
-      <!-- NONCOMBATANT -->
-      <Trait id="Politician" value="4" />
-      <Trait id="Manager" value="3" />
+      <Trait id="Politician" value="8" />
+      <Trait id="Manager" value="7" />
       <Trait id="Valor" value="-1" />
       <Trait id="Generosity" value="-1" />
       <Trait id="Authoritarian" value="1" />
+      <Trait id="BalancedFightingSkills" value="8" />
     </Traits>
     <Equipments>
       <EquipmentSet id="AesSedaiGreenBale" />
       <EquipmentSet id="AesSedaiGreenCivil" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_39" name="{=YBGCXSEx}Jahar Narishma" age="32" voice="ironic" default_group="Cavalry" is_hero="true" is_female="false" culture="Culture.Dragonsworn" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_39" name="{=YBGCXSEx}Jahar Narishma" age="32" voice="ironic" default_group="Infantry" is_hero="true" is_female="false" culture="Culture.Dragonsworn" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="22.79" weight="0.2485" build="0.5201" key="0002A00F00CC10109C695B966F8ABAC8A8BA2A46897ED998CA778B7488B4896800B846030B3D5DB30000000000000000000000000000000000000000216C9142" />
     </face>
     <Traits>
-      <!--NONCOMBATANT FEMALE-->
-      <Trait id="KnightFightingSkills" value="5" />
+      <Trait id="BalancedFightingSkills" value="5" />
       <Trait id="Commander" value="4" />
       <Trait id="Politician" value="4" />
       <Trait id="Manager" value="5" />
@@ -2626,7 +2625,7 @@
     </Equipments>
   </NPCCharacter>
   <!--clan_empire_south_4 - Dragonsworn-->
-  <NPCCharacter id="lord_1_30" name="{=P7iNhhPl}Moiraine Damodred" voice="earnest" age="44" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.Dragonsworn" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_30" name="{=P7iNhhPl}Moiraine Damodred" voice="earnest" age="44" default_group="Infantry" is_hero="true" is_female="true" culture="Culture.Dragonsworn" occupation="Lord" face_mesh_cache="true">
     <face>
       <!--face_key value="0016c92e0000200dbc4597a5256457a995879939bbeca7a766c7893aa68945570006435409b1876400001105000030a30000001f000000000000000000002000" /-->
       <BodyProperties version="4" age="44.81" weight="0.2515" build="0.1307" key="0013140F00B4100AC8C337A4957BC7BAF3AA844E85A9B5A746617D64578858DA0332463503A764350000000000000000000000000000000000000000506C10C3" />
@@ -2634,9 +2633,9 @@
     <skills></skills>
     <Traits>
       <Trait id="BalancedFightingSkills" value="7" />
-      <Trait id="Commander" value="5" />
-      <Trait id="Politician" value="3" />
-      <Trait id="Manager" value="3" />
+      <Trait id="Commander" value="8" />
+      <Trait id="Politician" value="8" />
+      <Trait id="Manager" value="5" />
       <Trait id="Honor" value="-1" />
       <Trait id="Generosity" value="1" />
       <Trait id="Calculating" value="1" />
@@ -2648,14 +2647,14 @@
       <EquipmentSet id="AesSedaiblueMoraineCivil" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_30_1" name="{=jqdpTXYV}Fager Neald" voice="curt" age="43" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.Dragonsworn" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_30_1" name="{=jqdpTXYV}Fager Neald" voice="curt" age="43" is_female="true" default_group="Infantry" is_hero="true" culture="Culture.Dragonsworn" occupation="Lord" face_mesh_cache="true">
     <face>
       <!--face_key value="0016c92e0000200dbc4597a5256457a995879939bbeca7a766c7893aa68945570006435409b1876400001105000030a30000001f000000000000000000002000" /-->
       <BodyProperties version="4" age="19.67" weight="0.6344" build="0.88" key="0034580F00B410146CC9573D6387775A7C5DC8BC854D387B6A386838C845CCA50B6DA6B2095656A6000000000000000000000000000000000000000018D44002" />
     </face>
     <skills></skills>
     <Traits>
-      <Trait id="KnightFightingSkills" value="4" />
+      <Trait id="PeltastFightingSkills" value="4" />
       <Trait id="Commander" value="4" />
       <Trait id="Politician" value="4" />
       <Trait id="Manager" value="5" />
@@ -2669,16 +2668,16 @@
       <EquipmentSet id="Drg_civ_template_stoic" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_49" name="{=QGIAbglw}Lan Mandragoran" default_group="Cavalry" age="41" voice="softspoken" is_hero="true" culture="Culture.Dragonsworn" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_49" name="{=QGIAbglw}Lan Mandragoran" default_group="Infantry" age="41" voice="softspoken" is_hero="true" culture="Culture.Dragonsworn" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="58.24" weight="0.5" build="0.5" key="0015F80F00002343B8708BD6CDC85229D3698B3ABDFE344CD22D3DD538898868057776570796723B00000000000000000000000000000000000000003EF41002" />
     </face>
     <skills></skills>
     <Traits>
-      <Trait id="KnightFightingSkills" value="6" />
-      <Trait id="Commander" value="3" />
+      <Trait id="HuscarlFightingSkills" value="10" />
+      <Trait id="Commander" value="8" />
       <Trait id="Politician" value="3" />
-      <Trait id="Manager" value="4" />
+      <Trait id="Manager" value="6" />
       <Trait id="Valor" value="1" />
       <Trait id="Honor" value="1" />
       <Trait id="Mercy" value="1" />
@@ -2689,13 +2688,13 @@
       <EquipmentSet id="Drg_civ_template_stoic" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_49_1" name="{=BosCJ3Rb}Bera Harkin" is_female="false" age="47" default_group="Cavalry" voice="ironic" is_hero="true" culture="Culture.WhiteTower" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_49_1" name="{=BosCJ3Rb}Bera Harkin" is_female="true" age="47" default_group="Infantry" voice="ironic" is_hero="true" culture="Culture.WhiteTower" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="58.24" weight="0.8623" build="0.5" key="0013600080B4200C88B58098AA4659937487893A5965B4765A6AD9D1D4B8699A0527D65702BC747200000000000000000000000000000000000000002C340083" />
     </face>
     <skills></skills>
     <Traits>
-      <Trait id="KnightFightingSkills" value="4" />
+      <Trait id="PeltastFightingSkills" value="4" />
       <Trait id="Commander" value="3" />
       <Trait id="Politician" value="2" />
       <Trait id="Manager" value="1" />
@@ -2713,7 +2712,7 @@
     </face>
     <skills></skills>
     <Traits>
-      <Trait id="KnightFightingSkills" value="4" />
+      <Trait id="PeltastFightingSkills" value="5" />
       <Trait id="Commander" value="3" />
       <Trait id="Politician" value="2" />
       <Trait id="Manager" value="1" />
@@ -2732,8 +2731,8 @@
     </face>
     <skills></skills>
     <Traits>
-      <Trait id="KnightFightingSkills" value="4" />
-      <Trait id="Commander" value="4" />
+      <Trait id="PeltastFightingSkills" value="6" />
+      <Trait id="Commander" value="5" />
       <Trait id="Politician" value="4" />
       <Trait id="Manager" value="5" />
       <Trait id="Generosity" value="-1" />
@@ -2745,17 +2744,17 @@
       <EquipmentSet id="WT_civ_template_lady_normal" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_30_3" name="{=PQoWbtKo}Logain Ablar" voice="softspoken" age="42" default_group="Cavalry" is_hero="true" culture="Culture.Dragonsworn" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_30_3" name="{=PQoWbtKo}Logain Ablar" voice="softspoken" age="42" default_group="Infantry" is_hero="true" culture="Culture.Dragonsworn" occupation="Lord" face_mesh_cache="true">
     <face>
       <!--face_key value="0016c92e0000200dbc4597a5256457a995879939bbeca7a766c7893aa68945570006435409b1876400001105000030a30000001f000000000000000000002000" /-->
       <BodyProperties version="4" age="25.92" weight="0.6344" build="0.88" key="00138C0F00FC13C2C87558C56575CE8AB65BC398878767762D7BBD95E5888716017DA61307AA8C7600000000000000000000000000000000000000002AE480C2" />
     </face>
     <skills></skills>
     <Traits>
-      <Trait id="KnightFightingSkills" value="8" />
-      <Trait id="Commander" value="4" />
+      <Trait id="BalancedFightingSkills" value="8" />
+      <Trait id="Commander" value="7" />
       <Trait id="Politician" value="4" />
-      <Trait id="Manager" value="5" />
+      <Trait id="Manager" value="8" />
       <Trait id="Generosity" value="1" />
       <Trait id="Calculating" value="-1" />
     </Traits>
@@ -2772,10 +2771,10 @@
     </face>
     <skills></skills>
     <Traits>
-      <Trait id="KnightFightingSkills" value="4" />
-      <Trait id="Commander" value="3" />
+      <Trait id="PeltastFightingSkills" value="4" />
+      <Trait id="Commander" value="4" />
       <Trait id="Politician" value="2" />
-      <Trait id="Manager" value="1" />
+      <Trait id="Manager" value="4" />
       <Trait id="Calculating" value="-1" />
     </Traits>
     <Equipments>
@@ -2785,17 +2784,17 @@
     </Equipments>
   </NPCCharacter>
   <!--clan_empire_south_5 - Dragonsworn-->
-  <NPCCharacter id="lord_1_63_2" name="{=tRAl9AW2}First General Talmanes Delovinde" voice="curt" age="28" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.Dragonsworn" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_63_2" name="{=tRAl9AW2}First General Talmanes Delovinde" voice="curt" age="28" is_female="false" default_group="Ranged" is_hero="true" culture="Culture.Dragonsworn" occupation="Lord" face_mesh_cache="true">
     <face>
       <!--face_key value="00065d28807c000d88566b74da8577a325c64a9b6aa35ad26a5b2db397525655000a5ba40b57885e00001105000030a30000001f000000000000000000003000" /-->
       <BodyProperties version="4" age="21.78" weight="0.5859" build="1" key="00184C0D00FC290003D5897A6886AA5A544E6459866BA4763796CCA7677B458A002F960302AB78610000000000000000000000000000000000000000425460C2" />
     </face>
     <skills></skills>
     <Traits>
-      <Trait id="BalancedFightingSkills" value="4" />
-      <Trait id="Commander" value="3" />
+      <Trait id="BalancedFightingSkills" value="8" />
+      <Trait id="Commander" value="7" />
       <Trait id="Politician" value="3" />
-      <Trait id="Manager" value="3" />
+      <Trait id="Manager" value="8" />
       <Trait id="Valor" value="-1" />
       <Trait id="Mercy" value="1" />
       <Trait id="Generosity" value="-1" />
@@ -2807,7 +2806,7 @@
       <EquipmentSet id="Drg_civ_template_flamboyant" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_63_3" name="{=L2SmutOy}General Edorion Selorna" voice="curt" age="32" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.Dragonsworn" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_63_3" name="{=L2SmutOy}General Edorion Selorna" voice="curt" age="32" is_female="false" default_group="Ranged" is_hero="true" culture="Culture.Dragonsworn" occupation="Lord" face_mesh_cache="true">
     <face>
       <!--face_key value="00065d28807c000d88566b74da8577a325c64a9b6aa35ad26a5b2db397525655000a5ba40b57885e00001105000030a30000001f000000000000000000003000" /-->
       <BodyProperties version="4" age="21.78" weight="0.9583" build="0.57" key="001EC808C044300EB93BC9955B889479740A938CB6A688A58598B98BABAAC3960079E60307B7885700000000000000000000000000000000000000002CEC7102" />
@@ -2815,9 +2814,9 @@
     <skills></skills>
     <Traits>
       <Trait id="BalancedFightingSkills" value="4" />
-      <Trait id="Commander" value="3" />
+      <Trait id="Commander" value="6" />
       <Trait id="Politician" value="3" />
-      <Trait id="Manager" value="3" />
+      <Trait id="Manager" value="6" />
       <Trait id="Valor" value="-1" />
       <Trait id="Mercy" value="1" />
       <Trait id="Generosity" value="-1" />
@@ -2829,7 +2828,7 @@
       <EquipmentSet id="Drg_civ_template_flamboyant" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_63" name="{=AWDNxFbh}Mat Cauthon" voice="curt" age="23" default_group="Cavalry" is_hero="true" culture="Culture.Dragonsworn" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_63" name="{=AWDNxFbh}Mat Cauthon" voice="curt" age="23" default_group="Infantry" is_hero="true" culture="Culture.Dragonsworn" occupation="Lord" face_mesh_cache="true">
     <face>
       <!--face_key value="00065d28807c000d88566b74da8577a325c64a9b6aa35ad26a5b2db397525655000a5ba40b57885e00001105000030a30000001f000000000000000000003000" /-->
       <BodyProperties version="4" age="21.78" weight="0.4971" build="0.6429" key="0000780F0044001272439944713B55D787E89B9A88B43D2A64894B9985B39777006A760306899A6500000000000000000000000000000000000000002ADC4146" />
@@ -2837,9 +2836,9 @@
     <skills></skills>
     <Traits>
       <Trait id="BalancedFightingSkills" value="4" />
-      <Trait id="Commander" value="5" />
+      <Trait id="Commander" value="10" />
       <Trait id="Politician" value="5" />
-      <Trait id="Manager" value="9" />
+      <Trait id="Manager" value="7" />
       <Trait id="Valor" value="-1" />
       <Trait id="Mercy" value="1" />
       <Trait id="Generosity" value="-1" />
@@ -2851,7 +2850,7 @@
       <EquipmentSet id="Drg_civ_template_flamboyant" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_63_1" name="{=AVEDQNvr}Lord Estean Andiama" voice="curt" age="36" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.Dragonsworn" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_63_1" name="{=AVEDQNvr}Lord Estean Andiama" voice="curt" age="36" is_female="false" default_group="Ranged" is_hero="true" culture="Culture.Dragonsworn" occupation="Lord" face_mesh_cache="true">
     <face>
       <!--face_key value="00065d28807c000d88566b74da8577a325c64a9b6aa35ad26a5b2db397525655000a5ba40b57885e00001105000030a30000001f000000000000000000003000" /-->
       <BodyProperties version="4" age="21.78" weight="0.3512" build="0.6429" key="0034E80F00000A05733CB9789BB87BA3259B498AC777795698B687569C678536003A56030375688C0000000000000000000000000000000000000000245C6002" />
@@ -2859,9 +2858,9 @@
     <skills></skills>
     <Traits>
       <Trait id="BalancedFightingSkills" value="5" />
-      <Trait id="Commander" value="3" />
+      <Trait id="Commander" value="5" />
       <Trait id="Politician" value="3" />
-      <Trait id="Manager" value="3" />
+      <Trait id="Manager" value="5" />
       <Trait id="Calculating" value="1" />
     </Traits>
     <Equipments>
@@ -2870,7 +2869,7 @@
       <EquipmentSet id="Drg_civ_template_flamboyant" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_74" name="{=26W8jFm9}Lord Nalesean" voice="softspoken" age="30" default_group="Cavalry" is_hero="true" culture="Culture.Dragonsworn" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_74" name="{=26W8jFm9}Lord Nalesean" voice="softspoken" age="30" default_group="Ranged" is_hero="true" culture="Culture.Dragonsworn" occupation="Lord" face_mesh_cache="true">
     <face>
       <!--face_key value="0011b45b402410088733440e80468f1fff4f9274c862b448941b5637963e5d3e000a68810b7247a6000000000000000000000000000000000000000000003101" /-->
       <BodyProperties version="4" age="22.36" weight="0.2546" build="0.5197" key="0034E80F00000703733CB9789BB87BA3259B498AC777795698B687569C678536006846030675688C000000000000000000000000000000000000000024C46002" />
@@ -2890,14 +2889,14 @@
       <EquipmentSet id="Drg_civ_template_flamboyant" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_74_1" name="{=7DJgows0}Lord Reimon" voice="curt" is_female="false" age="30" default_group="Cavalry" is_hero="true" culture="Culture.Dragonsworn" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_74_1" name="{=7DJgows0}Lord Reimon" voice="curt" is_female="false" age="30" default_group="Ranged" is_hero="true" culture="Culture.Dragonsworn" occupation="Lord" face_mesh_cache="true">
     <face>
       <!--face_key value="0011b45b402410088733440e80468f1fff4f9274c862b448941b5637963e5d3e000a68810b7247a6000000000000000000000000000000000000000000003101" /-->
       <BodyProperties version="4" age="22.36" weight="0.2486" build="0.9583" key="0034E80F00000846733CB9789BB87BA3259B498AC777795698B687569C67853600AE46030A75688C0000000000000000000000000000000000000000255C6002" />
     </face>
     <skills></skills>
     <Traits>
-      <Trait id="KnightFightingSkills" value="4" />
+      <Trait id="BalancedFightingSkills" value="4" />
       <Trait id="Commander" value="4" />
       <Trait id="Politician" value="4" />
       <Trait id="Manager" value="5" />
@@ -3070,14 +3069,14 @@
     </Equipments>
   </NPCCharacter>
   <!--clan_empire_south_8 - Dragonsworn-->
-  <NPCCharacter id="lord_1_72" name="{=RYksq67N}Perrin Aybara" voice="softspoken" age="23" default_group="Cavalry" is_hero="true" culture="Culture.Dragonsworn" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_72" name="{=RYksq67N}Perrin Aybara" voice="softspoken" age="23" default_group="Infantry" is_hero="true" culture="Culture.Dragonsworn" occupation="Lord" face_mesh_cache="true">
     <face>
       <!--face_key value="0011b45b402410088733440e80468f1fff4f9274c862b448941b5637963e5d3e000a68810b7247a6000000000000000000000000000000000000000000003101" /-->
       <BodyProperties version="4" age="22.57" weight="0.9738" build="0.8225" key="0005B00D804413854D7234A76977ABBFA7B468798095EF0189795A88366D171200FCF6030F68A811000000000000000000000000000000000000000035FC9004" />
     </face>
     <skills></skills>
     <Traits>
-      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="BalancedFightingSkills" value="8" />
       <Trait id="Commander" value="6" />
       <Trait id="Politician" value="7" />
       <Trait id="Manager" value="6" />
@@ -3097,9 +3096,9 @@
     <skills></skills>
     <Traits>
       <Trait id="BalancedFightingSkills" value="4" />
-      <Trait id="Commander" value="4" />
+      <Trait id="Commander" value="8" />
       <Trait id="Politician" value="3" />
-      <Trait id="Manager" value="6" />
+      <Trait id="Manager" value="8" />
       <Trait id="Valor" value="1" />
       <Trait id="Generosity" value="1" />
     </Traits>
@@ -3108,14 +3107,14 @@
       <EquipmentSet id="Drg_civ_template_lady_normal" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_SE8_c" name="{=QuGKE0wg}Tam al'Thor" is_female="false" voice="earnest" age="60" default_group="Cavalry" is_hero="true" culture="Culture.Dragonsworn" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_SE8_c" name="{=QuGKE0wg}Tam al'Thor" is_female="false" voice="earnest" age="60" default_group="Ranged" is_hero="true" culture="Culture.Dragonsworn" occupation="Lord" face_mesh_cache="true">
     <face>
       <!--face_key value="0011b45b402410088733440e80468f1fff4f9274c862b448941b5637963e5d3e000a68810b7247a6000000000000000000000000000000000000000000003101" /-->
       <BodyProperties version="4" age="60.48" weight="0.8207" build="0.5197" key="0023940F00E4038F782D13B382C7833D5D9543688986857E8C0569742C376D7706A8C6670A9687650000000000000000000000000000000000000000294C5042" />
     </face>
     <skills></skills>
     <Traits>
-      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="BalancedFightingSkills" value="7" />
       <Trait id="Commander" value="4" />
       <Trait id="Politician" value="2" />
       <Trait id="Manager" value="3" />
@@ -3129,7 +3128,7 @@
     </Equipments>
   </NPCCharacter>
   <!--clan_empire_south_9 - BlackTower-->
-  <NPCCharacter id="lord_SE9_l" name="{=txyVEr0U}Kash" age="48" voice="ironic" default_group="Cavalry" is_hero="true" culture="Culture.BlackTower" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_SE9_l" name="{=txyVEr0U}Kash" age="48" voice="ironic" default_group="Infantry" is_hero="true" culture="Culture.BlackTower" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" weight="0.5" build="0.5" key="000B700CC02C39548B215CB4D9779D947BAB797D3835786895799C1A6DB7C35E01677613068C895800000000000000000000000000000000000000002AD46042" />
     </face>
@@ -3148,7 +3147,7 @@
       <EquipmentSet id="WOTashamancharacterCivil" civilian="true"></EquipmentSet>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_SE9_s" name="{=4WiAzdHf}Leems" age="46" voice="ironic" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.BlackTower" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_SE9_s" name="{=4WiAzdHf}Leems" age="46" voice="ironic" is_female="false" default_group="Infantry" is_hero="true" culture="Culture.BlackTower" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" weight="0.5" build="0.5" key="0000080FD0FC100D4776686376266B93426B9C989782C82458739F1CB876963401577613051867C8000000000000000000000000000000000000000022A420C3" />
     </face>
@@ -3166,7 +3165,7 @@
       <EquipmentSet id="WOTashamancharacterCivil" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_SE9_c1" name="{=rf8KHRSP}Varil Nensen" age="26" voice="earnest" default_group="Cavalry" is_hero="true" culture="Culture.BlackTower" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_SE9_c1" name="{=rf8KHRSP}Varil Nensen" age="26" voice="earnest" default_group="Infantry" is_hero="true" culture="Culture.BlackTower" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="22.93" weight="0.7334" build="0.8657" key="0013B0020088178569A56481EB518987A6AA953C85C294E5BCA686996D27AB83007DB6030783BC34000000000000000000000000000000000000000062FC0082" />
     </face>
@@ -3186,14 +3185,14 @@
       <EquipmentSet id="WOTashamancharacterCivil" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_SE9_c2" name="{=Y0I9T9pe}Welyn Kajima" age="24" is_female="false" voice="ironic" default_group="Cavalry" is_hero="true" culture="Culture.BlackTower" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_SE9_c2" name="{=Y0I9T9pe}Welyn Kajima" age="24" is_female="false" voice="ironic" default_group="Infantry" is_hero="true" culture="Culture.BlackTower" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="22.93" weight="0.7334" build="0.8657" key="0015F80FC0002010B8708BD6CDC85229D3698B3ABDFE344CD22D3DD538898868007DB6030796723B00000000000000000000000000000000000000003EF41002" />
     </face>
     <Traits>
+      <Trait id="BalancedFightingSkills" value="6" />
       <Trait id="Politician" value="4" />
       <Trait id="Manager" value="4" />
-      <!-- Diasca, genuine monarchist. I like to have these as commented lines separating skill traits from personality traits  -->
       <Trait id="Calculating" value="1" />
       <Trait id="Generosity" value="-1" />
       <Trait id="Honor" value="1" />
@@ -3792,7 +3791,7 @@
       <EquipmentSet id="stu_civ_template_default" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_2_17_1" name="{=up2Pbi6u}Messanna the Forsaken" age="45" voice="curt" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sturgia" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_2_17_1" name="{=up2Pbi6u}Mesaanna the Forsaken" age="45" voice="curt" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sturgia" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="45.05" weight="0" build="0.0293" key="0008480F002C300A75CA2A88888A6398B36659BA747797764D529896D98CC6720390063509583B750000000000000000000000000000000000000000133C0083" />
     </face>
@@ -3916,6 +3915,7 @@
       <EquipmentSet id="stu_civ_template_default" civilian="true" />
     </Equipments>
   </NPCCharacter>
+  <!--Moghedien the Forsaken-->
   <NPCCharacter id="lord_2_18_1" name="{=VvFQhqub}Moghedien the Forsaken" age="50" voice="ironic" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sturgia" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="50.55" weight="0.2468" build="0.4384" key="0013880F00B41001C8C337A4957BC7BAF3AA844E85A9B5A746617D64578858DA0457464605A76435000000000000000000000000000000000000000050AC10C3" />
@@ -4494,8 +4494,8 @@
       <EquipmentSet id="ase_noncom_template_flamboyant" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <!--clan_aserai_3 - Illian-->
-  <NPCCharacter id="lord_3_5" name="{=iOZtAOgk}Lord Tolan" age="45" voice="curt" default_group="HorseArcher" is_hero="true" culture="Culture.aserai" occupation="Lord" face_mesh_cache="true">
+  <!--clan_aserai_3 - Illian - Shadowspawn-->
+  <NPCCharacter id="lord_3_5" name="{=iOZtAOgk}Lord Tolan" age="45" voice="curt" default_group="HorseArcher" is_hero="true" culture="Culture.sturgia" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="40.65" weight="0.7111" build="0.5145" key="00268C0E40FC1286C87558C56575CE8AB65BC398878767762D7BBD95E58887160378B63507AA8C7600000000000000000000000000000000000000002AE480C2" />
     </face>
@@ -4516,7 +4516,7 @@
       <EquipmentSet id="ase_civ_template_flamboyant" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_3_51" name="{=891zDKIl}Lord Hazquin" age="19" voice="curt" default_group="HorseArcher" is_hero="true" culture="Culture.aserai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_3_51" name="{=891zDKIl}Lord Hazquin" age="19" voice="curt" default_group="HorseArcher" is_hero="true" culture="Culture.sturgia" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="22.53" weight="0.7111" build="0.5145" key="00268C0AC0FC1301C87558C56575CE8AB65BC398878767762D7BBD95E58887160078B60307AA8C7600000000000000000000000000000000000000002AE480C2" />
     </face>
@@ -4537,7 +4537,7 @@
       <EquipmentSet id="ase_civ_template_default" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_3_12" name="{=MlmPJ502}Lady Mana" age="22" voice="earnest" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.aserai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_3_12" name="{=MlmPJ502}Lady Mana" age="22" voice="earnest" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.sturgia" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" weight="0.7751" build="0.2584" key="0022D80A800030055C816132B9B2D7429B34737A82668521BAD6A558884D5C690394C635093568AC00000000000000000000000000000000000000002B2C2044" />
     </face>
@@ -4553,7 +4553,7 @@
       <EquipmentSet id="ase_noncom_template_default" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_3_20" name="{=IgSZcCW0}Lord Karith" age="36" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.aserai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_3_20" name="{=IgSZcCW0}Lord Karith" age="36" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sturgia" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" weight="0.3371" build="0.6152" key="0028B00880001A14A78244373A714DB139C2813792826026AA79AC688B185E4503295035024675B0000000000000000000000000000000000000000068486084" />
     </face>
@@ -4572,7 +4572,7 @@
       <EquipmentSet id="ase_civ_template_default" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_3_20_1" name="{=NiOxe8Y2}Lady Judira" age="35" voice="softspoken" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.aserai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_3_20_1" name="{=NiOxe8Y2}Lady Judira" age="35" voice="softspoken" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sturgia" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" weight="0.5" build="0.5" key="0028A40CD21410068A9277BB6B3788C8B8A9C36AB6AAC46A436AB719877B887401B776130BA539B70000000000000000000000000000000000000000197C3003" />
     </face>
@@ -4586,7 +4586,7 @@
       <EquipmentSet id="ase_noncom_template_default" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_3_20_2" name="{=brZGZw7D}Lady Ozanna" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.aserai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_3_20_2" name="{=brZGZw7D}Lady Ozanna" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sturgia" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" weight="0.5" build="0.5" key="0028540FD114000ABB6D8984A3778C5557A97866E85A9D87A87587757CA534BB0187761308A5866B00000000000000000000000000000000000000006D042003" />
     </face>
@@ -4599,7 +4599,7 @@
       <EquipmentSet id="ase_noncom_template_default" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_3_6" name="{=nBDKxiyC}Lady Ranedis" age="41" voice="curt" is_female="true" default_group="Infantry" is_hero="true" culture="Culture.aserai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_3_6" name="{=nBDKxiyC}Lady Ranedis" age="41" voice="curt" is_female="true" default_group="Infantry" is_hero="true" culture="Culture.sturgia" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="22.53" weight="0.7111" build="0.5145" key="00268C0AC0FC1001C87558C56575CE8AB65BC398878767762D7BBD95E58887160078B60307AA8C7600000000000000000000000000000000000000002AE440C3" />
     </face>
@@ -4616,7 +4616,7 @@
       <EquipmentSet id="ase_noncom_template_bedouin" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_3_9" name="{=LJ6Intaq}Lord Ulrik" age="21" voice="earnest" default_group="HorseArcher" is_hero="true" culture="Culture.aserai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_3_9" name="{=LJ6Intaq}Lord Ulrik" age="21" voice="earnest" default_group="HorseArcher" is_hero="true" culture="Culture.sturgia" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="22.53" weight="0.8546" build="0.5943" key="002E6C0A4000230CAC767B3775C877577B6C15C66B81A6B976A98576664D87960079D6030748817500000000000000000000000000000000000000003AE400C2" />
     </face>
@@ -4637,13 +4637,13 @@
     </Equipments>
   </NPCCharacter>
   <!--clan_aserai_4 - WhiteTower-->
-  <NPCCharacter id="lord_3_14" name="{=HSlqsoPK}Captain Azil Mareed" age="47" voice="softspoken" default_group="HorseArcher" is_hero="true" culture="Culture.WhiteTower" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_3_14" name="{=HSlqsoPK}Captain Azil Mareed" age="37" voice="softspoken" default_group="Cavalry" is_hero="true" culture="Culture.WhiteTower" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="40.27" weight="0.8546" build="0.5943" key="0026E80FC00003CE733CB9789BB87BA3259B498AC777795698B687569C6785360339D6350375688C0000000000000000000000000000000000000000245C6002" />
     </face>
     <skills></skills>
     <Traits>
-      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="CavalryFightingSkills" value="7" />
       <Trait id="Commander" value="7" />
       <Trait id="Politician" value="5" />
       <Trait id="Manager" value="5" />
@@ -4656,13 +4656,13 @@
       <EquipmentSet id="WT_civ_template_stoic" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_3_14_1" name="{=sPSqyA4R}Captain Jimar Chubain" age="45" is_female="false" voice="softspoken" default_group="HorseArcher" is_hero="true" culture="Culture.WhiteTower" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_3_14_1" name="{=sPSqyA4R}Captain Jimar Chubain" age="35" is_female="false" voice="softspoken" default_group="Cavalry" is_hero="true" culture="Culture.WhiteTower" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="22.79" weight="0.6057" build="0.946" key="0029840F0088168854893D8588A788AB668B69CB657774969CEA45848E1586AA00AE96030AB8464400000000000000000000000000000000000000002F4C50C2" />
     </face>
     <skills></skills>
     <Traits>
-      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="CavalryFightingSkills" value="6" />
       <Trait id="Commander" value="7" />
       <Trait id="Politician" value="5" />
       <Trait id="Manager" value="5" />
@@ -4675,7 +4675,7 @@
       <EquipmentSet id="WT_civ_template_stoic" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_3_15" name="{=NOchnEwX}Adelorna Bastine" age="36" voice="curt" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.WhiteTower" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_3_15" name="{=NOchnEwX}Adelorna Bastine" age="36" voice="curt" default_group="Infantry" is_hero="true" is_female="true" culture="Culture.WhiteTower" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="22.79" weight="0" build="0.054" key="00262C0F00FC1015C87558C56575CE8AB65BC39843FF67762D7BBD95E58887160031060303AA8C7600000000000000000000000000000000000000002A6440C3" />
     </face>
@@ -4695,7 +4695,7 @@
       <EquipmentSet id="WT_civ_template_lady_normal" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_3_15_1" name="{=VPnW6rA1}Samalin Naerodan" age="26" voice="softspoken" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.WhiteTower" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_3_15_1" name="{=VPnW6rA1}Samalin Naerodan" age="26" voice="softspoken" is_female="true" default_group="Infantry" is_hero="true" culture="Culture.WhiteTower" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="22.79" weight="0.3441" build="0.6127" key="00268C0E40FC1807C87558C56575CE8AB65BC398878767762D7BBD95E58887160049560304AA8C7600000000000000000000000000000000000000002A8C80C2" />
     </face>
@@ -4715,13 +4715,15 @@
       <EquipmentSet id="WT_civ_template_stoic" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_3_15_2" name="{=DADHWcX4}Rubinde Ceandevin" age="25" voice="softspoken" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.WhiteTower" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_3_15_2" name="{=DADHWcX4}Rubinde Ceandevin" age="25" voice="softspoken" is_female="true" default_group="Infantry" is_hero="true" culture="Culture.WhiteTower" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="22.79" weight="0.3441" build="0.6775" key="0026040F00FC1815C87558C56575CE8AB65BC398878767762D7BBD95E5888716005A560305AA8C7600000000000000000000000000000000000000002AB480C2" />
     </face>
     <skills></skills>
     <Traits>
-      <!-- AGE 5 -->
+      <Trait id="BalancedFightingSkills" value="6" />
+      <Trait id="Politician" value="6" />
+      <Trait id="Calculating" value="2" />
     </Traits>
     <Equipments>
       <EquipmentRoster />
@@ -4735,10 +4737,10 @@
     </face>
     <skills></skills>
     <Traits>
-      <Trait id="BalancedFightingSkills" value="5" />
-      <Trait id="Commander" value="6" />
+      <Trait id="CavalryFightingSkills" value="9" />
+      <Trait id="Commander" value="8" />
       <Trait id="Politician" value="9" />
-      <Trait id="Manager" value="5" />
+      <Trait id="Manager" value="8" />
       <Trait id="Valor" value="-1" />
       <Trait id="Honor" value="-1" />
       <Trait id="Calculating" value="1" />
@@ -4749,7 +4751,7 @@
       <EquipmentSet id="WT_civ_template_stoic" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_3_16_1" name="{=aVkqqEOx}Faeldrin Harella" age="41" voice="softspoken" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.WhiteTower" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_3_16_1" name="{=aVkqqEOx}Faeldrin Harella" age="41" voice="softspoken" is_female="true" default_group="Infantry" is_hero="true" culture="Culture.WhiteTower" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="40.82" weight="0.4892" build="0.8812" key="0013B00E40881A4869A56481EB518987A6AA953C85C294E5BCA686996D27AB83037D76350783BC34000000000000000000000000000000000000000062FC0082" />
     </face>
@@ -4861,8 +4863,8 @@
       <EquipmentSet id="emp_civ_template_lady_normal" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <!--clan_aserai_6 - Kandor-->
-  <NPCCharacter id="lord_3_18" name="{=VAAIYJqI}Commander Malenarin Rai" age="48" voice="ironic" default_group="Cavalry" is_hero="true" culture="Culture.Kandor" occupation="Lord" face_mesh_cache="true">
+  <!--clan_aserai_6 - Kandor - Shadowspawn-->
+  <NPCCharacter id="lord_3_18" name="{=VAAIYJqI}Commander Malenarin Rai" age="48" voice="ironic" default_group="Cavalry" is_hero="true" culture="Culture.sturgia" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="22.76" weight="0.4892" build="0.8812" key="001BA40E57001901A982443A39718ED53DA28416A353712599A86A478E184657006D7003065A8854000000000000000000000000000000000000000008C040C2" />
     </face>
@@ -4882,7 +4884,7 @@
       <EquipmentSet id="Kan_civ_template_flamboyant" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_3_18_1" name="{=DuTdWRbB}Commander Niach Otakamo" age="22" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.Kandor" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_3_18_1" name="{=DuTdWRbB}Commander Niach Otakamo" age="22" voice="softspoken" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.sturgia" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" weight="0.5" build="0.5" key="00333C0E502C10107A75B5227776955DAA32B8696C098CE8698934134582A37801A776130AC954A5000000000000000000000000000000000000000031440003" />
     </face>
@@ -4902,7 +4904,7 @@
       <EquipmentSet id="Kan_noncom_template_default" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_3_18_2" name="{=t31RboMa}First Councillor Lady Serailla" age="20" voice="ironic" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.Kandor" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_3_18_2" name="{=t31RboMa}Lady Serailla" age="20" voice="ironic" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sturgia" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="22.76" weight="0.7546" build="0.7114" key="0029FC0B91E4100836AB65C965688C722793C96C775F3A3E976BC698484A5BD9001BB6030195477800000000000000000000000000000000000000002A2C1083" />
     </face>
@@ -4919,7 +4921,7 @@
       <EquipmentSet id="Kan_civ_template_lady_normal" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_3_18_3" name="{=OtzsT453}Lord Varan Marcasiev" age="28" voice="ironic" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.Kandor" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_3_18_3" name="{=OtzsT453}Lord Varan Marcasiev" age="28" voice="ironic" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sturgia" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="22.76" weight="0.7546" build="0.7114" key="00268C0D19FC1987C87558C56575CE8AB65BC398878767762D7BBD95E5888716007BB60307AA8C7600000000000000000000000000000000000000002AE480C2" />
     </face>
@@ -4937,7 +4939,7 @@
       <EquipmentSet id="Kan_civ_template_heavy" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_3_18_4" name="{=FP1nudkE}Jalfar" age="18" voice="ironic" default_group="Cavalry" is_hero="true" culture="Culture.Kandor" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_3_18_4" name="{=FP1nudkE}Jalfar" age="18" voice="ironic" default_group="Cavalry" is_hero="true" culture="Culture.sturgia" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" weight="0.5" build="0.5" key="0028580E40CC130D755797AA334A25ED82C384356C3687C239B7CAA5876879580137761303A69CA6000000000000000000000000000000000000000030541002" />
     </face>
@@ -5421,7 +5423,7 @@
       <EquipmentSet id="Far_civ_template_lady_normal" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_4_3_1" name="{=36Y88cTv}Lady Cumere Powys" age="22" voice="ironic" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.FarMadding" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_4_3_1" name="{=36Y88cTv}Master Maslin" age="22" voice="ironic" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.FarMadding" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" weight="0.5" build="0.5" key="0011A407144400062897A829649497DB8C988BB9BCD4B379A5868D485A689A9A0167761306297985000000000000000000000000000000000000000038D42003" />
     </face>
@@ -5731,8 +5733,8 @@
       <EquipmentSet id="vla_noncom_template_default" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <!--clan_vlandia_5 - AradDoman-->
-  <NPCCharacter id="lord_4_25" name="{=l1Ac8s1T}Lord Loryn Kilvar" age="27" voice="earnest" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord" face_mesh_cache="true">
+  <!--clan_vlandia_5 - AradDoman - Shadowspawn-->
+  <NPCCharacter id="lord_4_25" name="{=l1Ac8s1T}Lord Loryn Kilvar" age="27" voice="earnest" default_group="Cavalry" is_hero="true" culture="Culture.sturgia" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" weight="0.6867" build="0.7269" key="0000100456B4020DC66F69A052632C57D98458CAA8CA55C96B66BB47ACB9C85407ABA6780A886647000000000000000000000000000000000000000001602000" />
     </face>
@@ -5752,7 +5754,7 @@
       <EquipmentSet id="vla_civ_template_default" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_4_25_1" name="{=yl6y9ua7}Lady Meka Antos" age="22" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_4_25_1" name="{=yl6y9ua7}Lady Meka Antos" age="22" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sturgia" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" weight="0.5" build="0.5" key="0000540E4070100B9D95A3A74EA8C8B848778365688C85437456344D43777968014776130475B2940000000000000000000000000000000000000000268C30C4" />
     </face>
@@ -5768,7 +5770,7 @@
       <EquipmentSet id="vla_noncom_template_default" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_4_21" name="{=LwbqCwne}Merchant Lord Yilvas Antos" age="50" voice="earnest" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_4_21" name="{=LwbqCwne}Lord Yilvas Antos" age="50" voice="earnest" default_group="Cavalry" is_hero="true" culture="Culture.sturgia" occupation="Lord" face_mesh_cache="true">
     <face>
       <!--face_key value="00057bfb513c12425eb3a9aa48b3487295c668767888682ddb89a87662a4415a000536af057746e8000000000000000000000000000000000000000000002000" /-->
       <BodyProperties version="4" age="55.66" weight="0.7396" build="0.5001" key="0026E80FC0000481733CB9789BB87BA3259B498AC777795698B687569C6785360538B6570375688C0000000000000000000000000000000000000000245C6002" />
@@ -8541,7 +8543,7 @@
       <EquipmentSet id="stu_civ_template_default" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="TuonPaendrag" name="{=TuonPaendrag}Tuon Athaem Kore Paendrag" age="22" voice="curt" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.Seanchan" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="SeanchanTuonAthaemKorePaendrag" name="{=TuonPaendrag}Tuon Athaem Kore Paendrag" age="22" voice="curt" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.Seanchan" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="22.19" weight="0.2695" build="0.3648" key="003F7C0FC014200084AA1277991624378968AA7D7C977749861859CB7B873B6A0065460306776A3600000000000000000000000000000000000000005CC41003" />
     </face>
@@ -8838,7 +8840,7 @@
     <Equipments>
       <EquipmentRoster />
       <EquipmentSet id="Seanchanherodeathwatch" />
-      <EquipmentSet id="Sea_bat_template_lady" civilian="true" />
+      <EquipmentSet id="Sea_civ_template_lady_normal" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Barrin" name="{=Barrin }Barrin " age="29" voice="curt" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.Seanchan" occupation="Lord" face_mesh_cache="true">

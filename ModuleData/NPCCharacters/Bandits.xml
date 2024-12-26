@@ -945,15 +945,15 @@
             <skill id="Bow"
                 value="20" />
             <skill id="OneHanded"
-                value="20" />
+                value="40" />
             <skill id="Polearm"
-                value="20" />
+                value="30" />
             <skill id="Riding"
                 value="0" />
             <skill id="Throwing"
                 value="40" />
             <skill id="TwoHanded"
-                value="10" />
+                value="20" />
         </skills>
         <upgrade_targets>
             <upgrade_target id="NPCCharacter.Trollocla" />

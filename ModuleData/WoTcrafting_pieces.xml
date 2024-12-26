@@ -826,7 +826,7 @@
                holster_body_name="bo_throwing_spear_quiver_3_1"
                holster_mesh_length="96.8">
       <Thrust damage_type="Pierce"
-              damage_factor="7.6" />
+              damage_factor="10.6" />
     </BladeData>
     <Materials>
       <Material id="Iron5"
@@ -882,7 +882,7 @@
                holster_body_name="bo_throwing_spear_quiver_3_1"
                holster_mesh_length="96.8">
       <Thrust damage_type="Pierce"
-              damage_factor="9.6" />
+              damage_factor="13.6" />
     </BladeData>
     <Materials>
       <Material id="Iron5"
@@ -946,7 +946,7 @@
                holster_body_name="bo_throwing_spear_quiver_3_1"
                holster_mesh_length="96.8">
       <Thrust damage_type="Pierce"
-              damage_factor="12.6" />
+              damage_factor="17.6" />
     </BladeData>
     <Materials>
       <Material id="Iron5"

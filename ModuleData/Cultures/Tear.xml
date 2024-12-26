@@ -1,89 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <SPCultures>
-<Culture id="Tear"
-           name="{=Tearfaction}Tear"
-           is_main_culture="true"
-            color="387146"
-           color2="274f31"
-           elite_basic_troop="NPCCharacter.TearDefender__infantry"
-           basic_troop="NPCCharacter.Tear_recruit"
-           melee_militia_troop="NPCCharacter.Tear_recruit"
-           ranged_militia_troop="NPCCharacter.Tear_crossbowman"
-           melee_elite_militia_troop="NPCCharacter.Tear_common_footman"
-           ranged_elite_militia_troop="NPCCharacter.Tear_crossbowman2"
-           can_have_settlement="true"
-           town_edge_number="16"
-           faction_banner_key="11.4.124.4345.4345.764.764.1.0.0.163.0.5.512.512.764.764.1.0.0"
-           villager_party_template="PartyTemplate.villager_empire_template"
-           default_party_template="PartyTemplate.kingdom_hero_party_Tear_template"
-           encounter_background_mesh="encounter_empire"
-           elite_caravan_party_template="PartyTemplate.elite_caravan_template_Tear"
-           caravan_party_template="PartyTemplate.caravan_template_Tear"
-           militia_party_template="PartyTemplate.militia_empire_Tear"
-           rebels_party_template="PartyTemplate.rebels_empire_Tear"
-		   vassal_reward_party_template="PartyTemplate.vassal_reward_troops_Tear"
-           default_face_key="000fa92e90004202aced5d976886573d5d679585a376fdd605877a7764b8987c00000000000007520000037f0000000f00000037049140010000000000000000"
-           text="{=ROT00241}The Sturgians come from the northern woods, just south of the icy Byalic Sea. For centuries they lived an isolated existence in the dark forests, their numbers kept in check by the deadly winters. But as the Empire expanded to fill out the Calradian continent, traders ventured into the woods in search of honey, bog iron, and most of all fur. Great towns sprung up on the network of bays and lakes that joined the Sturgian lands to the outside world, attracting fortune-seekers from the coast, the steppes, and the Nordlands. The princes and boyars of this land have now begun to turn their eyes outward, earning themselves for a reputation for their warlike approach to business and their businesslike approach to war."
-           tournament_master="NPCCharacter.tournament_master_Tear"
-           villager="NPCCharacter.villager_Tear"
-           caravan_master="NPCCharacter.caravan_master_Tear"
-           armed_trader="NPCCharacter.armed_trader_Tear"
-           caravan_guard="NPCCharacter.caravan_guard_Tear"
-           veteran_caravan_guard="NPCCharacter.veteran_caravan_guard_Tear"
-		   default_battle_equipment_roster="EquipmentRoster.stu_civ_template_default"
-default_civilian_equipment_roster="EquipmentRoster.stu_civ_template_default"
-           duel_preset="NPCCharacter.empire_duel_preset"
-           prison_guard="NPCCharacter.prison_guard_Tear"
-           guard="NPCCharacter.guard_Tear"
-           
-           blacksmith="NPCCharacter.blacksmith_Tear"
-           weaponsmith="NPCCharacter.weaponsmith_Tear"
-           townswoman="NPCCharacter.townswoman_Tear"
-           townswoman_infant="NPCCharacter.townswoman_infant_Tear"
-           townswoman_child="NPCCharacter.townswoman_child_Tear"
-           townswoman_teenager="NPCCharacter.townswoman_teenager_Tear"
-           townsman="NPCCharacter.townsman_Tear"
-           townsman_infant="NPCCharacter.townsman_infant_Tear"
-           townsman_child="NPCCharacter.townsman_child_Tear"
-           townsman_teenager="NPCCharacter.townsman_teenager_Tear"
-           village_woman="NPCCharacter.village_woman_Tear"
-           villager_male_child="NPCCharacter.village_child_Tear"
-           villager_male_teenager="NPCCharacter.village_teenager_Tear"
-           villager_female_child="NPCCharacter.village_woman_child_Seanchan"
-           villager_female_teenager="NPCCharacter.village_woman_teenager_Tear"
-           ransom_broker="NPCCharacter.ransom_broker_Tear"
-           gangleader_bodyguard="NPCCharacter.gangleader_bodyguard_Tear"
-           merchant_notary="NPCCharacter.merchant_notary_Tear"
-           artisan_notary="NPCCharacter.artisan_notary_Tear"
-           preacher_notary="NPCCharacter.preacher_notary_Tear"
-           rural_notable_notary="NPCCharacter.rural_notable_notary_Tear"
-           shop_worker="NPCCharacter.shop_worker_Tear"
-           tavernkeeper="NPCCharacter.tavernkeeper_Tear"
-           taverngamehost="NPCCharacter.taverngamehost_Tear"
-           musician="NPCCharacter.musician_Tear"
-           tavern_wench="NPCCharacter.tavern_wench_Tear"
-           armorer="NPCCharacter.armorer_Tear"
-           horseMerchant="NPCCharacter.horseMerchant_Tear"
-           barber="NPCCharacter.barber_Tear"
-           merchant="NPCCharacter.merchant_Tear"
-           beggar="NPCCharacter.beggar_Tear"
-           female_beggar="NPCCharacter.female_beggar_Tear"
-           female_dancer="NPCCharacter.female_dancer_Tear"
-           gear_practice_dummy="NPCCharacter.gear_practice_dummy_empire"
-           weapon_practice_stage_1="NPCCharacter.weapon_practice_stage_1_empire"
-           weapon_practice_stage_2="NPCCharacter.weapon_practice_stage_2_empire"
-           weapon_practice_stage_3="NPCCharacter.weapon_practice_stage_3_empire"
-           gear_dummy="NPCCharacter.gear_dummy_empire"
-           board_game_type="Konane">
-	  <vassal_reward_items>
-		  <item id="Item.justicier_2hsword" />
-	  </vassal_reward_items>
+  <Culture id="Tear" name="{=Tearfaction}Tear" is_main_culture="true" color="387146" color2="274f31" elite_basic_troop="NPCCharacter.TearDefender__infantry" basic_troop="NPCCharacter.Tear_recruit" melee_militia_troop="NPCCharacter.Tear_recruit" ranged_militia_troop="NPCCharacter.Tear_crossbowman" melee_elite_militia_troop="NPCCharacter.Tear_common_footman" ranged_elite_militia_troop="NPCCharacter.Tear_crossbowman2" can_have_settlement="true" town_edge_number="16" faction_banner_key="11.4.124.4345.4345.764.764.1.0.0.163.0.5.512.512.764.764.1.0.0" villager_party_template="PartyTemplate.villager_tear_template" default_party_template="PartyTemplate.kingdom_hero_party_Tear_template" encounter_background_mesh="encounter_empire" elite_caravan_party_template="PartyTemplate.elite_caravan_template_Tear" caravan_party_template="PartyTemplate.caravan_template_Tear" militia_party_template="PartyTemplate.militia_empire_Tear" rebels_party_template="PartyTemplate.rebels_empire_Tear" vassal_reward_party_template="PartyTemplate.vassal_reward_troops_Tear" default_face_key="000fa92e90004202aced5d976886573d5d679585a376fdd605877a7764b8987c00000000000007520000037f0000000f00000037049140010000000000000000" text="{=TearCulture}Tairen noblemen tend to wear short beards, oiled and drawn to a point. Both men and women of noble birth tend to wear mainly clothes of embroidery and silks, while commoners dress in loose pants and wear flat-topped hats to keep the rain off of their heads.&#xD;&#xA;Due to the unpaved, muddy streets in the common areas, wooden clogs are worn on the feet when out of doors, and frequently are left outside the door when coming inside to keep the floors from getting too dirty. Upon leaving a common building, such as an inn, it is not unusual to grab a different set of clogs, provided they still fit over one's shoes." tournament_master="NPCCharacter.tournament_master_Tear" villager="NPCCharacter.villager_Tear" caravan_master="NPCCharacter.caravan_master_Tear" armed_trader="NPCCharacter.armed_trader_Tear" caravan_guard="NPCCharacter.caravan_guard_Tear" veteran_caravan_guard="NPCCharacter.veteran_caravan_guard_Tear" default_battle_equipment_roster="EquipmentRoster.stu_civ_template_default" default_civilian_equipment_roster="EquipmentRoster.stu_civ_template_default" prison_guard="NPCCharacter.prison_guard_Tear" guard="NPCCharacter.guard_Tear" blacksmith="NPCCharacter.blacksmith_Tear" weaponsmith="NPCCharacter.weaponsmith_Tear" townswoman="NPCCharacter.townswoman_Tear" townswoman_infant="NPCCharacter.townswoman_infant_Tear" townswoman_child="NPCCharacter.townswoman_child_Tear" townswoman_teenager="NPCCharacter.townswoman_teenager_Tear" townsman="NPCCharacter.townsman_Tear" townsman_infant="NPCCharacter.townsman_infant_Tear" townsman_child="NPCCharacter.townsman_child_Tear" townsman_teenager="NPCCharacter.townsman_teenager_Tear" village_woman="NPCCharacter.village_woman_Tear" villager_male_child="NPCCharacter.village_child_Tear" villager_male_teenager="NPCCharacter.village_teenager_Tear" villager_female_child="NPCCharacter.village_woman_child_Seanchan" villager_female_teenager="NPCCharacter.village_woman_teenager_Tear" ransom_broker="NPCCharacter.ransom_broker_Tear" gangleader_bodyguard="NPCCharacter.gangleader_bodyguard_Tear" merchant_notary="NPCCharacter.merchant_notary_Tear" artisan_notary="NPCCharacter.artisan_notary_Tear" preacher_notary="NPCCharacter.preacher_notary_Tear" rural_notable_notary="NPCCharacter.rural_notable_notary_Tear" shop_worker="NPCCharacter.shop_worker_Tear" tavernkeeper="NPCCharacter.tavernkeeper_Tear" taverngamehost="NPCCharacter.taverngamehost_Tear" musician="NPCCharacter.musician_Tear" tavern_wench="NPCCharacter.tavern_wench_Tear" armorer="NPCCharacter.armorer_Tear" horseMerchant="NPCCharacter.horseMerchant_Tear" barber="NPCCharacter.barber_Tear" merchant="NPCCharacter.merchant_Tear" beggar="NPCCharacter.beggar_Tear" female_beggar="NPCCharacter.female_beggar_Tear" female_dancer="NPCCharacter.female_dancer_Tear" gear_practice_dummy="NPCCharacter.gear_practice_dummy_empire" weapon_practice_stage_1="NPCCharacter.weapon_practice_stage_1_empire" weapon_practice_stage_2="NPCCharacter.weapon_practice_stage_2_empire" weapon_practice_stage_3="NPCCharacter.weapon_practice_stage_3_empire" gear_dummy="NPCCharacter.gear_dummy_empire" board_game_type="Konane">
+    <!--duel_preset="NPCCharacter.empire_duel_preset"-->
+    <vassal_reward_items>
+      <item id="Item.justicier_2hsword" />
+    </vassal_reward_items>
     <banner_bearer_replacement_weapons>
       <item id="Item.iron_spatha_sword_t2" />
       <item id="Item.empire_sword_1_t2" />
       <item id="Item.empire_sword_2_t3" />
       <item id="Item.empire_sword_6_t5" />
-    </banner_bearer_replacement_weapons> 
+    </banner_bearer_replacement_weapons>
     <male_names>
       <name name="{=jVPr0ZzB}Achyr" />
       <name name="{=iFJbnbCQ}Agdil" />
@@ -209,9 +136,7 @@ default_civilian_equipment_roster="EquipmentRoster.stu_civ_template_default"
       <name name="{=gC1paDtD}Yerchoving" />
       <name name="{=qD72Ya4I}Zhanoving" />
     </clan_names>
-	  <cultural_feats>
-		  
-	  </cultural_feats>
+    <cultural_feats></cultural_feats>
     <possible_clan_banner_icon_ids>
       <icon id="112" />
       <icon id="113" />
@@ -237,73 +162,60 @@ default_civilian_equipment_roster="EquipmentRoster.stu_civ_template_default"
       <icon id="444" />
       <icon id="445" />
     </possible_clan_banner_icon_ids>
-	  
-	  <notable_and_wanderer_templates>
-		  
-		  <template name="NPCCharacter.spc_notable_Tear_0" />
-		  <template name="NPCCharacter.spc_notable_Tear_0b" />
-		  <template name="NPCCharacter.spc_notable_Tear_1" />
-		  <template name="NPCCharacter.spc_notable_Tear_1b" />
-		  <template name="NPCCharacter.spc_notable_Tear_2" />
-		  <template name="NPCCharacter.spc_notable_Tear_2b" />
-		  <template name="NPCCharacter.spc_notable_Tear_3" />
-		  <template name="NPCCharacter.spc_notable_Tear_3b" />
-		  <template name="NPCCharacter.spc_notable_Tear_4" />
-		  <template name="NPCCharacter.spc_notable_Tear_4b" />
-		  <template name="NPCCharacter.spc_notable_Tear_5" />
-		  <template name="NPCCharacter.spc_notable_Tear_6" />
-		  <template name="NPCCharacter.spc_notable_Tear_7" />
-		  <template name="NPCCharacter.spc_notable_Tear_8" />
-		  <template name="NPCCharacter.spc_notable_Tear_9" />
-		  <template name="NPCCharacter.spc_notable_Tear_gl1" />
-		  <template name="NPCCharacter.spc_notable_Tear_10" />
-		  <template name="NPCCharacter.spc_notable_Tear_11" />
-		  <template name="NPCCharacter.spc_notable_Tear_gl4" />
-		  <template name="NPCCharacter.spc_notable_Tear_12" />
-		  <template name="NPCCharacter.spc_notable_Tear_13" />
-		  <template name="NPCCharacter.spc_notable_Tear_21" />
-		  <template name="NPCCharacter.spc_notable_Tear_22" />
-		  <template name="NPCCharacter.spc_Tear_headman_1" />
-		  <template name="NPCCharacter.spc_Tear_headman_2" />
-		  <template name="NPCCharacter.spc_Tear_headman_3" />
-	  </notable_and_wanderer_templates>
-	  <lord_templates>
-		  <template name="NPCCharacter.spc_Tear_mercenaries_leader_0" />
-		  <template name="NPCCharacter.spc_Tear_mercenaries_leader_1" />
-	  </lord_templates>
-	  <rebellion_hero_templates>
-		  <template name="NPCCharacter.spc_Tear_leader_0" />
-		  <template name="NPCCharacter.spc_Tear_leader_1" />
-	  </rebellion_hero_templates>
-    	<tournament_team_templates_one_participant>
-			<template
-				name="NPCCharacter.tournament_template_vlandia_one_participant_set_v1" />
-			<template
-				name="NPCCharacter.tournament_template_vlandia_one_participant_set_v2" />
-			<template
-				name="NPCCharacter.tournament_template_vlandia_one_participant_set_v3" />
-		</tournament_team_templates_one_participant>
-		<tournament_team_templates_two_participant>
-			<template
-				name="NPCCharacter.tournament_template_vlandia_two_participant_set_v1" />
-			<template
-				name="NPCCharacter.tournament_template_vlandia_two_participant_set_v2" />
-			<template
-				name="NPCCharacter.tournament_template_vlandia_two_participant_set_v3" />
-			<template
-				name="NPCCharacter.tournament_template_vlandia_two_participant_set_v4" />
-		</tournament_team_templates_two_participant>
-		<tournament_team_templates_four_participant>
-			<template
-				name="NPCCharacter.tournament_template_vlandia_four_participant_set_v1" />
-			<template
-				name="NPCCharacter.tournament_template_vlandia_four_participant_set_v2" />
-			<template
-				name="NPCCharacter.tournament_template_vlandia_four_participant_set_v3" />
-			<template
-				name="NPCCharacter.tournament_template_vlandia_four_participant_set_v4" />
-		</tournament_team_templates_four_participant>
- <!--    <tournament_team_templates_one_participant>
+    <notable_and_wanderer_templates>
+      <template name="NPCCharacter.spc_notable_Tear_0" />
+      <template name="NPCCharacter.spc_notable_Tear_0b" />
+      <template name="NPCCharacter.spc_notable_Tear_1" />
+      <template name="NPCCharacter.spc_notable_Tear_1b" />
+      <template name="NPCCharacter.spc_notable_Tear_2" />
+      <template name="NPCCharacter.spc_notable_Tear_2b" />
+      <template name="NPCCharacter.spc_notable_Tear_3" />
+      <template name="NPCCharacter.spc_notable_Tear_3b" />
+      <template name="NPCCharacter.spc_notable_Tear_4" />
+      <template name="NPCCharacter.spc_notable_Tear_4b" />
+      <template name="NPCCharacter.spc_notable_Tear_5" />
+      <template name="NPCCharacter.spc_notable_Tear_6" />
+      <template name="NPCCharacter.spc_notable_Tear_7" />
+      <template name="NPCCharacter.spc_notable_Tear_8" />
+      <template name="NPCCharacter.spc_notable_Tear_9" />
+      <template name="NPCCharacter.spc_notable_Tear_gl1" />
+      <template name="NPCCharacter.spc_notable_Tear_10" />
+      <template name="NPCCharacter.spc_notable_Tear_11" />
+      <template name="NPCCharacter.spc_notable_Tear_gl4" />
+      <template name="NPCCharacter.spc_notable_Tear_12" />
+      <template name="NPCCharacter.spc_notable_Tear_13" />
+      <template name="NPCCharacter.spc_notable_Tear_21" />
+      <template name="NPCCharacter.spc_notable_Tear_22" />
+      <template name="NPCCharacter.spc_Tear_headman_1" />
+      <template name="NPCCharacter.spc_Tear_headman_2" />
+      <template name="NPCCharacter.spc_Tear_headman_3" />
+    </notable_and_wanderer_templates>
+    <lord_templates>
+      <template name="NPCCharacter.spc_Tear_mercenaries_leader_0" />
+      <template name="NPCCharacter.spc_Tear_mercenaries_leader_1" />
+    </lord_templates>
+    <rebellion_hero_templates>
+      <template name="NPCCharacter.spc_Tear_leader_0" />
+      <template name="NPCCharacter.spc_Tear_leader_1" />
+    </rebellion_hero_templates>
+    <tournament_team_templates_one_participant>
+      <template name="NPCCharacter.tournament_template_vlandia_one_participant_set_v1" />
+      <template name="NPCCharacter.tournament_template_vlandia_one_participant_set_v2" />
+      <template name="NPCCharacter.tournament_template_vlandia_one_participant_set_v3" />
+    </tournament_team_templates_one_participant>
+    <tournament_team_templates_two_participant>
+      <template name="NPCCharacter.tournament_template_vlandia_two_participant_set_v1" />
+      <template name="NPCCharacter.tournament_template_vlandia_two_participant_set_v2" />
+      <template name="NPCCharacter.tournament_template_vlandia_two_participant_set_v3" />
+      <template name="NPCCharacter.tournament_template_vlandia_two_participant_set_v4" />
+    </tournament_team_templates_two_participant>
+    <tournament_team_templates_four_participant>
+      <template name="NPCCharacter.tournament_template_vlandia_four_participant_set_v1" />
+      <template name="NPCCharacter.tournament_template_vlandia_four_participant_set_v2" />
+      <template name="NPCCharacter.tournament_template_vlandia_four_participant_set_v3" />
+      <template name="NPCCharacter.tournament_template_vlandia_four_participant_set_v4" />
+    </tournament_team_templates_four_participant>
+    <!--    <tournament_team_templates_one_participant>
       <template name="NPCCharacter.tournament_template_one_participant_set_v1_Tear" />
       <template name="NPCCharacter.tournament_template_one_participant_set_v2_Tear" />
     </tournament_team_templates_one_participant>
@@ -321,7 +233,6 @@ default_civilian_equipment_roster="EquipmentRoster.stu_civ_template_default"
       <template name="NPCCharacter.eastern_mercenary" />
       <template name="NPCCharacter.western_mercenary" />
       <template name="NPCCharacter.sword_sisters_sister_t3" />
-    </basic_mercenary_troops> 
+    </basic_mercenary_troops>
   </Culture>
-
 </SPCultures>

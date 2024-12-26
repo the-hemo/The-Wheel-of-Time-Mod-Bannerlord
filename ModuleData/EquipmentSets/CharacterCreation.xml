@@ -549,11 +549,12 @@
     <EquipmentSet>
 
       <Equipment slot="Body"
-        id="Item.WOTlevyarmor7" />
+        id="Item.WarderArmorMediumcheap" />
 
       <Equipment slot="Leg"
-        id="Item.rough_tied_boots" />
-
+        id="Item.WarderBootsLightCheap" />
+<Equipment slot="Cape"
+        id="Item.WarderCloakcheap" />
       <Equipment slot="Horse"
         id="Item.sumpter_horse" />
       <Equipment slot="HorseHarness"
@@ -591,11 +592,12 @@
         id="Item.armwraps" />
 
       <Equipment slot="Body"
-        id="Item.WarderArmorMediumweak" />
-
+        id="Item.Warder2024newarmor2bcheap" />
+<Equipment slot="Cape"
+        id="Item.WarderCloakcheap" />
 
       <Equipment slot="Leg"
-        id="Item.turndown_leather_boots" />
+        id="Item.WarderBootsLightCheap" />
 
       <Equipment slot="Horse"
         id="Item.sumpter_horse" />
@@ -628,8 +630,6 @@
         id="Item.Asharmor1Start" />
 
 
-      <Equipment slot="Gloves"
-        id="Item.Asharmorgloves" />
 
       <Equipment slot="Leg"
         id="Item.AsharmorbootsStart" />
@@ -643,8 +643,7 @@
     culture="Culture.khuzait">
     <EquipmentSet>
 
-      <Equipment slot="Gloves"
-        id="Item.Asharmorgloves" />
+     
 
       <Equipment slot="Leg"
         id="Item.AsharmorbootsStart" />
@@ -663,8 +662,7 @@
   <EquipmentRoster id="bt_channeler_CC_2_M"
     culture="Culture.khuzait">
     <EquipmentSet>
-      <Equipment slot="Gloves"
-        id="Item.Asharmorgloves" />
+      
 
       <Equipment slot="Leg"
         id="Item.AsharmorbootsStart" />
@@ -956,16 +954,16 @@
 
 
       <Equipment slot="Leg"
-        id="Item.eastern_leather_boots" />
+        id="Item.Shiener2024newboots1cheap" />
 
       <Equipment slot="Gloves"
-        id="Item.guarded_padded_vambrace" />
+        id="Item.wotmiscpurgloves3cheap" />
 
       <Equipment slot="Body"
-        id="Item.ShienerMediumArmorCheap" />
+        id="Item.ShienerHeavyArmor3cheap" />
 
       <Equipment slot="Head"
-        id="Item.ShienarLighthelmetCheap" />
+        id="Item.ShienarLighthelmetcheap2" />
 
       <Equipment slot="Horse"
         id="Item.sumpter_horse" />
@@ -980,17 +978,18 @@
     culture="Culture.khuzait">
     <EquipmentSet>
 
+     
       <Equipment slot="Leg"
-        id="Item.eastern_leather_boots" />
+        id="Item.Shiener2024newboots1cheap" />
 
       <Equipment slot="Gloves"
-        id="Item.guarded_padded_vambrace" />
+        id="Item.wotmiscpurgloves3cheap" />
 
       <Equipment slot="Body"
-        id="Item.ShienerMediumArmorCheap" />
+        id="Item.ShienerHeavyArmor3cheap" />
 
       <Equipment slot="Head"
-        id="Item.ShienarLighthelmetCheap" />
+        id="Item.ShienarLighthelmetcheap2" />
 
       <Equipment slot="Horse"
         id="Item.sumpter_horse" />
@@ -1009,8 +1008,9 @@
         id="Item.SaldeaBoots1Cheap" />
 
       <Equipment slot="Body"
-        id="Item.SaldeaLightarmor3Cheap" />
-
+        id="Item.SaldeaHeavyArmor2cheap" />
+<Equipment slot="Head"
+        id="Item.Miscwotheadnew1cheap" />
       <Equipment slot="Horse"
         id="Item.sumpter_horse" />
       <Equipment slot="HorseHarness"
@@ -1025,9 +1025,10 @@
 
       <Equipment slot="Leg"
         id="Item.SaldeaBoots1Cheap" />
-
+<Equipment slot="Head"
+        id="Item.Miscwotheadnew1cheap" />
       <Equipment slot="Body"
-        id="Item.SaldeaLightarmor3Cheap" />
+        id="Item.SaldeaHeavyArmor2cheap" />
 
       <Equipment slot="Horse"
         id="Item.sumpter_horse" />
@@ -1135,7 +1136,7 @@
     <EquipmentSet>
 
       <Equipment slot="Head"
-        id="Item.ArafelMediumHelmetCheap1" />
+        id="Item.Malkier2024helmetused" />
 
       <Equipment slot="Leg"
         id="Item.MalkierbootsCheap" />
@@ -1168,7 +1169,7 @@
         id="Item.MalkierarmorLightCheap" />
 
       <Equipment slot="Gloves"
-        id="Item.highland_gloves" />
+        id="Item.MalkierglovesCheap" />
 
       <Equipment slot="Horse"
         id="Item.sumpter_horse" />
@@ -1233,7 +1234,7 @@
         id="Item.SeanchanarmorheavyCheap" />
 
       <Equipment slot="Gloves"
-        id="Item.highland_gloves" />
+        id="Item.SeanchandeathwatchguardarmorglovesCheap" />
 
       <Equipment slot="Horse"
         id="Item.sumpter_horse" />
@@ -1257,7 +1258,7 @@
         id="Item.SeanchanarmorheavyCheap" />
 
       <Equipment slot="Gloves"
-        id="Item.highland_gloves" />
+        id="Item.SeanchandeathwatchguardarmorglovesCheap" />
 
       <Equipment slot="Horse"
         id="Item.sumpter_horse" />
@@ -1304,14 +1305,16 @@
     <EquipmentSet>
 
       <Equipment slot="Leg"
-        id="Item.WhitecloakBoots1" />
+        id="Item.wot2024whitecloakboots1cheap" />
 
       <Equipment slot="Cape"
         id="Item.Whitecloakcloak1Cheap" />
-
+<Equipment slot="Gloves"
+        id="Item.wot2024whitecloakgloves2cheap" />
       <Equipment slot="Body"
-        id="Item.WhitecloakLightarmor1Cheap" />
-
+        id="Item.wot2024whitecloakarmor1cheap" />
+<Equipment slot="Head"
+        id="Item.wot2024whitecloakhelm1cheap" />
       <Equipment slot="Horse"
         id="Item.sumpter_horse" />
       <Equipment slot="HorseHarness"
@@ -1324,17 +1327,17 @@
     culture="Culture.khuzait">
     <EquipmentSet>
 
-      <Equipment slot="Head"
-        id="Item.WhitecloakLightHelmetCheap" />
-
       <Equipment slot="Leg"
-        id="Item.WhitecloakBoots1" />
+        id="Item.wot2024whitecloakboots1cheap" />
 
       <Equipment slot="Cape"
         id="Item.Whitecloakcloak1Cheap" />
-
+<Equipment slot="Gloves"
+        id="Item.wot2024whitecloakgloves2cheap" />
       <Equipment slot="Body"
-        id="Item.WhitecloakLightarmor1Cheap" />
+        id="Item.wot2024whitecloakarmor1cheap" />
+<Equipment slot="Head"
+        id="Item.wot2024whitecloakhelm1cheap" />
 
       <Equipment slot="Horse"
         id="Item.sumpter_horse" />
@@ -1357,7 +1360,8 @@
 
       <Equipment slot="Body"
         id="Item.WhitecloakLightarmorCheap2" />
-
+<Equipment slot="Gloves"
+        id="Item.wot2024whitecloakgloves2" />
       <Equipment slot="Horse"
         id="Item.sumpter_horse" />
       <Equipment slot="HorseHarness"
@@ -1375,7 +1379,8 @@
 
       <Equipment slot="Body"
         id="Item.WhitecloakLightarmorCheap2" />
-
+<Equipment slot="Gloves"
+        id="Item.wot2024whitecloakgloves2" />
       <Equipment slot="Horse"
         id="Item.sumpter_horse" />
       <Equipment slot="HorseHarness"
@@ -1399,7 +1404,7 @@
         id="Item.AndorQueenguardBootsHeavyCheap" />
 
       <Equipment slot="Gloves"
-        id="Item.highland_gloves" />
+        id="Item.AndorQueenguardglovesHeavyCheap" />
 
       <Equipment slot="Body"
         id="Item.AndorQueenguardheavyCheap" />
@@ -1416,7 +1421,7 @@
         id="Item.AndorQueenguardBootsHeavyCheap" />
 
       <Equipment slot="Gloves"
-        id="Item.highland_gloves" />
+        id="Item.AndorQueenguardglovesHeavyCheap" />
 
       <Equipment slot="Body"
         id="Item.AndorQueenguardheavyCheap" />
@@ -1619,7 +1624,7 @@
         id="Item.IllianerShouldersCheap" />
 
       <Equipment slot="Gloves"
-        id="Item.highland_gloves" />
+        id="Item.Illiancompanionglovesset2type1cheap" />
 
       <Equipment slot="Body"
         id="Item.IllianerCompanionHeavyArmor1Cheap" />
@@ -1646,7 +1651,7 @@
         id="Item.IllianerShouldersCheap" />
 
       <Equipment slot="Gloves"
-        id="Item.highland_gloves" />
+        id="Item.Illiancompanionglovesset2type1cheap" />
 
       <Equipment slot="Body"
         id="Item.IllianerCompanionHeavyArmor1Cheap" />
@@ -1669,7 +1674,7 @@
       <Equipment slot="Leg"
         id="Item.fine_town_boots" />
       <Equipment slot="Body"
-        id="Item.fur_trimmed_tunic" />
+        id="Item.WOTlevyarmor8Cheap" />
       <Equipment slot="Horse"
         id="Item.sumpter_horse" />
       <Equipment slot="HorseHarness"

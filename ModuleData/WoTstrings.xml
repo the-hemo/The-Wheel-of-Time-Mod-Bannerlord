@@ -97,8 +97,6 @@ Saldaea stretches from the Aryth Ocean to the Plain of Lances and consists of fo
     text="The Black Tower is the headquarters of the Asha'man, the organization of male channelers started by Rand al'Thor and trained by Mazrim Taim. It originated as a converted farmhouse located less than two leagues south of Caemlyn. The Black Tower's name derived from Asha'man themselves, who began calling it such in contrast to the White Tower of Tar Valon, where female channelers are trained" />
   <string id="str_culture_description.Cairhien"
     text="Cairhien is a nation that borders the Spine of the World, north of Tear and south of the Borderlands. It stretches from Kinslayer's Dagger to the Maraside Mountains, and from the Spine to the River Erinin. Its capital city is also named Cairhien. It is famous for the Topless Towers of its eponymous capital city." />
-
-
   <string id="str_culture_rich_name.Seanchan"
     text="Seanchan" />
   <string id="str_culture_rich_name.Altara"
@@ -573,9 +571,4 @@ Saldaea stretches from the Aryth Ocean to the Plain of Lances and consists of fo
     text="Asha'man" />
   <string id="str_short_term_for_faction.Cairhien"
     text="Cairhienins" />
-
-
-
-
-
 </strings>

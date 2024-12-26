@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+  <Name value="My Wheel of Time" />
+  <Id value="MyWoT" />
+  <Version value="v1.0.0" />
+  <Official value="false" />
+  <DefaultModule value="false" />
+  <SingleplayerModule value="true" />
+  <MultiplayerModule value="false" />
+  <DependedModules>
+    <DependedModule Id="Bannerlord.Harmony" />
+    <DependedModule Id="Native" />
+    <DependedModule Id="SandBoxCore" />
+    <DependedModule Id="Sandbox" />
+    <DependedModule Id="StoryMode" />
+    <DependedModule Id="CustomBattle" />
+  </DependedModules>
+	<SubModules>
+		<SubModule>
+			<Name value="CultureDrift" />
+			<DLLName value="CultureDrift.dll" />
+			<SubModuleClassType value="CultureDrift.MySubModule" />
+			<Tags />
+		</SubModule>
+	</SubModules>
+	<Xmls>
+	</Xmls>
+</Module>

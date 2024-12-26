@@ -2,19 +2,19 @@
 <Module>
 	<Name value = "Wheel of Time Mod"/>
 	<Id value = "WoT_Mod"/>
-	<Version value = "v1.2.9"/>
+	<Version value = "v1.2.11"/>
 	<DefaultModule value="true"/>
 	<ModuleCategory value="Singleplayer"/>
 
 	<DependedModules>
 		<DependedModule Id="Native"
-			DependentVersion="v1.2.9"
+			DependentVersion="v1.2.11"
 			Optional="false"/>
 		<DependedModule Id="SandBoxCore"
-			DependentVersion="v1.2.9"
+			DependentVersion="v1.2.11"
 			Optional="false"/>
 		<DependedModule Id="Sandbox"
-			DependentVersion="v1.2.9"
+			DependentVersion="v1.2.11"
 			Optional="false"/>
 	</DependedModules>
 	<SubModules>
@@ -36,11 +36,13 @@
 			<IncludedGameTypes>
 				<GameType value = "Campaign"/>
 				<GameType value = "CampaignStoryMode"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
 			</IncludedGameTypes>
 		</XmlNode>	
 		<XmlNode>
 			<XmlName id="Settlements"
-				path="WoTsettlements"/>
+				path="settlements"/>
 			<IncludedGameTypes>
 				<GameType value = "Campaign"/>
 				<GameType value = "CampaignStoryMode"/>
@@ -51,6 +53,9 @@
 				path="WoTitems"/>
 			<IncludedGameTypes>
 				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
 			</IncludedGameTypes>
 		</XmlNode>
 
@@ -108,6 +113,7 @@
 				<GameType value = "Campaign"/>
 				<GameType value = "CampaignStoryMode"/>
 				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
 			</IncludedGameTypes>
 
 		</XmlNode>
@@ -119,6 +125,7 @@
 				<GameType value = "Campaign"/>
 				<GameType value = "CampaignStoryMode"/>
 				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
 			</IncludedGameTypes>
 		</XmlNode>
 
@@ -154,6 +161,8 @@
 			<IncludedGameTypes>
 				<GameType value = "Campaign"/>
 				<GameType value = "CampaignStoryMode"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
 			</IncludedGameTypes>
 		</XmlNode>
 		<XmlNode>
@@ -170,6 +179,8 @@
 			<IncludedGameTypes>
 				<GameType value = "Campaign"/>
 				<GameType value = "CampaignStoryMode"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
 			</IncludedGameTypes>
 		</XmlNode>
 		<XmlNode>
@@ -196,6 +207,24 @@
 				<GameType value = "CampaignStoryMode"/>
 			</IncludedGameTypes>
 		</XmlNode>
+		<XmlNode>
+			<XmlName id="Heroes" 
+				path="NPCCharacters\heroes"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName id="NPCCharacters"
+				path="NPCCharacters\WOTeducation_character_templates"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+			</IncludedGameTypes>
+		</XmlNode>
 
 		<!-- Custom Cultures -->
 		<XmlNode>
@@ -204,7 +233,8 @@
 			<IncludedGameTypes>
 				<GameType value="Campaign"/>
 				<GameType value="CampaignStoryMode"/>
-				<GameType value="CustomGame"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
 			</IncludedGameTypes>
 		</XmlNode>
 		<XmlNode>
@@ -213,7 +243,8 @@
 			<IncludedGameTypes>
 				<GameType value="Campaign"/>
 				<GameType value="CampaignStoryMode"/>
-				<GameType value="CustomGame"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
 			</IncludedGameTypes>
 		</XmlNode>
 		<XmlNode>
@@ -222,7 +253,8 @@
 			<IncludedGameTypes>
 				<GameType value="Campaign"/>
 				<GameType value="CampaignStoryMode"/>
-				<GameType value="CustomGame"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
 			</IncludedGameTypes>
 		</XmlNode>
 		<XmlNode>
@@ -231,7 +263,8 @@
 			<IncludedGameTypes>
 				<GameType value="Campaign"/>
 				<GameType value="CampaignStoryMode"/>
-				<GameType value="CustomGame"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
 			</IncludedGameTypes>
 		</XmlNode>
 		<XmlNode>
@@ -240,7 +273,8 @@
 			<IncludedGameTypes>
 				<GameType value="Campaign"/>
 				<GameType value="CampaignStoryMode"/>
-				<GameType value="CustomGame"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
 			</IncludedGameTypes>
 		</XmlNode>
 		<XmlNode>
@@ -249,7 +283,8 @@
 			<IncludedGameTypes>
 				<GameType value="Campaign"/>
 				<GameType value="CampaignStoryMode"/>
-				<GameType value="CustomGame"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
 			</IncludedGameTypes>
 		</XmlNode>
 		<XmlNode>
@@ -258,7 +293,8 @@
 			<IncludedGameTypes>
 				<GameType value="Campaign"/>
 				<GameType value="CampaignStoryMode"/>
-				<GameType value="CustomGame"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
 			</IncludedGameTypes>
 		</XmlNode>
 		<XmlNode>
@@ -267,7 +303,8 @@
 			<IncludedGameTypes>
 				<GameType value="Campaign"/>
 				<GameType value="CampaignStoryMode"/>
-				<GameType value="CustomGame"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
 			</IncludedGameTypes>
 		</XmlNode>
 		<XmlNode>
@@ -276,7 +313,8 @@
 			<IncludedGameTypes>
 				<GameType value="Campaign"/>
 				<GameType value="CampaignStoryMode"/>
-				<GameType value="CustomGame"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
 			</IncludedGameTypes>
 		</XmlNode>
 		<XmlNode>
@@ -285,7 +323,8 @@
 			<IncludedGameTypes>
 				<GameType value="Campaign"/>
 				<GameType value="CampaignStoryMode"/>
-				<GameType value="CustomGame"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
 			</IncludedGameTypes>
 		</XmlNode>
 		<XmlNode>
@@ -294,7 +333,8 @@
 			<IncludedGameTypes>
 				<GameType value="Campaign"/>
 				<GameType value="CampaignStoryMode"/>
-				<GameType value="CustomGame"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
 			</IncludedGameTypes>
 		</XmlNode>
 		<XmlNode>
@@ -303,7 +343,8 @@
 			<IncludedGameTypes>
 				<GameType value="Campaign"/>
 				<GameType value="CampaignStoryMode"/>
-				<GameType value="CustomGame"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
 			</IncludedGameTypes>
 		</XmlNode>
 		<XmlNode>
@@ -312,7 +353,8 @@
 			<IncludedGameTypes>
 				<GameType value="Campaign"/>
 				<GameType value="CampaignStoryMode"/>
-				<GameType value="CustomGame"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
 			</IncludedGameTypes>
 		</XmlNode>
 		<XmlNode>
@@ -321,7 +363,8 @@
 			<IncludedGameTypes>
 				<GameType value="Campaign"/>
 				<GameType value="CampaignStoryMode"/>
-				<GameType value="CustomGame"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
 			</IncludedGameTypes>
 		</XmlNode>
 		<XmlNode>
@@ -330,7 +373,8 @@
 			<IncludedGameTypes>
 				<GameType value="Campaign"/>
 				<GameType value="CampaignStoryMode"/>
-				<GameType value="CustomGame"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
 			</IncludedGameTypes>
 		</XmlNode>
 		<XmlNode>
@@ -339,7 +383,8 @@
 			<IncludedGameTypes>
 				<GameType value="Campaign"/>
 				<GameType value="CampaignStoryMode"/>
-				<GameType value="CustomGame"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
 			</IncludedGameTypes>
 		</XmlNode>
 		<XmlNode>
@@ -348,7 +393,8 @@
 			<IncludedGameTypes>
 				<GameType value="Campaign"/>
 				<GameType value="CampaignStoryMode"/>
-				<GameType value="CustomGame"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
 			</IncludedGameTypes>
 		</XmlNode>
 		<XmlNode>
@@ -357,7 +403,8 @@
 			<IncludedGameTypes>
 				<GameType value="Campaign"/>
 				<GameType value="CampaignStoryMode"/>
-				<GameType value="CustomGame"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
 			</IncludedGameTypes>
 		</XmlNode>
 		<XmlNode>
@@ -366,7 +413,8 @@
 			<IncludedGameTypes>
 				<GameType value="Campaign"/>
 				<GameType value="CampaignStoryMode"/>
-				<GameType value="CustomGame"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
 			</IncludedGameTypes>
 		</XmlNode>
 		<XmlNode>
@@ -375,7 +423,8 @@
 			<IncludedGameTypes>
 				<GameType value="Campaign"/>
 				<GameType value="CampaignStoryMode"/>
-				<GameType value="CustomGame"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
 			</IncludedGameTypes>
 		</XmlNode>
 		<XmlNode>
@@ -384,7 +433,8 @@
 			<IncludedGameTypes>
 				<GameType value="Campaign"/>
 				<GameType value="CampaignStoryMode"/>
-				<GameType value="CustomGame"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
 			</IncludedGameTypes>
 		</XmlNode>
 		<XmlNode>
@@ -393,7 +443,8 @@
 			<IncludedGameTypes>
 				<GameType value="Campaign"/>
 				<GameType value="CampaignStoryMode"/>
-				<GameType value="CustomGame"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
 			</IncludedGameTypes>
 		</XmlNode>
 		<XmlNode>
@@ -402,7 +453,8 @@
 			<IncludedGameTypes>
 				<GameType value="Campaign"/>
 				<GameType value="CampaignStoryMode"/>
-				<GameType value="CustomGame"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
 			</IncludedGameTypes>
 		</XmlNode>
 		<!-- Custom Culture End -->

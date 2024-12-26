@@ -1,90 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <SPCultures>
-<Culture id="Mayene"
-           name="{=Mayenefaction}Mayene"
-           is_main_culture="true"
-           color="387146"
-           color2="274f31"
-           elite_basic_troop="NPCCharacter.Mayenewingedguard_infantry"
-           basic_troop="NPCCharacter.Mayene_recruit"
-           melee_militia_troop="NPCCharacter.Mayene_recruit"
-           ranged_militia_troop="NPCCharacter.Mayene_archer"
-           melee_elite_militia_troop="NPCCharacter.Mayenecommon_footman"
-           ranged_elite_militia_troop="NPCCharacter.Mayene_archer2"
-           can_have_settlement="true"
-           town_edge_number="16"
-           villager_party_template="PartyTemplate.villager_empire_template"
-           default_party_template="PartyTemplate.kingdom_hero_party_Mayene_template"
-           encounter_background_mesh="encounter_empire"
-           elite_caravan_party_template="PartyTemplate.elite_caravan_template_Mayene"
-           caravan_party_template="PartyTemplate.caravan_template_Mayene"
-           militia_party_template="PartyTemplate.militia_empire_Mayene"
-           rebels_party_template="PartyTemplate.rebels_empire_Mayene"
-		   vassal_reward_party_template="PartyTemplate.vassal_reward_troops_Mayene"
-           default_face_key="000fa92e90004202aced5d976886573d5d679585a376fdd605877a7764b8987c00000000000007520000037f0000000f00000037049140010000000000000000"
-           text="{=ROT00241}The Sturgians come from the northern woods, just south of the icy Byalic Sea. For centuries they lived an isolated existence in the dark forests, their numbers kept in check by the deadly winters. But as the Empire expanded to fill out the Calradian continent, traders ventured into the woods in search of honey, bog iron, and most of all fur. Great towns sprung up on the network of bays and lakes that joined the Sturgian lands to the outside world, attracting fortune-seekers from the coast, the steppes, and the Nordlands. The princes and boyars of this land have now begun to turn their eyes outward, earning themselves for a reputation for their warlike approach to business and their businesslike approach to war."
-           tournament_master="NPCCharacter.tournament_master_Mayene"
-           villager="NPCCharacter.villager_Mayene"
-           caravan_master="NPCCharacter.caravan_master_Mayene"
-           faction_banner_key="11.4.124.4345.4345.764.764.1.0.0.163.0.5.512.512.764.764.1.0.0"
-           armed_trader="NPCCharacter.armed_trader_Mayene"
-           caravan_guard="NPCCharacter.caravan_guard_Mayene"
-           veteran_caravan_guard="NPCCharacter.veteran_caravan_guard_Mayene"
-		   
-           duel_preset="NPCCharacter.empire_duel_preset"
-           prison_guard="NPCCharacter.prison_guard_Mayene"
-           guard="NPCCharacter.guard_Mayene"
-           
-           blacksmith="NPCCharacter.blacksmith_Mayene"
-           weaponsmith="NPCCharacter.weaponsmith_Mayene"
-           townswoman="NPCCharacter.townswoman_Mayene"
-           townswoman_infant="NPCCharacter.townswoman_infant_Mayene"
-           townswoman_child="NPCCharacter.townswoman_child_Mayene"
-           townswoman_teenager="NPCCharacter.townswoman_teenager_Mayene"
-           townsman="NPCCharacter.townsman_Mayene"
-           townsman_infant="NPCCharacter.townsman_infant_Mayene"
-           townsman_child="NPCCharacter.townsman_child_Mayene"
-           townsman_teenager="NPCCharacter.townsman_teenager_Mayene"
-           village_woman="NPCCharacter.village_woman_Mayene"
-           villager_male_child="NPCCharacter.village_child_Mayene"
-           villager_male_teenager="NPCCharacter.village_teenager_Mayene"
-           villager_female_child="NPCCharacter.village_woman_child_Seanchan"
-           villager_female_teenager="NPCCharacter.village_woman_teenager_Mayene"
-           ransom_broker="NPCCharacter.ransom_broker_Mayene"
-           gangleader_bodyguard="NPCCharacter.gangleader_bodyguard_Mayene"
-           merchant_notary="NPCCharacter.merchant_notary_Mayene"
-           artisan_notary="NPCCharacter.artisan_notary_Mayene"
-           preacher_notary="NPCCharacter.preacher_notary_Mayene"
-           rural_notable_notary="NPCCharacter.rural_notable_notary_Mayene"
-           shop_worker="NPCCharacter.shop_worker_Mayene"
-           tavernkeeper="NPCCharacter.tavernkeeper_Mayene"
-           taverngamehost="NPCCharacter.taverngamehost_Mayene"
-           musician="NPCCharacter.musician_Mayene"
-           tavern_wench="NPCCharacter.tavern_wench_Mayene"
-           armorer="NPCCharacter.armorer_Mayene"
-           horseMerchant="NPCCharacter.horseMerchant_Mayene"
-           barber="NPCCharacter.barber_Mayene"
-           merchant="NPCCharacter.merchant_Mayene"
-           beggar="NPCCharacter.beggar_Mayene"
-           female_beggar="NPCCharacter.female_beggar_Mayene"
-           female_dancer="NPCCharacter.female_dancer_Mayene"
-           gear_practice_dummy="NPCCharacter.gear_practice_dummy_empire"
-           weapon_practice_stage_1="NPCCharacter.weapon_practice_stage_1_empire"
-           weapon_practice_stage_2="NPCCharacter.weapon_practice_stage_2_empire"
-           weapon_practice_stage_3="NPCCharacter.weapon_practice_stage_3_empire"
-           gear_dummy="NPCCharacter.gear_dummy_empire"
-           default_battle_equipment_roster="EquipmentRoster.stu_civ_template_default"
-default_civilian_equipment_roster="EquipmentRoster.stu_civ_template_default"
-           board_game_type="Konane">
-	  <vassal_reward_items>
-		  <item id="Item.justicier_2hsword" />
-	  </vassal_reward_items>
+  <Culture id="Mayene" name="{=Mayenefaction}Mayene" is_main_culture="true" color="387146" color2="274f31" elite_basic_troop="NPCCharacter.Mayenewingedguard_infantry" basic_troop="NPCCharacter.Mayene_recruit" melee_militia_troop="NPCCharacter.Mayene_recruit" ranged_militia_troop="NPCCharacter.Mayene_archer" melee_elite_militia_troop="NPCCharacter.Mayenecommon_footman" ranged_elite_militia_troop="NPCCharacter.Mayene_archer2" can_have_settlement="true" town_edge_number="16" villager_party_template="PartyTemplate.villager_mayene_template" default_party_template="PartyTemplate.kingdom_hero_party_Mayene_template" encounter_background_mesh="encounter_empire" elite_caravan_party_template="PartyTemplate.elite_caravan_template_Mayene" caravan_party_template="PartyTemplate.caravan_template_Mayene" militia_party_template="PartyTemplate.militia_empire_Mayene" rebels_party_template="PartyTemplate.rebels_empire_Mayene" vassal_reward_party_template="PartyTemplate.vassal_reward_troops_Mayene" default_face_key="000fa92e90004202aced5d976886573d5d679585a376fdd605877a7764b8987c00000000000007520000037f0000000f00000037049140010000000000000000" text="{=MayeneCulture}Mayene is located at the southern tip of the peninsula on the Sea of Storms, and is the easternmost city of the Westlands, as well as the closest city to Shara. Fishing shoals rich in oilfish lie somewhere to the east of Mayene, but the location is a closely-guarded secret. Mayene also lies close to the Sea Folk island of Cindaking. A combination of its location on key trade routes to the Sea Folk isles and Shara, plus its dominance of the oilfish trade, make Mayene extremely wealthy and coveted in the eyes of Tear. Mayener oilfish oil is highly prized, often valued more than Tairen olive oil, adding to the competition." tournament_master="NPCCharacter.tournament_master_Mayene" villager="NPCCharacter.villager_Mayene" caravan_master="NPCCharacter.caravan_master_Mayene" faction_banner_key="11.4.124.4345.4345.764.764.1.0.0.163.0.5.512.512.764.764.1.0.0" armed_trader="NPCCharacter.armed_trader_Mayene" caravan_guard="NPCCharacter.caravan_guard_Mayene" veteran_caravan_guard="NPCCharacter.veteran_caravan_guard_Mayene" prison_guard="NPCCharacter.prison_guard_Mayene" guard="NPCCharacter.guard_Mayene" blacksmith="NPCCharacter.blacksmith_Mayene" weaponsmith="NPCCharacter.weaponsmith_Mayene" townswoman="NPCCharacter.townswoman_Mayene" townswoman_infant="NPCCharacter.townswoman_infant_Mayene" townswoman_child="NPCCharacter.townswoman_child_Mayene" townswoman_teenager="NPCCharacter.townswoman_teenager_Mayene" townsman="NPCCharacter.townsman_Mayene" townsman_infant="NPCCharacter.townsman_infant_Mayene" townsman_child="NPCCharacter.townsman_child_Mayene" townsman_teenager="NPCCharacter.townsman_teenager_Mayene" village_woman="NPCCharacter.village_woman_Mayene" villager_male_child="NPCCharacter.village_child_Mayene" villager_male_teenager="NPCCharacter.village_teenager_Mayene" villager_female_child="NPCCharacter.village_woman_child_Seanchan" villager_female_teenager="NPCCharacter.village_woman_teenager_Mayene" ransom_broker="NPCCharacter.ransom_broker_Mayene" gangleader_bodyguard="NPCCharacter.gangleader_bodyguard_Mayene" merchant_notary="NPCCharacter.merchant_notary_Mayene" artisan_notary="NPCCharacter.artisan_notary_Mayene" preacher_notary="NPCCharacter.preacher_notary_Mayene" rural_notable_notary="NPCCharacter.rural_notable_notary_Mayene" shop_worker="NPCCharacter.shop_worker_Mayene" tavernkeeper="NPCCharacter.tavernkeeper_Mayene" taverngamehost="NPCCharacter.taverngamehost_Mayene" musician="NPCCharacter.musician_Mayene" tavern_wench="NPCCharacter.tavern_wench_Mayene" armorer="NPCCharacter.armorer_Mayene" horseMerchant="NPCCharacter.horseMerchant_Mayene" barber="NPCCharacter.barber_Mayene" merchant="NPCCharacter.merchant_Mayene" beggar="NPCCharacter.beggar_Mayene" female_beggar="NPCCharacter.female_beggar_Mayene" female_dancer="NPCCharacter.female_dancer_Mayene" gear_practice_dummy="NPCCharacter.gear_practice_dummy_empire" weapon_practice_stage_1="NPCCharacter.weapon_practice_stage_1_empire" weapon_practice_stage_2="NPCCharacter.weapon_practice_stage_2_empire" weapon_practice_stage_3="NPCCharacter.weapon_practice_stage_3_empire" gear_dummy="NPCCharacter.gear_dummy_empire" default_battle_equipment_roster="EquipmentRoster.stu_civ_template_default" default_civilian_equipment_roster="EquipmentRoster.stu_civ_template_default" board_game_type="Konane">
+    <!--duel_preset="NPCCharacter.empire_duel_preset"-->
+    <vassal_reward_items>
+      <item id="Item.justicier_2hsword" />
+    </vassal_reward_items>
     <banner_bearer_replacement_weapons>
       <item id="Item.iron_spatha_sword_t2" />
       <item id="Item.empire_sword_1_t2" />
       <item id="Item.empire_sword_2_t3" />
       <item id="Item.empire_sword_6_t5" />
-    </banner_bearer_replacement_weapons> 
+    </banner_bearer_replacement_weapons>
     <male_names>
       <name name="{=jVPr0ZzB}Achyr" />
       <name name="{=iFJbnbCQ}Agdil" />
@@ -210,9 +136,7 @@ default_civilian_equipment_roster="EquipmentRoster.stu_civ_template_default"
       <name name="{=gC1paDtD}Yerchoving" />
       <name name="{=qD72Ya4I}Zhanoving" />
     </clan_names>
-	  <cultural_feats>
-		  
-	  </cultural_feats>
+    <cultural_feats></cultural_feats>
     <possible_clan_banner_icon_ids>
       <icon id="112" />
       <icon id="113" />
@@ -238,67 +162,57 @@ default_civilian_equipment_roster="EquipmentRoster.stu_civ_template_default"
       <icon id="444" />
       <icon id="445" />
     </possible_clan_banner_icon_ids>
-	
-	  <notable_and_wanderer_templates>
-		  
-		  <template name="NPCCharacter.spc_notable_Mayene_0" />
-		  <template name="NPCCharacter.spc_notable_Mayene_0b" />
-		  <template name="NPCCharacter.spc_notable_Mayene_1" />
-		  <template name="NPCCharacter.spc_notable_Mayene_1b" />
-		  <template name="NPCCharacter.spc_notable_Mayene_2" />
-		  <template name="NPCCharacter.spc_notable_Mayene_2b" />
-		  <template name="NPCCharacter.spc_notable_Mayene_3" />
-		  <template name="NPCCharacter.spc_notable_Mayene_3b" />
-		  <template name="NPCCharacter.spc_notable_Mayene_4" />
-		  <template name="NPCCharacter.spc_notable_Mayene_4b" />
-		  <template name="NPCCharacter.spc_notable_Mayene_5" />
-		  <template name="NPCCharacter.spc_notable_Mayene_6" />
-		  <template name="NPCCharacter.spc_notable_Mayene_7" />
-		  <template name="NPCCharacter.spc_notable_Mayene_8" />
-		  <template name="NPCCharacter.spc_notable_Mayene_9" />
-		  <template name="NPCCharacter.spc_notable_Mayene_gl1" />
-		  <template name="NPCCharacter.spc_notable_Mayene_10" />
-		  <template name="NPCCharacter.spc_notable_Mayene_11" />
-		  <template name="NPCCharacter.spc_notable_Mayene_gl4" />
-		  <template name="NPCCharacter.spc_notable_Mayene_12" />
-		  <template name="NPCCharacter.spc_notable_Mayene_13" />
-		  <template name="NPCCharacter.spc_notable_Mayene_21" />
-		  <template name="NPCCharacter.spc_notable_Mayene_22" />
-		  <template name="NPCCharacter.spc_Mayene_headman_1" />
-		  <template name="NPCCharacter.spc_Mayene_headman_2" />
-		  <template name="NPCCharacter.spc_Mayene_headman_3" />
-	  </notable_and_wanderer_templates>
-	  <lord_templates>
-		  <template name="NPCCharacter.spc_Mayene_mercenaries_leader_0" />
-		  <template name="NPCCharacter.spc_Mayene_mercenaries_leader_1" />
-	  </lord_templates>
-	  <rebellion_hero_templates>
-		  <template name="NPCCharacter.spc_Mayene_leader_0" />
-		  <template name="NPCCharacter.spc_Mayene_leader_1" />
-	  </rebellion_hero_templates>
+    <notable_and_wanderer_templates>
+      <template name="NPCCharacter.spc_notable_Mayene_0" />
+      <template name="NPCCharacter.spc_notable_Mayene_0b" />
+      <template name="NPCCharacter.spc_notable_Mayene_1" />
+      <template name="NPCCharacter.spc_notable_Mayene_1b" />
+      <template name="NPCCharacter.spc_notable_Mayene_2" />
+      <template name="NPCCharacter.spc_notable_Mayene_2b" />
+      <template name="NPCCharacter.spc_notable_Mayene_3" />
+      <template name="NPCCharacter.spc_notable_Mayene_3b" />
+      <template name="NPCCharacter.spc_notable_Mayene_4" />
+      <template name="NPCCharacter.spc_notable_Mayene_4b" />
+      <template name="NPCCharacter.spc_notable_Mayene_5" />
+      <template name="NPCCharacter.spc_notable_Mayene_6" />
+      <template name="NPCCharacter.spc_notable_Mayene_7" />
+      <template name="NPCCharacter.spc_notable_Mayene_8" />
+      <template name="NPCCharacter.spc_notable_Mayene_9" />
+      <template name="NPCCharacter.spc_notable_Mayene_gl1" />
+      <template name="NPCCharacter.spc_notable_Mayene_10" />
+      <template name="NPCCharacter.spc_notable_Mayene_11" />
+      <template name="NPCCharacter.spc_notable_Mayene_gl4" />
+      <template name="NPCCharacter.spc_notable_Mayene_12" />
+      <template name="NPCCharacter.spc_notable_Mayene_13" />
+      <template name="NPCCharacter.spc_notable_Mayene_21" />
+      <template name="NPCCharacter.spc_notable_Mayene_22" />
+      <template name="NPCCharacter.spc_Mayene_headman_1" />
+      <template name="NPCCharacter.spc_Mayene_headman_2" />
+      <template name="NPCCharacter.spc_Mayene_headman_3" />
+    </notable_and_wanderer_templates>
+    <lord_templates>
+      <template name="NPCCharacter.spc_Mayene_mercenaries_leader_0" />
+      <template name="NPCCharacter.spc_Mayene_mercenaries_leader_1" />
+    </lord_templates>
+    <rebellion_hero_templates>
+      <template name="NPCCharacter.spc_Mayene_leader_0" />
+      <template name="NPCCharacter.spc_Mayene_leader_1" />
+    </rebellion_hero_templates>
     <tournament_team_templates_one_participant>
-			<template
-				name="NPCCharacter.tournament_template_aserai_one_participant_set_v1" />
-		</tournament_team_templates_one_participant>
-		<tournament_team_templates_two_participant>
-			<template
-				name="NPCCharacter.tournament_template_aserai_two_participant_set_v1" />
-			<template
-				name="NPCCharacter.tournament_template_aserai_two_participant_set_v2" />
-			<template
-				name="NPCCharacter.tournament_template_aserai_two_participant_set_v3" />
-		</tournament_team_templates_two_participant>
-		<tournament_team_templates_four_participant>
-			<template
-				name="NPCCharacter.tournament_template_aserai_four_participant_set_v1" />
-			<template
-				name="NPCCharacter.tournament_template_aserai_four_participant_set_v2" />
-			<template
-				name="NPCCharacter.tournament_template_aserai_four_participant_set_v3" />
-			<template
-				name="NPCCharacter.tournament_template_aserai_four_participant_set_v4" />
-		</tournament_team_templates_four_participant>
-   <!--  <tournament_team_templates_one_participant>
+      <template name="NPCCharacter.tournament_template_aserai_one_participant_set_v1" />
+    </tournament_team_templates_one_participant>
+    <tournament_team_templates_two_participant>
+      <template name="NPCCharacter.tournament_template_aserai_two_participant_set_v1" />
+      <template name="NPCCharacter.tournament_template_aserai_two_participant_set_v2" />
+      <template name="NPCCharacter.tournament_template_aserai_two_participant_set_v3" />
+    </tournament_team_templates_two_participant>
+    <tournament_team_templates_four_participant>
+      <template name="NPCCharacter.tournament_template_aserai_four_participant_set_v1" />
+      <template name="NPCCharacter.tournament_template_aserai_four_participant_set_v2" />
+      <template name="NPCCharacter.tournament_template_aserai_four_participant_set_v3" />
+      <template name="NPCCharacter.tournament_template_aserai_four_participant_set_v4" />
+    </tournament_team_templates_four_participant>
+    <!--  <tournament_team_templates_one_participant>
       <template name="NPCCharacter.tournament_template_one_participant_set_v1_Mayene" />
       <template name="NPCCharacter.tournament_template_one_participant_set_v2_Mayene" />
     </tournament_team_templates_one_participant>
@@ -316,9 +230,6 @@ default_civilian_equipment_roster="EquipmentRoster.stu_civ_template_default"
       <template name="NPCCharacter.eastern_mercenary" />
       <template name="NPCCharacter.western_mercenary" />
       <template name="NPCCharacter.sword_sisters_sister_t3" />
-    </basic_mercenary_troops> 
+    </basic_mercenary_troops>
   </Culture>
-
-
-
 </SPCultures>
