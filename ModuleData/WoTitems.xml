@@ -48,7 +48,7 @@
     <ItemComponent>
       <Armor body_armor="25" leg_armor="45" arm_armor="25" head_armor="25" covers_body="true" covers_head="true" covers_legs="true" modifier_group="leather" material_type="Leather" />
     </ItemComponent>
-    <Flags UseTeamColor="true" />
+    <Flags UseTeamColor="true" Civilian="true" />
   </Item>
   <Item id="TrollocLight2" name="{=TrollocLight2}Trolloc Light Body 2(Do not equip helmet with this item)" mesh="TrollocLight1" culture="Culture.sturgia" weight="0.4" appearance="2" is_merchandise="true" Type="BodyArmor">
     <ItemComponent>
@@ -452,7 +452,7 @@
     <ItemComponent>
       <Armor body_armor="12" leg_armor="4" arm_armor="4" covers_body="true" modifier_group="leather" material_type="Leather" />
     </ItemComponent>
-    <Flags UseTeamColor="true" />
+    <Flags UseTeamColor="true" Civilian="true" />
   </Item>
   <Item id="WarderArmorMedium2" name="{=WarderArmorMedium2}Warder Medium Armor" mesh="WarderArmorMediumb" culture="Culture.WhiteTower" weight="1.6" appearance="2" is_merchandise="true" Type="BodyArmor">
     <ItemComponent>
@@ -470,13 +470,13 @@
     <ItemComponent>
       <Armor body_armor="12" arm_armor="8" modifier_group="cloth" material_type="Cloth" />
     </ItemComponent>
-    <Flags UseTeamColor="true" />
+    <Flags UseTeamColor="true" Civilian="true" />
   </Item>
   <Item id="WarderCloakcheap" name="{=WarderCloakcheap}Cheap Warder Cloak" mesh="WarderCloak" culture="Culture.WhiteTower" weight="2.5" is_merchandise="true" appearance="1" Type="Cape">
     <ItemComponent>
       <Armor body_armor="6" arm_armor="4" modifier_group="cloth" material_type="Cloth" />
     </ItemComponent>
-    <Flags UseTeamColor="true" />
+    <Flags UseTeamColor="true" Civilian="true" />
   </Item>
   <Item id="WarderBootsLight" name="{=WarderBootsLight}Leather Boots" mesh="WarderBootsLight" culture="Culture.WhiteTower" is_merchandise="true" weight="0.8" difficulty="0" appearance="1" Type="LegArmor">
     <ItemComponent>
@@ -3392,7 +3392,7 @@
     <ItemComponent>
       <Armor body_armor="16" leg_armor="3" arm_armor="6" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
-    <Flags UseTeamColor="true" />
+    <Flags UseTeamColor="true" Civilian="true" />
   </Item>
   <Item id="Warder2024newboots1" name="{=Warder2024newboots1}Warder Plate Leather Boots" mesh="Warder2024newboots1" culture="Culture.WhiteTower" is_merchandise="true" weight="0.8" difficulty="0" appearance="1" Type="LegArmor">
     <ItemComponent>

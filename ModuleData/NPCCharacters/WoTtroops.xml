@@ -59,28 +59,7 @@
         <equipment slot="Leg" id="Item.AielBoots1" />
         <equipment slot="Head" id="Item.Aielveilred" />
       </EquipmentRoster>
-      <!--   <EquipmentRoster>
-         <equipment slot="Item0" 
-				id="Item.onepowerwindstorm1FireBall"/>
-			<equipment slot="Item1" 
-				id="Item.onepowerwindstorm1Fireballammoarrow"/>
-	  
-       <equipment slot="Item2" 
-				id="Item.AielSpeargrade1"/>
- <equipment slot="Item3" 
-				id="Item.Aiel_shield"/>
-<equipment slot="Body" 
-				id="Item.AielArmor2"/>
-
-			<equipment slot="Leg" 
-				id="Item.AielBoots1"/>
-				
-				
-				<equipment slot="Head"
-                 id="Item.Aielveilred" />
-				
-				
-      </EquipmentRoster> -->
+      <EquipmentSet id="Shadow_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="DreadlordAiel2" default_group="Ranged" level="31" name="{=DreadlordAiel2}Samma N'Sei Warrior (Fireball)(Long range)" occupation="Soldier" is_basic_troop="true" culture="Culture.sturgia">
@@ -119,6 +98,7 @@
         <equipment slot="Leg" id="Item.AielBoots1" />
         <equipment slot="Head" id="Item.Aielveilred" />
       </EquipmentRoster>
+      <EquipmentSet id="Shadow_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="DreadlordAiel3" default_group="Ranged" level="45" name="{=DreadlordAiel3}Samma N'Sei Dreadlord (Fireball)(Long range)" occupation="Soldier" is_basic_troop="true" culture="Culture.sturgia">
@@ -155,6 +135,7 @@
         <equipment slot="Leg" id="Item.AielBoots1" />
         <equipment slot="Head" id="Item.Aielveilred" />
       </EquipmentRoster>
+      <EquipmentSet id="Shadow_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="DreadlordBall" default_group="Ranged" level="28" name="{=DreadlordBall} Dreadlord (Fireball)(Long range)" occupation="Soldier" is_basic_troop="true" culture="Culture.sturgia">
@@ -190,6 +171,7 @@
         <equipment slot="Body" id="Item.WotDreadlordMedarmor" />
         <equipment slot="Leg" id="Item.empire_horseman_boots" />
       </EquipmentRoster>
+      <EquipmentSet id="sturgia_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="DreadlordLight" default_group="Ranged" level="35" name="{=DreadlordLight} Dreadlord (Lightning)(Long range)" occupation="Soldier" is_basic_troop="true" culture="Culture.sturgia">
@@ -224,6 +206,7 @@
         <equipment slot="Body" id="Item.WotDreadlordMedarmor" />
         <equipment slot="Leg" id="Item.empire_horseman_boots" />
       </EquipmentRoster>
+      <EquipmentSet id="sturgia_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="DreadlordLight2" default_group="Ranged" level="45" name="{=DreadlordLight2} Dreadlord Storm Master (Lightning)(Long range)" occupation="Soldier" is_basic_troop="true" culture="Culture.sturgia">
@@ -256,6 +239,7 @@
         <equipment slot="Body" id="Item.WotDreadlordMedarmor" />
         <equipment slot="Leg" id="Item.empire_horseman_boots" />
       </EquipmentRoster>
+      <EquipmentSet id="sturgia_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="DreadlordBlossom" default_group="Ranged" level="55" name="{=DreadlordBlossom} Dreadlord (Blossom of Fire)(Long range)" occupation="Soldier" is_basic_troop="true" culture="Culture.sturgia">
@@ -288,6 +272,7 @@
         <equipment slot="Body" id="Item.WotDreadlordMedarmor" />
         <equipment slot="Leg" id="Item.empire_horseman_boots" />
       </EquipmentRoster>
+      <EquipmentSet id="sturgia_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="WotMyrddraal" default_group="Infantry" level="24" name="{=WotMyrddraal}Myrddraal" occupation="Soldier" culture="Culture.sturgia">
@@ -315,6 +300,7 @@
         <equipment slot="Leg" id="Item.Fadevampirebboots1" />
         <equipment slot="Gloves" id="Item.Fadevampiregauntlets1" />
       </EquipmentRoster>
+      <EquipmentSet id="Shadow_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="WotMyrddraalMounted" default_group="Cavalry" level="36" name="{=WotMyrddraalMounted}Mounted Myrddraal" occupation="Soldier" upgrade_requires="ItemCategory.war_horse" culture="Culture.sturgia">
@@ -342,6 +328,7 @@
         <equipment slot="Horse" id="Item.empire_horse" />
         <equipment slot="HorseHarness" id="Item.battania_horse_harness" />
       </EquipmentRoster>
+      <EquipmentSet id="Shadow_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Trollocla" default_group="Infantry" level="6" name="{=Trollocla}Trolloc Broodling" occupation="Soldier" is_basic_troop="true" culture="Culture.sturgia">
@@ -448,6 +435,7 @@
         <equipment slot="Body" id="Item.TrollocLight22" />
         <equipment slot="Gloves" id="Item.Trollochands1" />
       </EquipmentRoster>
+      <EquipmentSet id="Shadow_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Trolloclb" default_group="Infantry" level="11" name="{=Trolloclb}Trolloc Beast" occupation="Soldier" culture="Culture.sturgia">
@@ -554,6 +542,7 @@
         <equipment slot="Body" id="Item.TrollocLight22" />
         <equipment slot="Gloves" id="Item.Trollochands1" />
       </EquipmentRoster>
+      <EquipmentSet id="Shadow_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Trolloc2a" default_group="Ranged" level="16" name="{=Trolloc2a}Trolloc Archer" occupation="Soldier" culture="Culture.sturgia">
@@ -691,6 +680,7 @@
         <equipment slot="Body" id="Item.TrollocLight22" />
         <equipment slot="Gloves" id="Item.Trollochands1" />
       </EquipmentRoster>
+      <EquipmentSet id="Shadow_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Trolloclc" default_group="Infantry" level="18" name="{=Trolloclc}Trolloc Maneater" occupation="Soldier" culture="Culture.sturgia">
@@ -737,6 +727,7 @@
         <equipment slot="Body" id="Item.TrollocMED3" />
         <equipment slot="Gloves" id="Item.Trollochands1" />
       </EquipmentRoster>
+      <EquipmentSet id="Shadow_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Trollocld" default_group="Infantry" level="26" name="{=Trollocld}Trolloc Brute" occupation="Soldier" culture="Culture.sturgia">
@@ -785,6 +776,7 @@
         <equipment slot="Body" id="Item.TrollocMED3" />
         <equipment slot="Gloves" id="Item.Trollochands1" />
       </EquipmentRoster>
+      <EquipmentSet id="Shadow_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Trolloc3a" default_group="Infantry" level="26" name="{=Trolloc3a}Trolloc Berserker" occupation="Soldier" culture="Culture.sturgia">
@@ -831,6 +823,7 @@
         <equipment slot="Body" id="Item.TrollocMED3" />
         <equipment slot="Gloves" id="Item.Trollochands1" />
       </EquipmentRoster>
+      <EquipmentSet id="Shadow_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Trollocld3b" default_group="Infantry" level="31" name="{=Trollocld3b}Trolloc Skullcrusher" occupation="Soldier" culture="Culture.sturgia">
@@ -884,6 +877,7 @@
         <equipment slot="Body" id="Item.TrollocHEV13" />
         <equipment slot="Gloves" id="Item.Trollochands1" />
       </EquipmentRoster>
+      <EquipmentSet id="Shadow_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Trollocldtwochief" default_group="Infantry" level="35" name="{=Trollocldtwochief}Trolloc Devourer" occupation="Soldier" culture="Culture.sturgia">
@@ -937,6 +931,7 @@
         <equipment slot="Body" id="Item.TrollocHEV11Chief" />
         <equipment slot="Gloves" id="Item.Trollochands1" />
       </EquipmentRoster>
+      <EquipmentSet id="Shadow_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <!--End of shadow troops-->
@@ -1000,6 +995,7 @@
         <equipment slot="Leg" id="Item.AielBoots1" />
         <equipment slot="Head" id="Item.AielHeadwrap1" />
       </EquipmentRoster>
+      <EquipmentSet id="Aiel_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="AielWarrior22" default_group="Infantry" level="16" name="{=AielWarrior22} Aiel Savage" occupation="Soldier" culture="Culture.khuzait">
@@ -1036,6 +1032,7 @@
         <equipment slot="Leg" id="Item.AielBoots1" />
         <equipment slot="Head" id="Item.AielHeadwrap1" />
       </EquipmentRoster>
+      <EquipmentSet id="Aiel_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="AielWarrior3" default_group="Infantry" level="21" name="{=AielWarrior3} Aiel Warrior" occupation="Soldier" culture="Culture.khuzait">
@@ -1073,6 +1070,7 @@
         <equipment slot="Leg" id="Item.AielBoots1" />
         <equipment slot="Head" id="Item.AielHeadwrap1" />
       </EquipmentRoster>
+      <EquipmentSet id="Aiel_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="AielWarrior4" default_group="Infantry" level="28" name="{=AielWarrior4} Aiel Wasteland Warrior" occupation="Soldier" culture="Culture.khuzait">
@@ -1110,6 +1108,7 @@
         <equipment slot="Leg" id="Item.AielBoots1" />
         <equipment slot="Head" id="Item.AielHeadwrap1" />
       </EquipmentRoster>
+      <EquipmentSet id="Aiel_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="AielWarrior5" default_group="Infantry" level="31" name="{=AielWarrior5} Aiel Hardened Warrior" occupation="Soldier" culture="Culture.khuzait">
@@ -1145,6 +1144,7 @@
         <equipment slot="Leg" id="Item.AielBoots1" />
         <equipment slot="Head" id="Item.AielHeadwrap1" />
       </EquipmentRoster>
+      <EquipmentSet id="Aiel_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="AielWarriorArcher1" default_group="Ranged" level="21" name="{=AielWarriorArcher1} Aiel Scout" occupation="Soldier" culture="Culture.khuzait">
@@ -1182,6 +1182,7 @@
         <equipment slot="Leg" id="Item.AielBoots1" />
         <equipment slot="Head" id="Item.AielHeadwrap1" />
       </EquipmentRoster>
+      <EquipmentSet id="Aiel_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="AielWarriorArcher2" default_group="Ranged" level="28" name="{=AielWarriorArcher2} Aiel Archer" occupation="Soldier" culture="Culture.khuzait">
@@ -1219,6 +1220,7 @@
         <equipment slot="Leg" id="Item.AielBoots1" />
         <equipment slot="Head" id="Item.AielHeadwrap1" />
       </EquipmentRoster>
+      <EquipmentSet id="Aiel_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="AielWarriorArcher3" default_group="Ranged" level="31" name="{=AielWarriorArcher3} Aiel Outrunner" occupation="Soldier" culture="Culture.khuzait">
@@ -1256,6 +1258,7 @@
         <equipment slot="Leg" id="Item.AielBoots1" />
         <equipment slot="Head" id="Item.AielHeadwrap1" />
       </EquipmentRoster>
+      <EquipmentSet id="Aiel_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="AielMaidenlevel1" default_group="Infantry" level="11" name="{=AielMaidenlevel1} Aiel Maiden" occupation="Soldier" is_female="true" is_basic_troop="true" culture="Culture.khuzait">
@@ -1289,6 +1292,7 @@
         <equipment slot="Leg" id="Item.AielBoots1" />
         <equipment slot="Head" id="Item.AielHeadwrap1" />
       </EquipmentRoster>
+      <EquipmentSet id="Aiel_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="AielWarrior22Maiden" default_group="Infantry" level="16" name="{=AielWarrior22Maiden} Aiel Maiden Savage" occupation="Soldier" is_female="true" culture="Culture.khuzait">
@@ -1325,6 +1329,7 @@
         <equipment slot="Leg" id="Item.AielBoots1" />
         <equipment slot="Head" id="Item.AielHeadwrap1" />
       </EquipmentRoster>
+      <EquipmentSet id="Aiel_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="AielWarrior3Maiden" default_group="Infantry" level="21" name="{=AielWarrior3Maiden} Aiel Maiden Warrior" occupation="Soldier" is_female="true" culture="Culture.khuzait">
@@ -1362,6 +1367,7 @@
         <equipment slot="Leg" id="Item.AielBoots1" />
         <equipment slot="Head" id="Item.AielHeadwrap1" />
       </EquipmentRoster>
+      <EquipmentSet id="Aiel_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="AielWarrior4Maiden" default_group="Infantry" level="28" name="{=AielWarrior4Maiden} Aiel Maiden Wasteland Warrior" occupation="Soldier" is_female="true" culture="Culture.khuzait">
@@ -1397,6 +1403,7 @@
         <equipment slot="Leg" id="Item.AielBoots1" />
         <equipment slot="Head" id="Item.AielHeadwrap1" />
       </EquipmentRoster>
+      <EquipmentSet id="Aiel_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="AielWarrior5Maiden" default_group="Infantry" level="31" name="{=AielWarrior5Maiden} Aiel Maiden of the Spear" occupation="Soldier" is_female="true" culture="Culture.khuzait">
@@ -1432,6 +1439,7 @@
         <equipment slot="Leg" id="Item.AielBoots1" />
         <equipment slot="Head" id="Item.AielHeadwrap1" />
       </EquipmentRoster>
+      <EquipmentSet id="Aiel_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="AielWarriorArcher1Maiden" default_group="Ranged" level="21" name="{=AielWarriorArcher1Maiden} Aiel Maiden Scout" occupation="Soldier" is_female="true" culture="Culture.khuzait">
@@ -1470,6 +1478,7 @@
         <equipment slot="Leg" id="Item.AielBoots1" />
         <equipment slot="Head" id="Item.AielHeadwrap1" />
       </EquipmentRoster>
+      <EquipmentSet id="Aiel_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="AielWarriorArcher2Maiden" default_group="Ranged" level="28" name="{=AielWarriorArcher2Maiden} Aiel Maiden Archer" occupation="Soldier" is_female="true" culture="Culture.khuzait">
@@ -1507,6 +1516,7 @@
         <equipment slot="Leg" id="Item.AielBoots1" />
         <equipment slot="Head" id="Item.AielHeadwrap1" />
       </EquipmentRoster>
+      <EquipmentSet id="Aiel_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="AielWarriorArcher3Maiden" default_group="Ranged" level="31" name="{=AielWarriorArcher3Maiden} Aiel Maiden Outrunner" occupation="Soldier" is_female="true" culture="Culture.khuzait">
@@ -1544,6 +1554,7 @@
         <equipment slot="Leg" id="Item.AielBoots1" />
         <equipment slot="Head" id="Item.AielHeadwrap1" />
       </EquipmentRoster>
+      <EquipmentSet id="Aiel_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="AielWiseonelevel1" default_group="Ranged" level="28" name="{=AielWiseonelevel1} Aiel Wise One Apprentice (fire arrow) (Long Range)" occupation="Soldier" is_female="true" culture="Culture.khuzait">
@@ -1577,6 +1588,7 @@
         <equipment slot="Body" id="Item.AielWiseOneRobe1" />
         <equipment slot="Leg" id="Item.Aessedaishoes" />
       </EquipmentRoster>
+      <EquipmentSet id="Aiel_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="AielWiseonelevel2" default_group="Ranged" level="35" name="{=AielWiseonelevel2} Aiel Wise One (fireball) (Long Range)" occupation="Soldier" is_female="true" culture="Culture.khuzait">
@@ -1608,6 +1620,7 @@
         <equipment slot="Body" id="Item.AielWiseOneRobe1" />
         <equipment slot="Leg" id="Item.Aessedaishoes" />
       </EquipmentRoster>
+      <EquipmentSet id="Aiel_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <!--Black Tower forces-->
@@ -1637,6 +1650,7 @@
         <equipment slot="Body" id="Item.Asharmor1" />
         <equipment slot="Leg" id="Item.Asharmorboots" />
       </EquipmentRoster>
+      <EquipmentSet id="BlackTower_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="AshamanDfire" default_group="Ranged" level="28" name="{=AshamanDfire} Asha'man Dedicated (Fireball)(Long Range)" occupation="Soldier" culture="Culture.BlackTower">
@@ -1665,6 +1679,7 @@
         <equipment slot="Body" id="Item.Asharmor2" />
         <equipment slot="Leg" id="Item.Asharmorboots" />
       </EquipmentRoster>
+      <EquipmentSet id="BlackTower_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="AshamanDfireRoll" default_group="Ranged" level="60" name="{=AshamanDfireRoll} Full Asha'man (Rolling Earth and Fire)(Long Range)" occupation="Soldier" culture="Culture.BlackTower">
@@ -1691,6 +1706,7 @@
         <equipment slot="Body" id="Item.Asharmor3" />
         <equipment slot="Leg" id="Item.Asharmorboots" />
       </EquipmentRoster>
+      <EquipmentSet id="BlackTower_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="AshamanDfirebloss" default_group="Ranged" level="60" name="{=AshamanDfirebloss} Full Asha'man (Blossoms of fire)(Long Range)" occupation="Soldier" culture="Culture.BlackTower">
@@ -1717,6 +1733,7 @@
         <equipment slot="Body" id="Item.Asharmor3" />
         <equipment slot="Leg" id="Item.Asharmorboots" />
       </EquipmentRoster>
+      <EquipmentSet id="BlackTower_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="AshamanDLight" default_group="Ranged" level="31" name="{=AshamanDLight} Asha'man Dedicated (Lightning)(Long Range)" occupation="Soldier" culture="Culture.BlackTower">
@@ -1744,6 +1761,7 @@
         <equipment slot="Body" id="Item.Asharmor2" />
         <equipment slot="Leg" id="Item.Asharmorboots" />
       </EquipmentRoster>
+      <EquipmentSet id="BlackTower_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="AshamanDLightfull" default_group="Ranged" level="40" name="{=AshamanDLightfull} Full Asha'man (Large Lightning)(Long Range)" occupation="Soldier" culture="Culture.BlackTower">
@@ -1769,6 +1787,7 @@
         <equipment slot="Body" id="Item.Asharmor3" />
         <equipment slot="Leg" id="Item.Asharmorboots" />
       </EquipmentRoster>
+      <EquipmentSet id="BlackTower_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <!--Amamdicia whitecloak forces-->
@@ -2160,6 +2179,7 @@
         <equipment slot="Body" id="Item.TwoRivers_Farmer1" />
         <equipment slot="Leg" id="Item.TwoRiversBoots2" />
       </EquipmentRoster>
+      <EquipmentSet id="Dragonsworn_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Legionofthedragon_footman" default_group="Infantry" level="11" name="{=Legionofthedragon_footman}Legion of the Dragon Footman" occupation="Soldier" culture="Culture.Dragonsworn">
@@ -2186,6 +2206,7 @@
         <equipment slot="Body" id="Item.DragonLegionLight" />
         <equipment slot="Leg" id="Item.empire_horseman_boots" />
       </EquipmentRoster>
+      <EquipmentSet id="Dragonsworn_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Legionofthedragon__infantry" default_group="Infantry" level="16" name="{=Legionofthedragon__infantry}Legion of the Dragon Infantry" occupation="Soldier" culture="Culture.Dragonsworn">
@@ -2213,6 +2234,7 @@
         <equipment slot="Leg" id="Item.empire_horseman_boots" />
         <equipment slot="Head" id="Item.Redbandhelm" />
       </EquipmentRoster>
+      <EquipmentSet id="Dragonsworn_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Legionofthedragon__swordsman" default_group="Infantry" level="21" name="{=Legionofthedragon__swordsman}Legion of the Dragon Swordsman" occupation="Soldier" culture="Culture.Dragonsworn">
@@ -2241,6 +2263,7 @@
         <equipment slot="Head" id="Item.Redbandhelm" />
         <equipment slot="Gloves" id="Item.mail_mitten" />
       </EquipmentRoster>
+      <EquipmentSet id="Dragonsworn_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Legionofthedragon__sergeant" default_group="Infantry" level="26" name="{=Legionofthedragon__sergeant}Legion of the Dragon Veteran" occupation="Soldier" culture="Culture.Dragonsworn">
@@ -2268,6 +2291,7 @@
         <equipment slot="Gloves" id="Item.reinforced_mail_mitten" />
         <equipment slot="Cape" id="Item.pauldron_cape_a" />
       </EquipmentRoster>
+      <EquipmentSet id="Dragonsworn_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Legionofthedragon__spearman" default_group="Infantry" level="11" name="{=Legionofthedragon_}Band of the Red Hand Spearman" occupation="Soldier" culture="Culture.Dragonsworn">
@@ -2311,6 +2335,7 @@
         <equipment slot="Head" id="Item.segmented_skullcap_over_padded_cloth" />
         <equipment slot="Gloves" id="Item.plated_strip_gauntlets" />
       </EquipmentRoster>
+      <EquipmentSet id="Dragonsworn_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="legionofthedragon_billman" default_group="Infantry" level="16" name="{=legionofthedragon_billman}Band of the Red Hand Billman" occupation="Soldier" culture="Culture.Dragonsworn">
@@ -2354,6 +2379,7 @@
         <equipment slot="Gloves" id="Item.plated_strip_gauntlets" />
         <equipment slot="Cape" id="Item.mail_shoulders" />
       </EquipmentRoster>
+      <EquipmentSet id="Dragonsworn_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Legionofthedragon__pikeman" default_group="Infantry" level="21" name="{=Legionofthedragon__pikeman}Band of the Red Hand Pikeman" occupation="Soldier" culture="Culture.Dragonsworn">
@@ -2387,6 +2413,7 @@
         <equipment slot="Head" id="Item.segmented_skullcap_over_mail_coif" />
         <equipment slot="Gloves" id="Item.battania_warlord_bracers" />
       </EquipmentRoster>
+      <EquipmentSet id="Dragonsworn_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Legionofthedragon__cavalry" default_group="Cavalry" level="16" name="{=Legionofthedragon__cavalry}Band of the Red Hand Light Cavalry" upgrade_requires="ItemCategory.horse" occupation="Soldier" culture="Culture.Dragonsworn">
@@ -2426,6 +2453,7 @@
         <equipment slot="Head" id="Item.segmented_skullcap_over_padded_cloth" />
         <equipment slot="Gloves" id="Item.plated_strip_gauntlets" />
       </EquipmentRoster>
+      <EquipmentSet id="Dragonsworn_troop_civilian_template_t1" civilian="true" />
       <equipment slot="Horse" id="Item.vlandia_horse" />
       <equipment slot="HorseHarness" id="Item.light_harness" />
     </Equipments>
@@ -2464,6 +2492,7 @@
         <equipment slot="Head" id="Item.segmented_skullcap_over_mail_coif" />
         <equipment slot="Gloves" id="Item.battania_warlord_bracers" />
       </EquipmentRoster>
+      <EquipmentSet id="Dragonsworn_troop_civilian_template_t1" civilian="true" />
       <equipment slot="Horse" id="Item.t3_vlandia_horse" />
       <equipment slot="HorseHarness" id="Item.halfchain_barding" />
     </Equipments>
@@ -2494,6 +2523,7 @@
         <equipment slot="Body" id="Item.DragonLegionLight" />
         <equipment slot="Leg" id="Item.empire_horseman_boots" />
       </EquipmentRoster>
+      <EquipmentSet id="Dragonsworn_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Legionofthedragon__crossbowman2" default_group="Ranged" level="16" name="{=Legionofthedragon__crossbowman2}Legion of the Dragon Trained Crossbowman" occupation="Soldier" culture="Culture.Dragonsworn">
@@ -2522,6 +2552,7 @@
         <equipment slot="Body" id="Item.DragonLegionLight" />
         <equipment slot="Leg" id="Item.empire_horseman_boots" />
       </EquipmentRoster>
+      <EquipmentSet id="Dragonsworn_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Legionofthedragon_hardened_crossbowman3" default_group="Ranged" level="21" name="{=Legionofthedragon_hardened_crossbowman3}Legion of the Dragon Hardened Crossbowman" occupation="Soldier" culture="Culture.Dragonsworn">
@@ -2550,6 +2581,7 @@
         <equipment slot="Head" id="Item.Redbandhelm" />
         <equipment slot="Gloves" id="Item.mail_mitten" />
       </EquipmentRoster>
+      <EquipmentSet id="Dragonsworn_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Legionofthedragonmountedcrossbow_archer" default_group="HorseArcher" level="21" name="{=Legionofthedragonmountedcrossbow_archer}Band of the Red Hand Mounted Crossbowman" upgrade_requires="ItemCategory.war_horse" occupation="Soldier" culture="Culture.Dragonsworn">
@@ -2698,6 +2730,7 @@
         <equipment slot="Body" id="Item.TwoRivers_Farmer1" />
         <equipment slot="Leg" id="Item.TwoRiversBoots2" />
       </EquipmentRoster>
+      <EquipmentSet id="Dragonsworn_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="dragonlegiontworiversguardian" default_group="Ranged" level="21" name="{=dragonlegiontworiversguardian}Two Rivers Defender" occupation="Soldier" culture="Culture.Dragonsworn">
@@ -2764,6 +2797,7 @@
         <equipment slot="Body" id="Item.TwoRiversHeavyArmor2" />
         <equipment slot="Leg" id="Item.TwoRiversBoots2" />
       </EquipmentRoster>
+      <EquipmentSet id="Dragonsworn_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="dragonlegiontworiversarcher1" default_group="Ranged" level="21" name="{=dragonlegiontworiversarcher1}Two Rivers Archer" occupation="Soldier" culture="Culture.Dragonsworn">
@@ -2832,6 +2866,7 @@
         <equipment slot="Body" id="Item.TwoRiversMediumarmor1" />
         <equipment slot="Leg" id="Item.TwoRiversBoots2" />
       </EquipmentRoster>
+      <EquipmentSet id="Dragonsworn_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="dragonlegiontworiversarcher2" default_group="Ranged" level="28" name="{=dragonlegiontworiversarcher2}Two Rivers Ranger" occupation="Soldier" culture="Culture.Dragonsworn">
@@ -2901,6 +2936,7 @@
         <equipment slot="Body" id="Item.TwoRiversArcher2" />
         <equipment slot="Leg" id="Item.TwoRiversBoots2" />
       </EquipmentRoster>
+      <EquipmentSet id="Dragonsworn_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <!--Andor Forces-->
@@ -2939,6 +2975,7 @@
         <equipment slot="Leg" id="Item.AndorCommonBoots1" />
         <equipment slot="Gloves" id="Item.AndorCommonBracers" />
       </EquipmentRoster>
+      <EquipmentSet id="Andor_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Andor_common_footman" default_group="Infantry" level="11" name="{=Andor_common_footman}Andor Commoner Footman" occupation="Soldier" culture="Culture.empire">
@@ -2969,6 +3006,7 @@
         <equipment slot="Gloves" id="Item.AndorCommonBracers" />
         <equipment slot="Cape" id="Item.hood" />
       </EquipmentRoster>
+      <EquipmentSet id="Andor_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Andor_crossbowman" default_group="Ranged" level="16" name="{=Andor_crossbowman}Andor Commoner Crossbowman" occupation="Soldier" culture="Culture.empire">
@@ -3000,6 +3038,7 @@
         <equipment slot="Gloves" id="Item.AndorCommonBracers" />
         <equipment slot="Cape" id="Item.hood" />
       </EquipmentRoster>
+      <EquipmentSet id="Andor_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Andor_crossbowman2" default_group="Ranged" level="21" name="{=Andor_crossbowman2}Andor Trained Commoner Crossbowman" occupation="Soldier" culture="Culture.empire">
@@ -3029,6 +3068,7 @@
         <equipment slot="Gloves" id="Item.AndorCommonBracers" />
         <equipment slot="Cape" id="Item.padded_leather_shoulders" />
       </EquipmentRoster>
+      <EquipmentSet id="Andor_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Andor_common_spearman" default_group="Infantry" level="21" name="{=Andor_common_spearman}Andor Commoner Spearman" occupation="Soldier" culture="Culture.empire">
@@ -3059,6 +3099,7 @@
         <equipment slot="Gloves" id="Item.AndorCommonBracers" />
         <equipment slot="Cape" id="Item.padded_leather_shoulders" />
       </EquipmentRoster>
+      <EquipmentSet id="Andor_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Andor_common_spearmanheavy" default_group="Infantry" level="28" name="{=Andor_common_spearmanheavy}Andor Commoner Heavy Spearman" occupation="Soldier" culture="Culture.empire">
@@ -3095,6 +3136,7 @@
         <equipment slot="Gloves" id="Item.AndorCommonBracers" />
         <equipment slot="Cape" id="Item.AndorShoulders" />
       </EquipmentRoster>
+      <EquipmentSet id="Andor_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Andor_common_pikeman" default_group="Infantry" level="28" name="{=Andor_common_pikeman}Andor Commoner Pikeman" occupation="Soldier" culture="Culture.empire">
@@ -3121,6 +3163,7 @@
         <equipment slot="Gloves" id="Item.AndorCommonBracers" />
         <equipment slot="Cape" id="Item.AndorShoulders" />
       </EquipmentRoster>
+      <EquipmentSet id="Andor_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Andor_noble_infantry" default_group="Infantry" level="16" name="{=Andor_noble_infantry}Andor Noble Infantry" occupation="Soldier" culture="Culture.empire">
@@ -3151,6 +3194,7 @@
         <equipment slot="Gloves" id="Item.AndorQueenguardglovesHeavy" />
         <equipment slot="Cape" id="Item.empire_plate_armor_shoulder_b" />
       </EquipmentRoster>
+      <EquipmentSet id="Andor_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Andor_crossbowmannoble" default_group="Ranged" level="21" name="{=Andor_crossbowmannoble}Andor Noble Crossbowman" occupation="Soldier" culture="Culture.empire">
@@ -3182,6 +3226,7 @@
         <equipment slot="Gloves" id="Item.AndorCommonBracers" />
         <equipment slot="Cape" id="Item.empire_plate_armor_shoulder_b" />
       </EquipmentRoster>
+      <EquipmentSet id="Andor_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Andor_crossbowman2noble" default_group="Ranged" level="28" name="{=Andor_crossbowman2noble}Andor Trained Noble Crossbowman" occupation="Soldier" culture="Culture.empire">
@@ -3211,6 +3256,7 @@
         <equipment slot="Gloves" id="Item.AndorCommonBracers" />
         <equipment slot="Cape" id="Item.empire_plate_armor_shoulder_b" />
       </EquipmentRoster>
+      <EquipmentSet id="Andor_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Andor_noble_sergeant" default_group="Infantry" level="24" name="{=Andor_noble_sergeant}Andor Noble Heavy Infantry" occupation="Soldier" culture="Culture.empire">
@@ -3249,6 +3295,7 @@
         <equipment slot="Gloves" id="Item.AndorCommonBracers" />
         <equipment slot="Cape" id="Item.empire_plate_armor_shoulder_b" />
       </EquipmentRoster>
+      <EquipmentSet id="Andor_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Andor_heavyhorse" default_group="Cavalry" level="28" name="{=Andor_heavyhorse}Andor Noble Knight" upgrade_requires="ItemCategory.war_horse" occupation="Soldier" culture="Culture.empire">
@@ -3288,6 +3335,7 @@
         <equipment slot="Gloves" id="Item.AndorQueenguardglovesHeavy" />
         <equipment slot="Cape" id="Item.empire_plate_armor_shoulder_b" />
       </EquipmentRoster>
+      <EquipmentSet id="Andor_troop_civilian_template_t2" civilian="true" />
       <equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <equipment slot="HorseHarness" id="Item.Wot2024horsearmor2" />
     </Equipments>
@@ -3335,6 +3383,7 @@
         <equipment slot="Gloves" id="Item.AndorCommonBracers" />
         <equipment slot="Cape" id="Item.empire_plate_armor_shoulder_b" />
       </EquipmentRoster>
+      <EquipmentSet id="Andor_troop_civilian_template_t2" civilian="true" />
       <equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <equipment slot="HorseHarness" id="Item.Wot2024horsearmor5" />
     </Equipments>
@@ -3365,6 +3414,7 @@
         <equipment slot="Leg" id="Item.AndorQueenguardBootsHeavy" />
         <equipment slot="Gloves" id="Item.AndorQueenguardglovesHeavy" />
       </EquipmentRoster>
+      <EquipmentSet id="Andor_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Andor_queensguard_crossbowman" default_group="Ranged" level="21" name="{=Andor_queensguard_crossbowman}Andor Queensguard Crossbowman" occupation="Soldier" culture="Culture.empire">
@@ -3394,6 +3444,7 @@
         <equipment slot="Leg" id="Item.AndorQueenguardBootsHeavy" />
         <equipment slot="Gloves" id="Item.AndorQueenguardglovesHeavy" />
       </EquipmentRoster>
+      <EquipmentSet id="Andor_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Andor_queensguard_crossbowman2" default_group="Ranged" level="28" name="{=Andor_queensguard_crossbowman2}Andor Skilled Queensguard Crossbowman" occupation="Soldier" culture="Culture.empire">
@@ -3422,6 +3473,7 @@
         <equipment slot="Leg" id="Item.AndorQueenguardBootsHeavy" />
         <equipment slot="Gloves" id="Item.AndorQueenguardglovesHeavy" />
       </EquipmentRoster>
+      <EquipmentSet id="Andor_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Andor_queensguard_pikeman" default_group="Infantry" level="31" name="{=Andor_queensguard_pikeman}Queensguard Pikeman" occupation="Soldier" culture="Culture.empire">
@@ -3449,6 +3501,7 @@
         <equipment slot="Head" id="Item.Andornew2024helm1c" />
         <equipment slot="Cape" id="Item.AndorShoulders" />
       </EquipmentRoster>
+      <EquipmentSet id="Andor_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Andor_queensguard_Champ" default_group="Infantry" level="21" name="{=Andor_queensguard_Champ}Andor Queensguard Champion" occupation="Soldier" culture="Culture.empire">
@@ -3479,6 +3532,7 @@
         <equipment slot="Gloves" id="Item.AndorQueenguardglovesHeavy" />
         <equipment slot="Head" id="Item.Andornew2024helm1c" />
       </EquipmentRoster>
+      <EquipmentSet id="Andor_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Andor_queensguard_heavyinfantry" default_group="Infantry" level="28" name="{=Andor_queensguard_heavyinfantry}Andor Queensguard Heavy Infantry" occupation="Soldier" culture="Culture.empire">
@@ -3508,6 +3562,7 @@
         <equipment slot="Gloves" id="Item.AndorQueenguardglovesHeavy" />
         <equipment slot="Cape" id="Item.AndorShoulders" />
       </EquipmentRoster>
+      <EquipmentSet id="Andor_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Andor_queensguard_horse1" default_group="Cavalry" level="31" name="{=Andor_queensguard_horse1}Andor Queensguard Knight" upgrade_requires="ItemCategory.war_horse" occupation="Soldier" culture="Culture.empire">
@@ -3538,6 +3593,7 @@
         <equipment slot="Gloves" id="Item.AndorQueenguardglovesHeavy" />
         <equipment slot="Cape" id="Item.AndorShoulders" />
       </EquipmentRoster>
+      <EquipmentSet id="Andor_troop_civilian_template_t3" civilian="true" />
       <equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <equipment slot="HorseHarness" id="Item.Wot2024horsearmor2" />
     </Equipments>
@@ -3567,6 +3623,7 @@
         <equipment slot="Gloves" id="Item.AndorQueenguardglovesHeavy" />
         <equipment slot="Cape" id="Item.AndorShoulders" />
       </EquipmentRoster>
+      <EquipmentSet id="Andor_troop_civilian_template_t3" civilian="true" />
       <equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <equipment slot="HorseHarness" id="Item.Wot2024horsearmor5" />
     </Equipments>
@@ -3598,6 +3655,7 @@
         <equipment slot="Leg" id="Item.sturgia_boots_a" />
         <equipment slot="Gloves" id="Item.woven_leather_bracers" />
       </EquipmentRoster>
+      <EquipmentSet id="Andor_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Araddoman_archer" default_group="Ranged" level="11" name="{=Araddoman_archer}Arad Doman Levy Archer" occupation="Soldier" culture="Culture.empire">
@@ -3627,6 +3685,7 @@
         <equipment slot="Leg" id="Item.sturgia_boots_a" />
         <equipment slot="Gloves" id="Item.woven_leather_bracers" />
       </EquipmentRoster>
+      <EquipmentSet id="Andor_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Araddoman_archer2" default_group="Ranged" level="16" name="{=Araddoman_archer2}Arad Doman Levy Veteran Archer" occupation="Soldier" culture="Culture.empire">
@@ -3694,6 +3753,7 @@
         <equipment slot="Gloves" id="Item.padded_mitten" />
         <equipment slot="Cape" id="Item.wolf_shoulder" />
       </EquipmentRoster>
+      <EquipmentSet id="Andor_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Araddoman_dualist2" default_group="Infantry" level="16" name="{=Araddoman_dualist2}Arad Doman Guildman Dualist" occupation="Soldier" culture="Culture.vlandia">
@@ -3724,6 +3784,7 @@
         <equipment slot="Gloves" id="Item.padded_mitten" />
         <equipment slot="Cape" id="Item.a_khuzait_leather_shoulder_b_b" />
       </EquipmentRoster>
+      <EquipmentSet id="Andor_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Araddoman_dualist3" default_group="Infantry" level="26" name="{=Araddoman_dualist3}Arad Doman Guildman Swordmaster" occupation="Soldier" culture="Culture.vlandia">
@@ -3751,6 +3812,7 @@
         <equipment slot="Gloves" id="Item.padded_mitten" />
         <equipment slot="Cape" id="Item.eastern_studded_shoulders" />
       </EquipmentRoster>
+      <EquipmentSet id="Andor_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Araddoman_horse1" default_group="Cavalry" level="16" name="{=Araddoman_horse1}Arad Doman Levy Horseman" occupation="Soldier" upgrade_requires="ItemCategory.horse" culture="Culture.vlandia">
@@ -3779,6 +3841,7 @@
         <equipment slot="Gloves" id="Item.woven_leather_bracers" />
         <equipment slot="Cape" id="Item.battanian_chainmail_shoulder_b" />
       </EquipmentRoster>
+      <EquipmentSet id="Andor_troop_civilian_template_t3" civilian="true" />
       <equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <equipment slot="HorseHarness" id="Item.battania_horse_harness" />
     </Equipments>
@@ -3808,6 +3871,7 @@
         <equipment slot="Gloves" id="Item.padded_mitten" />
         <equipment slot="Cape" id="Item.eastern_studded_shoulders" />
       </EquipmentRoster>
+      <EquipmentSet id="Andor_troop_civilian_template_t3" civilian="true" />
       <equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <equipment slot="HorseHarness" id="Item.battania_horse_harness_halfscaled" />
     </Equipments>
@@ -3841,6 +3905,7 @@
         <equipment slot="Leg" id="Item.ArafelBoots1" />
         <equipment slot="Gloves" id="Item.ArafelGloves1" />
       </EquipmentRoster>
+      <EquipmentSet id="Arafel_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Arafel_archer" default_group="Ranged" level="11" name="{=Arafel_archer}Arafel Archer" occupation="Soldier" culture="Culture.Arafel">
@@ -3872,6 +3937,7 @@
         <equipment slot="Leg" id="Item.ArafelBoots1" />
         <equipment slot="Gloves" id="Item.ArafelGloves1" />
       </EquipmentRoster>
+      <EquipmentSet id="Arafel_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Arafel_archer2" default_group="Ranged" level="16" name="{=Arafel_archer2}Arafel Expert Archer" occupation="Soldier" culture="Culture.Arafel">
@@ -3904,7 +3970,7 @@
         <equipment slot="Gloves" id="Item.Miscwotheadnew2lightc" />
         <equipment slot="Cape" id="Item.mail_shoulders" />
       </EquipmentRoster>
-      <EquipmentSet id="empire_troop_civilian_template_t1" civilian="true" />
+      <EquipmentSet id="Arafel_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Arafel_archer3" default_group="Ranged" level="21" name="{=Arafel_archer2}Arafel Master Archer" occupation="Soldier" culture="Culture.Arafel">
@@ -3935,7 +4001,7 @@
         <equipment slot="Gloves" id="Item.Miscwotheadnew2lightc" />
         <equipment slot="Cape" id="Item.mail_shoulders" />
       </EquipmentRoster>
-      <EquipmentSet id="empire_troop_civilian_template_t1" civilian="true" />
+      <EquipmentSet id="Arafel_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Arafel_dualist" default_group="Infantry" level="11" name="{=Arafel_dualist}Arafel Skirmisher" occupation="Soldier" culture="Culture.Arafel">
@@ -3968,6 +4034,7 @@
         <equipment slot="Gloves" id="Item.Miscwotheadnew2heavy2b" />
         <equipment slot="Cape" id="Item.mail_shoulders" />
       </EquipmentRoster>
+      <EquipmentSet id="Arafel_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Arafel_dualist2" default_group="Infantry" level="21" name="{=Arafel_dualist2}Arafel Borderguard" occupation="Soldier" culture="Culture.Arafel">
@@ -3999,6 +4066,7 @@
         <equipment slot="Gloves" id="Item.Miscwotheadnew2heavy2b" />
         <equipment slot="Cape" id="Item.mail_shoulders" />
       </EquipmentRoster>
+      <EquipmentSet id="Arafel_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Arafel_dualist3" default_group="Infantry" level="40" name="{=Arafel_dualist3}Arafel Heron Marked Blademaster" occupation="Soldier" culture="Culture.Arafel">
@@ -4028,6 +4096,7 @@
         <equipment slot="Gloves" id="Item.Miscwotheadnew2heavy2c" />
         <equipment slot="Cape" id="Item.Arafelmail_shoulders" />
       </EquipmentRoster>
+      <EquipmentSet id="Arafel_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Arafel_horse1" default_group="Cavalry" level="16" name="{=Arafel_horse1}Arafel Scout" occupation="Soldier" upgrade_requires="ItemCategory.horse" culture="Culture.Arafel">
@@ -4059,6 +4128,7 @@
         <equipment slot="Gloves" id="Item.Miscwotheadnew2heavy2b" />
         <equipment slot="Cape" id="Item.mail_shoulders" />
       </EquipmentRoster>
+      <EquipmentSet id="Arafel_troop_civilian_template_t1" civilian="true" />
       <equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <equipment slot="HorseHarness" id="Item.Wot2024horsearmor14" />
     </Equipments>
@@ -4089,6 +4159,7 @@
         <equipment slot="Gloves" id="Item.Miscwotheadnew2heavy2c" />
         <equipment slot="Cape" id="Item.Arafelmail_shoulders" />
       </EquipmentRoster>
+      <EquipmentSet id="Arafel_troop_civilian_template_t1" civilian="true" />
       <equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <equipment slot="HorseHarness" id="Item.Wot2024horsearmor15" />
     </Equipments>
@@ -4121,6 +4192,7 @@
         <equipment slot="Gloves" id="Item.studded_vambraces" />
         <equipment slot="Cape" id="Item.desert_leather_shoulderpad" />
       </EquipmentRoster>
+      <EquipmentSet id="Cairhien_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Cairhien_common_manatarms" default_group="Infantry" level="11" name="{=Cairhien_common_manatarms}Cairhien Commoner Man at Arms" occupation="Soldier" culture="Culture.Cairhien">
@@ -4167,6 +4239,7 @@
         <equipment slot="Gloves" id="Item.studded_vambraces" />
         <equipment slot="Cape" id="Item.battanian_chainmail_shoulder_a" />
       </EquipmentRoster>
+      <EquipmentSet id="Cairhien_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Cairhien_crossbowman" default_group="Ranged" level="16" name="{=Cairhien_crossbowman}Cairhien Commoner Crossbowman" occupation="Soldier" culture="Culture.Cairhien">
@@ -4197,6 +4270,7 @@
         <equipment slot="Gloves" id="Item.studded_vambraces" />
         <equipment slot="Cape" id="Item.desert_leather_shoulderpad" />
       </EquipmentRoster>
+      <EquipmentSet id="Cairhien_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Cairhien_crossbowman2" default_group="Ranged" level="21" name="{=Cairhien_crossbowman2}Cairhien Trained Commoner Crossbowman" occupation="Soldier" culture="Culture.Cairhien">
@@ -4245,6 +4319,7 @@
         <equipment slot="Gloves" id="Item.guarded_padded_vambrace" />
         <equipment slot="Cape" id="Item.battanian_chainmail_shoulder_a" />
       </EquipmentRoster>
+      <EquipmentSet id="Cairhien_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Cairhien_common_maceman" default_group="Infantry" level="16" name="{=Cairhien_common_maceman}Cairhien Commoner Regular" occupation="Soldier" culture="Culture.Cairhien">
@@ -4302,6 +4377,7 @@
         <equipment slot="Gloves" id="Item.guarded_padded_vambrace" />
         <equipment slot="Cape" id="Item.battanian_chainmail_shoulder_a" />
       </EquipmentRoster>
+      <EquipmentSet id="Cairhien_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Cairhien_common_cleaver" default_group="Infantry" level="21" name="{=Cairhien_common_cleaver}Cairhien Commoner Heavy Infantry" occupation="Soldier" culture="Culture.Cairhien">
@@ -4357,6 +4433,7 @@
         <equipment slot="Gloves" id="Item.lordly_padded_mitten" />
         <equipment slot="Cape" id="Item.battanian_chainmail_shoulder_a" />
       </EquipmentRoster>
+      <EquipmentSet id="Cairhien_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Cairhien_noble_infantry" default_group="Infantry" level="16" name="{=Cairhien_noble_infantry}Cairhien Noble Squire" occupation="Soldier" culture="Culture.Cairhien">
@@ -4388,6 +4465,7 @@
         <equipment slot="Gloves" id="Item.plated_strip_gauntlets" />
         <equipment slot="Cape" id="Item.battanian_chainmail_shoulder_b" />
       </EquipmentRoster>
+      <EquipmentSet id="Cairhien_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Cairhien_crossbowmannoble" default_group="Ranged" level="21" name="{=Cairhien_crossbowmannoble}Cairhien Noble Crossbowman" occupation="Soldier" culture="Culture.Cairhien">
@@ -4420,6 +4498,7 @@
         <equipment slot="Gloves" id="Item.plated_strip_gauntlets" />
         <equipment slot="Cape" id="Item.battanian_chainmail_shoulder_b" />
       </EquipmentRoster>
+      <EquipmentSet id="Cairhien_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Cairhien_crossbowman2noble" default_group="Ranged" level="26" name="{=Cairhien_crossbowman2noble}Cairhien Trained Noble Crossbowman" occupation="Soldier" culture="Culture.Cairhien">
@@ -4450,6 +4529,7 @@
         <equipment slot="Gloves" id="Item.plated_strip_gauntlets" />
         <equipment slot="Cape" id="Item.battanian_chainmail_shoulder_b" />
       </EquipmentRoster>
+      <EquipmentSet id="Cairhien_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Cairhien_noble_sergeant" default_group="Infantry" level="21" name="{=Cairhien_noble_sergeant}Cairhien Noble Soldier" occupation="Soldier" culture="Culture.Cairhien">
@@ -4490,6 +4570,7 @@
         <equipment slot="Gloves" id="Item.CairhienGloves1" />
         <equipment slot="Cape" id="Item.battanian_chainmail_shoulder_b" />
       </EquipmentRoster>
+      <EquipmentSet id="Cairhien_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Cairhien_noble_sergeant2" default_group="Infantry" level="28" name="{=Cairhien_noble_sergeant2}Cairhien Noble Officer" occupation="Soldier" culture="Culture.Cairhien">
@@ -4518,6 +4599,7 @@
         <equipment slot="Gloves" id="Item.CairhienGloves1" />
         <equipment slot="Cape" id="Item.pauldron_cape_a" />
       </EquipmentRoster>
+      <EquipmentSet id="Cairhien_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Cairhien_heavyhorse" default_group="Cavalry" level="28" name="{=Cairhien_heavyhorse}Cairhien Noble Cavalier" upgrade_requires="ItemCategory.war_horse" occupation="Soldier" culture="Culture.Cairhien">
@@ -4549,6 +4631,7 @@
         <equipment slot="Gloves" id="Item.CairhienGloves1" />
         <equipment slot="Cape" id="Item.a_pauldron_cape_c" />
       </EquipmentRoster>
+      <EquipmentSet id="Cairhien_troop_civilian_template_t2" civilian="true" />
       <equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <equipment slot="HorseHarness" id="Item.Wot2024horsearmor6" />
     </Equipments>
@@ -4579,6 +4662,7 @@
         <equipment slot="Gloves" id="Item.CairhienGloves1" />
         <equipment slot="Cape" id="Item.a_pauldron_cape_b" />
       </EquipmentRoster>
+      <EquipmentSet id="Cairhien_troop_civilian_template_t2" civilian="true" />
       <equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <equipment slot="HorseHarness" id="Item.Wot2024horsearmor8" />
     </Equipments>
@@ -4610,6 +4694,7 @@
         <equipment slot="Leg" id="Item.sturgia_boots_a" />
         <equipment slot="Gloves" id="Item.rough_tied_bracers" />
       </EquipmentRoster>
+      <EquipmentSet id="FarMadding_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="FarMadding_noble_infantryEnlisted" default_group="Infantry" level="16" name="{=FarMadding_noble_infantryEnlisted}Far Madding Enlisted" occupation="Soldier" culture="Culture.FarMadding">
@@ -4640,6 +4725,7 @@
         <equipment slot="Gloves" id="Item.rough_tied_bracers" />
         <equipment slot="Cape" id="Item.battanian_leather_shoulder_a" />
       </EquipmentRoster>
+      <EquipmentSet id="FarMadding_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="FarMadding_crossbowmannoble" default_group="Ranged" level="21" name="{=FarMadding_crossbowmannoble}Far Madding Crossbowman" occupation="Soldier" culture="Culture.FarMadding">
@@ -4671,6 +4757,7 @@
         <equipment slot="Gloves" id="Item.rough_tied_bracers" />
         <equipment slot="Cape" id="Item.battanian_leather_shoulder_a" />
       </EquipmentRoster>
+      <EquipmentSet id="FarMadding_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="FarMadding_crossbowman2noble" default_group="Ranged" level="26" name="{=FarMadding_crossbowman2noble}Far Madding City Watchman" occupation="Soldier" culture="Culture.FarMadding">
@@ -4700,6 +4787,7 @@
         <equipment slot="Gloves" id="Item.rough_tied_bracers" />
         <equipment slot="Cape" id="Item.battanian_leather_shoulder_a" />
       </EquipmentRoster>
+      <EquipmentSet id="FarMadding_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="FarMaddingcommonerarcher" default_group="Ranged" level="21" name="{=FarMaddingcommonerarcher}Far Madding Archer" occupation="Soldier" culture="Culture.FarMadding">
@@ -4790,6 +4878,7 @@
         <equipment slot="Gloves" id="Item.padded_mitten" />
         <equipment slot="Cape" id="Item.a_pauldron_cape_c" />
       </EquipmentRoster>
+      <EquipmentSet id="FarMadding_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="FarMadding_noble_sergeant2" default_group="Infantry" level="28" name="{=FarMadding_noble_sergeant2}Far Madding City Warden" occupation="Soldier" culture="Culture.FarMadding">
@@ -4819,6 +4908,7 @@
         <equipment slot="Gloves" id="Item.reinforced_padded_mitten" />
         <equipment slot="Cape" id="Item.a_pauldron_cape_b" />
       </EquipmentRoster>
+      <EquipmentSet id="FarMadding_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="FarMadding_noble_sergeantheavy" default_group="Infantry" level="31" name="{=FarMadding_noble_sergeantheavy}Far Madding City Guardian" occupation="Soldier" culture="Culture.FarMadding">
@@ -4846,6 +4936,7 @@
         <equipment slot="Gloves" id="Item.lordly_padded_mitten" />
         <equipment slot="Cape" id="Item.a_pauldron_cape_b" />
       </EquipmentRoster>
+      <EquipmentSet id="FarMadding_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <!--The Ghealdan forces-->
@@ -4879,6 +4970,7 @@
         <equipment slot="Gloves" id="Item.highland_gloves" />
         <equipment slot="Cape" id="Item.hood" />
       </EquipmentRoster>
+      <EquipmentSet id="vlandia_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="GhealdanLegion_pikeman" default_group="Ranged" level="26" name="{=GhealdanLegion_pikeman}Ghealdan Legion of the Wall Legionnaire" occupation="Soldier" culture="Culture.Ghealdan">
@@ -4911,6 +5003,7 @@
         <equipment slot="Gloves" id="Item.rough_tied_bracers" />
         <equipment slot="Cape" id="Item.a_battania_cloak_a" />
       </EquipmentRoster>
+      <EquipmentSet id="vlandia_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="GhealdanLegion_legionnaire" default_group="Ranged" level="31" name="{=GhealdanLegion_legionnaire}Ghealdan Legion of the Wall Protector" occupation="Soldier" culture="Culture.Ghealdan">
@@ -4941,6 +5034,7 @@
         <equipment slot="Gloves" id="Item.rough_tied_bracers" />
         <equipment slot="Cape" id="Item.Ghealdenheavy2024newshoulder1" />
       </EquipmentRoster>
+      <EquipmentSet id="vlandia_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="GhealdanLegion_Champ" default_group="Infantry" level="26" name="{=GhealdanLegion_Champ}Ghealdan Legion of the Wall Serviceman" occupation="Soldier" culture="Culture.Ghealdan">
@@ -4973,6 +5067,7 @@
         <equipment slot="Gloves" id="Item.rough_tied_bracers" />
         <equipment slot="Cape" id="Item.a_battania_cloak_a" />
       </EquipmentRoster>
+      <EquipmentSet id="vlandia_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="GhealdanLegion_centurion" default_group="Infantry" level="31" name="{=GhealdanLegion_centurion}Ghealdan Legion of the Wall Centurion" occupation="Soldier" culture="Culture.Ghealdan">
@@ -5003,6 +5098,7 @@
         <equipment slot="Gloves" id="Item.CairhienGloves1" />
         <equipment slot="Cape" id="Item.Ghealdenheavy2024newshoulder1" />
       </EquipmentRoster>
+      <EquipmentSet id="vlandia_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Ghealdanlevy_infantry" default_group="Infantry" level="6" name="{=Ghealdanlevy_infantry}Ghealdan Levy Conscript" occupation="Soldier" is_basic_troop="true" culture="Culture.Ghealdan">
@@ -5029,6 +5125,7 @@
         <equipment slot="Body" id="Item.highland_cloth" />
         <equipment slot="Leg" id="Item.wrapped_shoes" />
       </EquipmentRoster>
+      <EquipmentSet id="vlandia_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Ghealdanlevy_Enlisted" default_group="Infantry" level="11" name="{=Ghealdanlevy_Enlisted}Ghealdan Levy Scrapper" occupation="Soldier" culture="Culture.Ghealdan">
@@ -5058,6 +5155,7 @@
         <equipment slot="Leg" id="Item.wrapped_shoes" />
         <equipment slot="Cape" id="Item.desert_fabric_shoulderpad" />
       </EquipmentRoster>
+      <EquipmentSet id="vlandia_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Ghealdanlevy_crossbow" default_group="Ranged" level="16" name="{=Ghealdanlevy_crossbow}Ghealdan Levy Crossbowman" occupation="Soldier" culture="Culture.Ghealdan">
@@ -5085,6 +5183,7 @@
         <equipment slot="Leg" id="Item.wrapped_shoes" />
         <equipment slot="Cape" id="Item.desert_fabric_shoulderpad" />
       </EquipmentRoster>
+      <EquipmentSet id="vlandia_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Ghealdanlevy_archer" default_group="Ranged" level="16" name="{=Ghealdanlevy_archer}Ghealdan Levy Archer" occupation="Soldier" culture="Culture.Ghealdan">
@@ -5113,7 +5212,7 @@
         <equipment slot="Gloves" id="Item.rough_tied_bracers" />
         <equipment slot="Cape" id="Item.desert_fabric_shoulderpad" />
       </EquipmentRoster>
-      <EquipmentSet id="empire_troop_civilian_template_t1" civilian="true" />
+      <EquipmentSet id="vlandia_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Ghealdanlevy_axeman" default_group="Infantry" level="16" name="{=Ghealdanlevy_axeman}Ghealdan Levy Axeman" occupation="Soldier" culture="Culture.Ghealdan">
@@ -5145,6 +5244,7 @@
         <equipment slot="Gloves" id="Item.rough_tied_bracers" />
         <equipment slot="Cape" id="Item.mail_shoulders" />
       </EquipmentRoster>
+      <EquipmentSet id="vlandia_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Ghealdanlevy_twoaxe" default_group="Infantry" level="21" name="{=Ghealdanlevy_twoaxe}Ghealdan Levy Butcher" occupation="Soldier" culture="Culture.Ghealdan">
@@ -5172,6 +5272,7 @@
         <equipment slot="Gloves" id="Item.rough_tied_bracers" />
         <equipment slot="Cape" id="Item.mail_shoulders" />
       </EquipmentRoster>
+      <EquipmentSet id="vlandia_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Ghealdanlevy_horse1" default_group="Cavalry" level="21" name="{=Ghealdanlevy_horse1}Ghealdan Levy Scout" occupation="Soldier" upgrade_requires="ItemCategory.horse" culture="Culture.Ghealdan">
@@ -5202,6 +5303,7 @@
         <equipment slot="Gloves" id="Item.rough_tied_bracers" />
         <equipment slot="Cape" id="Item.mail_shoulders" />
       </EquipmentRoster>
+      <EquipmentSet id="vlandia_troop_civilian_template_t1" civilian="true" />
       <equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <equipment slot="HorseHarness" id="Item.battania_horse_harness" />
     </Equipments>
@@ -5233,6 +5335,7 @@
         <equipment slot="Gloves" id="Item.rough_tied_bracers" />
         <equipment slot="Cape" id="Item.mail_shoulders" />
       </EquipmentRoster>
+      <EquipmentSet id="vlandia_troop_civilian_template_t1" civilian="true" />
       <equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <equipment slot="HorseHarness" id="Item.battania_horse_harness" />
     </Equipments>
@@ -5266,6 +5369,7 @@
         <equipment slot="Leg" id="Item.empire_horseman_boots" />
         <equipment slot="Gloves" id="Item.buttoned_leather_bracers" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Illian_footman" default_group="Infantry" level="16" name="{=Illian_footman}Illian Footman" occupation="Soldier" culture="Culture.aserai">
@@ -5297,6 +5401,7 @@
         <equipment slot="Gloves" id="Item.buttoned_leather_bracers" />
         <equipment slot="Cape" id="Item.reinforced_suede_shoulders" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Illian_crossbowman" default_group="Ranged" level="16" name="{=Illian_crossbowman}Illian Crossbowman" occupation="Soldier" culture="Culture.aserai">
@@ -5329,6 +5434,7 @@
         <equipment slot="Gloves" id="Item.buttoned_leather_bracers" />
         <equipment slot="Cape" id="Item.reinforced_suede_shoulders" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Illian_crossbowman2" default_group="Ranged" level="24" name="{=Illian_crossbowman2}Illian Expert Crossbowman" occupation="Soldier" culture="Culture.aserai">
@@ -5359,6 +5465,7 @@
         <equipment slot="Gloves" id="Item.battania_noble_bracers" />
         <equipment slot="Cape" id="Item.empire_warrior_padded_armor_shoulder" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Illian_spearman" default_group="Infantry" level="21" name="{=Illian_spearman}Illian Spearman" occupation="Soldier" culture="Culture.aserai">
@@ -5390,6 +5497,7 @@
         <equipment slot="Gloves" id="Item.battania_noble_bracers" />
         <equipment slot="Cape" id="Item.empire_warrior_padded_armor_shoulder" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Illian_spearmanheavy" default_group="Infantry" level="28" name="{=Illian_spearmanheavy}Illian Heavy Spearman" occupation="Soldier" culture="Culture.aserai">
@@ -5418,6 +5526,7 @@
         <equipment slot="Gloves" id="Item.northern_brass_bracers" />
         <equipment slot="Cape" id="Item.hood" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Illian_pikeman" default_group="Infantry" level="28" name="{=Illian_pikeman}Illian Pikeman" occupation="Soldier" culture="Culture.aserai">
@@ -5445,6 +5554,7 @@
         <equipment slot="Gloves" id="Item.decorated_imperial_gauntlets" />
         <equipment slot="Cape" id="Item.IllianerShoulders" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Illian_sergeant" default_group="Infantry" level="24" name="{=Illian_sergeant}Illian Swordsman" occupation="Soldier" culture="Culture.aserai">
@@ -5476,6 +5586,7 @@
         <equipment slot="Gloves" id="Item.battania_noble_bracers" />
         <equipment slot="Cape" id="Item.imperial_studded_strip_shoulders" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Illian_sergeant2" default_group="Infantry" level="28" name="{=Illian_sergeant2}Illian Gladiator" occupation="Soldier" culture="Culture.aserai">
@@ -5504,6 +5615,7 @@
         <equipment slot="Gloves" id="Item.decorated_imperial_gauntlets" />
         <equipment slot="Cape" id="Item.IllianerShoulders" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Illian_sheavyhorse" default_group="Cavalry" level="26" name="{=Illian_sheavyhorse}Illian Equestrian" upgrade_requires="ItemCategory.horse" occupation="Soldier" culture="Culture.aserai">
@@ -5535,6 +5647,7 @@
         <equipment slot="Gloves" id="Item.battania_noble_bracers" />
         <equipment slot="Cape" id="Item.imperial_studded_strip_shoulders" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t2" civilian="true" />
       <equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <equipment slot="HorseHarness" id="Item.Wot2024horsearmor13" />
     </Equipments>
@@ -5568,6 +5681,7 @@
         <equipment slot="Gloves" id="Item.decorated_imperial_gauntlets" />
         <equipment slot="Cape" id="Item.IllianerShoulders" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t2" civilian="true" />
       <equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <equipment slot="HorseHarness" id="Item.Wot2024horsearmor13" />
     </Equipments>
@@ -5598,6 +5712,7 @@
         <equipment slot="Gloves" id="Item.decorated_imperial_gauntlets" />
         <equipment slot="Cape" id="Item.IllianerShoulders" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t2" civilian="true" />
       <equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <equipment slot="HorseHarness" id="Item.Wot2024horsearmor3" />
     </Equipments>
@@ -5631,6 +5746,7 @@
         <equipment slot="Gloves" id="Item.Illiancompanionglovesset2type1" />
         <equipment slot="Cape" id="Item.illiacompanionshouldersset1type1" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t3" civilian="true" />
       <equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <equipment slot="HorseHarness" id="Item.Wot2024horsearmor13" />
     </Equipments>
@@ -5664,6 +5780,7 @@
         <equipment slot="Gloves" id="Item.Illiancompanionglovesset2type1" />
         <equipment slot="Cape" id="Item.illiacompanionshouldersset1type1" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t3" civilian="true" />
       <equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <equipment slot="HorseHarness" id="Item.Wot2024horsearmor13" />
     </Equipments>
@@ -5697,6 +5814,7 @@
         <equipment slot="Gloves" id="Item.Illiancompanionglovesset2type1" />
         <equipment slot="Cape" id="Item.illiacompanionshouldersset1type1" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t3" civilian="true" />
       <equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <equipment slot="HorseHarness" id="Item.Wot2024horsearmor3" />
     </Equipments>
@@ -5728,6 +5846,7 @@
         <equipment slot="Gloves" id="Item.Illiancompaniongloveroyal1" />
         <equipment slot="Cape" id="Item.illiacompanionshoulderroyal" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t3" civilian="true" />
       <equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <equipment slot="HorseHarness" id="Item.Wot2024horsearmor3" />
     </Equipments>
@@ -5768,6 +5887,7 @@
         <equipment slot="Leg" id="Item.battania_leather_boots" />
         <equipment slot="Gloves" id="Item.Miscwotheadnew2lightd" />
       </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Kandor_footman" default_group="Infantry" level="16" name="{=Kandor_footman}Kandor Footman" occupation="Soldier" culture="Culture.Kandor">
@@ -5800,6 +5920,7 @@
         <equipment slot="Gloves" id="Item.Miscwotheadnew2lightd" />
         <equipment slot="Cape" id="Item.bolted_leather_strips" />
       </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Kandor_archer" default_group="Ranged" level="21" name="{=Kandor_archer}Kandor Borderwatch" occupation="Soldier" culture="Culture.Kandor">
@@ -5832,6 +5953,7 @@
         <equipment slot="Gloves" id="Item.wotmiscpurgloves1" />
         <equipment slot="Cape" id="Item.bolted_leather_strips" />
       </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Kandor_archer2" default_group="Ranged" level="28" name="{=Kandor_archer2}Kandor Eagle Eye" occupation="Soldier" culture="Culture.Kandor">
@@ -5862,6 +5984,7 @@
         <equipment slot="Gloves" id="Item.wotmiscpurgloves1" />
         <equipment slot="Cape" id="Item.bolted_leather_strips" />
       </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Kandor_spearman" default_group="Infantry" level="21" name="{=Kandor_spearman}Kandor Infantryman" occupation="Soldier" culture="Culture.Kandor">
@@ -5893,6 +6016,7 @@
         <equipment slot="Gloves" id="Item.wotmiscpurgloves1" />
         <equipment slot="Cape" id="Item.a_leather_lamellar_armor_shoulder_a" />
       </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Kandor_spearmanheavy" default_group="Infantry" level="26" name="{=Kandor_spearmanheavy}Kandor Heavy Infantryman" occupation="Soldier" culture="Culture.Kandor">
@@ -5926,6 +6050,7 @@
         <equipment slot="Gloves" id="Item.wotmiscpurgloves2" />
         <equipment slot="Cape" id="Item.leather_lamellar_shoulders" />
       </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Kandor_twosword" default_group="Infantry" level="31" name="{=Kandor_twosword}Kandor Cleaver" occupation="Soldier" culture="Culture.Kandor">
@@ -5956,6 +6081,7 @@
         <equipment slot="Gloves" id="Item.wotmiscpurgloves2" />
         <equipment slot="Cape" id="Item.a_leather_lamellar_armor_shoulder_a" />
       </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Kandor_sergeant" default_group="Infantry" level="21" name="{=Kandor_sergeant}Kandor Stoic Warrior" occupation="Soldier" culture="Culture.Kandor">
@@ -5986,6 +6112,7 @@
         <equipment slot="Gloves" id="Item.wotmiscpurgloves2" />
         <equipment slot="Cape" id="Item.a_pauldron_cape_c" />
       </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Kandor_sergeant2" default_group="Infantry" level="26" name="{=Kandor_sergeant2}Kandor Chivalrous Hero" occupation="Soldier" culture="Culture.Kandor">
@@ -6017,6 +6144,7 @@
         <equipment slot="Gloves" id="Item.wotmiscpurgloves2" />
         <equipment slot="Cape" id="Item.a_pauldron_cape_c" />
       </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Kandor_sergeant3" default_group="Infantry" level="31" name="{=Kandor_sergeant3}Kandor Shadowslayer" occupation="Soldier" culture="Culture.Kandor">
@@ -6045,6 +6173,7 @@
         <equipment slot="Gloves" id="Item.wotmiscpurgloves2" />
         <equipment slot="Cape" id="Item.a_pauldron_cape_c" />
       </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Kandor_sheavyhorse" default_group="Cavalry" level="31" name="{=Kandor_sheavyhorse}Kandor Raider" upgrade_requires="ItemCategory.horse" occupation="Soldier" culture="Culture.Kandor">
@@ -6075,6 +6204,7 @@
         <equipment slot="Gloves" id="Item.wotmiscpurgloves2" />
         <equipment slot="Cape" id="Item.leather_lamellar_shoulders" />
       </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t3" civilian="true" />
       <equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <equipment slot="HorseHarness" id="Item.wothorseset5multi7" />
     </Equipments>
@@ -6105,6 +6235,7 @@
         <equipment slot="Gloves" id="Item.wotmiscpurgloves2" />
         <equipment slot="Cape" id="Item.a_pauldron_cape_c" />
       </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t3" civilian="true" />
       <equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <equipment slot="HorseHarness" id="Item.wothorseset5multi3" />
     </Equipments>
@@ -6131,6 +6262,12 @@
     </upgrade_targets>
     <Equipments>
       <EquipmentRoster>
+        <equipment slot="Item0" id="Item.peasant_hatchet_1_t1" />
+        <equipment slot="Body" id="Item.WOTlevyarmor4" />
+        <equipment slot="Leg" id="Item.battania_leather_boots" />
+        <equipment slot="Gloves" id="Item.armwraps" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
         <equipment slot="Item0" id="Item.peasant_hatchet_1_t1" />
         <equipment slot="Body" id="Item.WOTlevyarmor4" />
         <equipment slot="Leg" id="Item.battania_leather_boots" />
@@ -6166,6 +6303,7 @@
         <equipment slot="Leg" id="Item.battania_leather_boots" />
         <equipment slot="Gloves" id="Item.armwraps" />
       </EquipmentRoster>
+      <EquipmentSet id="battania_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Murandyerarcher" default_group="Ranged" level="11" name="{=Murandyerarcher}Murandy Hunter" occupation="Soldier" culture="Culture.Murandy">
@@ -6188,6 +6326,14 @@
     </upgrade_targets>
     <Equipments>
       <EquipmentRoster>
+        <equipment slot="Item0" id="Item.hunting_bow" />
+        <equipment slot="Item1" id="Item.arrow_emp_1_a" />
+        <equipment slot="Item2" id="Item.peasant_hatchet_1_t1" />
+        <equipment slot="Body" id="Item.WOTlevyarmor4b" />
+        <equipment slot="Leg" id="Item.battania_leather_boots" />
+        <equipment slot="Gloves" id="Item.armwraps" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
         <equipment slot="Item0" id="Item.hunting_bow" />
         <equipment slot="Item1" id="Item.arrow_emp_1_a" />
         <equipment slot="Item2" id="Item.peasant_hatchet_1_t1" />
@@ -6235,6 +6381,7 @@
         <equipment slot="Leg" id="Item.battania_leather_boots" />
         <equipment slot="Gloves" id="Item.armwraps" />
       </EquipmentRoster>
+      <EquipmentSet id="battania_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Murandyrchermark" default_group="Ranged" level="16" name="{=Murandyrchermark}Murandy Bowman" occupation="Soldier" culture="Culture.Murandy">
@@ -6302,6 +6449,7 @@
         <equipment slot="Leg" id="Item.battania_woodland_boots" />
         <equipment slot="Gloves" id="Item.guarded_armwraps" />
       </EquipmentRoster>
+      <EquipmentSet id="battania_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="MurandyRegular" default_group="Infantry" level="11" name="{=MurandyRegular}Murandy Musterman" occupation="Soldier" culture="Culture.Murandy">
@@ -6360,6 +6508,7 @@
         <equipment slot="Leg" id="Item.battania_woodland_boots" />
         <equipment slot="Gloves" id="Item.guarded_armwraps" />
       </EquipmentRoster>
+      <EquipmentSet id="battania_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="MurandyFile" default_group="Infantry" level="16" name="{=MurandyFile}Murandy Brute" occupation="Soldier" culture="Culture.Murandy">
@@ -6429,6 +6578,7 @@
         <equipment slot="Leg" id="Item.battania_woodland_boots" />
         <equipment slot="Gloves" id="Item.guarded_armwraps" />
       </EquipmentRoster>
+      <EquipmentSet id="battania_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="MurandySquad" default_group="Infantry" level="21" name="{=MurandySquad}Murandy Militant" occupation="Soldier" culture="Culture.Murandy">
@@ -6496,6 +6646,7 @@
         <equipment slot="Leg" id="Item.highland_leg_wrappings" />
         <equipment slot="Gloves" id="Item.battania_noble_bracers" />
       </EquipmentRoster>
+      <EquipmentSet id="battania_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="MurandyFilemanmounted" default_group="Cavalry" level="16" name="{=MurandyFilemanmounted}Murandy Rider" occupation="Soldier" upgrade_requires="ItemCategory.horse" culture="Culture.Murandy">
@@ -6583,6 +6734,7 @@
         <equipment slot="Horse" id="Item.empire_horse" />
         <equipment slot="HorseHarness" id="Item.battania_horse_harness" />
       </EquipmentRoster>
+      <EquipmentSet id="battania_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Murandysquadmanmounted" default_group="Cavalry" level="21" name="{=Murandysquadmanmounted}Murandy Heavy Rider" occupation="Soldier" culture="Culture.Murandy">
@@ -6668,6 +6820,7 @@
         <equipment slot="Horse" id="Item.empire_horse" />
         <equipment slot="HorseHarness" id="Item.battania_horse_harness" />
       </EquipmentRoster>
+      <EquipmentSet id="battania_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <!--The Saldea forces-->
@@ -6698,6 +6851,7 @@
         <equipment slot="Gloves" id="Item.battania_noble_bracers" />
         <equipment slot="Cape" id="Item.battania_civil_cloak" />
       </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Saldea_archer2" default_group="Ranged" level="18" name="{=Saldea_archer2}Saldea Archer" occupation="Soldier" culture="Culture.battania">
@@ -6729,6 +6883,7 @@
         <equipment slot="Gloves" id="Item.battania_noble_bracers" />
         <equipment slot="Cape" id="Item.battania_scarf_a" />
       </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Saldea_footman" default_group="Infantry" level="16" name="{=Saldea_footman}Saldea Footsoldier" occupation="Soldier" culture="Culture.battania">
@@ -6759,6 +6914,7 @@
         <equipment slot="Gloves" id="Item.battania_noble_bracers" />
         <equipment slot="Cape" id="Item.battania_scarf_a" />
       </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Saldea_horse_archer" default_group="HorseArcher" level="21" name="{=Saldea_horse_archer}Saldea Horse Archer" upgrade_requires="ItemCategory.horse" occupation="Soldier" culture="Culture.battania">
@@ -6790,6 +6946,7 @@
         <equipment slot="Gloves" id="Item.battania_noble_bracers" />
         <equipment slot="Cape" id="Item.battania_scarf_a" />
       </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t2" civilian="true" />
       <equipment slot="Horse" id="Item.t2_khuzait_horse" />
       <equipment slot="HorseHarness" id="Item.wothorseset5misc1" />
     </Equipments>
@@ -6824,6 +6981,7 @@
         <equipment slot="Gloves" id="Item.battania_noble_bracers" />
         <equipment slot="Cape" id="Item.battania_scarf_a" />
       </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t2" civilian="true" />
       <equipment slot="Horse" id="Item.t2_khuzait_horse" />
       <equipment slot="HorseHarness" id="Item.Wot2024horsearmor9" />
     </Equipments>
@@ -6858,6 +7016,7 @@
         <equipment slot="Gloves" id="Item.eastern_plated_leather_vambraces" />
         <equipment slot="Cape" id="Item.battania_scarf_a" />
       </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t3" civilian="true" />
       <equipment slot="Horse" id="Item.t2_khuzait_horse" />
       <equipment slot="HorseHarness" id="Item.Wot2024horsearmor9" />
     </Equipments>
@@ -6888,6 +7047,7 @@
         <equipment slot="Gloves" id="Item.eastern_plated_leather_vambraces" />
         <equipment slot="Cape" id="Item.battania_civil_cape" />
       </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t3" civilian="true" />
       <equipment slot="Horse" id="Item.t2_khuzait_horse" />
       <equipment slot="HorseHarness" id="Item.Wot2024horsearmor12" />
     </Equipments>
@@ -6951,6 +7111,7 @@
         <equipment slot="Gloves" id="Item.northern_brass_bracers" />
         <equipment slot="Cape" id="Item.battania_civil_cape" />
       </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t2" civilian="true" />
       <equipment slot="Horse" id="Item.t2_khuzait_horse" />
       <equipment slot="HorseHarness" id="Item.Wot2024horsearmor12" />
     </Equipments>
@@ -6981,6 +7142,7 @@
         <equipment slot="Body" id="Item.ShienerLightArmor1" />
         <equipment slot="Leg" id="Item.WarderBootsLight" />
       </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Shienar_archer2" default_group="Ranged" level="16" name="{=Shienar_archer2}Shienar Archer" occupation="Soldier" culture="Culture.Shienar">
@@ -7011,6 +7173,7 @@
         <equipment slot="Body" id="Item.ShienerLightArmor1" />
         <equipment slot="Leg" id="Item.WarderBootsLight" />
       </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Shienar_archernew2" default_group="Ranged" level="21" name="{=Shienar_archernew2}Shienar Trained Archer" occupation="Soldier" culture="Culture.Shienar">
@@ -7038,6 +7201,7 @@
         <equipment slot="Body" id="Item.ShienerMediumArmor2" />
         <equipment slot="Leg" id="Item.WarderBootsLight" />
       </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Shienar_horse_archer" default_group="HorseArcher" level="21" name="{=Shienar_horse_archer}Shienar Horse Archer" upgrade_requires="ItemCategory.horse" occupation="Soldier" culture="Culture.Shienar">
@@ -7067,6 +7231,7 @@
         <equipment slot="Leg" id="Item.WarderBootsLight" />
         <equipment slot="Gloves" id="Item.wotmiscpurgloves5" />
       </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t2" civilian="true" />
       <equipment slot="Horse" id="Item.t2_khuzait_horse" />
       <equipment slot="HorseHarness" id="Item.wothorseset5multi1" />
     </Equipments>
@@ -7098,6 +7263,7 @@
         <equipment slot="Leg" id="Item.ShienerLightBoots" />
         <equipment slot="Gloves" id="Item.wotmiscpurgloves4" />
       </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Shienar_footman2" default_group="Infantry" level="21" name="{=Shienar_footman2}Shienar Custodian" occupation="Soldier" culture="Culture.Shienar">
@@ -7127,6 +7293,7 @@
         <equipment slot="Leg" id="Item.ShienerLightBoots" />
         <equipment slot="Gloves" id="Item.wotmiscpurgloves4" />
       </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Shienar_footman3" default_group="Infantry" level="26" name="{=Shienar_footman3}Shienar Enforcer" occupation="Soldier" culture="Culture.Shienar">
@@ -7154,6 +7321,7 @@
         <equipment slot="Leg" id="Item.Shiener2024newboots1" />
         <equipment slot="Gloves" id="Item.wotmiscpurgloves3" />
       </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Shienar_lancer" default_group="Cavalry" level="21" name="{=Shienar_lancer}Shienar Lancer" upgrade_requires="ItemCategory.horse" occupation="Soldier" culture="Culture.Shienar">
@@ -7217,6 +7385,7 @@
         <equipment slot="Leg" id="Item.Shiener2024newboots1" />
         <equipment slot="Gloves" id="Item.wotmiscpurgloves4" />
       </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t2" civilian="true" />
       <equipment slot="Horse" id="Item.t2_khuzait_horse" />
       <equipment slot="HorseHarness" id="Item.wothorseset5multi4" />
     </Equipments>
@@ -7250,6 +7419,7 @@
         <equipment slot="Gloves" id="Item.wotmiscpurgloves3" />
         <equipment slot="Cape" id="Item.ShienerHeavyShoulders" />
       </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t3" civilian="true" />
       <equipment slot="Horse" id="Item.t2_khuzait_horse" />
       <equipment slot="HorseHarness" id="Item.wothorseset5multi8" />
     </Equipments>
@@ -7280,6 +7450,7 @@
         <equipment slot="Gloves" id="Item.wotmiscpurgloves3" />
         <equipment slot="Cape" id="Item.ShienerHeavyShoulders" />
       </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t3" civilian="true" />
       <equipment slot="Horse" id="Item.t2_khuzait_horse" />
       <equipment slot="HorseHarness" id="Item.wothorseset5multi8" />
     </Equipments>
@@ -7381,6 +7552,7 @@
         <equipment slot="Gloves" id="Item.northern_brass_bracers" />
         <equipment slot="Cape" id="Item.a_aserai_scale_b_shoulder_c" />
       </EquipmentRoster>
+      <EquipmentSet id="vlandia_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Tarabonbillman" default_group="Infantry" level="28" name="{=Tarabonbillman}Panarch’s Legion Halberdier" occupation="Soldier" culture="Culture.Tarabon">
@@ -7410,6 +7582,7 @@
         <equipment slot="Gloves" id="Item.northern_brass_bracers" />
         <equipment slot="Cape" id="Item.a_aserai_scale_b_shoulder_c" />
       </EquipmentRoster>
+      <EquipmentSet id="vlandia_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Tarabonvoulgier" default_group="Infantry" level="31" name="{=Tarabonvoulgier}Panarch’s Legion Heavy Halberdier" occupation="Soldier" culture="Culture.Tarabon">
@@ -7437,6 +7610,7 @@
         <equipment slot="Gloves" id="Item.northern_brass_bracers" />
         <equipment slot="Cape" id="Item.a_aserai_scale_b_shoulder_e" />
       </EquipmentRoster>
+      <EquipmentSet id="vlandia_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Taraboninfantry" default_group="Infantry" level="21" name="{=Taraboninfantry}King’s Life Guard Infantry" occupation="Soldier" culture="Culture.Tarabon">
@@ -7468,6 +7642,7 @@
         <equipment slot="Gloves" id="Item.decorated_imperial_gauntlets" />
         <equipment slot="Cape" id="Item.a_brass_lamellar_shoulder_white_a" />
       </EquipmentRoster>
+      <EquipmentSet id="vlandia_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Tarabonswordsman" default_group="Infantry" level="26" name="{=Tarabonswordsman}King’s Life Guard Heavy Infantry" occupation="Soldier" culture="Culture.Tarabon">
@@ -7498,6 +7673,7 @@
         <equipment slot="Gloves" id="Item.decorated_imperial_gauntlets" />
         <equipment slot="Cape" id="Item.a_brass_lamellar_shoulder_white_b" />
       </EquipmentRoster>
+      <EquipmentSet id="vlandia_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Tarabonswordsman2" default_group="Infantry" level="31" name="{=Tarabonswordsman2}King’s Life Guard Heavy Champion" occupation="Soldier" culture="Culture.Tarabon">
@@ -7526,6 +7702,7 @@
         <equipment slot="Gloves" id="Item.lamellar_plate_gauntlets" />
         <equipment slot="Cape" id="Item.brass_lamellar_shoulder_white" />
       </EquipmentRoster>
+      <EquipmentSet id="vlandia_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Taraboncrossbowman" default_group="Ranged" level="11" name="{=Taraboncrossbowman}Tarabon Levy Crossbowman" occupation="Soldier" culture="Culture.Tarabon">
@@ -7627,7 +7804,7 @@
         <equipment slot="Body" id="Item.Miscwotbanditarmor2" />
         <equipment slot="Leg" id="Item.strapped_leather_boots" />
       </EquipmentRoster>
-      <EquipmentSet id="empire_troop_civilian_template_t1" civilian="true" />
+      <EquipmentSet id="vlandia_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Tarabontrained_archer" default_group="Ranged" level="21" name="{=Tarabontrained_archer}Tarabon Trained Archer" occupation="Soldier" culture="Culture.Tarabon">
@@ -7656,7 +7833,7 @@
         <equipment slot="Leg" id="Item.leather_shoes" />
         <equipment slot="Head" id="Item.laced_coif" />
       </EquipmentRoster>
-      <EquipmentSet id="empire_troop_civilian_template_t2" civilian="true" />
+      <EquipmentSet id="vlandia_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Tarabonight_cavalry" default_group="Cavalry" level="26" name="{=Tarabonight_cavalry}King’s Life Guard Light Cavalry" upgrade_requires="ItemCategory.horse" occupation="Soldier" culture="Culture.Tarabon">
@@ -7687,6 +7864,7 @@
         <equipment slot="Gloves" id="Item.decorated_imperial_gauntlets" />
         <equipment slot="Cape" id="Item.a_brass_lamellar_shoulder_white_b" />
       </EquipmentRoster>
+      <EquipmentSet id="vlandia_troop_civilian_template_t2" civilian="true" />
       <equipment slot="Horse" id="Item.vlandia_horse" />
       <equipment slot="HorseHarness" id="Item.light_harness" />
     </Equipments>
@@ -7716,6 +7894,7 @@
         <equipment slot="Gloves" id="Item.lamellar_plate_gauntlets" />
         <equipment slot="Cape" id="Item.brass_lamellar_shoulder_white" />
       </EquipmentRoster>
+      <EquipmentSet id="vlandia_troop_civilian_template_t3" civilian="true" />
       <equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <equipment slot="HorseHarness" id="Item.halfchain_barding" />
     </Equipments>
@@ -7746,6 +7925,7 @@
         <equipment slot="Leg" id="Item.battania_leather_boots" />
         <equipment slot="Gloves" id="Item.padded_vambrace" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Tear_common_footman" default_group="Infantry" level="11" name="{=Tear_common_footman}Tear Commoner Soldier" occupation="Soldier" culture="Culture.Tear">
@@ -7777,6 +7957,7 @@
         <equipment slot="Leg" id="Item.battania_leather_boots" />
         <equipment slot="Gloves" id="Item.padded_vambrace" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Tear_common_spearmanheavy" default_group="Infantry" level="16" name="{=Tear_common_spearmanheavy}Tear Commoner Spearman" occupation="Soldier" culture="Culture.Tear">
@@ -7804,6 +7985,7 @@
         <equipment slot="Leg" id="Item.battania_leather_boots" />
         <equipment slot="Gloves" id="Item.padded_vambrace" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Tear_crossbowman" default_group="Ranged" level="21" name="{=Tear_crossbowman}Tear Commoner Crossbowman" occupation="Soldier" culture="Culture.Tear">
@@ -7835,6 +8017,7 @@
         <equipment slot="Leg" id="Item.battania_leather_boots" />
         <equipment slot="Gloves" id="Item.padded_vambrace" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Tear_crossbowman2" default_group="Ranged" level="26" name="{=Tear_crossbowman2}Tear Trained Commoner Crossbowman" occupation="Soldier" culture="Culture.Tear">
@@ -7864,6 +8047,7 @@
         <equipment slot="Leg" id="Item.battania_woodland_boots" />
         <equipment slot="Gloves" id="Item.guarded_padded_vambrace" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Tear_Noble_soldier" default_group="Infantry" level="16" name="{=Tear_Noble_soldier}Tear Noble Solider" occupation="Soldier" culture="Culture.Tear">
@@ -7894,6 +8078,7 @@
         <equipment slot="Leg" id="Item.battania_woodland_boots" />
         <equipment slot="Gloves" id="Item.lordly_padded_mitten" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Tear_Noble_speamen" default_group="Infantry" level="21" name="{=Tear_Noble_speamen}Tear Noble Spearman" occupation="Soldier" culture="Culture.Tear">
@@ -7923,6 +8108,7 @@
         <equipment slot="Leg" id="Item.TearNoblebootsHeavy" />
         <equipment slot="Gloves" id="Item.reinforced_padded_mitten" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Tear_Noble_speamennew" default_group="Infantry" level="28" name="{=Tear_Noble_speamennew}Tear Noble Heavy Spearman" occupation="Soldier" culture="Culture.Tear">
@@ -7950,6 +8136,7 @@
         <equipment slot="Leg" id="Item.TearNoblebootsHeavy" />
         <equipment slot="Gloves" id="Item.reinforced_padded_mitten" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Tearheavyhorse" default_group="Cavalry" level="21" name="{=Tearheavyhorse}Tear Noble Horseman" upgrade_requires="ItemCategory.horse" occupation="Soldier" culture="Culture.Tear">
@@ -7981,6 +8168,7 @@
         <equipment slot="Leg" id="Item.TearNoblebootsHeavy" />
         <equipment slot="Gloves" id="Item.reinforced_padded_mitten" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t2" civilian="true" />
       <equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <equipment slot="HorseHarness" id="Item.wothorseset5multi5" />
     </Equipments>
@@ -8012,7 +8200,7 @@
         <equipment slot="Leg" id="Item.TearNoblebootsHeavy" />
         <equipment slot="Gloves" id="Item.reinforced_padded_mitten" />
       </EquipmentRoster>
-      <EquipmentSet id="khuzait_troop_civilian_template_t2" civilian="true" />
+      <EquipmentSet id="aserai_troop_civilian_template_t3" civilian="true" />
       <equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <equipment slot="HorseHarness" id="Item.wothorseset5multi5" />
     </Equipments>
@@ -8045,6 +8233,7 @@
         <equipment slot="Leg" id="Item.TearNoblebootsHeavy" />
         <equipment slot="Gloves" id="Item.reinforced_padded_mitten" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t2" civilian="true" />
       <equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <equipment slot="HorseHarness" id="Item.wothorseset5multi2" />
     </Equipments>
@@ -8074,6 +8263,7 @@
         <equipment slot="Leg" id="Item.TearNoblebootsHeavy" />
         <equipment slot="Gloves" id="Item.reinforced_padded_mitten" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t3" civilian="true" />
       <equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <equipment slot="HorseHarness" id="Item.wothorseset5multi2" />
     </Equipments>
@@ -8106,6 +8296,7 @@
         <equipment slot="Leg" id="Item.TearDefenderBoots" />
         <equipment slot="Gloves" id="Item.TearDefenderHands" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="TearDefender_Champ" default_group="Infantry" level="26" name="{=TearDefender_Champ}Tear Defender of the Stone Guardian" occupation="Soldier" culture="Culture.Tear">
@@ -8136,6 +8327,7 @@
         <equipment slot="Leg" id="Item.TearDefenderBoots" />
         <equipment slot="Gloves" id="Item.TearDefenderHands" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="TearDefender_heavyinfantry" default_group="Infantry" level="31" name="{=TearDefender_heavyinfantry}Tear Defender of the Stone Unbroken" occupation="Soldier" culture="Culture.Tear">
@@ -8163,6 +8355,7 @@
         <equipment slot="Leg" id="Item.TearDefenderBoots" />
         <equipment slot="Gloves" id="Item.TearDefenderHands" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="TearDefender_horse1" default_group="Cavalry" level="21" name="{=TearDefender_horse1}Tear Defender of the Stone Rider" upgrade_requires="ItemCategory.war_horse" occupation="Soldier" culture="Culture.Tear">
@@ -8193,6 +8386,7 @@
         <equipment slot="Leg" id="Item.TearDefenderBoots" />
         <equipment slot="Gloves" id="Item.TearDefenderHands" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t2" civilian="true" />
       <equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <equipment slot="HorseHarness" id="Item.wothorseset5multi2" />
     </Equipments>
@@ -8225,6 +8419,7 @@
         <equipment slot="Leg" id="Item.TearDefenderBoots" />
         <equipment slot="Gloves" id="Item.TearDefenderHands" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t2" civilian="true" />
       <equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <equipment slot="HorseHarness" id="Item.wothorseset5multi2" />
     </Equipments>
@@ -8257,6 +8452,7 @@
         <equipment slot="Leg" id="Item.TearDefenderBoots" />
         <equipment slot="Gloves" id="Item.TearDefenderHands" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t3" civilian="true" />
       <equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <equipment slot="HorseHarness" id="Item.wothorseset5multi2" />
     </Equipments>
@@ -8286,6 +8482,7 @@
         <equipment slot="Leg" id="Item.TearDefenderBoots" />
         <equipment slot="Gloves" id="Item.TearDefenderHands" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t3" civilian="true" />
       <equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <equipment slot="HorseHarness" id="Item.wothorseset5multi2" />
     </Equipments>
@@ -8319,6 +8516,7 @@
         <equipment slot="Leg" id="Item.TearDefenderBoots" />
         <equipment slot="Gloves" id="Item.TearDefenderHands" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Teardefender__crossbowman2" default_group="Ranged" level="31" name="{=Teardefender__crossbowman2}Tear Defender of the Stone Veteran Crossbowman" occupation="Soldier" culture="Culture.Tear">
@@ -8350,6 +8548,7 @@
         <equipment slot="Leg" id="Item.TearDefenderBoots" />
         <equipment slot="Gloves" id="Item.TearDefenderHands" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Teardefender__crossbowman3" default_group="Ranged" level="42" name="{=Teardefender__crossbowman3}Tear Defender of the Stone Master Crossbowman" occupation="Soldier" culture="Culture.Tear">
@@ -8379,6 +8578,7 @@
         <equipment slot="Leg" id="Item.TearDefenderBoots" />
         <equipment slot="Gloves" id="Item.TearDefenderHands" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <!--Mayene forces-->
@@ -8407,6 +8607,7 @@
         <equipment slot="Gloves" id="Item.highland_gloves" />
         <equipment slot="Leg" id="Item.battania_fur_boots" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Mayene_archer" default_group="Ranged" level="11" name="{=Mayene_archer}Mayene Archer" occupation="Soldier" culture="Culture.Mayene">
@@ -8437,6 +8638,7 @@
         <equipment slot="Gloves" id="Item.highland_gloves" />
         <equipment slot="Leg" id="Item.battania_fur_boots" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Mayene_archer2" default_group="Ranged" level="16" name="{=Mayene_archer2}Mayene Trained Archer" occupation="Soldier" culture="Culture.Mayene">
@@ -8467,7 +8669,7 @@
         <equipment slot="Leg" id="Item.battania_fur_boots" />
         <equipment slot="Cape" id="Item.hood" />
       </EquipmentRoster>
-      <EquipmentSet id="empire_troop_civilian_template_t1" civilian="true" />
+      <EquipmentSet id="aserai_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Mayene_archer3" default_group="Ranged" level="21" name="{=Mayene_archer3}Mayene Expert Archer" occupation="Soldier" culture="Culture.Mayene">
@@ -8526,6 +8728,7 @@
         <equipment slot="Leg" id="Item.battania_fur_boots" />
         <equipment slot="Cape" id="Item.reinforced_suede_shoulders" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Mayene_crossbowman" default_group="Ranged" level="16" name="{=Mayene_crossbowman}Mayene Crossbowman" occupation="Soldier" culture="Culture.Mayene">
@@ -8556,6 +8759,7 @@
         <equipment slot="Leg" id="Item.battania_fur_boots" />
         <equipment slot="Cape" id="Item.hood" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Mayene_crossbowman2" default_group="Ranged" level="21" name="{=Mayene_crossbowman2}Mayene Expert Crossbowman" occupation="Soldier" culture="Culture.Mayene">
@@ -8585,6 +8789,7 @@
         <equipment slot="Gloves" id="Item.studded_leather_vambraces" />
         <equipment slot="Cape" id="Item.battania_civil_cape" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Mayene_common_spearman" default_group="Infantry" level="16" name="{=Mayene_common_spearman}Mayene Pikeman" occupation="Soldier" culture="Culture.Mayene">
@@ -8615,6 +8820,7 @@
         <equipment slot="Gloves" id="Item.studded_leather_vambraces" />
         <equipment slot="Cape" id="Item.a_empire_plated_shoulder_a" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Mayene_common_spearmanheavy" default_group="Infantry" level="21" name="{=Mayene_common_spearmanheavy}Mayene Heavy Pikeman" occupation="Soldier" culture="Culture.Mayene">
@@ -8641,6 +8847,7 @@
         <equipment slot="Leg" id="Item.strapped_mail_chausses" />
         <equipment slot="Cape" id="Item.a_empire_plated_shoulder_b" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Mayene_common_halberd" default_group="Infantry" level="21" name="{=Mayene_common_halberd}Mayene Halberdier" occupation="Soldier" culture="Culture.Mayene">
@@ -8669,6 +8876,7 @@
         <equipment slot="Gloves" id="Item.studded_leather_vambraces" />
         <equipment slot="Cape" id="Item.a_empire_plated_shoulder_a" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Mayene_common_halberd2" default_group="Infantry" level="31" name="{=Mayene_common_halberd2}Mayene Heavy Halberdier" occupation="Soldier" culture="Culture.Mayene">
@@ -8695,6 +8903,7 @@
         <equipment slot="Leg" id="Item.strapped_mail_chausses" />
         <equipment slot="Cape" id="Item.empire_warrior_padded_armor_shoulder" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Mayene_heavyhorse" default_group="Cavalry" level="26" name="{=Mayene_heavyhorse}Mayene Mounted Warrior" upgrade_requires="ItemCategory.horse" occupation="Soldier" culture="Culture.Mayene">
@@ -8723,6 +8932,7 @@
         <equipment slot="Gloves" id="Item.studded_leather_vambraces" />
         <equipment slot="Cape" id="Item.a_empire_plated_shoulder_a" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t2" civilian="true" />
       <equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <equipment slot="HorseHarness" id="Item.half_mail_and_plate_barding" />
     </Equipments>
@@ -8753,6 +8963,7 @@
         <equipment slot="Leg" id="Item.strapped_mail_chausses" />
         <equipment slot="Cape" id="Item.empire_warrior_padded_armor_shoulder" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t3" civilian="true" />
       <equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <equipment slot="HorseHarness" id="Item.mail_and_plate_barding" />
     </Equipments>
@@ -8780,6 +8991,7 @@
         <equipment slot="Leg" id="Item.strapped_mail_chausses" />
         <equipment slot="Cape" id="Item.brass_scale_shoulders" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t3" civilian="true" />
       <equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <equipment slot="HorseHarness" id="Item.mail_and_plate_barding" />
     </Equipments>
@@ -8810,6 +9022,7 @@
         <equipment slot="Leg" id="Item.MayeneWingedGuardboots" />
         <equipment slot="Gloves" id="Item.MayeneWingedGuardGloves" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Mayenewingedguard__halberd" default_group="Infantry" level="31" name="{=Mayenewingedguard__halberd}Winged Guard Halberdier" occupation="Soldier" culture="Culture.Mayene">
@@ -8837,6 +9050,7 @@
         <equipment slot="Leg" id="Item.MayeneWingedGuardboots" />
         <equipment slot="Gloves" id="Item.MayeneWingedGuardGloves" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Mayenewingedguard__halberd2" default_group="Infantry" level="42" name="{=Mayenewingedguard__halberd2}Winged Guard Veteran Halberdier" occupation="Soldier" culture="Culture.Mayene">
@@ -8862,6 +9076,7 @@
         <equipment slot="Leg" id="Item.MayeneWingedGuardboots" />
         <equipment slot="Gloves" id="Item.MayeneWingedGuardGloves" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Mayenewingedguard__Champ" default_group="Infantry" level="31" name="{=Mayenewingedguard__Champ}Winged Guard Swordsman" occupation="Soldier" culture="Culture.Mayene">
@@ -8890,6 +9105,7 @@
         <equipment slot="Leg" id="Item.MayeneWingedGuardboots" />
         <equipment slot="Gloves" id="Item.MayeneWingedGuardGloves" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Mayenewingedguard__heavyinfantry" default_group="Infantry" level="42" name="{=Mayenewingedguard__heavyinfantry}Winged Guard Swordmaster" occupation="Soldier" culture="Culture.Mayene">
@@ -8915,6 +9131,7 @@
         <equipment slot="Leg" id="Item.MayeneWingedGuardboots" />
         <equipment slot="Gloves" id="Item.MayeneWingedGuardGloves" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Mayenewingedguard_horse1" default_group="Cavalry" level="50" name="{=Mayenewingedguard_horse1}Mounted Winged Guard" upgrade_requires="ItemCategory.war_horse" occupation="Soldier" culture="Culture.Mayene">
@@ -8940,6 +9157,7 @@
         <equipment slot="Leg" id="Item.MayeneWingedGuardboots" />
         <equipment slot="Gloves" id="Item.MayeneWingedGuardGloves" />
       </EquipmentRoster>
+      <EquipmentSet id="aserai_troop_civilian_template_t3" civilian="true" />
       <equipment slot="Horse" id="Item.t2_vlandia_horse" />
       <equipment slot="HorseHarness" id="Item.mail_and_plate_barding" />
     </Equipments>
@@ -8970,6 +9188,7 @@
         <equipment slot="Body" id="Item.WhiteTowerLighttArmorcloth" />
         <equipment slot="Leg" id="Item.WhiteTowerBoots" />
       </EquipmentRoster>
+      <EquipmentSet id="WhiteTower_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="WhiteTower_guard" default_group="Infantry" level="16" name="{=WhiteTower_guard}White Tower Sentry" occupation="Soldier" culture="Culture.WhiteTower">
@@ -8999,6 +9218,7 @@
         <equipment slot="Body" id="Item.WhiteTowerLighttArmor" />
         <equipment slot="Leg" id="Item.WhiteTowerBoots" />
       </EquipmentRoster>
+      <EquipmentSet id="WhiteTower_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="WhiteTower_Sentinel" default_group="Infantry" level="21" name="{=WhiteTower_Sentinel}White Tower Sentinel" occupation="Soldier" culture="Culture.WhiteTower">
@@ -9025,6 +9245,7 @@
         <equipment slot="Leg" id="Item.WhiteTowerBoots" />
         <equipment slot="Cape" id="Item.WhiteTowerCloak" />
       </EquipmentRoster>
+      <EquipmentSet id="WhiteTower_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="WhiteTower_Lookout" default_group="Ranged" level="21" name="{=WhiteTower_Lookout}White Tower Lookout" occupation="Soldier" culture="Culture.WhiteTower">
@@ -9053,6 +9274,7 @@
         <equipment slot="Leg" id="Item.WhiteTowerBoots" />
         <equipment slot="Cape" id="Item.WhiteTowerCloak" />
       </EquipmentRoster>
+      <EquipmentSet id="WhiteTower_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Whitetower_warder1" default_group="Infantry" level="21" name="{=Whitetower_warder1}Unbonded Warder" occupation="Soldier" culture="Culture.WhiteTower">
@@ -9079,6 +9301,7 @@
         <equipment slot="Leg" id="Item.WarderBootsLight" />
         <equipment slot="Cape" id="Item.WarderCloak" />
       </EquipmentRoster>
+      <EquipmentSet id="WhiteTower_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Whitetower_warder2" default_group="Infantry" level="26" name="{=Whitetower_warder2}Bonded Warder" occupation="Soldier" culture="Culture.WhiteTower">
@@ -9106,6 +9329,7 @@
         <equipment slot="Leg" id="Item.WarderBootsLight" />
         <equipment slot="Cape" id="Item.WarderCloak" />
       </EquipmentRoster>
+      <EquipmentSet id="WhiteTower_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Whitetower_warder3" default_group="Infantry" level="31" name="{=Whitetower_warder3}Heron Marked Warder Blademaster" occupation="Soldier" culture="Culture.WhiteTower">
@@ -9131,6 +9355,7 @@
         <equipment slot="Leg" id="Item.Warder2024newboots1" />
         <equipment slot="Cape" id="Item.WarderCloak" />
       </EquipmentRoster>
+      <EquipmentSet id="WhiteTower_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="AesSedai1" default_group="Infantry" level="16" name="{=AesSedai1} Aes Sedai Novice (Fire Arrow short range)" occupation="Soldier" is_female="true" is_basic_troop="true" culture="Culture.WhiteTower">
@@ -9156,6 +9381,7 @@
         <equipment slot="Item0" id="Item.onepowerflamingarrowingle" />
         <equipment slot="Body" id="Item.AesSedaiNoviceRobe" />
       </EquipmentRoster>
+      <EquipmentSet id="WhiteTower_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="AesSedai2" default_group="Infantry" level="21" name="{=AesSedai2} Aes Sedai Accepted (Fire Ball) (Short Range)" occupation="Soldier" is_female="true" culture="Culture.WhiteTower">
@@ -9182,6 +9408,7 @@
         <equipment slot="Item0" id="Item.Onepowerfireball1" />
         <equipment slot="Body" id="Item.AesSedaiAcceptedRobe" />
       </EquipmentRoster>
+      <EquipmentSet id="WhiteTower_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="AesSedai4" default_group="Infantry" level="26" name="{=AesSedai4} Full Aes Sedai Blue Ajah (Air Shield, Fireball) (Short Range)" occupation="Soldier" is_female="true" culture="Culture.WhiteTower">
@@ -9210,6 +9437,7 @@
         <equipment slot="Body" id="Item.AessedaiBlue" />
         <equipment slot="Leg" id="Item.Aessedaishoes" />
       </EquipmentRoster>
+      <EquipmentSet id="WhiteTower_troop_civilian_template_t4" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="AesSedai4b" default_group="Infantry" level="31" name="{=AesSedai4b} Full Aes Sedai Blue Ajah (Air Shield, Fireball) (Short Range)" occupation="Soldier" is_female="true" culture="Culture.WhiteTower">
@@ -9236,6 +9464,7 @@
         <equipment slot="Body" id="Item.AessedaiBlue" />
         <equipment slot="Leg" id="Item.Aessedaishoes" />
       </EquipmentRoster>
+      <EquipmentSet id="WhiteTower_troop_civilian_template_t4" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="AesSedai3" default_group="Ranged" level="26" name="{=AesSedai3}Full Aes Sedai Green Ajah (Fireball) (Long Range)" occupation="Soldier" is_female="true" culture="Culture.WhiteTower">
@@ -9265,6 +9494,7 @@
         <equipment slot="Body" id="Item.AessedaiGreen" />
         <equipment slot="Leg" id="Item.Aessedaishoes" />
       </EquipmentRoster>
+      <EquipmentSet id="WhiteTower_troop_civilian_template_t5" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="AesSedai5" default_group="Ranged" level="31" name="{=AesSedai5} Full Aes Sedai Green Ajah (FireBall) (Strong Long Range)" occupation="Soldier" is_female="true" culture="Culture.WhiteTower">
@@ -9291,6 +9521,7 @@
         <equipment slot="Body" id="Item.AessedaiGreen" />
         <equipment slot="Leg" id="Item.Aessedaishoes" />
       </EquipmentRoster>
+      <EquipmentSet id="WhiteTower_troop_civilian_template_t5" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="AesSedai52" default_group="Ranged" level="31" name="{=AesSedai52} Full Aes Sedai Green Ajah (Small Lightning) (Long Range)" occupation="Soldier" is_female="true" culture="Culture.WhiteTower">
@@ -9319,6 +9550,7 @@
         <equipment slot="Body" id="Item.AessedaiGreen" />
         <equipment slot="Leg" id="Item.Aessedaishoes" />
       </EquipmentRoster>
+      <EquipmentSet id="WhiteTower_troop_civilian_template_t5" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Aessedai6b" default_group="Ranged" level="36" name="{=Aessedai6} Full Aes Sedai Green Ajah (Raging Storm, Large Area, Knocks Down)" occupation="Soldier" is_female="true" culture="Culture.WhiteTower">
@@ -9345,6 +9577,7 @@
         <equipment slot="Body" id="Item.AessedaiGreen" />
         <equipment slot="Leg" id="Item.Aessedaishoes" />
       </EquipmentRoster>
+      <EquipmentSet id="WhiteTower_troop_civilian_template_t5" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Aessedai6" default_group="Ranged" level="36" name="{=Aessedai6} Full Aes Sedai Green Ajah (Large Lightning Bolt) (Strong Long Range)" occupation="Soldier" is_female="true" culture="Culture.WhiteTower">
@@ -9370,6 +9603,7 @@
         <equipment slot="Body" id="Item.AessedaiGreen" />
         <equipment slot="Leg" id="Item.Aessedaishoes" />
       </EquipmentRoster>
+      <EquipmentSet id="WhiteTower_troop_civilian_template_t5" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <!--The Altara forces-->
@@ -9429,6 +9663,7 @@
         <equipment slot="Leg" id="Item.battania_leather_boots" />
         <equipment slot="Gloves" id="Item.armwraps" />
       </EquipmentRoster>
+      <EquipmentSet id="vlandia_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Altaraerarcher" default_group="Ranged" level="11" name="{=Altaraerarcher}Altara Archer" occupation="Soldier" culture="Culture.Altara">
@@ -9498,6 +9733,7 @@
         <equipment slot="Leg" id="Item.battania_leather_boots" />
         <equipment slot="Gloves" id="Item.armwraps" />
       </EquipmentRoster>
+      <EquipmentSet id="vlandia_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Altararchermark" default_group="Ranged" level="16" name="{=Altararchermark}Altara Bowman" occupation="Soldier" culture="Culture.Altara">
@@ -9565,6 +9801,7 @@
         <equipment slot="Leg" id="Item.battania_woodland_boots" />
         <equipment slot="Gloves" id="Item.guarded_armwraps" />
       </EquipmentRoster>
+      <EquipmentSet id="vlandia_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="AltaraRegular" default_group="Infantry" level="11" name="{=AltaraRegular}Altara Soldier" occupation="Soldier" culture="Culture.Altara">
@@ -9623,6 +9860,7 @@
         <equipment slot="Leg" id="Item.battania_woodland_boots" />
         <equipment slot="Gloves" id="Item.guarded_armwraps" />
       </EquipmentRoster>
+      <EquipmentSet id="vlandia_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="AltaraFile" default_group="Infantry" level="16" name="{=AltaraFile}Altara Warrior" occupation="Soldier" culture="Culture.Altara">
@@ -9692,6 +9930,7 @@
         <equipment slot="Leg" id="Item.battania_woodland_boots" />
         <equipment slot="Gloves" id="Item.guarded_armwraps" />
       </EquipmentRoster>
+      <EquipmentSet id="vlandia_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="AltaraSquad" default_group="Infantry" level="21" name="{=AltaraSquad}Altara Trained Warrior" occupation="Soldier" culture="Culture.Altara">
@@ -9759,6 +9998,7 @@
         <equipment slot="Leg" id="Item.highland_leg_wrappings" />
         <equipment slot="Gloves" id="Item.battania_noble_bracers" />
       </EquipmentRoster>
+      <EquipmentSet id="vlandia_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="AltaraFilemanmounted" default_group="Cavalry" level="16" name="{=AltaraFilemanmounted}Altara Scout" occupation="Soldier" upgrade_requires="ItemCategory.horse" culture="Culture.Altara">
@@ -9846,6 +10086,7 @@
         <equipment slot="Horse" id="Item.empire_horse" />
         <equipment slot="HorseHarness" id="Item.battania_horse_harness" />
       </EquipmentRoster>
+      <EquipmentSet id="vlandia_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Altarasquadmanmounted" default_group="Cavalry" level="21" name="{=Altarasquadmanmounted} Altara Horseman" occupation="Soldier" culture="Culture.Altara">
@@ -9931,6 +10172,7 @@
         <equipment slot="Horse" id="Item.empire_horse" />
         <equipment slot="HorseHarness" id="Item.battania_horse_harness" />
       </EquipmentRoster>
+      <EquipmentSet id="vlandia_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <!--The Seanchan forces-->
@@ -9959,6 +10201,7 @@
         <equipment slot="Leg" id="Item.battania_leather_boots" />
         <equipment slot="Gloves" id="Item.Seanchanglovesa" />
       </EquipmentRoster>
+      <EquipmentSet id="empire_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Seanchan_common_footman" default_group="Infantry" level="11" name="{=Seanchan_common_footman}Seanchan Soldier" occupation="Soldier" culture="Culture.Seanchan">
@@ -9989,6 +10232,7 @@
         <equipment slot="Leg" id="Item.battania_leather_boots" />
         <equipment slot="Gloves" id="Item.Seanchanglovesa" />
       </EquipmentRoster>
+      <EquipmentSet id="empire_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Seanchan_common_spearmanheavy" default_group="Infantry" level="16" name="{=Seanchan_common_spearmanheavy}Seanchan Swordsman" occupation="Soldier" culture="Culture.Seanchan">
@@ -10019,6 +10263,7 @@
         <equipment slot="Leg" id="Item.battania_leather_boots" />
         <equipment slot="Gloves" id="Item.Seanchanglovesa" />
       </EquipmentRoster>
+      <EquipmentSet id="empire_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Seanchan_common_spearmanheavy2" default_group="Infantry" level="21" name="{=Seanchan_common_spearmanheavy2}Seanchan Guardsman" occupation="Soldier" culture="Culture.Seanchan">
@@ -10048,6 +10293,7 @@
         <equipment slot="Leg" id="Item.battania_leather_boots" />
         <equipment slot="Gloves" id="Item.Seanchanglovesa" />
       </EquipmentRoster>
+      <EquipmentSet id="empire_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Seanchan_crossbowman" default_group="Ranged" level="21" name="{=Seanchan_crossbowman}Seanchan Crossbowman" occupation="Soldier" culture="Culture.Seanchan">
@@ -10078,6 +10324,7 @@
         <equipment slot="Leg" id="Item.battania_leather_boots" />
         <equipment slot="Gloves" id="Item.Seanchanglovesa" />
       </EquipmentRoster>
+      <EquipmentSet id="empire_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Seanchan_crossbowman2" default_group="Ranged" level="26" name="{=Seanchan_crossbowman2}Seanchan Marksman" occupation="Soldier" culture="Culture.Seanchan">
@@ -10106,6 +10353,7 @@
         <equipment slot="Leg" id="Item.battania_leather_boots" />
         <equipment slot="Gloves" id="Item.Seanchanglovesa" />
       </EquipmentRoster>
+      <EquipmentSet id="empire_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Seanchan_Noble_soldier" default_group="Infantry" level="28" name="{=Seanchan_Noble_soldier}Seanchan Deathwatch Recruit" occupation="Soldier" culture="Culture.Seanchan">
@@ -10135,6 +10383,7 @@
         <equipment slot="Leg" id="Item.Seanchandeathwatchguardarmorboots" />
         <equipment slot="Gloves" id="Item.Seanchandeathwatchguardarmorgloves" />
       </EquipmentRoster>
+      <EquipmentSet id="empire_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Seanchan_Noble_speamen" default_group="Infantry" level="45" name="{=Seanchan_Noble_speamen}Seanchan Deathwatch Guard" occupation="Soldier" culture="Culture.Seanchan">
@@ -10162,6 +10411,7 @@
         <equipment slot="Leg" id="Item.Seanchandeathwatchguardarmorboots" />
         <equipment slot="Gloves" id="Item.Seanchandeathwatchguardarmorgloves" />
       </EquipmentRoster>
+      <EquipmentSet id="empire_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Seanchanheavyhorse" default_group="Cavalry" level="21" name="{=Seanchanheavyhorse}Seanchan Torm" upgrade_requires="ItemCategory.horse" occupation="Soldier" culture="Culture.Seanchan">
@@ -10192,6 +10442,7 @@
         <equipment slot="Leg" id="Item.battania_leather_boots" />
         <equipment slot="Gloves" id="Item.Seanchanglovesa" />
       </EquipmentRoster>
+      <EquipmentSet id="empire_troop_civilian_template_t2" civilian="true" />
       <equipment slot="Horse" id="Item.t2_empire_horse" />
       <equipment slot="HorseHarness" id="Item.Wot2024horsearmorse1" />
     </Equipments>
@@ -10222,6 +10473,7 @@
         <equipment slot="Leg" id="Item.battania_leather_boots" />
         <equipment slot="Gloves" id="Item.Seanchanglovesa" />
       </EquipmentRoster>
+      <EquipmentSet id="empire_troop_civilian_template_t2" civilian="true" />
       <equipment slot="Horse" id="Item.t2_empire_horse" />
       <equipment slot="HorseHarness" id="Item.Wot2024horsearmorse1" />
     </Equipments>
@@ -10251,6 +10503,7 @@
         <equipment slot="Leg" id="Item.Seanchandeathwatchguardarmorboots" />
         <equipment slot="Gloves" id="Item.Seanchandeathwatchguardarmorgloves" />
       </EquipmentRoster>
+      <EquipmentSet id="empire_troop_civilian_template_t3" civilian="true" />
       <equipment slot="Horse" id="Item.t3_empire_horse" />
       <equipment slot="HorseHarness" id="Item.Wot2024horsearmorse2" />
     </Equipments>
@@ -10279,6 +10532,7 @@
         <equipment slot="Body" id="Item.battania_dress_c" />
         <equipment slot="Leg" id="Item.Aessedaishoes" />
       </EquipmentRoster>
+      <EquipmentSet id="Seanchan_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Damane2" default_group="Infantry" level="21" name="{=Damane2}Trained Damane (Fire Ball Short Range)" occupation="Soldier" is_female="true" culture="Culture.Seanchan">
@@ -10306,6 +10560,7 @@
         <equipment slot="Body" id="Item.battania_dress_c" />
         <equipment slot="Leg" id="Item.Aessedaishoes" />
       </EquipmentRoster>
+      <EquipmentSet id="Seanchan_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Damane3" default_group="Ranged" level="26" name="{=Damane3}Damane Elite (Fireball Long Range)" occupation="Soldier" is_female="true" culture="Culture.Seanchan">
@@ -10332,6 +10587,7 @@
         <equipment slot="Body" id="Item.northern_dress" />
         <equipment slot="Leg" id="Item.Aessedaishoes" />
       </EquipmentRoster>
+      <EquipmentSet id="Seanchan_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Damane5" default_group="Ranged" level="26" name="{=Damane5} Trained Damane (Small Lightning Long Range)" occupation="Soldier" is_female="true" culture="Culture.Seanchan">
@@ -10359,6 +10615,7 @@
         <equipment slot="Body" id="Item.northern_dress" />
         <equipment slot="Leg" id="Item.Aessedaishoes" />
       </EquipmentRoster>
+      <EquipmentSet id="Seanchan_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Damane6" default_group="Ranged" level="31" name="{=Damane6} Elite Damane (Large Lightning Bolt Long Range)" occupation="Soldier" is_female="true" culture="Culture.Seanchan">
@@ -10384,6 +10641,7 @@
         <equipment slot="Body" id="Item.khuzait_dress_b" />
         <equipment slot="Leg" id="Item.Aessedaishoes" />
       </EquipmentRoster>
+      <EquipmentSet id="Seanchan_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <!--Minor Faction forces-->
@@ -10595,6 +10853,7 @@
         <equipment slot="Body" id="Item.AessedaiRed" />
         <equipment slot="Leg" id="Item.Aessedaishoes" />
       </EquipmentRoster>
+      <EquipmentSet id="WhiteTower_troop_civilian_template_t6" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="AesSedaiELAD2" default_group="Infantry" level="21" name="{=AesSedaiELAD2} Aes Sedai Red Ajah (Fire Ball) (Short Range)" occupation="Soldier" is_female="true" culture="Culture.WhiteTower">
@@ -10622,6 +10881,7 @@
         <equipment slot="Body" id="Item.AessedaiRed" />
         <equipment slot="Leg" id="Item.Aessedaishoes" />
       </EquipmentRoster>
+      <EquipmentSet id="WhiteTower_troop_civilian_template_t6" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="AesSedaiELAD4" default_group="Infantry" level="26" name="{=AesSedaiELAD4} Full Aes Sedai Red Ajah (Air Shield, Fireball) (Short Range)" occupation="Soldier" is_female="true" culture="Culture.WhiteTower">
@@ -10650,6 +10910,7 @@
         <equipment slot="Body" id="Item.AessedaiRed" />
         <equipment slot="Leg" id="Item.Aessedaishoes" />
       </EquipmentRoster>
+      <EquipmentSet id="WhiteTower_troop_civilian_template_t6" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="AesSedaiELAD3" default_group="Ranged" level="31" name="{=AesSedaiELAD3}Full Aes Sedai Red Ajah (Fireball) (Long Range)" occupation="Soldier" is_female="true" culture="Culture.WhiteTower">
@@ -10676,6 +10937,7 @@
         <equipment slot="Body" id="Item.AessedaiRed" />
         <equipment slot="Leg" id="Item.Aessedaishoes" />
       </EquipmentRoster>
+      <EquipmentSet id="WhiteTower_troop_civilian_template_t6" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="AesSedaiELAD52" default_group="Ranged" level="31" name="{=AesSedaiELAD52} Full Aes Sedai Red Ajah (Small Lightning) (Long Range)" occupation="Soldier" is_female="true" culture="Culture.WhiteTower">
@@ -10701,6 +10963,7 @@
         <equipment slot="Body" id="Item.AessedaiRed" />
         <equipment slot="Leg" id="Item.Aessedaishoes" />
       </EquipmentRoster>
+      <EquipmentSet id="WhiteTower_troop_civilian_template_t6" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Seafolk1" default_group="Infantry" level="11" name="{=Seafolk1}Atha'an Miere Deckhand" occupation="Soldier" is_basic_troop="true" culture="Culture.empire">
@@ -10815,6 +11078,7 @@
         <equipment slot="Body" id="Item.armored_baggy_trunks" />
         <equipment slot="Leg" id="Item.ragged_boots" />
       </EquipmentRoster>
+      <EquipmentSet id="Seafolk_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="seafolkwind3" default_group="Ranged" level="31" name="{=seafolkwind3} Atha'an Miere Windfinder(Large Lightning) (Long Range)" occupation="Soldier" is_female="true" culture="Culture.empire">
@@ -10842,6 +11106,7 @@
         <equipment slot="Body" id="Item.armored_baggy_trunks" />
         <equipment slot="Leg" id="Item.ragged_boots" />
       </EquipmentRoster>
+      <EquipmentSet id="Seafolk_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="seafolkwind4" default_group="Ranged" level="21" name="{=seafolkwind4} Atha'an Miere Windfinder(Raging Storm) (Long Range, Large area, Knocks down)" occupation="Soldier" is_female="true" culture="Culture.empire">
@@ -10869,6 +11134,7 @@
         <equipment slot="Body" id="Item.armored_baggy_trunks" />
         <equipment slot="Leg" id="Item.ragged_boots" />
       </EquipmentRoster>
+      <EquipmentSet id="Seafolk_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="sharamerc1" default_group="Infantry" level="6" name="{=sharamerc1}Shara Mercenary Recruit" occupation="Soldier" is_basic_troop="true" culture="Culture.aserai">
@@ -11265,6 +11531,7 @@
         <equipment slot="Leg" id="Item.Malkierboots" />
         <equipment slot="Cape" id="Item.reinforced_suede_shoulders" />
       </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="MalkierRemenant2" default_group="Infantry" level="26" name="{=MalkierRemenant2}Malkier Leeman" occupation="Soldier" culture="Culture.empire">
@@ -11293,6 +11560,7 @@
         <equipment slot="Leg" id="Item.Malkierboots" />
         <equipment slot="Cape" id="Item.a_khuzait_leather_shoulder_b_a" />
       </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="MalkierRemenant3" default_group="Infantry" level="31" name="{=MalkierRemenant3}Malkier Oathkeeper" occupation="Soldier" culture="Culture.empire">
@@ -11318,6 +11586,7 @@
         <equipment slot="Gloves" id="Item.Malkiergloves" />
         <equipment slot="Leg" id="Item.Malkierboots" />
       </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="MalkierRemenant3cav1" default_group="Cavalry" level="26" name="{=MalkierRemenant3cav1}Malkier Redeemer" occupation="Soldier" culture="Culture.empire">
@@ -11348,6 +11617,7 @@
         <equipment slot="Horse" id="Item.t2_vlandia_horse" />
         <equipment slot="HorseHarness" id="Item.imperial_scale_barding" />
       </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="MalkierRemenant3cav2" default_group="Cavalry" level="31" name="{=MalkierRemenant3cav2}Malkier Chastiser" occupation="Soldier" culture="Culture.empire">
@@ -11378,6 +11648,7 @@
         <equipment slot="Horse" id="Item.t2_vlandia_horse" />
         <equipment slot="HorseHarness" id="Item.imperial_scale_barding" />
       </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="MalkierRemenant3cav3" default_group="Cavalry" level="50" name="{=MalkierRemenant3cav3}Malkier Avenger" occupation="Soldier" culture="Culture.empire">
@@ -11405,6 +11676,7 @@
         <equipment slot="Horse" id="Item.t2_vlandia_horse" />
         <equipment slot="HorseHarness" id="Item.imperial_scale_barding" />
       </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Maidenofthesword1" default_group="Infantry" level="11" name="{=Maidenofthesword1}Maiden of the Sword Trainee" occupation="Soldier" is_basic_troop="true" is_female="true" culture="Culture.empire">
@@ -11567,6 +11839,7 @@
         <equipment slot="Body" id="Item.imperial_robes" />
         <equipment slot="Leg" id="Item.sturgia_boots_d" />
       </EquipmentRoster>
+      <EquipmentSet id="Illum_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Illumtroop2" default_group="Ranged" level="28" name="{=Illumtroop2}Illuminator Grenadier" occupation="Soldier" culture="Culture.empire">
@@ -11592,6 +11865,7 @@
         <equipment slot="Body" id="Item.imperial_robes" />
         <equipment slot="Leg" id="Item.sturgia_boots_d" />
       </EquipmentRoster>
+      <EquipmentSet id="Illum_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="Illumtroop3" default_group="Ranged" level="28" name="{=Illumtroop3}Illuminator Rocketier" occupation="Soldier" culture="Culture.empire">
@@ -11618,6 +11892,7 @@
         <equipment slot="Body" id="Item.imperial_robes" />
         <equipment slot="Leg" id="Item.sturgia_boots_d" />
       </EquipmentRoster>
+      <EquipmentSet id="Illum_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="KIN1" default_group="Infantry" level="6" name="{=KIN1} Newkin (Fire Arrow short range,Air Shield)" occupation="Soldier" is_female="true" is_basic_troop="true" culture="Culture.WhiteTower">
@@ -11646,6 +11921,7 @@
         <equipment slot="Body" id="Item.kindress1" />
         <equipment slot="Leg" id="Item.Aessedaishoes" />
       </EquipmentRoster>
+      <EquipmentSet id="Kin_troop_civilian_template_t1" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="KIN2" default_group="Infantry" level="21" name="{=KIN2} Kinswomen (Fire Ball, Air Shield) (Short Range)" occupation="Soldier" is_female="true" culture="Culture.WhiteTower">
@@ -11671,6 +11947,7 @@
         <equipment slot="Body" id="Item.kindress2" />
         <equipment slot="Leg" id="Item.Aessedaishoes" />
       </EquipmentRoster>
+      <EquipmentSet id="Kin_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="KIN3" default_group="Ranged" level="21" name="{=KIN52} Kin Guide (Small Lightning, Air Shield) (Long Range)" occupation="Soldier" is_female="true" culture="Culture.WhiteTower">
@@ -11697,6 +11974,7 @@
         <equipment slot="Body" id="Item.kindress2" />
         <equipment slot="Leg" id="Item.Aessedaishoes" />
       </EquipmentRoster>
+      <EquipmentSet id="Kin_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="PADTrollocla" default_group="Infantry" level="6" name="{=PADTrollocla}Corrupted Trolloc Broodling" occupation="Soldier" is_basic_troop="true" culture="Culture.sturgia">
@@ -11803,6 +12081,7 @@
         <equipment slot="Body" id="Item.TrollocLight22" />
         <equipment slot="Gloves" id="Item.Trollochands1" />
       </EquipmentRoster>
+      <EquipmentSet id="Shadow_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="PADTrolloclb" default_group="Infantry" level="11" name="{=PADTrolloclb}Corrupted Trolloc Beast" occupation="Soldier" culture="Culture.sturgia">
@@ -11909,6 +12188,7 @@
         <equipment slot="Body" id="Item.TrollocLight22" />
         <equipment slot="Gloves" id="Item.Trollochands1" />
       </EquipmentRoster>
+      <EquipmentSet id="Shadow_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="PADTrolloc2a" default_group="Ranged" level="16" name="{=PADTrolloc2a}Corrupted Trolloc Archer" occupation="Soldier" culture="Culture.sturgia">
@@ -12046,6 +12326,7 @@
         <equipment slot="Body" id="Item.TrollocLight22" />
         <equipment slot="Gloves" id="Item.Trollochands1" />
       </EquipmentRoster>
+      <EquipmentSet id="Shadow_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="PADTrolloclc" default_group="Infantry" level="18" name="{=PADTrolloclc}Corrupted Trolloc Maneater" occupation="Soldier" culture="Culture.sturgia">
@@ -12092,6 +12373,7 @@
         <equipment slot="Body" id="Item.TrollocMED3" />
         <equipment slot="Gloves" id="Item.Trollochands1" />
       </EquipmentRoster>
+      <EquipmentSet id="Shadow_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="PADTrollocld" default_group="Infantry" level="26" name="{=PADTrollocld}Corrupted Trolloc Brute" occupation="Soldier" culture="Culture.sturgia">
@@ -12140,6 +12422,7 @@
         <equipment slot="Body" id="Item.TrollocMED3" />
         <equipment slot="Gloves" id="Item.Trollochands1" />
       </EquipmentRoster>
+      <EquipmentSet id="Shadow_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="PADTrolloc3a" default_group="Infantry" level="26" name="{=PADTrolloc3a}Corrupted Trolloc Berserker" occupation="Soldier" culture="Culture.sturgia">
@@ -12186,6 +12469,7 @@
         <equipment slot="Body" id="Item.TrollocMED3" />
         <equipment slot="Gloves" id="Item.Trollochands1" />
       </EquipmentRoster>
+      <EquipmentSet id="Shadow_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="PADTrollocld3b" default_group="Infantry" level="31" name="{=PADTrollocld3b}Corrupted Trolloc Skullcrusher" occupation="Soldier" culture="Culture.sturgia">
@@ -12239,6 +12523,7 @@
         <equipment slot="Body" id="Item.TrollocHEV13" />
         <equipment slot="Gloves" id="Item.Trollochands1" />
       </EquipmentRoster>
+      <EquipmentSet id="Shadow_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="PADTrollocldtwochief" default_group="Infantry" level="35" name="{=PADTrollocldtwochief}Corrupted Trolloc Devourer" occupation="Soldier" culture="Culture.sturgia">
@@ -12292,6 +12577,7 @@
         <equipment slot="Body" id="Item.TrollocHEV11Chief" />
         <equipment slot="Gloves" id="Item.Trollochands1" />
       </EquipmentRoster>
+      <EquipmentSet id="Shadow_troop_civilian_template_t2" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="PADWotMyrddraal" default_group="Infantry" level="24" name="{=PADWotMyrddraal}Corrupted Myrddraal" occupation="Soldier" culture="Culture.sturgia">
@@ -12317,6 +12603,7 @@
         <equipment slot="Body" id="Item.Fade2021fullbody" />
         <equipment slot="Cape" id="Item.Fadecloak1" />
       </EquipmentRoster>
+      <EquipmentSet id="Shadow_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="PADWotMyrddraalMounted" default_group="Cavalry" level="36" name="{=PADWotMyrddraalMounted}Mounted Corrupted Myrddraal" occupation="Soldier" upgrade_requires="ItemCategory.war_horse" culture="Culture.sturgia">
@@ -12342,6 +12629,7 @@
         <equipment slot="Horse" id="Item.empire_horse" />
         <equipment slot="HorseHarness" id="Item.battania_horse_harness" />
       </EquipmentRoster>
+      <EquipmentSet id="Shadow_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="HotH1" default_group="Infantry" level="11" name="{=HotH1}Hunter of the Horn Candidate" occupation="Soldier" is_basic_troop="true" culture="Culture.empire">

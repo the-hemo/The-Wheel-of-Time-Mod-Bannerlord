@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <EquipmentRosters>
+  <!--Hero Templates-->
   <EquipmentRoster id="WOTRAND" culture="Culture.Dragonsworn">
     <EquipmentSet>
       <Equipment slot="Item0" id="Item.onepowerbalefire" />
@@ -6495,5 +6496,197 @@
       <Equipment slot="HorseHarness" id="Item.light_harness" />
     </EquipmentSet>
     <Flags IsFemaleTemplate="true" IsNoncombatantTemplate="true" IsNobleTemplate="true" />
+  </EquipmentRoster>
+  <!--Troop Civilian Templates-->
+  <EquipmentRoster id="BlackTower_troop_civilian_template_t1" culture="Culture.BlackTower">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item2" id="Item.battania_sword_3_t3" />
+      <Equipment slot="Body" id="Item.Asharmor3" />
+      <Equipment slot="Leg" id="Item.Asharmorboots" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="Shadow_troop_civilian_template_t1" culture="Culture.sturgia">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Head" id="Item.Aielveilred" />
+      <Equipment slot="Body" id="Item.AielArmor2" />
+      <Equipment slot="Leg" id="Item.AielBoots1" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="Shadow_troop_civilian_template_t2" culture="Culture.sturgia">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.Trollocweapon3" />
+      <Equipment slot="Body" id="Item.TrollocLight1" />
+      <Equipment slot="Gloves" id="Item.Trollochands1" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="Shadow_troop_civilian_template_t3" culture="Culture.sturgia">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Gloves" id="Item.Fadevampiregauntlets1" />
+      <Equipment slot="Cape" id="Item.Fadecloak1" />
+      <Equipment slot="Body" id="Item.Fade2021fullbody" />
+      <Equipment slot="Leg" id="Item.Fadevampirebboots1" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="Aiel_troop_civilian_template_t1" culture="Culture.khuzait">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Head" id="Item.AielHeadwrap1" />
+      <Equipment slot="Body" id="Item.AielArmor2" />
+      <Equipment slot="Leg" id="Item.AielBoots1" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="Aiel_troop_civilian_template_t2" culture="Culture.khuzait">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Head" id="Item.AielHeadwrap1" />
+      <Equipment slot="Body" id="Item.AielArmor1" />
+      <Equipment slot="Leg" id="Item.AielBoots1" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="Aiel_troop_civilian_template_t3" culture="Culture.khuzait">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Body" id="Item.AielWiseOneRobe1" />
+      <Equipment slot="Leg" id="Item.Aessedaishoes" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="Dragonsworn_troop_civilian_template_t1" culture="Culture.Dragonsworn">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.vlandia_sword_1_t2" />
+      <Equipment slot="Body" id="Item.padded_leather_shirt" />
+      <Equipment slot="Leg" id="Item.empire_horseman_boots" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="Dragonsworn_troop_civilian_template_t2" culture="Culture.Dragonsworn">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Leg" id="Item.TwoRiversBoots1" />
+      <Equipment slot="Body" id="Item.bandit_leather_water_flask" />
+      <Equipment slot="Item0" id="Item.seax" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="Andor_troop_civilian_template_t1" culture="Culture.empire">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.battania_sword_1_t2" />
+      <Equipment slot="Body" id="Item.battania_civil_b" />
+      <Equipment slot="Cape" id="Item.scarf" />
+      <Equipment slot="Leg" id="Item.highland_boots" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="Andor_troop_civilian_template_t2" culture="Culture.empire">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.empire_sword_1_t2" />
+      <Equipment slot="Body" id="Item.tied_cloth_tunic" />
+      <Equipment slot="Cape" id="Item.scarf" />
+      <Equipment slot="Leg" id="Item.leather_shoes" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="Andor_troop_civilian_template_t3" culture="Culture.empire">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.empire_sword_1_t2" />
+      <Equipment slot="Body" id="Item.empire_warrior_padded_armor_e" />
+      <Equipment slot="Leg" id="Item.leather_shoes" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="Arafel_troop_civilian_template_t1" culture="Culture.Arafel">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.khuzait_sword_1_t2" />
+      <Equipment slot="Body" id="Item.steppe_armor" />
+      <Equipment slot="Leg" id="Item.ArafelBootsCheap" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="Cairhien_troop_civilian_template_t1" culture="Culture.Cairhien">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.empire_sword_1_t2" />
+      <Equipment slot="Body" id="Item.footmans_tunic" />
+      <Equipment slot="Leg" id="Item.leather_shoes" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="Cairhien_troop_civilian_template_t2" culture="Culture.Cairhien">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.empire_sword_1_t2" />
+      <Equipment slot="Body" id="Item.empire_warrior_padded_armor_e" />
+      <Equipment slot="Leg" id="Item.leather_shoes" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="FarMadding_troop_civilian_template_t1" culture="Culture.FarMadding">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.empire_sword_1_t2" />
+      <Equipment slot="Body" id="Item.fine_town_tunic" />
+      <Equipment slot="Leg" id="Item.leather_shoes" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="WhiteTower_troop_civilian_template_t1" culture="Culture.WhiteTower">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.aserai_sword_3_t3" />
+      <Equipment slot="Body" id="Item.WarderArmorMediumcheap" />
+      <Equipment slot="Leg" id="Item.WarderBootsLightCheap" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="WhiteTower_troop_civilian_template_t2" culture="Culture.WhiteTower">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Body" id="Item.AesSedaiNoviceRobe" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="WhiteTower_troop_civilian_template_t3" culture="Culture.WhiteTower">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Body" id="Item.AesSedaiAcceptedRobe" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="WhiteTower_troop_civilian_template_t4" culture="Culture.WhiteTower">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Body" id="Item.AessedaiBlue" />
+      <Equipment slot="Leg" id="Item.Aessedaishoes" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="WhiteTower_troop_civilian_template_t5" culture="Culture.WhiteTower">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Body" id="Item.AessedaiGreen" />
+      <Equipment slot="Leg" id="Item.Aessedaishoes" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="WhiteTower_troop_civilian_template_t6" culture="Culture.WhiteTower">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Body" id="Item.AessedaiRed" />
+      <Equipment slot="Leg" id="Item.Aessedaishoes" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="Seanchan_troop_civilian_template_t1" culture="Culture.Seanchan">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Body" id="Item.battania_dress_c" />
+      <Equipment slot="Leg" id="Item.Aessedaishoes" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="Seanchan_troop_civilian_template_t2" culture="Culture.Seanchan">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Body" id="Item.northern_dress" />
+      <Equipment slot="Leg" id="Item.Aessedaishoes" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="Seanchan_troop_civilian_template_t3" culture="Culture.Seanchan">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Body" id="Item.khuzait_dress_b" />
+      <Equipment slot="Leg" id="Item.Aessedaishoes" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="Seafolk_troop_civilian_template_t1" culture="Culture.empire">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Body" id="Item.armored_baggy_trunks" />
+      <Equipment slot="Leg" id="Item.ragged_boots" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="Illum_troop_civilian_template_t1" culture="Culture.empire">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Body" id="Item.imperial_robes" />
+      <Equipment slot="Leg" id="Item.sturgia_boots_d" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="Kin_troop_civilian_template_t1" culture="Culture.WhiteTower">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Body" id="Item.kindress1" />
+      <Equipment slot="Leg" id="Item.Aessedaishoes" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="Kin_troop_civilian_template_t2" culture="Culture.WhiteTower">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Body" id="Item.kindress2" />
+      <Equipment slot="Leg" id="Item.Aessedaishoes" />
+    </EquipmentSet>
   </EquipmentRoster>
 </EquipmentRosters>
