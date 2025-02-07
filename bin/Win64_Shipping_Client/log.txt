@@ -1,0 +1,950 @@
+
+Log Entry : 17:32:25 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 1
+-------------------------------
+
+Log Entry : 17:32:25 Sunday, 26 May 2024
+  :
+  :num: 1 teamWeaponEquipmentList length: 1
+-------------------------------
+
+Log Entry : 17:37:03 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:37:03 Sunday, 26 May 2024
+  :
+  :num: 1 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:37:03 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:37:03 Sunday, 26 May 2024
+  :
+  :num: 1 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:37:03 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:37:03 Sunday, 26 May 2024
+  :
+  :num: 1 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:37:03 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:37:03 Sunday, 26 May 2024
+  :
+  :num: 1 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:37:04 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:37:04 Sunday, 26 May 2024
+  :
+  :num: 1 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:37:04 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:37:04 Sunday, 26 May 2024
+  :
+  :num: 1 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:37:04 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:37:04 Sunday, 26 May 2024
+  :
+  :num: 1 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:37:04 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:37:04 Sunday, 26 May 2024
+  :
+  :num: 1 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:37:52 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 1
+-------------------------------
+
+Log Entry : 17:37:52 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 1
+-------------------------------
+
+Log Entry : 17:37:52 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 1
+-------------------------------
+
+Log Entry : 17:37:52 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 1
+-------------------------------
+
+Log Entry : 17:37:53 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 1
+-------------------------------
+
+Log Entry : 17:37:53 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 1
+-------------------------------
+
+Log Entry : 17:37:53 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 1
+-------------------------------
+
+Log Entry : 17:37:53 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 1
+-------------------------------
+
+Log Entry : 17:38:40 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:38:40 Sunday, 26 May 2024
+  :
+  :num: 1 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:38:40 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:38:40 Sunday, 26 May 2024
+  :
+  :num: 1 teamWeaponEquipmentList length: 2
+-------------------------------
+
+Log Entry : 17:39:25 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 1
+-------------------------------
+
+Log Entry : 17:39:25 Sunday, 26 May 2024
+  :
+  :num: 0 teamWeaponEquipmentList length: 1
+-------------------------------
+
+Log Entry : 11:38:18 Monday, 27 May 2024
+  :
+  :battle_terrain_021
+-------------------------------
+
+Log Entry : 15:01:22 Monday, 27 May 2024
+  :
+  :scn_Wotbattlescene4tropicalswamp
+-------------------------------
+
+Log Entry : 15:30:36 Monday, 27 May 2024
+  :
+  :scn_Wotbattlescene4tropicalswamp
+-------------------------------
+
+Log Entry : 15:31:57 Monday, 27 May 2024
+  :
+  :scn_Wotbattlescene4tropicalswamp
+-------------------------------
+
+Log Entry : 15:41:25 Monday, 27 May 2024
+  :
+  :battle_terrain_030
+-------------------------------
+
+Log Entry : 15:43:37 Monday, 27 May 2024
+  :
+  :battle_terrain_026
+-------------------------------
+
+Log Entry : 17:10:55 Tuesday, 28 May 2024
+  :
+  :scn_Wotbattlescene4tropicalswamp
+-------------------------------
+
+Log Entry : 17:19:33 Tuesday, 28 May 2024
+  :
+  :battle_terrain_004
+-------------------------------
+
+Log Entry : 17:23:07 Tuesday, 28 May 2024
+  :
+  :battle_terrain_025
+-------------------------------
+
+Log Entry : 17:28:01 Tuesday, 28 May 2024
+  :
+  :scn_Wotbattlescene4tropicalswamp
+-------------------------------
+
+Log Entry : 17:31:33 Tuesday, 28 May 2024
+  :
+  :scn_Wotbattlescene4tropicalswamp
+-------------------------------
+
+Log Entry : 17:38:56 Tuesday, 28 May 2024
+  :
+  :scn_Wotbattlescene4tropicalswamp
+-------------------------------
+
+Log Entry : 17:50:51 Tuesday, 28 May 2024
+  :
+  :scn_Wotbattlescene4tropicalswamp
+-------------------------------
+
+Log Entry : 17:53:10 Tuesday, 28 May 2024
+  :
+  :scn_Wotbattlescene4tropicalswamp
+-------------------------------
+
+Log Entry : 17:57:49 Tuesday, 28 May 2024
+  :
+  :battle_terrain_003
+-------------------------------
+
+Log Entry : 18:00:05 Tuesday, 28 May 2024
+  :
+  :scn_Wotbattlescene4tropicalswamp
+-------------------------------
+
+Log Entry : 18:03:17 Tuesday, 28 May 2024
+  :
+  :battle_terrain_018
+-------------------------------
+
+Log Entry : 18:05:38 Tuesday, 28 May 2024
+  :
+  :battle_terrain_022
+-------------------------------
+
+Log Entry : 18:09:04 Tuesday, 28 May 2024
+  :
+  :battle_terrain_008
+-------------------------------
+
+Log Entry : 18:53:31 Tuesday, 28 May 2024
+  :
+  :battle_terrain_022
+-------------------------------
+
+Log Entry : 18:55:54 Tuesday, 28 May 2024
+  :
+  :battle_terrain_010
+-------------------------------
+
+Log Entry : 19:08:12 Tuesday, 28 May 2024
+  :
+  :battle_terrain_022
+-------------------------------
+
+Log Entry : 19:09:04 Tuesday, 28 May 2024
+  :
+  :battle_terrain_008
+-------------------------------
+
+Log Entry : 19:09:44 Tuesday, 28 May 2024
+  :
+  :battle_terrain_009
+-------------------------------
+
+Log Entry : 19:10:27 Tuesday, 28 May 2024
+  :
+  :battle_terrain_022
+-------------------------------
+
+Log Entry : 19:18:52 Tuesday, 28 May 2024
+  :
+  :battle_terrain_009
+-------------------------------
+
+Log Entry : 19:21:49 Tuesday, 28 May 2024
+  :
+  :wot_barren_blight_variant_c
+-------------------------------
+
+Log Entry : 11:55:20 Wednesday, 29 May 2024
+  :
+  :battle_terrain_009
+-------------------------------
+
+Log Entry : 12:04:42 Wednesday, 29 May 2024
+  :
+  :battle_terrain_009
+-------------------------------
+
+Log Entry : 12:10:56 Wednesday, 29 May 2024
+  :
+  :battle_terrain_019
+-------------------------------
+
+Log Entry : 12:15:04 Wednesday, 29 May 2024
+  :
+  :battle_terrain_017
+-------------------------------
+
+Log Entry : 14:34:19 Friday, 07 June 2024
+  :
+  :scn_Wotbattlescene4tropicalswamp
+-------------------------------
+
+Log Entry : 15:24:40 Friday, 07 June 2024
+  :
+  :scn_Wotbattlescene4tropicalswamp
+-------------------------------
+
+Log Entry : 18:05:45 Wednesday, 12 June 2024
+  :
+  :wot_barren_blight_variant_a
+-------------------------------
+
+Log Entry : 23:05:23 Thursday, 13 June 2024
+  :
+  :battle_terrain_022
+-------------------------------
+
+Log Entry : 18:09:50 Saturday, 15 June 2024
+  :
+  :battle_terrain_022
+-------------------------------
+
+Log Entry : 18:10:00 Saturday, 06 July 2024
+  :
+  :battle_terrain_011
+-------------------------------
+
+Log Entry : 17:28:50 Sunday, 22 September 2024
+  :
+  :battle_terrain_017
+-------------------------------
+
+Log Entry : 17:39:46 Sunday, 22 September 2024
+  :
+  :battle_terrain_030
+-------------------------------
+
+Log Entry : 17:41:02 Sunday, 22 September 2024
+  :
+  :battle_terrain_018
+-------------------------------
+
+Log Entry : 18:14:38 Sunday, 22 September 2024
+  :
+  :scn_Wotbattlescene4tropicalswamp
+-------------------------------
+
+Log Entry : 19:12:10 Sunday, 22 September 2024
+  :
+  :scn_Wotbattlescene4tropicalswamp
+-------------------------------
+
+Log Entry : 19:12:42 Sunday, 22 September 2024
+  :
+  :scn_Wotbattlescene4tropicalswamp
+-------------------------------
+
+Log Entry : 19:16:08 Sunday, 22 September 2024
+  :
+  :scn_Wotbattlescene4tropicalswamp
+-------------------------------
+
+Log Entry : 14:17:15 Friday, 11 October 2024
+  :
+  :battle_terrain_017
+-------------------------------
+
+Log Entry : 21:07:57 Friday, 11 October 2024
+  :
+  :battle_terrain_020
+-------------------------------
+
+Log Entry : 21:13:01 Friday, 11 October 2024
+  :
+  :battle_terrain_020
+-------------------------------
+
+Log Entry : 21:24:18 Friday, 11 October 2024
+  :
+  :battle_terrain_017
+-------------------------------
+
+Log Entry : 21:28:39 Friday, 11 October 2024
+  :
+  :battle_terrain_015
+-------------------------------
+
+Log Entry : 21:31:57 Friday, 11 October 2024
+  :
+  :battle_terrain_015
+-------------------------------
+
+Log Entry : 21:36:43 Friday, 11 October 2024
+  :
+  :battle_terrain_015
+-------------------------------
+
+Log Entry : 21:41:06 Friday, 11 October 2024
+  :
+  :battle_terrain_013
+-------------------------------
+
+Log Entry : 21:51:38 Friday, 11 October 2024
+  :
+  :battle_terrain_012
+-------------------------------
+
+Log Entry : 08:22:29 Saturday, 12 October 2024
+  :
+  :battle_terrain_003
+-------------------------------
+
+Log Entry : 08:47:04 Saturday, 12 October 2024
+  :
+  :battle_terrain_020
+-------------------------------
+
+Log Entry : 13:50:40 Saturday, 12 October 2024
+  :
+  :battle_terrain_001
+-------------------------------
+
+Log Entry : 14:15:29 Saturday, 12 October 2024
+  :
+  :battle_terrain_024
+-------------------------------
+
+Log Entry : 17:15:10 Saturday, 12 October 2024
+  :
+  :battle_terrain_013
+-------------------------------
+
+Log Entry : 22:55:34 Saturday, 12 October 2024
+  :
+  :battle_terrain_015
+-------------------------------
+
+Log Entry : 23:22:22 Saturday, 12 October 2024
+  :
+  :battle_terrain_014
+-------------------------------
+
+Log Entry : 09:32:59 Wednesday, 16 October 2024
+  :
+  :scn_Wotbattlescene1
+-------------------------------
+
+Log Entry : 10:26:56 Wednesday, 16 October 2024
+  :
+  :wot_barren_blight_variant_b
+-------------------------------
+
+Log Entry : 20:11:29 Thursday, 17 October 2024
+  :
+  :battle_terrain_027
+-------------------------------
+
+Log Entry : 19:37:43 Friday, 18 October 2024
+  :
+  :battle_terrain_030
+-------------------------------
+
+Log Entry : 21:07:25 Friday, 18 October 2024
+  :
+  :battle_terrain_013
+-------------------------------
+
+Log Entry : 22:09:20 Friday, 18 October 2024
+  :
+  :battle_terrain_013
+-------------------------------
+
+Log Entry : 12:46:46 Sunday, 20 October 2024
+  :
+  :battle_terrain_030
+-------------------------------
+
+Log Entry : 18:57:01 Sunday, 20 October 2024
+  :
+  :battle_terrain_030
+-------------------------------
+
+Log Entry : 19:03:28 Wednesday, 23 October 2024
+  :
+  :battle_terrain_023
+-------------------------------
+
+Log Entry : 20:06:53 Wednesday, 23 October 2024
+  :
+  :battle_terrain_011
+-------------------------------
+
+Log Entry : 20:58:00 Thursday, 24 October 2024
+  :
+  :battle_terrain_016
+-------------------------------
+
+Log Entry : 15:48:51 Friday, 25 October 2024
+  :
+  :battle_terrain_018
+-------------------------------
+
+Log Entry : 18:23:51 Friday, 25 October 2024
+  :
+  :battle_terrain_024
+-------------------------------
+
+Log Entry : 11:35:20 Monday, 28 October 2024
+  :
+  :battle_terrain_013
+-------------------------------
+
+Log Entry : 19:05:46 Monday, 28 October 2024
+  :
+  :battle_terrain_027
+-------------------------------
+
+Log Entry : 23:26:19 Friday, 06 December 2024
+  :
+  :battle_terrain_015
+-------------------------------
+
+Log Entry : 23:43:53 Friday, 06 December 2024
+  :
+  :battle_terrain_032
+-------------------------------
+
+Log Entry : 20:42:12 Wednesday, 11 December 2024
+  :
+  :battle_terrain_027
+-------------------------------
+
+Log Entry : 22:16:45 Saturday, 14 December 2024
+  :
+  :battle_terrain_013
+-------------------------------
+
+Log Entry : 00:07:09 Sunday, 15 December 2024
+  :
+  :battle_terrain_026
+-------------------------------
+
+Log Entry : 00:18:47 Sunday, 15 December 2024
+  :
+  :battle_terrain_012
+-------------------------------
+
+Log Entry : 10:34:06 Sunday, 15 December 2024
+  :
+  :battle_terrain_009
+-------------------------------
+
+Log Entry : 17:29:02 Sunday, 15 December 2024
+  :
+  :battle_terrain_012
+-------------------------------
+
+Log Entry : 19:41:06 Sunday, 15 December 2024
+  :
+  :battle_terrain_024
+-------------------------------
+
+Log Entry : 10:51:01 Wednesday, 18 December 2024
+  :
+  :battle_terrain_013
+-------------------------------
+
+Log Entry : 13:11:10 Monday, 23 December 2024
+  :
+  :battle_terrain_023
+-------------------------------
+
+Log Entry : 14:53:38 Monday, 23 December 2024
+  :
+  :battle_terrain_012
+-------------------------------
+
+Log Entry : 16:00:42 Monday, 23 December 2024
+  :
+  :battle_terrain_018
+-------------------------------
+
+Log Entry : 16:12:48 Monday, 23 December 2024
+  :
+  :battle_terrain_017
+-------------------------------
+
+Log Entry : 16:38:49 Tuesday, 24 December 2024
+  :
+  :battle_terrain_019
+-------------------------------
+
+Log Entry : 17:00:03 Wednesday, 25 December 2024
+  :
+  :battle_terrain_018
+-------------------------------
+
+Log Entry : 19:03:19 Wednesday, 25 December 2024
+  :
+  :n
+-------------------------------
+
+Log Entry : 19:42:36 Wednesday, 25 December 2024
+  :
+  :battle_terrain_011
+-------------------------------
+
+Log Entry : 19:53:29 Wednesday, 25 December 2024
+  :
+  :battle_terrain_023
+-------------------------------
+
+Log Entry : 08:07:11 Thursday, 26 December 2024
+  :
+  :battle_terrain_032
+-------------------------------
+
+Log Entry : 12:05:06 Thursday, 26 December 2024
+  :
+  :battle_terrain_027
+-------------------------------
+
+Log Entry : 15:03:53 Thursday, 26 December 2024
+  :
+  :battle_terrain_018
+-------------------------------
+
+Log Entry : 15:37:23 Thursday, 26 December 2024
+  :
+  :battle_terrain_021
+-------------------------------
+
+Log Entry : 20:23:19 Friday, 27 December 2024
+  :
+  :battle_terrain_028
+-------------------------------
+
+Log Entry : 21:43:00 Friday, 27 December 2024
+  :
+  :battle_terrain_029
+-------------------------------
+
+Log Entry : 21:58:55 Friday, 27 December 2024
+  :
+  :battle_terrain_018
+-------------------------------
+
+Log Entry : 23:14:24 Friday, 03 January 2025
+  :
+  :battle_terrain_028
+-------------------------------
+
+Log Entry : 16:05:31 Saturday, 04 January 2025
+  :
+  :battle_terrain_015
+-------------------------------
+
+Log Entry : 16:43:17 Saturday, 04 January 2025
+  :
+  :battle_terrain_023
+-------------------------------
+
+Log Entry : 21:46:21 Saturday, 04 January 2025
+  :
+  :battle_terrain_012
+-------------------------------
+
+Log Entry : 22:27:34 Saturday, 04 January 2025
+  :
+  :battle_terrain_013
+-------------------------------
+
+Log Entry : 23:05:32 Saturday, 04 January 2025
+  :
+  :battle_terrain_020
+-------------------------------
+
+Log Entry : 17:22:12 Sunday, 05 January 2025
+  :
+  :battle_terrain_032
+-------------------------------
+
+Log Entry : 17:50:50 Sunday, 05 January 2025
+  :
+  :battle_terrain_026
+-------------------------------
+
+Log Entry : 21:42:15 Sunday, 05 January 2025
+  :
+  :battle_terrain_024
+-------------------------------
+
+Log Entry : 08:57:38 Monday, 06 January 2025
+  :
+  :battle_terrain_026
+-------------------------------
+
+Log Entry : 13:57:56 Monday, 06 January 2025
+  :
+  :battle_terrain_016
+-------------------------------
+
+Log Entry : 18:56:53 Wednesday, 08 January 2025
+  :
+  :battle_terrain_032
+-------------------------------
+
+Log Entry : 11:23:45 Thursday, 09 January 2025
+  :
+  :battle_terrain_014
+-------------------------------
+
+Log Entry : 11:34:47 Thursday, 09 January 2025
+  :
+  :battle_terrain_012
+-------------------------------
+
+Log Entry : 17:38:18 Thursday, 09 January 2025
+  :
+  :battle_terrain_004
+-------------------------------
+
+Log Entry : 19:08:28 Thursday, 09 January 2025
+  :
+  :battle_terrain_004
+-------------------------------
+
+Log Entry : 21:40:47 Thursday, 09 January 2025
+  :
+  :battle_terrain_013
+-------------------------------
+
+Log Entry : 16:02:17 Friday, 10 January 2025
+  :
+  :battle_terrain_017
+-------------------------------
+
+Log Entry : 18:54:13 Friday, 10 January 2025
+  :
+  :battle_terrain_012
+-------------------------------
+
+Log Entry : 21:30:09 Friday, 10 January 2025
+  :
+  :battle_terrain_018
+-------------------------------
+
+Log Entry : 22:03:49 Friday, 10 January 2025
+  :
+  :battle_terrain_012
+-------------------------------
+
+Log Entry : 15:50:31 Saturday, 18 January 2025
+  :
+  :battle_terrain_018
+-------------------------------
+
+Log Entry : 16:32:18 Saturday, 18 January 2025
+  :
+  :battle_terrain_011
+-------------------------------
+
+Log Entry : 16:58:15 Saturday, 18 January 2025
+  :
+  :battle_terrain_030
+-------------------------------
+
+Log Entry : 17:47:54 Saturday, 18 January 2025
+  :
+  :battle_terrain_016
+-------------------------------
+
+Log Entry : 18:03:17 Saturday, 18 January 2025
+  :
+  :battle_terrain_018
+-------------------------------
+
+Log Entry : 23:07:52 Saturday, 18 January 2025
+  :
+  :battle_terrain_015
+-------------------------------
+
+Log Entry : 12:30:42 Sunday, 19 January 2025
+  :
+  :battle_terrain_015
+-------------------------------
+
+Log Entry : 16:04:31 Sunday, 19 January 2025
+  :
+  :battle_terrain_011
+-------------------------------
+
+Log Entry : 20:36:29 Sunday, 19 January 2025
+  :
+  :battle_terrain_019
+-------------------------------
+
+Log Entry : 21:42:12 Sunday, 19 January 2025
+  :
+  :battle_terrain_030
+-------------------------------
+
+Log Entry : 20:07:25 Monday, 20 January 2025
+  :
+  :battle_terrain_017
+-------------------------------
+
+Log Entry : 20:38:14 Monday, 20 January 2025
+  :
+  :battle_terrain_029
+-------------------------------
+
+Log Entry : 21:03:29 Monday, 20 January 2025
+  :
+  :battle_terrain_003
+-------------------------------
+
+Log Entry : 07:18:15 Tuesday, 21 January 2025
+  :
+  :battle_terrain_021
+-------------------------------
+
+Log Entry : 11:34:07 Tuesday, 21 January 2025
+  :
+  :battle_terrain_020
+-------------------------------
+
+Log Entry : 11:43:04 Tuesday, 21 January 2025
+  :
+  :battle_terrain_021
+-------------------------------
+
+Log Entry : 12:23:47 Tuesday, 21 January 2025
+  :
+  :battle_terrain_021
+-------------------------------
+
+Log Entry : 12:38:50 Tuesday, 21 January 2025
+  :
+  :battle_terrain_016
+-------------------------------
+
+Log Entry : 12:52:27 Tuesday, 21 January 2025
+  :
+  :battle_terrain_026
+-------------------------------
+
+Log Entry : 19:35:13 Tuesday, 21 January 2025
+  :
+  :battle_terrain_024
+-------------------------------
+
+Log Entry : 19:47:25 Tuesday, 21 January 2025
+  :
+  :battle_terrain_017
+-------------------------------
+
+Log Entry : 10:33:16 Saturday, 25 January 2025
+  :
+  :battle_terrain_018
+-------------------------------
+
+Log Entry : 10:57:58 Saturday, 25 January 2025
+  :
+  :battle_terrain_016
+-------------------------------
+
+Log Entry : 14:40:13 Saturday, 25 January 2025
+  :
+  :battle_terrain_032
+-------------------------------
+
+Log Entry : 15:51:47 Saturday, 25 January 2025
+  :
+  :battle_terrain_027
+-------------------------------
+
+Log Entry : 16:10:58 Saturday, 25 January 2025
+  :
+  :battle_terrain_019
+-------------------------------
+
+Log Entry : 17:04:19 Saturday, 25 January 2025
+  :
+  :battle_terrain_018
+-------------------------------
+
+Log Entry : 16:17:48 Sunday, 26 January 2025
+  :
+  :battle_terrain_011
+-------------------------------
+
+Log Entry : 12:29:00 Sunday, 02 February 2025
+  :
+  :battle_terrain_003
+-------------------------------
+
+Log Entry : 18:39:52 Monday, 03 February 2025
+  :
+  :battle_terrain_032
+-------------------------------
+
+Log Entry : 19:25:29 Monday, 03 February 2025
+  :
+  :battle_terrain_017
+-------------------------------
+
+Log Entry : 19:33:09 Monday, 03 February 2025
+  :
+  :battle_terrain_018
+-------------------------------
+
+Log Entry : 20:15:29 Monday, 03 February 2025
+  :
+  :battle_terrain_011
+-------------------------------
+
+Log Entry : 20:28:44 Monday, 03 February 2025
+  :
+  :battle_terrain_017
+-------------------------------
+
+Log Entry : 15:48:08 Thursday, 06 February 2025
+  :
+  :battle_terrain_014
+-------------------------------
+
+Log Entry : 16:29:04 Thursday, 06 February 2025
+  :
+  :battle_terrain_015
+-------------------------------

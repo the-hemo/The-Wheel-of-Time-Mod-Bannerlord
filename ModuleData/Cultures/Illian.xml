@@ -16,126 +16,102 @@
       <policy id="policy_senate" />
     </default_policies>
     <male_names>
-      <name name="{=n2FdWOtE}Adram" />
-      <name name="{=HEGo3ArK}Atis" />
-      <name name="{=kErcuRlk}Ayyam" />
-      <name name="{=YRzakgRB}Bidal" />
-      <name name="{=6p3qkhil}Biliya" />
-      <name name="{=jgr2xo9r}Darim" />
-      <name name="{=Emsd1xmS}Dhashwal" />
-      <name name="{=xC3kCGte}Dhiyul" />
-      <name name="{=hF3F3u8u}Duwain" />
-      <name name="{=evXLa2XX}Farim" />
-      <name name="{=bVtVsEUr}Ghulassen" />
-      <name name="{=NOchnEwX}Ghuzid" />
-      <name name="{=gDMdWisO}Haqr" />
-      <name name="{=cdQO1eLv}Hasseidh" />
-      <name name="{=GK18UxoX}Hur" />
-      <name name="{=sWRKG0e1}Iltas" />
-      <name name="{=2mhCIkuB}Jaim" />
-      <name name="{=nyCtbjg6}Jamair" />
-      <name name="{=3oeb8Bav}Jassid" />
-      <name name="{=egOzKsKS}Kannar" />
-      <name name="{=YIpKt79X}Kusr" />
-      <name name="{=r0dXXtoU}Kharid" />
-      <name name="{=MRTWZuF4}Khilam" />
-      <name name="{=ZSraCpCs}Lakhem" />
-      <name name="{=b7PVGEFM}Lath" />
-      <name name="{=0ZTMVxzw}Lazif" />
-      <name name="{=PknomRIt}Madwan" />
-      <name name="{=la6HgVXN}Mitunis" />
-      <name name="{=KSsRA8xm}Munim" />
-      <name name="{=8UGqSVH5}Nathun" />
-      <name name="{=UlPJ9OYH}Nidr" />
-      <name name="{=rmpKsJwg}Nuldan" />
-      <name name="{=3pgwKPsf}Qarais" />
-      <name name="{=Qx7ZfdbV}Quth" />
-      <name name="{=M9gqEb6D}Radan" />
-      <name name="{=f7u2p3x3}Rutwar" />
-      <name name="{=xyIDKleR}Saidh" />
-      <name name="{=3rXHA6fI}Samar" />
-      <name name="{=5QHosdnk}Sudais" />
-      <name name="{=eAro6IVf}Shalar" />
-      <name name="{=yToKqfa3}Shumsan" />
-      <name name="{=5O81vNIS}Tahya" />
-      <name name="{=fWKnmnXb}Taq" />
-      <name name="{=Q2qLCrn2}Thais" />
-      <name name="{=SOkQ7b7r}Thaqir" />
-      <name name="{=zCaeJ7GC}Thul" />
-      <name name="{=0atYAnDF}Tulul" />
-      <name name="{=xUSeJEd6}Wahan" />
-      <name name="{=EKUSZBBj}Wusur" />
-      <name name="{=5LY1iQWh}Yaqus" />
-      <name name="{=aU9Cbb7j}Athrar" />
-      <name name="{=at4MdVBJ}Fathid" />
-      <name name="{=NJvui1La}Iskar" />
-      <name name="{=FyVS24JZ}Khundal" />
-      <name name="{=7Gt27Agy}Malub" />
-      <name name="{=t63KuB1X}Suthain" />
-      <name name="{=u3ZpGN5e}Yuha" />
+      <name name="{=WOTMN001Illi}Adam" />
+      <name name="{=WOTMN002Illi}Alekos" />
+      <name name="{=WOTMN003Illi}Athan" />
+      <name name="{=WOTMN004Illi}Babis" />
+      <name name="{=WOTMN005Illi}Charis" />
+      <name name="{=WOTMN006Illi}Christos" />
+      <name name="{=WOTMN007Illi}Costas" />
+      <name name="{=WOTMN008Illi}Daniil" />
+      <name name="{=WOTMN009Illi}Dimos" />
+      <name name="{=WOTMN010Illi}Elias" />
+      <name name="{=WOTMN011Illi}Ermis" />
+      <name name="{=WOTMN012Illi}Evgenios" />
+      <name name="{=WOTMN013Illi}Filippos" />
+      <name name="{=WOTMN014Illi}Fotis" />
+      <name name="{=WOTMN015Illi}Gavriil" />
+      <name name="{=WOTMN016Illi}Gianis" />
+      <name name="{=WOTMN017Illi}Gus" />
+      <name name="{=WOTMN018Illi}Haris" />
+      <name name="{=WOTMN019Illi}Iason" />
+      <name name="{=WOTMN020Illi}Ilias" />
+      <name name="{=WOTMN021Illi}Isaak" />
+      <name name="{=WOTMN022Illi}Karolos" />
+      <name name="{=WOTMN023Illi}Kostas" />
+      <name name="{=WOTMN024Illi}Kostis" />
+      <name name="{=WOTMN025Illi}Lazaros" />
+      <name name="{=WOTMN026Illi}Leon" />
+      <name name="{=WOTMN027Illi}Loukas" />
+      <name name="{=WOTMN028Illi}Marios" />
+      <name name="{=WOTMN029Illi}Mihail" />
+      <name name="{=WOTMN030Illi}Nikos" />
+      <name name="{=WOTMN031Illi}Orfeas" />
+      <name name="{=WOTMN032Illi}Panos" />
+      <name name="{=WOTMN033Illi}Petros" />
+      <name name="{=WOTMN034Illi}Rafail" />
+      <name name="{=WOTMN035Illi}Silas" />
+      <name name="{=WOTMN036Illi}Sotos" />
+      <name name="{=WOTMN037Illi}Stamatis" />
+      <name name="{=WOTMN038Illi}Takis" />
+      <name name="{=WOTMN039Illi}Thanos" />
+      <name name="{=WOTMN040Illi}Vasilis" />
+      <name name="{=WOTMN041Illi}Viktor" />
+      <name name="{=WOTMN042Illi}Yanni" />
+      <name name="{=WOTMN043Illi}Yorgos" />
+      <name name="{=WOTMN044Illi}Zacharias" />
+      <name name="{=WOTMN045Illi}Zinon" />
     </male_names>
     <female_names>
-      <name name="{=vAKB54zO}Arwa" />
-      <name name="{=3LHG5Efi}Ayasa" />
-      <name name="{=krMVSoId}Bawthan" />
-      <name name="{=YwwaCRSr}Barisha" />
-      <name name="{=Y9030sOS}Darya" />
-      <name name="{=qwab4ICX}Dima" />
-      <name name="{=PukaQLbR}Dula" />
-      <name name="{=nhwnbFJ0}Ghalaza" />
-      <name name="{=b0rI89ob}Hara" />
-      <name name="{=qDLWQjuC}Hasawa" />
-      <name name="{=Q26RhEj6}Ifar" />
-      <name name="{=H1OFdfEe}Isna" />
-      <name name="{=aqd6QHES}Janab" />
-      <name name="{=JhLPgr5x}Jinda" />
-      <name name="{=BfbZAB2K}Kanizat" />
-      <name name="{=JR1LKjIc}Khalisa" />
-      <name name="{=q8awVLdN}Laitha" />
-      <name name="{=ljYVVV1s}Luqa" />
-      <name name="{=YwQbvO9O}Lulya" />
-      <name name="{=UAHJ2jTp}Mahayl" />
-      <name name="{=QtyF13kv}Mata" />
-      <name name="{=SNjqoBfZ}Nawa" />
-      <name name="{=t4OvAlBq}Nus" />
-      <name name="{=Cj8vDOqR}Rahan" />
-      <name name="{=bdhXiiWK}Rayma" />
-      <name name="{=yJz9AxjY}Rinana" />
-      <name name="{=TN5MjMJU}Risa" />
-      <name name="{=yd39Cman}Ruwa" />
-      <name name="{=QCiqeUHm}Sabila" />
-      <name name="{=N0cNsII3}Safiya" />
-      <name name="{=nTYJWGAa}Shatha" />
-      <name name="{=vYQ2SMEv}Siban" />
-      <name name="{=v7tfA4y6}Siyafan" />
-      <name name="{=6d09RcZT}Sulatha" />
-      <name name="{=LfP4vsfD}Sur" />
-      <name name="{=imBaF78b}Thuneikha" />
-      <name name="{=9aPxu1EB}Tinab" />
-      <name name="{=mWCY0aSL}Wara" />
-      <name name="{=CYXRzc1D}Wisan" />
-      <name name="{=528J5D3b}Yasmila" />
-      <name name="{=ieube15m}Zahara" />
-      <name name="{=wYPWlhme}Zandina" />
-      <name name="{=8RolYmff}Zuwaira" />
+      <name name="{=WOTFN001Illi}Adamatia" />
+      <name name="{=WOTFN002Illi}Aglaia" />
+      <name name="{=WOTFN003Illi}Aleka" />
+      <name name="{=WOTFN004Illi}Anna" />
+      <name name="{=WOTFN005Illi}Avra" />
+      <name name="{=WOTFN006Illi}Chara" />
+      <name name="{=WOTFN007Illi}Chrysa" />
+      <name name="{=WOTFN008Illi}Dafni" />
+      <name name="{=WOTFN009Illi}Demi" />
+      <name name="{=WOTFN010Illi}Domna" />
+      <name name="{=WOTFN011Illi}Efthalia" />
+      <name name="{=WOTFN012Illi}Elena" />
+      <name name="{=WOTFN013Illi}Flora" />
+      <name name="{=WOTFN014Illi}Galini" />
+      <name name="{=WOTFN015Illi}Iliana" />
+      <name name="{=WOTFN016Illi}Kaiti" />
+      <name name="{=WOTFN017Illi}Klio" />
+      <name name="{=WOTFN018Illi}Lena" />
+      <name name="{=WOTFN019Illi}Maria" />
+      <name name="{=WOTFN020Illi}Natasa" />
+      <name name="{=WOTFN021Illi}Nefeli" />
+      <name name="{=WOTFN022Illi}Pavlina" />
+      <name name="{=WOTFN023Illi}Sara" />
+      <name name="{=WOTFN024Illi}Sophia" />
+      <name name="{=WOTFN025Illi}Tasia" />
+      <name name="{=WOTFN026Illi}Valentina" />
+      <name name="{=WOTFN027Illi}Vasia" />
+      <name name="{=WOTFN028Illi}Xeni" />
+      <name name="{=WOTFN029Illi}Yanna" />
+      <name name="{=WOTFN030Illi}Zoi" />
     </female_names>
     <clan_names>
-      <name name="{=By82n3gR}Bani Aska" />
-      <name name="{=uwalgjVy}Bani Dhamin" />
-      <name name="{=86LT9H6v}Bani Fasus" />
-      <name name="{=c39lybQJ}Bani Julul" />
-      <name name="{=Iwe7Xpke}Bani Kinyan" />
-      <name name="{=irccq0qs}Bani Laikh" />
-      <name name="{=DygS1Bef}Bani Mushala" />
-      <name name="{=bgNQtbS7}Bani Nir" />
-      <name name="{=sAa3o3vw}Bani Tharuq" />
-      <name name="{=L4XUK5n4}Bani Yatash" />
-      <name name="{=WFfbxYu5}Bani Zus" />
+      <name name="{=WOTCN001Illi}Aesculapius" />
+      <name name="{=WOTCN002Illi}Agenor" />
+      <name name="{=WOTCN003Illi}Bacchus" />
+      <name name="{=WOTCN004Illi}Cefiro" />
+      <name name="{=WOTCN005Illi}Endymion" />
+      <name name="{=WOTCN006Illi}Helios" />
+      <name name="{=WOTCN007Illi}Kadmos" />
+      <name name="{=WOTCN008Illi}Leukippos" />
+      <name name="{=WOTCN009Illi}Oceanus" />
+      <name name="{=WOTCN010Illi}Perseus" />
+      <name name="{=WOTCN011Illi}Triton" />
+      <name name="{=WOTCN012Illi}Xanthus" />
     </clan_names>
     <cultural_feats>
-      <feat id="aserai_cheaper_caravans" />
-      <feat id="aserai_desert_speed" />
-      <feat id="aserai_increased_wages" />
+      <feat id="sturgian_decreased_cohesion_rate" />
+      <feat id="vlandian_renown_mercenary_income" />
+      <feat id="empire_slower_hearth_production" />
     </cultural_feats>
     <possible_clan_banner_icon_ids>
       <icon id="110" />
@@ -165,16 +141,7 @@
       <icon id="309" />
     </possible_clan_banner_icon_ids>
     <notable_and_wanderer_templates>
-      <template name="NPCCharacter.spc_wanderer_aserai_0" />
-      <template name="NPCCharacter.spc_wanderer_aserai_1" />
-      <template name="NPCCharacter.spc_wanderer_aserai_2" />
-      <template name="NPCCharacter.spc_wanderer_aserai_3" />
-      <template name="NPCCharacter.spc_wanderer_aserai_4" />
       <template name="NPCCharacter.spc_wanderer_aserai_5" />
-      <template name="NPCCharacter.spc_wanderer_aserai_6" />
-      <template name="NPCCharacter.spc_wanderer_aserai_7" />
-      <template name="NPCCharacter.spc_wanderer_aserai_8" />
-      <template name="NPCCharacter.spc_wanderer_aserai_9" />
       <template name="NPCCharacter.spc_wanderer_aserai_10" />
       <template name="NPCCharacter.spc_notable_aserai_0" />
       <template name="NPCCharacter.spc_notable_aserai_0b" />

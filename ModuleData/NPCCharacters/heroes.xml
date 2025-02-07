@@ -514,12 +514,12 @@
   <Hero id="lord_S9_m" faction="Faction.clan_sturgia_9" />
   <Hero id="lord_S9_c" faction="Faction.clan_sturgia_9" />
   <Hero id="lord_S9_u" faction="Faction.clan_sturgia_9" />
-  <Hero id="lordZanica" faction="Faction. clan_sturgia_9" />
-  <Hero id="lordTalva" faction="Faction. clan_sturgia_9" />
-  <Hero id="lordFeraSormen" faction="Faction. clan_sturgia_9" />
-  <Hero id="lordChaiRugan" faction="Faction. clan_sturgia_9" />
-  <Hero id="Olivia" faction="Faction. clan_sturgia_9" />
-  <Hero id="Demsela" faction="Faction. clan_sturgia_9" />
+  <Hero id="lordZanica" faction="Faction.clan_sturgia_9" />
+  <Hero id="lordTalva" faction="Faction.clan_sturgia_9" />
+  <Hero id="lordFeraSormen" faction="Faction.clan_sturgia_9" />
+  <Hero id="lordChaiRugan" faction="Faction.clan_sturgia_9" />
+  <Hero id="Olivia" faction="Faction.clan_sturgia_9" />
+  <Hero id="Demsela" faction="Faction.clan_sturgia_9" />
   <!-- Seanchan Heros -->
   <Hero id="SeanchanTuonAthaemKorePaendrag" faction="Faction.clan_Seanchan1" />
   <Hero id="AlmuratMor" faction="Faction.clan_Seanchan1" />

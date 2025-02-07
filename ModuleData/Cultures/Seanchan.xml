@@ -15,233 +15,146 @@
       <policy id="policy_senate" />
     </default_policies>
     <male_names>
-      <name name="{=v9B50R0Q}Acarion" />
-      <name name="{=aeLgc0cU}Acthon" />
-      <name name="{=tWDyWroN}Amnon" />
-      <name name="{=uTFjknE2}Andros" />
-      <name name="{=fXgftgNv}Aphanys" />
-      <name name="{=QjJAbaoT}Apys" />
-      <name name="{=zInIqBD0}Arenicos" />
-      <name name="{=W1uwgvAQ}Arion" />
-      <name name="{=5VzWRMTn}Artimendros" />
-      <name name="{=rGuYLmez}Ascyron" />
-      <name name="{=J1nh9YiN}Atilon" />
-      <name name="{=NBAGX54b}Avigos" />
-      <name name="{=9cDw6vPF}Cadomenos" />
-      <name name="{=R11i2uVl}Calytos" />
-      <name name="{=lD1sl2XC}Camnon" />
-      <name name="{=LP7yYoGQ}Caribos" />
-      <name name="{=VhbasI9J}Castor" />
-      <name name="{=VG9ng2n2}Chandion" />
-      <name name="{=aezwJGvY}Chenon" />
-      <name name="{=acp2IcMs}Crotor" />
-      <name name="{=XKxeaF0I}Dalidos" />
-      <name name="{=pCBkH35Q}Danos" />
-      <name name="{=2OJEyP0d}Dasys" />
-      <name name="{=SoTUisL3}Deltisos" />
-      <name name="{=2uKoNaSG}Denos" />
-      <name name="{=HfuAdGQX}Destor" />
-      <name name="{=lEHtUGed}Diocosos" />
-      <name name="{=5EiKEdi5}Dorion" />
-      <name name="{=yAZC6F7P}Ecsorios" />
-      <name name="{=hyOgAehG}Emarys" />
-      <name name="{=rUvnbDi2}Encurion" />
-      <name name="{=KjzJjj5n}Eronys" />
-      <name name="{=gYit4RTe}Euchor" />
-      <name name="{=oQCZp9qv}Eumenys" />
-      <name name="{=uW38UtSH}Eupitor" />
-      <name name="{=WfAuSpJq}Eutos" />
-      <name name="{=RyorjCXF}Galon" />
-      <name name="{=ZFlIT1tH}Ganimynos" />
-      <name name="{=f3hTGKIP}Garitops" />
-      <name name="{=nqxxr9We}Gavalon" />
-      <name name="{=iDxygnVF}Gerotheon" />
-      <name name="{=rFbAjSWM}Gorigos" />
-      <name name="{=NxDJcR2c}Haratheos" />
-      <name name="{=tgVJZ1Uc}Hecaron" />
-      <name name="{=wQJGxBJI}Hophtalamos" />
-      <name name="{=4lEEqyCg}Jacorios" />
-      <name name="{=DwzrsJxS}Jamanys" />
-      <name name="{=IU63oxWD}Jemynon" />
-      <name name="{=t1OpnZph}Jeremos" />
-      <name name="{=katzUyMI}Joron" />
-      <name name="{=GWaJ7Ksq}Joculos" />
-      <name name="{=iJvIH6NP}Jutheros" />
-      <name name="{=BCy1KpvR}Lacalion" />
-      <name name="{=6LMiTKZz}Lamenon" />
-      <name name="{=F13aYbuk}Lavalios" />
-      <name name="{=NFIQZOPQ}Leosios" />
-      <name name="{=lbTMVAcI}Lerosion" />
-      <name name="{=bHbR5Mgy}Losys" />
-      <name name="{=CbxLZdVg}Lycos" />
-      <name name="{=HCXHcBzT}Mattis" />
-      <name name="{=X21PahQn}Menaclys" />
-      <name name="{=am2UnbAK}Menor" />
-      <name name="{=tTuaiLS6}Meritor" />
-      <name name="{=qqW5n5Ox}Milos" />
-      <name name="{=5yFy4U4i}Morynon" />
-      <name name="{=ud6rhXbn}Mostiros" />
-      <name name="{=04zSjaRe}Nartiros" />
-      <name name="{=FF3dQKc1}Nethor" />
-      <name name="{=u1lTJoPO}Nemos" />
-      <name name="{=sDFb1PRI}Nortos" />
-      <name name="{=QGIAbglw}Obron" />
-      <name name="{=AEaRpupL}Ocheros" />
-      <name name="{=ZmQx4gT3}Olichor" />
-      <name name="{=pq0w8kry}Orachos" />
-      <name name="{=JFVseSa3}Oros" />
-      <name name="{=7UkzXWTQ}Osarios" />
-      <name name="{=cZIhxH9e}Pacarios" />
-      <name name="{=9sokmYMZ}Padmos" />
-      <name name="{=NXOOJs2X}Patrys" />
-      <name name="{=plx8kkxa}Pelicos" />
-      <name name="{=1cKxsHSh}Penton" />
-      <name name="{=vgBRa2BE}Poraclys" />
-      <name name="{=q186AQHt}Phadon" />
-      <name name="{=yhfJVEe0}Phelenos" />
-      <name name="{=LMWiJi6V}Phirentos" />
-      <name name="{=XZxIpCQH}Phorys" />
-      <name name="{=VJbAdJe4}Purios" />
-      <name name="{=M9CWBbMe}Rhanos" />
-      <name name="{=P1zsoSPN}Rhovarion" />
-      <name name="{=Ho6zsGTI}Sachanion" />
-      <name name="{=5eTb2xr7}Sanion" />
-      <name name="{=Zm4a2xsf}Salusios" />
-      <name name="{=egCbjHDT}Semnon" />
-      <name name="{=GeJobcre}Sinor" />
-      <name name="{=E4WhEvu7}Sotherys" />
-      <name name="{=FClEZIkT}Sovos" />
-      <name name="{=rVUhYuvE}Suterios" />
-      <name name="{=PDK4FHAx}Suvys" />
-      <name name="{=Axe5FkET}Talison" />
-      <name name="{=PR4IqkTW}Temeon" />
-      <name name="{=9xyXdX4I}Tharos" />
-      <name name="{=zfUhnG7y}Themestios" />
-      <name name="{=9mQuSI3c}Thucasys" />
-      <name name="{=P7iNhhPl}Turiados" />
-      <name name="{=kfNW01y5}Tynops" />
-      <name name="{=amlzciqP}Ucasios" />
-      <name name="{=wbJzSg3X}Ulbesos" />
-      <name name="{=SRncaw79}Urios" />
-      <name name="{=pRbKbPK3}Vadrios" />
-      <name name="{=TiJOjUi5}Valaos" />
-      <name name="{=5nEh20ju}Vasylops" />
-      <name name="{=VN1D1Qps}Velanor" />
-      <name name="{=QNtdUfis}Vemioros" />
-      <name name="{=bWb245zO}Voleos" />
-      <name name="{=aH2ncPbK}Zalasos" />
-      <name name="{=WTePYMNF}Zaraclys" />
-      <name name="{=p0hcyZdp}Zenon" />
-      <name name="{=3RBVn5yi}Zoros" />
-      <name name="{=uCyAnus4}Zostios" />
-      <name name="{=7hYr7jQ7}Leutros" />
-      <name name="{=e7dayl1i}Mavinon" />
-      <name name="{=3EZMoUlp}Narmys" />
-      <name name="{=PvoTcJHa}Naselos" />
-      <name name="{=QumqvLnP}Ochivos" />
-      <name name="{=gxHrt6bC}Phamynor" />
-      <name name="{=6IDmRZ5k}Phestos" />
-      <name name="{=ek1Q2TJz}Polon" />
+<name name="{=WOTMN001Sean}Kara" />
+<name name="{=WOTMN002Sean}Mehmed" />
+<name name="{=WOTMN003Sean}Mesud" />
+<name name="{=WOTMN004Sean}Ardashir" />
+<name name="{=WOTMN005Sean}Hormisdas" />
+<name name="{=WOTMN006Sean}Narseh" />
+<name name="{=WOTMN007Sean}Narses" />
+<name name="{=WOTMN008Sean}Papak" />
+<name name="{=WOTMN009Sean}Shahpuhr" />
+<name name="{=WOTMN010Sean}Warahran" />
+<name name="{=WOTMN011Sean}Alborz" />
+<name name="{=WOTMN012Sean}Alireza" />
+<name name="{=WOTMN013Sean}Arash" />
+<name name="{=WOTMN014Sean}Aref" />
+<name name="{=WOTMN015Sean}Asghar" />
+<name name="{=WOTMN016Sean}Babak" />
+<name name="{=WOTMN017Sean}Baraz" />
+<name name="{=WOTMN018Sean}Behnam" />
+<name name="{=WOTMN019Sean}Daniyal" />
+<name name="{=WOTMN020Sean}Dara" />
+<name name="{=WOTMN021Sean}Ehsan" />
+<name name="{=WOTMN022Sean}Eskandar" />
+<name name="{=WOTMN023Sean}Esmaeil" />
+<name name="{=WOTMN024Sean}Ghorban" />
+<name name="{=WOTMN025Sean}Golzar" />
+<name name="{=WOTMN026Sean}Ghasem" />
+<name name="{=WOTMN027Sean}Hasan" />
+<name name="{=WOTMN028Sean}Heydar" />
+<name name="{=WOTMN029Sean}Isa" />
+<name name="{=WOTMN030Sean}Jahan" />
+<name name="{=WOTMN031Sean}Jalal" />
+<name name="{=WOTMN032Sean}Javad" />
+<name name="{=WOTMN033Sean}Kamran" />
+<name name="{=WOTMN034Sean}Kaveh" />
+<name name="{=WOTMN035Sean}Khalil" />
+<name name="{=WOTMN036Sean}Kian" />
+<name name="{=WOTMN037Sean}Mahdi" />
+<name name="{=WOTMN038Sean}Mas’ud" />
+<name name="{=WOTMN039Sean}Meysam" />
+<name name="{=WOTMN040Sean}Morteza" />
+<name name="{=WOTMN041Sean}Nima" />
+<name name="{=WOTMN042Sean}Nasir" />
+<name name="{=WOTMN043Sean}Piruz" />
+<name name="{=WOTMN044Sean}Rahman" />
+<name name="{=WOTMN045Sean}Reza" />
+<name name="{=WOTMN046Sean}Rostam" />
+<name name="{=WOTMN047Sean}Saam" />
+<name name="{=WOTMN048Sean}Sam" />
+<name name="{=WOTMN049Sean}Shad" />
+<name name="{=WOTMN050Sean}Shapur" />
+<name name="{=WOTMN051Sean}Shir" />
+<name name="{=WOTMN052Sean}Siavash" />
+<name name="{=WOTMN053Sean}Taher" />
+<name name="{=WOTMN054Sean}Vahid" />
+<name name="{=WOTMN055Sean}Yahya" />
+<name name="{=WOTMN056Sean}Yasin" />
+<name name="{=WOTMN057Sean}Zahir" />
+<name name="{=WOTMN058Sean}Zartosht" />
+<name name="{=WOTMN059Sean}Zhubin" />
+<name name="{=WOTMN060Sean}Ziaeddin" />
     </male_names>
     <female_names>
-      <name name="{=h8DsXm7X}Achena" />
-      <name name="{=BNnLbOkN}Adinea" />
-      <name name="{=EGatdCLg}Alena" />
-      <name name="{=UPaP0B2L}Alchyla" />
-      <name name="{=QyXwJXIV}Andrasa" />
-      <name name="{=NM5f1Q6I}Ariada" />
-      <name name="{=3RbayfTG}Ascytala" />
-      <name name="{=bmHAYBwX}Catila" />
-      <name name="{=AdK4Ilzw}Chalia" />
-      <name name="{=xVSOKf0p}Chara" />
-      <name name="{=915frsPd}Corena" />
-      <name name="{=KPQqENbd}Carinila" />
-      <name name="{=BNuZ6nvd}Daniria" />
-      <name name="{=sEgUB3jW}Deasora" />
-      <name name="{=YBGCXSEx}Debana" />
-      <name name="{=93hivVp6}Donysa" />
-      <name name="{=0dHy2430}Echalera" />
-      <name name="{=Oy5dH7gZ}Elea" />
-      <name name="{=2YbgWjTK}Emyna" />
-      <name name="{=rA3KybBX}Ethirea" />
-      <name name="{=qiTtJyHE}Gala" />
-      <name name="{=fGmpS0Dr}Gandarina" />
-      <name name="{=ecJRFHyY}Gisetha" />
-      <name name="{=a6qaFH7L}Herena" />
-      <name name="{=LE9mRhSs}Hespedia" />
-      <name name="{=tGhrpQ0D}Hyradia" />
-      <name name="{=0MJi7mre}Hyscasia" />
-      <name name="{=JQdqGaaB}Isibala" />
-      <name name="{=RHXdqjQY}Ilina" />
-      <name name="{=HSlPLC4m}Ira" />
-      <name name="{=PNR2CvvX}Ithicala" />
-      <name name="{=eOHeCKxn}Jespara" />
-      <name name="{=6vtmYjTW}Jolanna" />
-      <name name="{=Ew69yN84}Juthys" />
-      <name name="{=028iCb8B}Jythea" />
-      <name name="{=Jif1C3X3}Laria" />
-      <name name="{=LX1YS9DW}Lasilea" />
-      <name name="{=2oy7atk6}Lundana" />
-      <name name="{=dwFZFQ6V}Lysica" />
-      <name name="{=2fYYfHUI}Martira" />
-      <name name="{=cqSaKXzl}Matha" />
-      <name name="{=Vxt0xTvV}Mavea" />
-      <name name="{=lgvtLEDA}Melchea" />
-      <name name="{=QvfUqzpF}Mina" />
-      <name name="{=11KckWau}Mitara" />
-      <name name="{=IJlw8V5D}Mystesa" />
-      <name name="{=uLjRHv9p}Nadea" />
-      <name name="{=hreO0wwb}Nerhea" />
-      <name name="{=04dAbdjM}Nyvia" />
-      <name name="{=dLOlnl8m}Palysira" />
-      <name name="{=pXBvPxHI}Penestea" />
-      <name name="{=FUT6eXfw}Phaea" />
-      <name name="{=WrAMfIG1}Phenoria" />
-      <name name="{=uYbmhjI6}Rhamira" />
-      <name name="{=BIAEZaVx}Rhandana" />
-      <name name="{=H7oJaxqM}Rhelasa" />
-      <name name="{=XMTD2clw}Rhoe" />
-      <name name="{=0XEaaoah}Rosazia" />
-      <name name="{=L9weGfoX}Salea" />
-      <name name="{=nSoJkeBI}Sittacea" />
-      <name name="{=V1QLbhRl}Sora" />
-      <name name="{=qMJ7UZvk}Surena" />
-      <name name="{=gmD9mgR1}Synira" />
-      <name name="{=Cxazvjr3}Tamarea" />
-      <name name="{=b2aRoXsb}Tessa" />
-      <name name="{=bQKbW8Tx}Thasyna" />
-      <name name="{=YVVCaQE5}Thera" />
-      <name name="{=CvVJyKYA}Thelea" />
-      <name name="{=jJV5Tn09}Tethyclesa" />
-      <name name="{=e4jAHUX0}Tymata" />
-      <name name="{=z2KE7glc}Thylea" />
-      <name name="{=3bIc2X2l}Vaminesa" />
-      <name name="{=VzhbUL60}Vendelia" />
-      <name name="{=a2ajWcI3}Viria" />
-      <name name="{=5VZ0GF6Y}Zalisa" />
-      <name name="{=wbLqHvjE}Zerosica" />
-      <name name="{=zxZH2WbD}Zimena" />
-      <name name="{=AccBcEIt}Zoana" />
+<name name="{=WOTFN001Sean}Hurrem" />
+<name name="{=WOTFN002Sean}Afina" />
+<name name="{=WOTFN003Sean}Denag" />
+<name name="{=WOTFN004Sean}Arya" />
+<name name="{=WOTFN005Sean}Dana" />
+<name name="{=WOTFN006Sean}Delshad" />
+<name name="{=WOTFN007Sean}Iman" />
+<name name="{=WOTFN008Sean}Mehr" />
+<name name="{=WOTFN009Sean}Omid" />
+<name name="{=WOTFN010Sean}Safa" />
+<name name="{=WOTFN011Sean}Afsun" />
+<name name="{=WOTFN012Sean}Anahita" />
+<name name="{=WOTFN013Sean}Arezu" />
+<name name="{=WOTFN014Sean}Asal" />
+<name name="{=WOTFN015Sean}Ava" />
+<name name="{=WOTFN016Sean}Azra" />
+<name name="{=WOTFN017Sean}Baran" />
+<name name="{=WOTFN018Sean}Darya" />
+<name name="{=WOTFN019Sean}Delara" />
+<name name="{=WOTFN020Sean}Elham" />
+<name name="{=WOTFN021Sean}Esmat" />
+<name name="{=WOTFN022Sean}Fariba" />
+<name name="{=WOTFN023Sean}Firuzeh" />
+<name name="{=WOTFN024Sean}Gol" />
+<name name="{=WOTFN025Sean}Gohar" />
+<name name="{=WOTFN026Sean}Hajar" />
+<name name="{=WOTFN027Sean}Hayat" />
+<name name="{=WOTFN028Sean}Jaleh" />
+<name name="{=WOTFN029Sean}Katayun" />
+<name name="{=WOTFN030Sean}Laleh" />
+<name name="{=WOTFN031Sean}Leila" />
+<name name="{=WOTFN032Sean}Leili" />
+<name name="{=WOTFN033Sean}Mahine" />
+<name name="{=WOTFN034Sean}Mahsa" />
+<name name="{=WOTFN035Sean}Mina" />
+<name name="{=WOTFN036Sean}Mitra" />
+<name name="{=WOTFN037Sean}Mozhdeh" />
+<name name="{=WOTFN038Sean}Nahid" />
+<name name="{=WOTFN039Sean}Nazli" />
+<name name="{=WOTFN040Sean}Neda" />
+<name name="{=WOTFN041Sean}Paniz" />
+<name name="{=WOTFN042Sean}Pari" />
+<name name="{=WOTFN043Sean}Ra’na" />
+<name name="{=WOTFN044Sean}Roshanara" />
+<name name="{=WOTFN045Sean}Saba" />
+<name name="{=WOTFN046Sean}Samira" />
+<name name="{=WOTFN047Sean}Shadi" />
+<name name="{=WOTFN048Sean}Sima" />
+<name name="{=WOTFN049Sean}Vida" />
+<name name="{=WOTFN050Sean}Zinat" />
     </female_names>
     <clan_names>
-      <name name="{=pRA9EzNv}Acapanos" />
-      <name name="{=ogq9oxDn}Angarys" />
-      <name name="{=MgDUudOx}Balastisos" />
-      <name name="{=Rvww4Kxi}Corstases" />
-      <name name="{=kWiQaFLM}Delicos" />
-      <name name="{=DiB4ukeK}Elysos" />
-      <name name="{=pUvrTrHT}Gessios" />
-      <name name="{=fsOUhzLv}Jalos" />
-      <name name="{=CuocGtTq}Lestharos" />
-      <name name="{=FVl3D2qT}Meones" />
-      <name name="{=fAKa9JfU}Nathanys" />
-      <name name="{=RhwPmahK}Opynates" />
-      <name name="{=OL6fbZRY}Paltos" />
-      <name name="{=HPrHkie6}Phenigos" />
-      <name name="{=DYdI0faN}Stracanasthes" />
-      <name name="{=g7etVhSO}Sumessos" />
-      <name name="{=oGf1fUpP}Therycos" />
-      <name name="{=AeNqteUX}Zebales" />
+<name name="{=WOTCN001Sean}Ahriman" />
+<name name="{=WOTCN002Sean}Amordad" />
+<name name="{=WOTCN003Sean}Anaitis" />
+<name name="{=WOTCN004Sean}Arzhang" />
+<name name="{=WOTCN005Sean}Bahman" />
+<name name="{=WOTCN006Sean}Fereydoun" />
+<name name="{=WOTCN007Sean}Gowad" />
+<name name="{=WOTCN008Sean}Haurvatat" />
+<name name="{=WOTCN009Sean}Hordad" />
+<name name="{=WOTCN010Sean}Khshaeta" />
+<name name="{=WOTCN011Sean}Xshaeta" />
+<name name="{=WOTCN012Sean}Katayoun" />
+<name name="{=WOTCN013Sean}Kaveh" />
+<name name="{=WOTCN014Sean}Khorshid" />
+<name name="{=WOTCN015Sean}Mehr" />
+<name name="{=WOTCN016Sean}Mithra" />
+<name name="{=WOTCN017Sean}Nahid" />
+<name name="{=WOTCN018Sean}Ormazd" />
+<name name="{=WOTCN019Sean}Rashnu" />
+<name name="{=WOTCN020Sean}Saam" />
+<name name="{=WOTCN021Sean}Siavash" />
+<name name="{=WOTCN022Sean}Tahmuras" />
+<name name="{=WOTCN023Sean}Tahmina" />
+<name name="{=WOTCN024Sean}Vata" />
+<name name="{=WOTCN025Sean}Vairya" />
+<name name="{=WOTCN026Sean}Zal" />
     </clan_names>
     <cultural_feats>
       <feat id="empire_decreased_garrison_wage" />
@@ -317,6 +230,12 @@
       <template name="NPCCharacter.spc_Seanchan_headman_1" />
       <template name="NPCCharacter.spc_Seanchan_headman_2" />
       <template name="NPCCharacter.spc_Seanchan_headman_3" />
+      <template name="NPCCharacter.spc_wanderer_empire_10" />
+      <template name="NPCCharacter.spc_wanderer_vlandia_9" />
+      <template name="NPCCharacter.spc_wanderer_aserai_2" />
+      <template name="NPCCharacter.spc_wanderer_aserai_1" />
+      <template name="NPCCharacter.spc_wanderer_battania_8" />
+      <template name="NPCCharacter.wanderer_seanchan_0" />
     </notable_and_wanderer_templates>
     <lord_templates>
       <template name="NPCCharacter.spc_Seanchan_mercenaries_leader_0" />

@@ -18,105 +18,155 @@
     <!--Welsh word order is like Arabic - Penmaenmawr/> head of the black stone-->
     <!--diphthongs - ae Caer = 'kire'. Io is yo-->
     <male_names>
-      <name name="{=VP9hqkxO}Aedid" />
-      <name name="{=5oRDaemv}Aeric" />
-      <name name="{=LpLL0m3O}Arlech" />
-      <name name="{=Z7GxyIaC}Borun" />
-      <name name="{=MpZCQ0z1}Breadan" />
-      <name name="{=RfxXnZ8Z}Cadugan" />
-      <name name="{=StJ9aR91}Cadfin" />
-      <name name="{=IkTCwsB8}Col" />
-      <name name="{=0CQgia2a}Culharn" />
-      <name name="{=T9bXZA0W}Cynac" />
-      <name name="{=vDGYMAmm}Dermot" />
-      <name name="{=9vBp5E0Q}Derngil" />
-      <name name="{=FNHFzVCU}Edwain" />
-      <name name="{=TLZKQSb1}Egan" />
-      <name name="{=cL1lO5iP}Ergeon" />
-      <name name="{=fydMDGtL}Fercread" />
-      <name name="{=6bBj5HgU}Garain" />
-      <name name="{=68JEMvYl}Griff" />
-      <name name="{=lMrP68Ba}Grynad" />
-      <name name="{=rTGmgm4b}Ioren" />
-      <name name="{=074bIPbm}Llum" />
-      <name name="{=bDMmX9YI}Luichan" />
-      <name name="{=K4UdL65N}Lyd" />
-      <name name="{=MNFMqV3n}Lyfris" />
-      <name name="{=d8D98oFG}Melidir" />
-      <name name="{=SFybYZNK}Mengus" />
-      <name name="{=tCTzsaIu}Muinser" />
-      <name name="{=6AwXDgIK}Mych" />
-      <name name="{=qhanbPZ9}Nal" />
-      <name name="{=bbJLOMhl}Pelisor" />
-      <name name="{=tHtt3HCn}Pryndor" />
-      <name name="{=rgskh3ve}Rhagyd" />
-      <name name="{=iTRV8m4Y}Rhylan" />
-      <name name="{=fG19XSVm}Rugan" />
-      <name name="{=Xnngcfg9}Sein" />
-      <name name="{=e52LPp57}Udris" />
-      <name name="{=TxKnmzwT}Urien" />
-      <name name="{=uAS832LM}Ydwin" />
+      <name name="{=WOTMN001Bord}Dawa" />
+      <name name="{=WOTMN002Bord}Dechan" />
+      <name name="{=WOTMN003Bord}Dorji" />
+      <name name="{=WOTMN004Bord}Gyatso" />
+      <name name="{=WOTMN005Bord}Kunzang" />
+      <name name="{=WOTMN006Bord}Norbu" />
+      <name name="{=WOTMN007Bord}Tashi" />
+      <name name="{=WOTMN008Bord}Tsering" />
+      <name name="{=WOTMN009Bord}Tshering" />
+      <name name="{=WOTMN010Bord}Wangchuk" />
+      <name name="{=WOTMN011Bord}Aditya" />
+      <name name="{=WOTMN012Bord}Amit" />
+      <name name="{=WOTMN013Bord}Anjan" />
+      <name name="{=WOTMN014Bord}Bahadur" />
+      <name name="{=WOTMN015Bord}Bal" />
+      <name name="{=WOTMN016Bord}Bhim" />
+      <name name="{=WOTMN017Bord}Dhruv" />
+      <name name="{=WOTMN018Bord}Durga" />
+      <name name="{=WOTMN019Bord}Hari" />
+      <name name="{=WOTMN020Bord}Kiran" />
+      <name name="{=WOTMN021Bord}Kishor" />
+      <name name="{=WOTMN022Bord}Lal" />
+      <name name="{=WOTMN023Bord}Madan" />
+      <name name="{=WOTMN024Bord}Niraj" />
+      <name name="{=WOTMN025Bord}Nirmal" />
+      <name name="{=WOTMN026Bord}Madhav" />
+      <name name="{=WOTMN027Bord}Ravi" />
+      <name name="{=WOTMN028Bord}Rishi" />
+      <name name="{=WOTMN029Bord}Shankar" />
+      <name name="{=WOTMN030Bord}Sushil" />
+      <name name="{=WOTMN031Bord}Suman" />
+      <name name="{=WOTMN032Bord}Akihito" />
+      <name name="{=WOTMN033Bord}Akio" />
+      <name name="{=WOTMN034Bord}Arata" />
+      <name name="{=WOTMN035Bord}Ayumu" />
+      <name name="{=WOTMN036Bord}Chikara" />
+      <name name="{=WOTMN037Bord}Daichi" />
+      <name name="{=WOTMN038Bord}Eiji" />
+      <name name="{=WOTMN039Bord}Fumio" />
+      <name name="{=WOTMN040Bord}Goro" />
+      <name name="{=WOTMN041Bord}Hachiro" />
+      <name name="{=WOTMN042Bord}Haruka" />
+      <name name="{=WOTMN043Bord}Hayate" />
+      <name name="{=WOTMN044Bord}Hideyoshi" />
+      <name name="{=WOTMN045Bord}Hinita" />
+      <name name="{=WOTMN046Bord}Hiroto" />
+      <name name="{=WOTMN047Bord}Isamu" />
+      <name name="{=WOTMN048Bord}Jiro" />
+      <name name="{=WOTMN049Bord}Katashi" />
+      <name name="{=WOTMN050Bord}Katsu" />
+      <name name="{=WOTMN051Bord}Katsuhito" />
+      <name name="{=WOTMN052Bord}Katsuo" />
+      <name name="{=WOTMN053Bord}Masaki" />
+      <name name="{=WOTMN054Bord}Michi" />
+      <name name="{=WOTMN055Bord}Naruhito" />
+      <name name="{=WOTMN056Bord}Satoshi" />
+      <name name="{=WOTMN057Bord}Takehiko" />
+      <name name="{=WOTMN058Bord}Tsukasa" />
+      <name name="{=WOTMN059Bord}Yori" />
+      <name name="{=WOTMN060Bord}Yudai" />
     </male_names>
     <female_names>
-      <name name="{=6pAsFGvw}Abeil" />
-      <name name="{=WuMGWUJ7}Addien" />
-      <name name="{=4Vd1TXpN}Anwyn" />
-      <name name="{=86L9ayRV}Athlian" />
-      <name name="{=ZgGnqkki}Beniseth" />
-      <name name="{=Wuiog2eu}Brigis" />
-      <name name="{=9WMeUGTy}Caelis" />
-      <name name="{=AYdwWae6}Ceatra" />
-      <name name="{=xqC8yfah}Cidre" />
-      <name name="{=gqJUdECJ}Daellian" />
-      <name name="{=Gwfb6O5O}Eira" />
-      <name name="{=jwcpnm8K}Eidenor" />
-      <name name="{=7uj8QoPA}Fetheir" />
-      <name name="{=w1a9E7a9}Fiasyn" />
-      <name name="{=2s7Tb4NC}Fionara" />
-      <name name="{=TWykLiFB}Gweth" />
-      <name name="{=VWSA8EVV}Gwennein" />
-      <name name="{=p4BMhcsQ}Iara" />
-      <name name="{=tTmqewol}Ifrain" />
-      <name name="{=6LRFHHqT}Imulir" />
-      <name name="{=Ma855h44}Iona" />
-      <name name="{=pVGKlS3W}Istiona" />
-      <name name="{=ODSf45wh}Leadh" />
-      <name name="{=RZ5bYYmX}Lisaradh" />
-      <name name="{=WNu6dKHe}Lliari" />
-      <name name="{=jMPWSzAi}Loen" />
-      <name name="{=rtljufhM}Mariwyn" />
-      <name name="{=eCCuztOS}Moera" />
-      <name name="{=iNFahwv3}Nia" />
-      <name name="{=gU5cMdTT}Norena" />
-      <name name="{=YEqDIbir}Oana" />
-      <name name="{=jCrbe08Y}Olawyn" />
-      <name name="{=h6dabKXz}Reissen" />
-      <name name="{=aYr6ovxb}Rhagin" />
-      <name name="{=ncEWiljT}Rhia" />
-      <name name="{=SVruYnYb}Selag" />
-      <name name="{=Y49TwXg4}Sionna" />
-      <name name="{=Fe90zVYF}Soeras" />
-      <name name="{=W4VYqLYc}Veraghid" />
-      <name name="{=UtfVuNN0}Vivein" />
-      <name name="{=vb2rv3OK}Una" />
-      <name name="{=PlGiSfwr}Ylen" />
+      <name name="{=WOTFN001Bord}Jamyang" />
+      <name name="{=WOTFN002Bord}Lhamo" />
+      <name name="{=WOTFN003Bord}Pema" />
+      <name name="{=WOTFN004Bord}Sonam" />
+      <name name="{=WOTFN005Bord}Passang" />
+      <name name="{=WOTFN006Bord}Amita" />
+      <name name="{=WOTFN007Bord}Anita" />
+      <name name="{=WOTFN008Bord}Anjali" />
+      <name name="{=WOTFN009Bord}Devaki" />
+      <name name="{=WOTFN010Bord}Geeta" />
+      <name name="{=WOTFN011Bord}Hira" />
+      <name name="{=WOTFN012Bord}Jyoti" />
+      <name name="{=WOTFN013Bord}Kalpana" />
+      <name name="{=WOTFN014Bord}Kamala" />
+      <name name="{=WOTFN015Bord}Maya" />
+      <name name="{=WOTFN016Bord}Namrata" />
+      <name name="{=WOTFN017Bord}Nirmala" />
+      <name name="{=WOTFN018Bord}Rachana" />
+      <name name="{=WOTFN019Bord}Sarita" />
+      <name name="{=WOTFN020Bord}Sita" />
+      <name name="{=WOTFN021Bord}Tara" />
+      <name name="{=WOTFN022Bord}Usha" />
+      <name name="{=WOTFN023Bord}Sushila" />
+      <name name="{=WOTFN024Bord}Aiko" />
+      <name name="{=WOTFN025Bord}Aimi" />
+      <name name="{=WOTFN026Bord}Atsuko" />
+      <name name="{=WOTFN027Bord}Chika" />
+      <name name="{=WOTFN028Bord}Choko" />
+      <name name="{=WOTFN029Bord}Eiko" />
+      <name name="{=WOTFN030Bord}Emiko" />
+      <name name="{=WOTFN031Bord}Fumie" />
+      <name name="{=WOTFN032Bord}Hanae" />
+      <name name="{=WOTFN033Bord}Haruka" />
+      <name name="{=WOTFN034Bord}Izumi" />
+      <name name="{=WOTFN035Bord}Kanako" />
+      <name name="{=WOTFN036Bord}Kei" />
+      <name name="{=WOTFN037Bord}Kimiko" />
+      <name name="{=WOTFN038Bord}Manami" />
+      <name name="{=WOTFN039Bord}Masako" />
+      <name name="{=WOTFN040Bord}Noa" />
+      <name name="{=WOTFN041Bord}Rei" />
+      <name name="{=WOTFN042Bord}Riko" />
+      <name name="{=WOTFN043Bord}Saori" />
+      <name name="{=WOTFN044Bord}Shion" />
+      <name name="{=WOTFN045Bord}Takara" />
+      <name name="{=WOTFN046Bord}Tsuru" />
+      <name name="{=WOTFN047Bord}Ume" />
+      <name name="{=WOTFN048Bord}Yasu" />
+      <name name="{=WOTFN049Bord}Yua" />
+      <name name="{=WOTFN050Bord}Yuna" />
     </female_names>
     <clan_names>
-      <name name="{=ppQbB9BH}fen Aertus" />
-      <name name="{=T1xNyk3H}fen Brachar" />
-      <name name="{=CYxjotI2}fen Crusac" />
-      <name name="{=begCei6W}fen Domus" />
-      <name name="{=iQbFDpKT}fen Earach" />
-      <name name="{=SQji7Ek8}fen Fiachan" />
-      <name name="{=GBfFp7bW}fen Loen" />
-      <name name="{=T1mpRVib}fen Morain" />
-      <name name="{=rjew3J8a}fen Seanel" />
-      <name name="{=MHT9jCqB}fen Tuil" />
+      <name name="{=WOTCN001Bord}Amaterasu" />
+      <name name="{=WOTCN002Bord}Fujin" />
+      <name name="{=WOTCN003Bord}Inari" />
+      <name name="{=WOTCN004Bord}Izanagi" />
+      <name name="{=WOTCN005Bord}Izanami" />
+      <name name="{=WOTCN006Bord}Jimmu" />
+      <name name="{=WOTCN007Bord}Okuninushi" />
+      <name name="{=WOTCN008Bord}Raiden" />
+      <name name="{=WOTCN009Bord}Raijin" />
+      <name name="{=WOTCN010Bord}Sujin" />
+      <name name="{=WOTCN011Bord}Susanoo" />
+      <name name="{=WOTCN012Bord}Tsukuyomi" />
+      <name name="{=WOTCN013Bord}Dumuzid" />
+      <name name="{=WOTCN014Bord}Nanaya" />
+      <name name="{=WOTCN015Bord}Ninisina" />
+      <name name="{=WOTCN016Bord}Zababa" />
+      <name name="{=WOTCN017Bord}Baihu" />
+      <name name="{=WOTCN018Bord}Caishan" />
+      <name name="{=WOTCN019Bord}Mulan" />
+      <name name="{=WOTCN020Bord}Pangu" />
+      <name name="{=WOTCN021Bord}Gautama" />
+      <name name="{=WOTCN022Bord}Rahula" />
+      <name name="{=WOTCN023Bord}Sujata" />
+      <name name="{=WOTCN024Bord}Charna" />
+      <name name="{=WOTCN025Bord}Chatzkel" />
+      <name name="{=WOTCN026Bord}Haskel" />
+      <name name="{=WOTCN027Bord}Leeba" />
+      <name name="{=WOTCN028Bord}Moishi" />
+      <name name="{=WOTCN029Bord}Shaindel" />
+      <name name="{=WOTCN030Bord}Sheine" />
     </clan_names>
     <cultural_feats>
-      <feat id="battanian_forest_speed" />
-      <feat id="battanian_militia_production" />
-      <feat id="battanian_slower_construction" />
+      <feat id="khuzait_cheaper_recruits_mounted" />
+      <feat id="khuzait_increased_animal_production" />
+      <feat id="khuzait_decreased_town_tax" />
     </cultural_feats>
     <possible_clan_banner_icon_ids>
       <icon id="131" />
@@ -139,16 +189,9 @@
       <icon id="415" />
     </possible_clan_banner_icon_ids>
     <notable_and_wanderer_templates>
-      <template name="NPCCharacter.spc_wanderer_battania_0" />
-      <template name="NPCCharacter.spc_wanderer_battania_1" />
-      <template name="NPCCharacter.spc_wanderer_battania_2" />
-      <template name="NPCCharacter.spc_wanderer_battania_3" />
-      <template name="NPCCharacter.spc_wanderer_battania_4" />
-      <template name="NPCCharacter.spc_wanderer_battania_5" />
-      <template name="NPCCharacter.spc_wanderer_battania_6" />
-      <template name="NPCCharacter.spc_wanderer_battania_7" />
-      <template name="NPCCharacter.spc_wanderer_battania_8" />
-      <template name="NPCCharacter.spc_wanderer_battania_9" />
+      <template name="NPCCharacter.spc_wanderer_khuzait_6" />
+      <template name="NPCCharacter.spc_wanderer_khuzait_4" />
+      <template name="NPCCharacter.spc_wanderer_sturgia_1" />
       <template name="NPCCharacter.spc_notable_battania_merchant_1" />
       <template name="NPCCharacter.spc_notable_battania_0b" />
       <template name="NPCCharacter.spc_notable_battania_0c" />

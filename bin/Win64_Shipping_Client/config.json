@@ -1,0 +1,24 @@
+{
+  "faceIndex50": [ "scn_Wotbattlescene1", "scn_Wotbattlescene3Halfforestbarren", "wot_barren_blight_variant_a", "wot_barren_blight_variant_b", "wot_barren_blight_variant_c"],
+  "faceIndex51": [ "scn_Wotbattlescene1", "scn_Wotbattlescene3Halfforestbarren", "wot_barren_blight_variant_a", "wot_barren_blight_variant_b", "wot_barren_blight_variant_c" ],
+  "faceIndex52": [ "wot_barren_blight_variant_a", "wot_barren_blight_variant_b", "wot_barren_blight_variant_c" ],
+  "faceIndex53": [ "scn_Wotbattlescene1", "scn_Wotbattlescene3Halfforestbarren", "wot_barren_blight_variant_a", "wot_barren_blight_variant_b", "wot_barren_blight_variant_c" ],
+  "faceIndex54": [ "scn_Wotbattlescene2Blightforest2", "wot_forest_blight_variant_a" , "wot_forest_blight_variant_b"],
+  "faceIndex55": [ "scn_Wotbattlescene2Blightforest2", "wot_forest_blight_variant_a", "wot_forest_blight_variant_b" ],
+  "faceIndex56": [ "scn_Wotbattlescene4tropicalswamp", "scn_Wotbattlescene4tropicalswamp"],
+  "faceIndex57": [ "wot_barren_blight_variant_a", "wot_barren_blight_variant_b" ],
+  "faceIndex58": [ "scn_Wotbattlescene4tropicalswamp", "scn_Wotbattlescene4tropicalswamp"],
+  "faceIndex59": [ "scn_Wotbattlescene4tropicalswamp", "scn_Wotbattlescene4tropicalswamp" ],
+
+  "faceIndex1": [ "battle_terrain_030", "battle_terrain_032", "battle_terrain_012", "battle_terrain_013", "battle_terrain_014", "battle_terrain_015", "battle_terrain_017", "battle_terrain_018", "battle_terrain_020", "battle_terrain_011", "battle_terrain_016", "battle_terrain_019",  "battle_terrain_021", "battle_terrain_023", "battle_terrain_027"],
+  "faceIndex2": [  "battle_terrain_010", "battle_terrain_022", "battle_terrain_008", "battle_terrain_009"],     
+  "faceIndex3": [  "battle_terrain_035"],  
+  "faceIndex4": [ "battle_terrain_003", "battle_terrain_001", "battle_terrain_004", "battle_terrain_024", "battle_terrain_025", "battle_terrain_026", "battle_terrain_028", "battle_terrain_029"],
+  "faceIndex5": [ "battle_terrain_008", "battle_terrain_009", "battle_terrain_012", "battle_terrain_013", "battle_terrain_014", "battle_terrain_015", "battle_terrain_017", "battle_terrain_018", "battle_terrain_020" ],
+  "faceIndex7": [ "battle_terrain_006", "battle_terrain_007","battle_terrain_031", "battle_terrain_033"],
+  "faceIndex10": [ "battle_terrain_003" ]
+  
+
+
+  
+}

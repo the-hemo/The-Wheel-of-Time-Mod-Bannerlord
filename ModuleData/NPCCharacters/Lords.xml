@@ -8105,7 +8105,7 @@
       <EquipmentSet id="stu_civ_template_default" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lordChaiRugan" name="{=lordChaiRugan} Chai Rugan" age="48" voice="curt" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sturgia" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lordChaiRugan" name="{=lordChaiRugan}Chai Rugan" age="48" voice="curt" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sturgia" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" weight="0.3" build="0.554" key="0000400890A0300A4A768CA3AAA5765D7A55444685D6AC2A856B544CB8B9587801B776130BC746C60000000000000000000000000000000000000000517C1003" />
     </face>
@@ -8125,7 +8125,7 @@
       <EquipmentSet id="stu_civ_template_default" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lordRamola" name="{=lordRamola} Ramola" age="48" voice="curt" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sturgia" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lordRamola" name="{=lordRamola}Ramola" age="48" voice="curt" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sturgia" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" weight="0.3" build="0.554" key="0000400890A0300A4A768CA3AAA5765D7A55444685D6AC2A856B544CB8B9587801B776130BC746C60000000000000000000000000000000000000000517C1003" />
     </face>

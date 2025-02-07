@@ -15,144 +15,130 @@
       <policy id="policy_precarial_land_tenure" />
     </default_policies>
     <male_names>
-      <name name="{=jVPr0ZzB}Achyr" />
-      <name name="{=iFJbnbCQ}Agdil" />
-      <name name="{=pqlMxWoM}Alek" />
-      <name name="{=bNj9gI2y}Astin" />
-      <name name="{=oyxam3bN}Blag" />
-      <name name="{=KbIHavJj}Borabos" />
-      <name name="{=38o99yqa}Borcha" />
-      <name name="{=zYAl76GW}Borytor" />
-      <name name="{=ODVepnRR}Bylorn" />
-      <name name="{=6FebKbCp}Chel" />
-      <name name="{=0ZXMKL4M}Chavil" />
-      <name name="{=ORJZJYt7}Churig" />
-      <name name="{=eYY8319F}Dalibol" />
-      <name name="{=CoYOwpLP}Davan" />
-      <name name="{=YdMwMdyf}Dumat" />
-      <name name="{=z3rmbOSO}Gavyn" />
-      <name name="{=pfAkvdYc}Gorgi" />
-      <name name="{=J5kC0K3W}Gutrag" />
-      <name name="{=aYiL7eDM}Ilmir" />
-      <name name="{=ZkaaXxeB}Isvan" />
-      <name name="{=WNb0Bw0e}Kavyl" />
-      <name name="{=bzXmtoC6}Koleg" />
-      <name name="{=BGHBvAK1}Kulyat" />
-      <name name="{=FkbO2Abd}Kras" />
-      <name name="{=fYN6Aawl}Kyraslav" />
-      <name name="{=HxKE18yl}Lasvak" />
-      <name name="{=KBq7aQRa}Lek" />
-      <name name="{=Py1Jj5mB}Lorik" />
-      <name name="{=bzaLf3EU}Magan" />
-      <name name="{=BD4XeP07}Mikri" />
-      <name name="{=vPlwv7Vj}Miloch" />
-      <name name="{=Xo1ZwCmu}Mor" />
-      <name name="{=G92bovut}Mornid" />
-      <name name="{=hWKKCdeX}Mulum" />
-      <name name="{=DkXPe3A3}Nevig" />
-      <name name="{=A2AYaNWM}Orig" />
-      <name name="{=EUQTT8so}Oshir" />
-      <name name="{=CSizDomP}Ospak" />
-      <name name="{=cv1QgU1H}Pazhel" />
-      <name name="{=M1ORaYny}Pol" />
-      <name name="{=4KZXSIjc}Porev" />
-      <name name="{=eMcQ35QA}Radul" />
-      <name name="{=rahYvT3x}Ragnar" />
-      <name name="{=iOYRpw24}Ratagost" />
-      <name name="{=jACaGLM5}Salulk" />
-      <name name="{=XDAQgjpH}Simir" />
-      <name name="{=rtHgoGvb}Sivur" />
-      <name name="{=5YsDdW9s}Sorgard" />
-      <name name="{=mfu9UqLL}Shemyr" />
-      <name name="{=tOmtchNx}Tanir" />
-      <name name="{=B7zKKiYQ}Tatik" />
-      <name name="{=tp3yvlYW}Temyr" />
-      <name name="{=gzej3EbY}Tulvo" />
-      <name name="{=4ABVdxKn}Tyl" />
-      <name name="{=7T5z6N7e}Ulaslav" />
-      <name name="{=wlwVPqjP}Uln" />
-      <name name="{=uDlnsFIF}Urik" />
-      <name name="{=jqaPJbpP}Urgil" />
-      <name name="{=htJuLron}Varag" />
-      <name name="{=cjYLX7sZ}Valishin" />
-      <name name="{=e6goEM5b}Valdym" />
-      <name name="{=cpkNaEmz}Vaton" />
-      <name name="{=hy7mIh48}Vidar" />
-      <name name="{=kEw7yody}Volg" />
-      <name name="{=t0TXa7Fp}Vuldrat" />
-      <name name="{=bU46gvya}Vulfyr" />
-      <name name="{=OABjrV1T}Vyoshen" />
-      <name name="{=j6K4Z1L6}Yalyr" />
-      <name name="{=NAVXhanI}Yarli" />
-      <name name="{=agn93v7y}Yorig" />
-      <name name="{=XxSD6GAu}Yun" />
-      <name name="{=zLl1UEYM}Zhem" />
-      <name name="{=Fn064VUZ}Zhutyr" />
-      <name name="{=25zTek7a}Alakhir" />
-      <name name="{=wf4cGf3B}Bovidor" />
-      <name name="{=6hCz0ZFN}Byram" />
-      <name name="{=AMbdha2J}Chemnir" />
-      <name name="{=pvuNmZF8}Ivulis" />
-      <name name="{=m8dVlsEy}Khym" />
-      <name name="{=Av5aCluG}Svato" />
-      <name name="{=SvyDUmw3}Vyanimir" />
-      <name name="{=oPmn1SHy}Zuvan" />
-      <name name="{=bLY1zbNI}Zvatim" />
+<name name="{=WOTMN001Mixs}Archard" />
+<name name="{=WOTMN002Mixs}Aengus" />
+<name name="{=WOTMN003Mixs}Arlotto" />
+<name name="{=WOTMN004Mixs}Bate" />
+<name name="{=WOTMN005Mixs}Bogumir" />
+<name name="{=WOTMN006Mixs}Bradan" />
+<name name="{=WOTMN007Mixs}Col" />
+<name name="{=WOTMN008Mixs}Cunmin" />
+<name name="{=WOTMN009Mixs}Daw" />
+<name name="{=WOTMN010Mixs}Dmitrii" />
+<name name="{=WOTMN011Mixs}Elric" />
+<name name="{=WOTMN012Mixs}Eudes" />
+<name name="{=WOTMN013Mixs}Firmin" />
+<name name="{=WOTMN014Mixs}Garsea" />
+<name name="{=WOTMN015Mixs}Gjurd" />
+<name name="{=WOTMN016Mixs}Gomes" />
+<name name="{=WOTMN017Mixs}Hamo" />
+<name name="{=WOTMN018Mixs}Hann" />
+<name name="{=WOTMN019Mixs}Hob" />
+<name name="{=WOTMN020Mixs}Igori" />
+<name name="{=WOTMN021Mixs}Jan" />
+<name name="{=WOTMN022Mixs}Jehan" />
+<name name="{=WOTMN023Mixs}Kirilu" />
+<name name="{=WOTMN024Mixs}Larkin" />
+<name name="{=WOTMN025Mixs}Lorenico" />
+<name name="{=WOTMN026Mixs}Mack" />
+<name name="{=WOTMN027Mixs}Mojmir" />
+<name name="{=WOTMN028Mixs}Nicol" />
+<name name="{=WOTMN029Mixs}Nuno" />
+<name name="{=WOTMN030Mixs}Ode" />
+<name name="{=WOTMN031Mixs}Onfroi" />
+<name name="{=WOTMN032Mixs}Piers" />
+<name name="{=WOTMN033Mixs}Priboslav" />
+<name name="{=WOTMN034Mixs}Ragnall" />
+<name name="{=WOTMN035Mixs}Roul" />
+<name name="{=WOTMN036Mixs}Sanjar" />
+<name name="{=WOTMN037Mixs}Stanislaus" />
+<name name="{=WOTMN038Mixs}Tancred" />
+<name name="{=WOTMN039Mixs}Temur" />
+<name name="{=WOTMN040Mixs}Trahern" />
+<name name="{=WOTMN041Mixs}Tudur" />
+<name name="{=WOTMN042Mixs}Vasilii" />
+<name name="{=WOTMN043Mixs}Velasco" />
+<name name="{=WOTMN044Mixs}Vitislav" />
+<name name="{=WOTMN045Mixs}Wace" />
+<name name="{=WOTMN046Mixs}Wilmot" />
+<name name="{=WOTMN047Mixs}Yrian" />
+<name name="{=WOTMN048Mixs}Zuan" />
+<name name="{=WOTMN049Mixs}Sans" />
+<name name="{=WOTMN050Mixs}Ranulf" />
+<name name="{=WOTMN051Mixs}Pate" />
+<name name="{=WOTMN052Mixs}Nascimbene" />
+<name name="{=WOTMN053Mixs}Maelgwn" />
+<name name="{=WOTMN054Mixs}Khubilai" />
+<name name="{=WOTMN055Mixs}Jurian" />
+<name name="{=WOTMN056Mixs}Jankin" />
+<name name="{=WOTMN057Mixs}Hudde" />
+<name name="{=WOTMN058Mixs}Gwenhael" />
+<name name="{=WOTMN059Mixs}Geoffroi" />
+<name name="{=WOTMN060Mixs}Elis" />
     </male_names>
     <female_names>
-      <name name="{=vz038vX7}Achita" />
-      <name name="{=UaOynysV}Agna" />
-      <name name="{=WP63fA7r}Alkirya" />
-      <name name="{=XqcD0WEu}Asta" />
-      <name name="{=daulkQvv}Brinya" />
-      <name name="{=VaqB0x4K}Dranga" />
-      <name name="{=scCmMFeI}Ekadrya" />
-      <name name="{=9pnUaj0g}Elyaksha" />
-      <name name="{=yNSLGTYc}Erta" />
-      <name name="{=YahyjyK5}Gudra" />
-      <name name="{=Q8gCUmQq}Gyn" />
-      <name name="{=Z5NIRUPc}Idruna" />
-      <name name="{=7n7V9Va5}Irya" />
-      <name name="{=4Su3mMpd}Ivaren" />
-      <name name="{=6fbD85kZ}Kara" />
-      <name name="{=RrdzC0Mx}Kalata" />
-      <name name="{=AMmJVlrt}Kyraslava" />
-      <name name="{=8Rirvd8I}Laska" />
-      <name name="{=cxNCgqkI}Litka" />
-      <name name="{=7Lkbtnet}Luvina" />
-      <name name="{=yhCgI9ph}Magna" />
-      <name name="{=9SJa91sZ}Marena" />
-      <name name="{=R1yWuIzd}Melya" />
-      <name name="{=C4akgRTN}Milisa" />
-      <name name="{=Bt4MdhYE}Olguna" />
-      <name name="{=OQLPPwrL}Osea" />
-      <name name="{=Ao69q2aY}Pera" />
-      <name name="{=DfZ5oi0O}Ragna" />
-      <name name="{=2Bh8DS8S}Siga" />
-      <name name="{=sIBcdaxD}Soren" />
-      <name name="{=b2d9BYxT}Svana" />
-      <name name="{=qu9adIvZ}Talya" />
-      <name name="{=zAC87rrQ}Tora" />
-      <name name="{=r28vZDkN}Vara" />
-      <name name="{=5o1bM9G0}Vasinya" />
-      <name name="{=t6e4wphB}Veta" />
-      <name name="{=qUJhzsb1}Yagada" />
-      <name name="{=X4ZS4q8L}Yasna" />
-      <name name="{=meNjBd0K}Zanya" />
-      <name name="{=R1JECC9r}Zhira" />
-      <name name="{=Lv753Nnn}Zylata" />
+<name name="{=WOTFN001Mixs}Aalis" />
+<name name="{=WOTFN002Mixs}Aithbhreac" />
+<name name="{=WOTFN003Mixs}Aldith" />
+<name name="{=WOTFN004Mixs}Aldreda" />
+<name name="{=WOTFN005Mixs}Aldus" />
+<name name="{=WOTFN006Mixs}Amee" />
+<name name="{=WOTFN007Mixs}Amelia" />
+<name name="{=WOTFN008Mixs}Amice" />
+<name name="{=WOTFN009Mixs}Cateline" />
+<name name="{=WOTFN010Mixs}Diot" />
+<name name="{=WOTFN011Mixs}Dye" />
+<name name="{=WOTFN012Mixs}Eda" />
+<name name="{=WOTFN013Mixs}Etheldred" />
+<name name="{=WOTFN014Mixs}Ethelfleda" />
+<name name="{=WOTFN015Mixs}Hawise" />
+<name name="{=WOTFN016Mixs}Ibb" />
+<name name="{=WOTFN017Mixs}Isabeau" />
+<name name="{=WOTFN018Mixs}Jehanne" />
+<name name="{=WOTFN019Mixs}Jocosa" />
+<name name="{=WOTFN020Mixs}Johanne" />
+<name name="{=WOTFN021Mixs}Malle" />
+<name name="{=WOTFN022Mixs}Matty" />
+<name name="{=WOTFN023Mixs}Melisende" />
+<name name="{=WOTFN024Mixs}Rohesia" />
+<name name="{=WOTFN025Mixs}Oliga" />
+<name name="{=WOTFN026Mixs}Tatjana" />
+<name name="{=WOTFN027Mixs}Terese" />
+<name name="{=WOTFN028Mixs}Sens" />
+<name name="{=WOTFN029Mixs}Sunnifa" />
+<name name="{=WOTFN030Mixs}Una" />
+<name name="{=WOTFN031Mixs}Justina" />
+<name name="{=WOTFN032Mixs}Katre" />
+<name name="{=WOTFN033Mixs}Larisa" />
+<name name="{=WOTFN034Mixs}Marina" />
+<name name="{=WOTFN035Mixs}Nina" />
+<name name="{=WOTFN036Mixs}Ona" />
+<name name="{=WOTFN037Mixs}Rasa" />
+<name name="{=WOTFN038Mixs}Rusne" />
+<name name="{=WOTFN039Mixs}Ozlem" />
+<name name="{=WOTFN040Mixs}Peri" />
     </female_names>
     <clan_names>
-      <name name="{=OLLYkaWd}Asraloving" />
-      <name name="{=yUuM8a0j}Boranoving" />
-      <name name="{=euyyBbjq}Folyoroving" />
-      <name name="{=ODcWVL1a}Gendiroving" />
-      <name name="{=UYqwbjTP}Iskanoving" />
-      <name name="{=z2Oqk8aq}Maregoving" />
-      <name name="{=lpbIXNdK}Suratoving" />
-      <name name="{=RFapQLfR}Vyshoving" />
-      <name name="{=gC1paDtD}Yerchoving" />
-      <name name="{=qD72Ya4I}Zhanoving" />
+<name name="{=WOTCN001Mixs}Batraz" />
+<name name="{=WOTCN002Mixs}Sosruko" />
+<name name="{=WOTCN003Mixs}Herlequin" />
+<name name="{=WOTCN004Mixs}Yeruslan" />
+<name name="{=WOTCN005Mixs}Mael Coluim" />
+<name name="{=WOTCN006Mixs}Mael Isu" />
+<name name="{=WOTCN007Mixs}Pridbjorn" />
+<name name="{=WOTCN008Mixs}Suero" />
+<name name="{=WOTCN009Mixs}Tsagadai" />
+<name name="{=WOTCN010Mixs}Uaithne" />
+<name name="{=WOTCN011Mixs}Amphelise" />
+<name name="{=WOTCN012Mixs}Kinborough" />
+<name name="{=WOTCN013Mixs}Mahaut" />
+<name name="{=WOTCN014Mixs}Tangwystl" />
+<name name="{=WOTCN015Mixs}Saelaith" />
+<name name="{=WOTCN016Mixs}Mesud" />
+<name name="{=WOTCN017Mixs}Arzhang" />
+<name name="{=WOTCN018Mixs}Sohrab" />
+<name name="{=WOTCN019Mixs}Cefiro" />
+<name name="{=WOTCN020Mixs}Endymion" />
     </clan_names>
     <cultural_feats>
       <feat id="sturgian_cheaper_recruits_infantry" />
@@ -184,7 +170,12 @@
       <icon id="445" />
     </possible_clan_banner_icon_ids>
     <notable_and_wanderer_templates>
-      <template name="NPCCharacter.wanderer_shadow1" />
+      <template name="NPCCharacter.spc_wanderer_sturgia_6" />
+      <template name="NPCCharacter.spc_wanderer_sturgia_5" />
+      <template name="NPCCharacter.spc_wanderer_sturgia_7" />
+      <template name="NPCCharacter.spc_wanderer_sturgia_0" />
+      <template name="NPCCharacter.spc_wanderer_vlandia_4" />
+      <template name="NPCCharacter.wanderer_shadow_0" />
       <template name="NPCCharacter.spc_notable_shadow_0" />
       <template name="NPCCharacter.spc_notable_shadow_0b" />
       <template name="NPCCharacter.spc_notable_shadow_1" />

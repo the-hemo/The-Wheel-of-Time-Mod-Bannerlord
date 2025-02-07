@@ -16,171 +16,95 @@
       <policy id="policy_castle_charters" />
     </default_policies>
     <male_names>
-      <name name="{=fUQlCkCQ}Anbard" />
-      <name name="{=bHTdXTwC}Alary" />
-      <name name="{=8bWBc3sK}Alayen" />
-      <name name="{=vEsKYrFR}Aldric" />
-      <name name="{=8C19nvLL}Althegar" />
-      <name name="{=D6sMSANW}Amalgun" />
-      <name name="{=IpC3oUbT}Amaldulf" />
-      <name name="{=8SBw5PzN}Armund" />
-      <name name="{=ZM8fmXGb}Badulf" />
-      <name name="{=Gv5vdqxI}Borvald" />
-      <name name="{=muB0Y0iv}Bothero" />
-      <name name="{=dP5A3wwT}Boscoric" />
-      <name name="{=PwflQ4dc}Brand" />
-      <name name="{=pUQgrcQo}Brun" />
-      <name name="{=83e9F9bC}Brungalther" />
-      <name name="{=MN8aE2yP}Caroger" />
-      <name name="{=swzCKty3}Carsten" />
-      <name name="{=4mUKn5Hg}Cherald" />
-      <name name="{=1JgWclmT}Choric" />
-      <name name="{=9l3RSCJp}Colsund" />
-      <name name="{=1suLcaso}Cunbert" />
-      <name name="{=a4hrvaEQ}Daliger" />
-      <name name="{=Abzr6Dbv}Darbard" />
-      <name name="{=EY0CcPfr}Dinoric" />
-      <name name="{=VQYTvnfW}Durold" />
-      <name name="{=hTw3MjbR}Ecard" />
-      <name name="{=YSwz9JUr}Elthert" />
-      <name name="{=SWM5cmVP}Entho" />
-      <name name="{=PuRfbiW3}Erdurand" />
-      <name name="{=Jr84qoAW}Ethenbold" />
-      <name name="{=NH6avjbc}Falsevor" />
-      <name name="{=8YhNZHtC}Fenton" />
-      <name name="{=9HcXWNoh}Folc" />
-      <name name="{=sIjuSRYT}Fredacard" />
-      <name name="{=r1RohnC6}Furcred" />
-      <name name="{=qhaBUQQx}Furenhard" />
-      <name name="{=8kajrmx4}Galric" />
-      <name name="{=aDAJGO4y}Galthar" />
-      <name name="{=oKeoaDcF}Garmund" />
-      <name name="{=kUnGuyKG}Garvy" />
-      <name name="{=xp1wiXvW}Genalf" />
-      <name name="{=wuGPSje6}Greveth" />
-      <name name="{=CXpnTfdk}Guldrimand" />
-      <name name="{=Ta0zl7o1}Gutlans" />
-      <name name="{=sF0H1hEV}Halgard" />
-      <name name="{=8KoaUqQz}Helmold" />
-      <name name="{=tW6wEhuR}Hirobert" />
-      <name name="{=iaUQ9lt9}Ingalther" />
-      <name name="{=17k0NVul}Inric" />
-      <name name="{=PS4mJwUV}Isilcred" />
-      <name name="{=kWEta4kl}Lamcard" />
-      <name name="{=x1mVOiYC}Leothold" />
-      <name name="{=0YAZ51bc}Lorgand" />
-      <name name="{=z6GIOwi9}Malbert" />
-      <name name="{=sWBxHVzp}Merovic" />
-      <name name="{=ywlfoIUX}Merteon" />
-      <name name="{=EHalkcEU}Morcon" />
-      <name name="{=l95tJ2ly}Nerric" />
-      <name name="{=jeYqsu2T}Normund" />
-      <name name="{=xu0MkWUY}Olgurnond" />
-      <name name="{=r3GTFdoy}Olither" />
-      <name name="{=qrAEaydU}Orest" />
-      <name name="{=TUQlQWzb}Origand" />
-      <name name="{=K2UdjFvi}Orunhard" />
-      <name name="{=DBHAFW5k}Osric" />
-      <name name="{=aTcSQ7MY}Oto" />
-      <name name="{=bopqRUEQ}Papenbard" />
-      <name name="{=y7rQ4USD}Perin" />
-      <name name="{=wsCMwqFw}Peribard" />
-      <name name="{=V3QHxJb1}Polmarc" />
-      <name name="{=i9ZDrsi1}Rafard" />
-      <name name="{=sGYHxIub}Reamald" />
-      <name name="{=VVT3bMc2}Regbold" />
-      <name name="{=4kvs02aU}Robric" />
-      <name name="{=abCBBVaU}Romund" />
-      <name name="{=0OFMT7AO}Rothard" />
-      <name name="{=FwcFIHfl}Sevelar" />
-      <name name="{=5QLjWfGN}Sicard" />
-      <name name="{=gSHrv734}Sorgar" />
-      <name name="{=cEV3G3k8}Stenalf" />
-      <name name="{=dFHXmyaj}Tandred" />
-      <name name="{=qtwYBHIn}Thomund" />
-      <name name="{=DiGVNCZ1}Thorgud" />
-      <name name="{=iltXQqgS}Turvald" />
-      <name name="{=bm9surN9}Ubold" />
-      <name name="{=wvLyCxZz}Ulvard" />
-      <name name="{=kIrWyLut}Undgar" />
-      <name name="{=RuxlFoDa}Untheric" />
-      <name name="{=BxdYS56H}Urentur" />
-      <name name="{=Xp0RHe1F}Vadicand" />
-      <name name="{=VYWtQe8r}Varmond" />
-      <name name="{=HcmkBkYp}Vigother" />
-      <name name="{=ystHsOQi}Vilmarand" />
-      <name name="{=RWTcOnCF}Vorard" />
-      <name name="{=aCTplh2G}Vorthert" />
-      <name name="{=bFCk1Jrn}Anhalm" />
-      <name name="{=Ayb3bCJn}Arthobald" />
-      <name name="{=YiVqz8eW}Chalric" />
-      <name name="{=3mdyg3nF}Davobard" />
-      <name name="{=A8E9c4RM}Emencard" />
-      <name name="{=ZJjgZVHq}Endry" />
-      <name name="{=eJh7b90l}Forencard" />
-      <name name="{=86iEfIma}Funder" />
-      <name name="{=jFRrRgJx}Gilvard" />
-      <name name="{=tGaIU6Jk}Gunteric" />
-      <name name="{=zyoEpXek}Humalgart" />
-      <name name="{=Cy8doiyv}Lamarc" />
-      <name name="{=Mc58AHLa}Norbrand" />
-      <name name="{=ulua6Frr}Orthol" />
-      <name name="{=USkaRPEQ}Samandry" />
-      <name name="{=D2r7VbZ8}Talimund" />
-      <name name="{=lbNiWBRN}Thalric" />
-      <name name="{=W6htECeI}Thavin" />
-      <name name="{=b8pMwtQu}Therard" />
-      <name name="{=dPeYqphG}Tunric" />
-      <name name="{=eRh71UOr}Ulgaric" />
-      <name name="{=DaCppjI9}Ulpo" />
-      <name name="{=WtIBqZr6}Vanther" />
+<name name="{=WOTMN001Arad}Adas" />
+<name name="{=WOTMN002Arad}Andrius" />
+<name name="{=WOTMN003Arad}Aronas" />
+<name name="{=WOTMN004Arad}Bronius" />
+<name name="{=WOTMN005Arad}Darius" />
+<name name="{=WOTMN006Arad}Domas" />
+<name name="{=WOTMN007Arad}Edvardas" />
+<name name="{=WOTMN008Arad}Elijas" />
+<name name="{=WOTMN009Arad}Emilis" />
+<name name="{=WOTMN010Arad}Gintaras" />
+<name name="{=WOTMN011Arad}Gustas" />
+<name name="{=WOTMN012Arad}Herkus" />
+<name name="{=WOTMN013Arad}Ignas" />
+<name name="{=WOTMN014Arad}Ilja" />
+<name name="{=WOTMN015Arad}Jonas" />
+<name name="{=WOTMN016Arad}Jurgis" />
+<name name="{=WOTMN017Arad}Kajus" />
+<name name="{=WOTMN018Arad}Kestas" />
+<name name="{=WOTMN019Arad}Leonas" />
+<name name="{=WOTMN020Arad}Lukas" />
+<name name="{=WOTMN021Arad}Marius" />
+<name name="{=WOTMN022Arad}Mykolas" />
+<name name="{=WOTMN023Arad}Nojus" />
+<name name="{=WOTMN024Arad}Petras" />
+<name name="{=WOTMN025Arad}Pranas" />
+<name name="{=WOTMN026Arad}Ricardas" />
+<name name="{=WOTMN027Arad}Rytis" />
+<name name="{=WOTMN028Arad}Simas" />
+<name name="{=WOTMN029Arad}Steponas" />
+<name name="{=WOTMN030Arad}Titas" />
+<name name="{=WOTMN031Arad}Tomas" />
+<name name="{=WOTMN032Arad}Valdas" />
+<name name="{=WOTMN033Arad}Viktoras" />
+<name name="{=WOTMN034Arad}Vladas" />
+<name name="{=WOTMN035Arad}Zenonas" />
+<name name="{=WOTMN036Arad}Boriss" />
+<name name="{=WOTMN037Arad}Bruno" />
+<name name="{=WOTMN038Arad}Davis" />
+<name name="{=WOTMN039Arad}Fricis" />
+<name name="{=WOTMN040Arad}Haralds" />
     </male_names>
     <female_names>
-      <name name="{=ybDa8V4I}Adalis" />
-      <name name="{=lac74G8a}Agatheuda" />
-      <name name="{=HMCZ2w9t}Anaheid" />
-      <name name="{=w9fY8ab4}Arigun" />
-      <name name="{=N4y8hPX9}Asgerta" />
-      <name name="{=YlVmRzCI}Athafled" />
-      <name name="{=CgwHKuzD}Beltrud" />
-      <name name="{=C2yNuOKd}Beswinda" />
-      <name name="{=nOJ9W5FE}Brunda" />
-      <name name="{=KsBoNHW5}Calatild" />
-      <name name="{=6I6GVFpq}Carmenet" />
-      <name name="{=eoF4TEr2}Daliset" />
-      <name name="{=vjeyAchh}Deragunda" />
-      <name name="{=zcXPVYs5}Detheuda" />
-      <name name="{=Yl4EsjBg}Drusabalda" />
-      <name name="{=9AOFkQBo}Elta" />
-      <name name="{=Ub0awU1n}Ewyn" />
-      <name name="{=3LMFx9dL}Friduna" />
-      <name name="{=fkP7RRFe}Gerta" />
-      <name name="{=Du2Xg6rp}Gertlind" />
-      <name name="{=B15WfmQT}Gisilchild" />
-      <name name="{=BWEmxWv0}Iguntha" />
-      <name name="{=wDRBoiTC}Iliset" />
-      <name name="{=lMMbmuwp}Isigund" />
-      <name name="{=7Jd3g0XP}Isilflaed" />
-      <name name="{=LZ2nBcdv}Lis" />
-      <name name="{=W6UjOymF}Lucibalda" />
-      <name name="{=Ba8jWKUq}Manachild" />
-      <name name="{=boUKXQz0}Margund" />
-      <name name="{=GZXVCS5B}Melind" />
-      <name name="{=2Sn4uK35}Orgunda" />
-      <name name="{=QAHEa5Qr}Petta" />
-      <name name="{=Rl3D8X2o}Rathegund" />
-      <name name="{=IDeemU90}Roslind" />
-      <name name="{=OsjlCBYZ}Saralind" />
-      <name name="{=ppmUUMY7}Sigatruda" />
-      <name name="{=wCYpyCab}Sotild" />
-      <name name="{=Ga3uaJY1}Theraflaed" />
-      <name name="{=26tqV3ak}Theuda" />
-      <name name="{=C7aaPCCs}Vanalind" />
-      <name name="{=b6Ml7BkH}Veronet" />
-      <name name="{=9I9ziX31}Vilatrud" />
+<name name="{=WOTFN001Arad}Adele" />
+<name name="{=WOTFN002Arad}Alma" />
+<name name="{=WOTFN003Arad}Ausra" />
+<name name="{=WOTFN004Arad}Barbora" />
+<name name="{=WOTFN005Arad}Daina" />
+<name name="{=WOTFN006Arad}Danute" />
+<name name="{=WOTFN007Arad}Edita" />
+<name name="{=WOTFN008Arad}Elena" />
+<name name="{=WOTFN009Arad}Estera" />
+<name name="{=WOTFN010Arad}Filomena" />
+<name name="{=WOTFN011Arad}Gabriele" />
+<name name="{=WOTFN012Arad}Greta" />
+<name name="{=WOTFN013Arad}Ieva" />
+<name name="{=WOTFN014Arad}Ilona" />
+<name name="{=WOTFN015Arad}Janina" />
+<name name="{=WOTFN016Arad}Justina" />
+<name name="{=WOTFN017Arad}Katre" />
+<name name="{=WOTFN018Arad}Larisa" />
+<name name="{=WOTFN019Arad}Marina" />
+<name name="{=WOTFN020Arad}Nina" />
+<name name="{=WOTFN021Arad}Ona" />
+<name name="{=WOTFN022Arad}Rasa" />
+<name name="{=WOTFN023Arad}Rusne" />
+<name name="{=WOTFN024Arad}Simona" />
+<name name="{=WOTFN025Arad}Sofija" />
+<name name="{=WOTFN026Arad}Tatjana" />
+<name name="{=WOTFN027Arad}Terese" />
+<name name="{=WOTFN028Arad}Urte" />
+<name name="{=WOTFN029Arad}Vida" />
+<name name="{=WOTFN030Arad}Zoja" />
     </female_names>
     <clan_names>
-      <name name="{=p1dFvTAc}dey {ORIGIN_SETTLEMENT}" />
+<name name="{=WOTCN001Arad}Bau" />
+<name name="{=WOTCN002Arad}Ereshkigal" />
+<name name="{=WOTCN003Arad}Gula" />
+<name name="{=WOTCN004Arad}Inanna" />
+<name name="{=WOTCN005Arad}Nanaya" />
+<name name="{=WOTCN006Arad}Ningal" />
+<name name="{=WOTCN007Arad}Ninhursag" />
+<name name="{=WOTCN008Arad}Enke" />
+<name name="{=WOTCN009Arad}Lugalbanda" />
+<name name="{=WOTCN010Arad}Ninsun" />
+<name name="{=WOTCN011Arad}Dumuzi" />
+<name name="{=WOTCN012Arad}Enkidu" />
+<name name="{=WOTCN013Arad}Ishkur" />
+<name name="{=WOTCN014Arad}Zababa" />
+<name name="{=WOTCN015Arad}Utu" />
     </clan_names>
     <cultural_feats>
       <feat id="vlandian_renown_mercenary_income" />
@@ -209,19 +133,9 @@
       <icon id="315" />
     </possible_clan_banner_icon_ids>
     <notable_and_wanderer_templates>
-      <template name="NPCCharacter.spc_wanderer_vlandia_0" />
-      <template name="NPCCharacter.spc_wanderer_vlandia_1" />
-      <template name="NPCCharacter.spc_wanderer_vlandia_2" />
-      <template name="NPCCharacter.spc_wanderer_vlandia_3" />
-      <template name="NPCCharacter.spc_wanderer_vlandia_4" />
-      <template name="NPCCharacter.spc_wanderer_vlandia_5" />
-      <template name="NPCCharacter.spc_wanderer_vlandia_6" />
-      <template name="NPCCharacter.spc_wanderer_vlandia_7" />
-      <template name="NPCCharacter.spc_wanderer_vlandia_8" />
-      <template name="NPCCharacter.spc_wanderer_vlandia_9" />
-      <template name="NPCCharacter.spc_wanderer_vlandia_10" />
-      <template name="NPCCharacter.spc_wanderer_vlandia_11" />
-      <template name="NPCCharacter.spc_wanderer_vlandia_12" />
+      <template name="NPCCharacter.spc_wanderer_empire_9" />
+      <template name="NPCCharacter.spc_wanderer_aserai_3" />
+      <template name="NPCCharacter.spc_wanderer_sturgia_4" />
       <template name="NPCCharacter.spc_notable_vlandia_merch1" />
       <template name="NPCCharacter.spc_notable_vlandia_merch2" />
       <template name="NPCCharacter.spc_notable_vlandia_merch3" />

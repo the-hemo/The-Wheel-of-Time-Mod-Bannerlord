@@ -3658,7 +3658,7 @@
       <EquipmentSet id="Andor_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="Araddoman_archer" default_group="Ranged" level="11" name="{=Araddoman_archer}Arad Doman Levy Archer" occupation="Soldier" culture="Culture.empire">
+  <NPCCharacter id="Araddoman_archer" default_group="Ranged" level="11" name="{=Araddoman_archer}Arad Doman Levy Archer" occupation="Soldier" culture="Culture.vlandia">
     <face>
       <BodyProperties version="4" age="22.49" weight="0.5" build="0.5" key="0026E80AC0000308733CB9789BB87BA3259B498AC777795698B687569C6785360037D6030375688C0000000000000000000000000000000000000000245C6002" />
       <BodyPropertiesMax version="4" age="22.49" weight="0.5" build="0.5" key="0026E80FC000048F733CB9789BB87BA3259B498AC777795698B687569C6785360037D6030375688C0000000000000000000000000000000000000000245C6002" />
@@ -3688,7 +3688,7 @@
       <EquipmentSet id="Andor_troop_civilian_template_t3" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="Araddoman_archer2" default_group="Ranged" level="16" name="{=Araddoman_archer2}Arad Doman Levy Veteran Archer" occupation="Soldier" culture="Culture.empire">
+  <NPCCharacter id="Araddoman_archer2" default_group="Ranged" level="16" name="{=Araddoman_archer2}Arad Doman Levy Veteran Archer" occupation="Soldier" culture="Culture.vlandia">
     <face>
       <BodyProperties version="4" age="22.49" weight="0.5" build="0.5" key="0026E80AC0000308733CB9789BB87BA3259B498AC777795698B687569C6785360037D6030375688C0000000000000000000000000000000000000000245C6002" />
       <BodyPropertiesMax version="4" age="22.49" weight="0.5" build="0.5" key="0026E80FC000048F733CB9789BB87BA3259B498AC777795698B687569C6785360037D6030375688C0000000000000000000000000000000000000000245C6002" />
@@ -7801,7 +7801,7 @@
         <equipment slot="Item1" id="Item.range_arrows" />
         <equipment slot="Item2" id="Item.empire_mace_1_t2" />
         <equipment slot="Head" id="Item.laced_cloth_coif" />
-        <equipment slot="Body" id="Item.Miscwotbanditarmor2" />
+        <equipment slot="Body" id="Item.Miscwotbanditarmor2x" />
         <equipment slot="Leg" id="Item.strapped_leather_boots" />
       </EquipmentRoster>
       <EquipmentSet id="vlandia_troop_civilian_template_t1" civilian="true" />

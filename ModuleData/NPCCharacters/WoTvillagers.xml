@@ -46,27 +46,27 @@
         <equipment slot="Body" id="Item.vlandia_bandit_c" />
         <equipment slot="Leg" id="Item.sturgia_boots_a" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true">
+      <EquipmentRoster>
         <equipment slot="Item0" id="Item.Trollocweapon1" />
         <equipment slot="Body" id="Item.TrollocLight1" />
         <equipment slot="Gloves" id="Item.Trollochands1" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true">
+      <EquipmentRoster>
         <equipment slot="Item0" id="Item.Trollocweapon1" />
         <equipment slot="Body" id="Item.TrollocLight2" />
         <equipment slot="Gloves" id="Item.Trollochands1" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true">
+      <EquipmentRoster>
         <equipment slot="Item0" id="Item.Trollocweapon1" />
         <equipment slot="Body" id="Item.TrollocLight3" />
         <equipment slot="Gloves" id="Item.Trollochands1" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true">
+      <EquipmentRoster>
         <equipment slot="Item0" id="Item.Trollocweapon1" />
         <equipment slot="Body" id="Item.vlandia_bandit_c" />
         <equipment slot="Leg" id="Item.sturgia_boots_a" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true">
+      <EquipmentRoster>
         <equipment slot="Item0" id="Item.Trollocweapon1" />
         <equipment slot="Body" id="Item.thick_sleeved_robe" />
         <equipment slot="Leg" id="Item.sturgia_boots_d" />
@@ -3935,7 +3935,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="villager_whitetower" default_group="Infantry" level="1" name="{=whitetowerpeasantman}White Tower Peasant" occupation="Villager" culture="Culture.Whitetower" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+  <NPCCharacter id="villager_whitetower" default_group="Infantry" level="1" name="{=whitetowerpeasantman}White Tower Peasant" occupation="Villager" culture="Culture.WhiteTower" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
       <!--face_key value="0000017880000001000000000000000000070000000000000000000000000000000a00060000000000000000000000000000000000000000fffffffffc800000" max_value="0011fffe403c36cffff99bffaaaffffffffffffeeff0ffffffff6fffffffffff0008ffdff8ffffff000000000000000000000000000000000000000001189141" /-->
       <BodyProperties version="4" age="24.29" weight="0.162" build="0.3657" key="00000007800000800160000000114151100471100000100021111101800101000055200305111101000000000000000000000000000000000000000000A00000" />

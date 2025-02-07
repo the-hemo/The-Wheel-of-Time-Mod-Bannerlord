@@ -15,233 +15,146 @@
       <policy id="policy_senate" />
     </default_policies>
     <male_names>
-      <name name="{=v9B50R0Q}Acarion" />
-      <name name="{=aeLgc0cU}Acthon" />
-      <name name="{=tWDyWroN}Amnon" />
-      <name name="{=uTFjknE2}Andros" />
-      <name name="{=fXgftgNv}Aphanys" />
-      <name name="{=QjJAbaoT}Apys" />
-      <name name="{=zInIqBD0}Arenicos" />
-      <name name="{=W1uwgvAQ}Arion" />
-      <name name="{=5VzWRMTn}Artimendros" />
-      <name name="{=rGuYLmez}Ascyron" />
-      <name name="{=J1nh9YiN}Atilon" />
-      <name name="{=NBAGX54b}Avigos" />
-      <name name="{=9cDw6vPF}Cadomenos" />
-      <name name="{=R11i2uVl}Calytos" />
-      <name name="{=lD1sl2XC}Camnon" />
-      <name name="{=LP7yYoGQ}Caribos" />
-      <name name="{=VhbasI9J}Castor" />
-      <name name="{=VG9ng2n2}Chandion" />
-      <name name="{=aezwJGvY}Chenon" />
-      <name name="{=acp2IcMs}Crotor" />
-      <name name="{=XKxeaF0I}Dalidos" />
-      <name name="{=pCBkH35Q}Danos" />
-      <name name="{=2OJEyP0d}Dasys" />
-      <name name="{=SoTUisL3}Deltisos" />
-      <name name="{=2uKoNaSG}Denos" />
-      <name name="{=HfuAdGQX}Destor" />
-      <name name="{=lEHtUGed}Diocosos" />
-      <name name="{=5EiKEdi5}Dorion" />
-      <name name="{=yAZC6F7P}Ecsorios" />
-      <name name="{=hyOgAehG}Emarys" />
-      <name name="{=rUvnbDi2}Encurion" />
-      <name name="{=KjzJjj5n}Eronys" />
-      <name name="{=gYit4RTe}Euchor" />
-      <name name="{=oQCZp9qv}Eumenys" />
-      <name name="{=uW38UtSH}Eupitor" />
-      <name name="{=WfAuSpJq}Eutos" />
-      <name name="{=RyorjCXF}Galon" />
-      <name name="{=ZFlIT1tH}Ganimynos" />
-      <name name="{=f3hTGKIP}Garitops" />
-      <name name="{=nqxxr9We}Gavalon" />
-      <name name="{=iDxygnVF}Gerotheon" />
-      <name name="{=rFbAjSWM}Gorigos" />
-      <name name="{=NxDJcR2c}Haratheos" />
-      <name name="{=tgVJZ1Uc}Hecaron" />
-      <name name="{=wQJGxBJI}Hophtalamos" />
-      <name name="{=4lEEqyCg}Jacorios" />
-      <name name="{=DwzrsJxS}Jamanys" />
-      <name name="{=IU63oxWD}Jemynon" />
-      <name name="{=t1OpnZph}Jeremos" />
-      <name name="{=katzUyMI}Joron" />
-      <name name="{=GWaJ7Ksq}Joculos" />
-      <name name="{=iJvIH6NP}Jutheros" />
-      <name name="{=BCy1KpvR}Lacalion" />
-      <name name="{=6LMiTKZz}Lamenon" />
-      <name name="{=F13aYbuk}Lavalios" />
-      <name name="{=NFIQZOPQ}Leosios" />
-      <name name="{=lbTMVAcI}Lerosion" />
-      <name name="{=bHbR5Mgy}Losys" />
-      <name name="{=CbxLZdVg}Lycos" />
-      <name name="{=HCXHcBzT}Mattis" />
-      <name name="{=X21PahQn}Menaclys" />
-      <name name="{=am2UnbAK}Menor" />
-      <name name="{=tTuaiLS6}Meritor" />
-      <name name="{=qqW5n5Ox}Milos" />
-      <name name="{=5yFy4U4i}Morynon" />
-      <name name="{=ud6rhXbn}Mostiros" />
-      <name name="{=04zSjaRe}Nartiros" />
-      <name name="{=FF3dQKc1}Nethor" />
-      <name name="{=u1lTJoPO}Nemos" />
-      <name name="{=sDFb1PRI}Nortos" />
-      <name name="{=QGIAbglw}Obron" />
-      <name name="{=AEaRpupL}Ocheros" />
-      <name name="{=ZmQx4gT3}Olichor" />
-      <name name="{=pq0w8kry}Orachos" />
-      <name name="{=JFVseSa3}Oros" />
-      <name name="{=7UkzXWTQ}Osarios" />
-      <name name="{=cZIhxH9e}Pacarios" />
-      <name name="{=9sokmYMZ}Padmos" />
-      <name name="{=NXOOJs2X}Patrys" />
-      <name name="{=plx8kkxa}Pelicos" />
-      <name name="{=1cKxsHSh}Penton" />
-      <name name="{=vgBRa2BE}Poraclys" />
-      <name name="{=q186AQHt}Phadon" />
-      <name name="{=yhfJVEe0}Phelenos" />
-      <name name="{=LMWiJi6V}Phirentos" />
-      <name name="{=XZxIpCQH}Phorys" />
-      <name name="{=VJbAdJe4}Purios" />
-      <name name="{=M9CWBbMe}Rhanos" />
-      <name name="{=P1zsoSPN}Rhovarion" />
-      <name name="{=Ho6zsGTI}Sachanion" />
-      <name name="{=5eTb2xr7}Sanion" />
-      <name name="{=Zm4a2xsf}Salusios" />
-      <name name="{=egCbjHDT}Semnon" />
-      <name name="{=GeJobcre}Sinor" />
-      <name name="{=E4WhEvu7}Sotherys" />
-      <name name="{=FClEZIkT}Sovos" />
-      <name name="{=rVUhYuvE}Suterios" />
-      <name name="{=PDK4FHAx}Suvys" />
-      <name name="{=Axe5FkET}Talison" />
-      <name name="{=PR4IqkTW}Temeon" />
-      <name name="{=9xyXdX4I}Tharos" />
-      <name name="{=zfUhnG7y}Themestios" />
-      <name name="{=9mQuSI3c}Thucasys" />
-      <name name="{=P7iNhhPl}Turiados" />
-      <name name="{=kfNW01y5}Tynops" />
-      <name name="{=amlzciqP}Ucasios" />
-      <name name="{=wbJzSg3X}Ulbesos" />
-      <name name="{=SRncaw79}Urios" />
-      <name name="{=pRbKbPK3}Vadrios" />
-      <name name="{=TiJOjUi5}Valaos" />
-      <name name="{=5nEh20ju}Vasylops" />
-      <name name="{=VN1D1Qps}Velanor" />
-      <name name="{=QNtdUfis}Vemioros" />
-      <name name="{=bWb245zO}Voleos" />
-      <name name="{=aH2ncPbK}Zalasos" />
-      <name name="{=WTePYMNF}Zaraclys" />
-      <name name="{=p0hcyZdp}Zenon" />
-      <name name="{=3RBVn5yi}Zoros" />
-      <name name="{=uCyAnus4}Zostios" />
-      <name name="{=7hYr7jQ7}Leutros" />
-      <name name="{=e7dayl1i}Mavinon" />
-      <name name="{=3EZMoUlp}Narmys" />
-      <name name="{=PvoTcJHa}Naselos" />
-      <name name="{=QumqvLnP}Ochivos" />
-      <name name="{=gxHrt6bC}Phamynor" />
-      <name name="{=6IDmRZ5k}Phestos" />
-      <name name="{=ek1Q2TJz}Polon" />
+<name name="{=WOTMN001West}Addy" />
+<name name="{=WOTMN002West}Amis" />
+<name name="{=WOTMN003West}Bate" />
+<name name="{=WOTMN004West}Col" />
+<name name="{=WOTMN005West}Daw" />
+<name name="{=WOTMN006West}Dicun" />
+<name name="{=WOTMN007West}Elis" />
+<name name="{=WOTMN008West}Elric" />
+<name name="{=WOTMN009West}Firmin" />
+<name name="{=WOTMN010West}Hamo" />
+<name name="{=WOTMN011West}Hamon" />
+<name name="{=WOTMN012West}Hankin" />
+<name name="{=WOTMN013West}Hann" />
+<name name="{=WOTMN014West}Herry" />
+<name name="{=WOTMN015West}Hob" />
+<name name="{=WOTMN016West}Hopkin" />
+<name name="{=WOTMN017West}Hudde" />
+<name name="{=WOTMN018West}Ilbert" />
+<name name="{=WOTMN019West}Jackin" />
+<name name="{=WOTMN020West}Jan" />
+<name name="{=WOTMN021West}Jankin" />
+<name name="{=WOTMN022West}Judd" />
+<name name="{=WOTMN023West}Larkin" />
+<name name="{=WOTMN024West}Law" />
+<name name="{=WOTMN025West}Mack" />
+<name name="{=WOTMN026West}Morris" />
+<name name="{=WOTMN027West}Nichol" />
+<name name="{=WOTMN028West}Nicol" />
+<name name="{=WOTMN029West}Noll" />
+<name name="{=WOTMN030West}Ode" />
+<name name="{=WOTMN031West}Pate" />
+<name name="{=WOTMN032West}Randel" />
+<name name="{=WOTMN033West}Ranulf" />
+<name name="{=WOTMN034West}Roul" />
+<name name="{=WOTMN035West}Tenney" />
+<name name="{=WOTMN036West}Wilkin" />
+<name name="{=WOTMN037West}Wybert" />
+<name name="{=WOTMN038West}Wymond" />
+<name name="{=WOTMN039West}Wyot" />
+<name name="{=WOTMN040West}Aegnus" />
+<name name="{=WOTMN041West}Ailin" />
+<name name="{=WOTMN042West}Bradach" />
+<name name="{=WOTMN043West}Calbhach" />
+<name name="{=WOTMN044West}Calvagh" />
+<name name="{=WOTMN045West}Coilean" />
+<name name="{=WOTMN046West}Corraidhin" />
+<name name="{=WOTMN047West}Mochan" />
+<name name="{=WOTMN048West}Murchadh" />
+<name name="{=WOTMN049West}Ragnall" />
+<name name="{=WOTMN050West}Remann" />
+<name name="{=WOTMN051West}Ruadh" />
+<name name="{=WOTMN052West}Sitheach" />
+<name name="{=WOTMN053West}Arthfael" />
+<name name="{=WOTMN054West}Cynbel" />
+<name name="{=WOTMN055West}Hopcyn" />
+<name name="{=WOTMN056West}Maelgwn" />
+<name name="{=WOTMN057West}Trahaearn" />
+<name name="{=WOTMN058West}Trahern" />
+<name name="{=WOTMN059West}Tudur" />
+<name name="{=WOTMN060West}Hama" />
     </male_names>
     <female_names>
-      <name name="{=h8DsXm7X}Achena" />
-      <name name="{=BNnLbOkN}Adinea" />
-      <name name="{=EGatdCLg}Alena" />
-      <name name="{=UPaP0B2L}Alchyla" />
-      <name name="{=QyXwJXIV}Andrasa" />
-      <name name="{=NM5f1Q6I}Ariada" />
-      <name name="{=3RbayfTG}Ascytala" />
-      <name name="{=bmHAYBwX}Catila" />
-      <name name="{=AdK4Ilzw}Chalia" />
-      <name name="{=xVSOKf0p}Chara" />
-      <name name="{=915frsPd}Corena" />
-      <name name="{=KPQqENbd}Carinila" />
-      <name name="{=BNuZ6nvd}Daniria" />
-      <name name="{=sEgUB3jW}Deasora" />
-      <name name="{=YBGCXSEx}Debana" />
-      <name name="{=93hivVp6}Donysa" />
-      <name name="{=0dHy2430}Echalera" />
-      <name name="{=Oy5dH7gZ}Elea" />
-      <name name="{=2YbgWjTK}Emyna" />
-      <name name="{=rA3KybBX}Ethirea" />
-      <name name="{=qiTtJyHE}Gala" />
-      <name name="{=fGmpS0Dr}Gandarina" />
-      <name name="{=ecJRFHyY}Gisetha" />
-      <name name="{=a6qaFH7L}Herena" />
-      <name name="{=LE9mRhSs}Hespedia" />
-      <name name="{=tGhrpQ0D}Hyradia" />
-      <name name="{=0MJi7mre}Hyscasia" />
-      <name name="{=JQdqGaaB}Isibala" />
-      <name name="{=RHXdqjQY}Ilina" />
-      <name name="{=HSlPLC4m}Ira" />
-      <name name="{=PNR2CvvX}Ithicala" />
-      <name name="{=eOHeCKxn}Jespara" />
-      <name name="{=6vtmYjTW}Jolanna" />
-      <name name="{=Ew69yN84}Juthys" />
-      <name name="{=028iCb8B}Jythea" />
-      <name name="{=Jif1C3X3}Laria" />
-      <name name="{=LX1YS9DW}Lasilea" />
-      <name name="{=2oy7atk6}Lundana" />
-      <name name="{=dwFZFQ6V}Lysica" />
-      <name name="{=2fYYfHUI}Martira" />
-      <name name="{=cqSaKXzl}Matha" />
-      <name name="{=Vxt0xTvV}Mavea" />
-      <name name="{=lgvtLEDA}Melchea" />
-      <name name="{=QvfUqzpF}Mina" />
-      <name name="{=11KckWau}Mitara" />
-      <name name="{=IJlw8V5D}Mystesa" />
-      <name name="{=uLjRHv9p}Nadea" />
-      <name name="{=hreO0wwb}Nerhea" />
-      <name name="{=04dAbdjM}Nyvia" />
-      <name name="{=dLOlnl8m}Palysira" />
-      <name name="{=pXBvPxHI}Penestea" />
-      <name name="{=FUT6eXfw}Phaea" />
-      <name name="{=WrAMfIG1}Phenoria" />
-      <name name="{=uYbmhjI6}Rhamira" />
-      <name name="{=BIAEZaVx}Rhandana" />
-      <name name="{=H7oJaxqM}Rhelasa" />
-      <name name="{=XMTD2clw}Rhoe" />
-      <name name="{=0XEaaoah}Rosazia" />
-      <name name="{=L9weGfoX}Salea" />
-      <name name="{=nSoJkeBI}Sittacea" />
-      <name name="{=V1QLbhRl}Sora" />
-      <name name="{=qMJ7UZvk}Surena" />
-      <name name="{=gmD9mgR1}Synira" />
-      <name name="{=Cxazvjr3}Tamarea" />
-      <name name="{=b2aRoXsb}Tessa" />
-      <name name="{=bQKbW8Tx}Thasyna" />
-      <name name="{=YVVCaQE5}Thera" />
-      <name name="{=CvVJyKYA}Thelea" />
-      <name name="{=jJV5Tn09}Tethyclesa" />
-      <name name="{=e4jAHUX0}Tymata" />
-      <name name="{=z2KE7glc}Thylea" />
-      <name name="{=3bIc2X2l}Vaminesa" />
-      <name name="{=VzhbUL60}Vendelia" />
-      <name name="{=a2ajWcI3}Viria" />
-      <name name="{=5VZ0GF6Y}Zalisa" />
-      <name name="{=wbLqHvjE}Zerosica" />
-      <name name="{=zxZH2WbD}Zimena" />
-      <name name="{=AccBcEIt}Zoana" />
+<name name="{=WOTFN001West}Aldith" />
+<name name="{=WOTFN002West}Aldreda" />
+<name name="{=WOTFN003West}Amice" />
+<name name="{=WOTFN004West}Amphelise" />
+<name name="{=WOTFN005West}Diot" />
+<name name="{=WOTFN006West}Dye" />
+<name name="{=WOTFN007West}Eda" />
+<name name="{=WOTFN008West}Etheldred" />
+<name name="{=WOTFN009West}Ethelfleda" />
+<name name="{=WOTFN010West}Hawise" />
+<name name="{=WOTFN011West}Ibb" />
+<name name="{=WOTFN012West}Jocosa" />
+<name name="{=WOTFN013West}Malle" />
+<name name="{=WOTFN014West}Matty" />
+<name name="{=WOTFN015West}Meggy" />
+<name name="{=WOTFN016West}Molle" />
+<name name="{=WOTFN017West}Rohese" />
+<name name="{=WOTFN018West}Rohesia" />
+<name name="{=WOTFN019West}Royse" />
+<name name="{=WOTFN020West}Mor" />
+<name name="{=WOTFN021West}Raghnailt" />
+<name name="{=WOTFN022West}Una" />
+<name name="{=WOTFN023West}Frig" />
+<name name="{=WOTFN024West}Ebba" />
+<name name="{=WOTFN025West}Elfreda" />
+<name name="{=WOTFN026West}Balthild" />
+<name name="{=WOTFN027West}Cyneburg" />
+<name name="{=WOTFN028West}Eadburga" />
+<name name="{=WOTFN029West}Edith" />
+<name name="{=WOTFN030West}Godiva" />
+<name name="{=WOTFN031West}Hilda" />
+<name name="{=WOTFN032West}Sunniva" />
+<name name="{=WOTFN033West}Wassa" />
+<name name="{=WOTFN034West}Wulfrun" />
+<name name="{=WOTFN035West}Anna" />
+<name name="{=WOTFN036West}Candace" />
+<name name="{=WOTFN037West}Chloe" />
+<name name="{=WOTFN038West}Cladia" />
+<name name="{=WOTFN039West}Delilah" />
+<name name="{=WOTFN040West}Dinah" />
+<name name="{=WOTFN041West}Elisheba" />
+<name name="{=WOTFN042West}Esther" />
+<name name="{=WOTFN043West}Eunice" />
+<name name="{=WOTFN044West}Jerusha" />
+<name name="{=WOTFN045West}Julia" />
+<name name="{=WOTFN046West}Leah" />
     </female_names>
     <clan_names>
-      <name name="{=pRA9EzNv}Acapanos" />
-      <name name="{=ogq9oxDn}Angarys" />
-      <name name="{=MgDUudOx}Balastisos" />
-      <name name="{=Rvww4Kxi}Corstases" />
-      <name name="{=kWiQaFLM}Delicos" />
-      <name name="{=DiB4ukeK}Elysos" />
-      <name name="{=pUvrTrHT}Gessios" />
-      <name name="{=fsOUhzLv}Jalos" />
-      <name name="{=CuocGtTq}Lestharos" />
-      <name name="{=FVl3D2qT}Meones" />
-      <name name="{=fAKa9JfU}Nathanys" />
-      <name name="{=RhwPmahK}Opynates" />
-      <name name="{=OL6fbZRY}Paltos" />
-      <name name="{=HPrHkie6}Phenigos" />
-      <name name="{=DYdI0faN}Stracanasthes" />
-      <name name="{=g7etVhSO}Sumessos" />
-      <name name="{=oGf1fUpP}Therycos" />
-      <name name="{=AeNqteUX}Zebales" />
+<name name="{=WOTCN001West}Cunmin" />
+<name name="{=WOTCN002West}Gwenhael" />
+<name name="{=WOTCN003West}Judoc" />
+<name name="{=WOTCN004West}Muriel" />
+<name name="{=WOTCN005West}Aldus" />
+<name name="{=WOTCN006West}Stace" />
+<name name="{=WOTCN007West}Wilmot" />
+<name name="{=WOTCN008West}Kinborough" />
+<name name="{=WOTCN009West}Ragnailt" />
+<name name="{=WOTCN010West}Saerlaith" />
+<name name="{=WOTCN011West}Caiside" />
+<name name="{=WOTCN012West}Ciardha" />
+<name name="{=WOTCN013West}Eochaidh" />
+<name name="{=WOTCN014West}Nuallan" />
+<name name="{=WOTCN015West}Tighearnan" />
+<name name="{=WOTCN016West}Treasach" />
+<name name="{=WOTCN017West}Uaithne" />
+<name name="{=WOTCN018West}Brochfael" />
+<name name="{=WOTCN019West}Maredudd" />
+<name name="{=WOTCN020West}Tangwystl" />
+<name name="{=WOTCN021West}Beowulf" />
+<name name="{=WOTCN022West}Hengist" />
+<name name="{=WOTCN023West}Herla" />
+<name name="{=WOTCN024West}Horsa" />
+<name name="{=WOTCN025West}Puck" />
+<name name="{=WOTCN026West}Punor" />
+<name name="{=WOTCN027West}Tiw" />
+<name name="{=WOTCN028West}Wayland" />
+<name name="{=WOTCN029West}Weland" />
+<name name="{=WOTCN030West}Woden" />
     </clan_names>
     <cultural_feats>
       <feat id="empire_decreased_garrison_wage" />
@@ -292,17 +205,11 @@
     </possible_clan_banner_icon_ids>
     <notable_and_wanderer_templates>
       <template name="NPCCharacter.spc_wanderer_empire_0" />
-      <template name="NPCCharacter.spc_wanderer_empire_1" />
-      <template name="NPCCharacter.spc_wanderer_empire_2" />
-      <template name="NPCCharacter.spc_wanderer_empire_3" />
-      <template name="NPCCharacter.spc_wanderer_empire_4" />
-      <template name="NPCCharacter.spc_wanderer_empire_5" />
-      <template name="NPCCharacter.spc_wanderer_empire_6" />
-      <template name="NPCCharacter.spc_wanderer_empire_7" />
-      <template name="NPCCharacter.spc_wanderer_empire_8" />
-      <template name="NPCCharacter.spc_wanderer_empire_9" />
-      <template name="NPCCharacter.spc_wanderer_empire_10" />
-      <template name="NPCCharacter.spc_wanderer_empire_11" />
+      <template name="NPCCharacter.spc_wanderer_vlandia_1" />
+      <template name="NPCCharacter.spc_wanderer_vlandia_8" />
+      <template name="NPCCharacter.spc_wanderer_vlandia_5" />
+      <template name="NPCCharacter.spc_wanderer_vlandia_3" />
+      <template name="NPCCharacter.spc_wanderer_battania_9" />
       <template name="NPCCharacter.spc_notable_empire_0" />
       <template name="NPCCharacter.spc_notable_empire_0b" />
       <template name="NPCCharacter.spc_notable_empire_1" />

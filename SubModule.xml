@@ -29,6 +29,14 @@
 					value="false" />
 			</Tags>
 		</SubModule>
+<!-- debug requires below commented out -->
+		<SubModule>
+			<Name value="CultureDrift" />
+			<DLLName value="CultureDrift.dll" />
+			<SubModuleClassType value="CultureDrift.MySubModule" />
+			<Tags />
+		</SubModule>
+
 	</SubModules>
 	<Xmls>
 		<XmlNode>
@@ -97,7 +105,13 @@
 			<XmlName id="CraftingTemplates"
 				path="WoTcrafting_templates"/>
 		</XmlNode>
-
+		<XmlNode>
+			<XmlName id="GameText" path="wanderer_strings"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+			</IncludedGameTypes>
+		</XmlNode>
 		<XmlNode>                
 			<XmlName id="GameText" path="WoTwanderer_strings"/>
 			<IncludedGameTypes>

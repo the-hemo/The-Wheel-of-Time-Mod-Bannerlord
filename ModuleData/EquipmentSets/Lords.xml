@@ -6689,4 +6689,185 @@
       <Equipment slot="Leg" id="Item.Aessedaishoes" />
     </EquipmentSet>
   </EquipmentRoster>
+  <!--Additional Companion Sets-->
+  <EquipmentRoster id="npc_companion_equipment_template_aiel_m" culture="Culture.khuzait">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.gladius_b" />
+      <Equipment slot="Body" id="Item.AielArmor2" />
+      <Equipment slot="Leg" id="Item.AielBoots1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.AielSpeargrade1" />
+      <Equipment slot="Item1" id="Item.Aiel_shield" />
+      <Equipment slot="Item2" id="Item.gladius_b" />
+      <Equipment slot="Head" id="Item.AielHeadwrap1" />
+      <Equipment slot="Body" id="Item.AielArmor2" />
+      <Equipment slot="Leg" id="Item.AielBoots1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.Aielbowlevel1" />
+      <Equipment slot="Item1" id="Item.Aielarrows1" />
+      <Equipment slot="Item2" id="Item.gladius_b" />
+      <Equipment slot="Head" id="Item.AielHeadwrap1" />
+      <Equipment slot="Body" id="Item.AielArmor2" />
+      <Equipment slot="Leg" id="Item.AielBoots1" />
+    </EquipmentSet>
+    <Flags IsWandererEquipment="true" IsCivilianTemplate="true" IsCombatantTemplate="true" />
+  </EquipmentRoster>
+  <EquipmentRoster id="npc_companion_equipment_template_aiel_f" culture="Culture.khuzait">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.gladius_b" />
+      <Equipment slot="Body" id="Item.AielArmor1" />
+      <Equipment slot="Leg" id="Item.AielBoots1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.AielSpeargrade1" />
+      <Equipment slot="Item1" id="Item.Aiel_shield" />
+      <Equipment slot="Item2" id="Item.gladius_b" />
+      <Equipment slot="Head" id="Item.AielHeadwrap1" />
+      <Equipment slot="Body" id="Item.AielArmor1" />
+      <Equipment slot="Leg" id="Item.AielBoots1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.Aielbowlevel1" />
+      <Equipment slot="Item1" id="Item.Aielarrows1" />
+      <Equipment slot="Item2" id="Item.gladius_b" />
+      <Equipment slot="Head" id="Item.AielHeadwrap1" />
+      <Equipment slot="Body" id="Item.AielArmor1" />
+      <Equipment slot="Leg" id="Item.AielBoots1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.gladius_b" />
+      <Equipment slot="Body" id="Item.AielWiseOneRobe1" />
+      <Equipment slot="Leg" id="Item.Aessedaishoes" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.onepowerflamingarrowingle" />
+      <Equipment slot="Item1" id="Item.gladius_b" />
+      <Equipment slot="Body" id="Item.AielWiseOneRobe1" />
+      <Equipment slot="Leg" id="Item.Aessedaishoes" />
+    </EquipmentSet>
+    <Flags IsWandererEquipment="true" IsCivilianTemplate="true" IsCombatantTemplate="true" />
+  </EquipmentRoster>
+  <EquipmentRoster id="npc_companion_equipment_template_aiel_w" culture="Culture.khuzait">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.gladius_b" />
+      <Equipment slot="Body" id="Item.AielWiseOneRobe1" />
+      <Equipment slot="Leg" id="Item.Aessedaishoes" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.onepowerflamingarrowingle" />
+      <Equipment slot="Item1" id="Item.gladius_b" />
+      <Equipment slot="Body" id="Item.AielWiseOneRobe1" />
+      <Equipment slot="Leg" id="Item.Aessedaishoes" />
+    </EquipmentSet>
+    <Flags IsWandererEquipment="true" IsCivilianTemplate="true" IsCombatantTemplate="true" />
+  </EquipmentRoster>
+  <EquipmentRoster id="npc_companion_equipment_template_wisdom" culture="Culture.Dragonsworn">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.seax" />
+      <Equipment slot="Body" id="Item.northern_dress" />
+      <Equipment slot="Leg" id="Item.wrapped_shoes" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.Onepowerwindblast" />
+      <Equipment slot="Item1" id="Item.seax" />
+      <Equipment slot="Body" id="Item.northern_dress" />
+      <Equipment slot="Leg" id="Item.wrapped_shoes" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.seax" />
+      <Equipment slot="Body" id="Item.khuzait_dress_b" />
+      <Equipment slot="Leg" id="Item.battania_fur_boots" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.Onepowerwindblast" />
+      <Equipment slot="Item1" id="Item.seax" />
+      <Equipment slot="Body" id="Item.khuzait_dress_b"></Equipment>
+      <Equipment slot="Leg" id="Item.battania_fur_boots" />
+    </EquipmentSet>
+    <Flags IsWandererEquipment="true" IsCivilianTemplate="true" IsCombatantTemplate="true" />
+  </EquipmentRoster>
+  <EquipmentRoster id="npc_companion_equipment_template_sedai" culture="Culture.WhiteTower">
+    <!--Civilian Sets-->
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.battania_sword_2_t3" />
+      <Equipment slot="Body" id="Item.steppe_dress" />
+      <Equipment slot="Leg" id="Item.southern_moccasins" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.short_sword_t3" />
+      <Equipment slot="Body" id="Item.fine_southern_dress" />
+      <Equipment slot="Leg" id="Item.southern_moccasins" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.seax" />
+      <Equipment slot="Body" id="Item.battania_dress_c" />
+      <Equipment slot="Leg" id="Item.ladys_shoe" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.gladius_b" />
+      <Equipment slot="Body" id="Item.laced_dress" />
+      <Equipment slot="Leg" id="Item.ladys_shoe" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.celtic_dagger" />
+      <Equipment slot="Body" id="Item.empire_dress" />
+      <Equipment slot="Leg" id="Item.ladys_shoe" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.gladius_b" />
+      <Equipment slot="Body" id="Item.vlandian_dress" />
+      <Equipment slot="Leg" id="Item.ladys_shoe" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.pugio" />
+      <Equipment slot="Body" id="Item.vlandian_corset_dress" />
+      <Equipment slot="Leg" id="Item.ladys_shoe" />
+    </EquipmentSet>
+    <!--Combat Sets-->
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.Onepowerfireball1" />
+      <Equipment slot="Item1" id="Item.hooked_cleaver" />
+      <Equipment slot="Body" id="Item.AessedaiGreen" />
+      <Equipment slot="Leg" id="Item.Aessedaishoes" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.onepowerlightningstormsmall" />
+      <Equipment slot="Item1" id="Item.seax" />
+      <Equipment slot="Body" id="Item.AessedaiBlue"></Equipment>
+      <Equipment slot="Leg" id="Item.Aessedaishoes" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.Onepowerwindblast" />
+      <Equipment slot="Item1" id="Item.celtic_dagger" />
+      <Equipment slot="Body" id="Item.AessedaiBrown"></Equipment>
+      <Equipment slot="Leg" id="Item.Aessedaishoes" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.Onepowerfireball1" />
+      <Equipment slot="Item1" id="Item.celtic_dagger" />
+      <Equipment slot="Body" id="Item.AessedaiGrey"></Equipment>
+      <Equipment slot="Leg" id="Item.Aessedaishoes" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.Onepowerfireball1" />
+      <Equipment slot="Item1" id="Item.hooked_cleaver" />
+      <Equipment slot="Body" id="Item.AessedaiRed"></Equipment>
+      <Equipment slot="Leg" id="Item.Aessedaishoes" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.onepowerlightningstormsmall" />
+      <Equipment slot="Item1" id="Item.pugio" />
+      <Equipment slot="Body" id="Item.AessedaiWhite"></Equipment>
+      <Equipment slot="Leg" id="Item.Aessedaishoes" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.Onepowerwindblast" />
+      <Equipment slot="Item1" id="Item.seax" />
+      <Equipment slot="Body" id="Item.AessedaiYellow"></Equipment>
+      <Equipment slot="Leg" id="Item.Aessedaishoes" />
+    </EquipmentSet>
+    <Flags IsWandererEquipment="true" IsCivilianTemplate="true" IsCombatantTemplate="true" />
+  </EquipmentRoster>
 </EquipmentRosters>
